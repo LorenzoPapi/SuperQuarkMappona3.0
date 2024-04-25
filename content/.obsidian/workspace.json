@@ -6,6 +6,7 @@
       {
         "id": "f86486421e60501b",
         "type": "tabs",
+        "dimension": 59.26544240400668,
         "children": [
           {
             "id": "00a8c58a15a8d117",
@@ -18,7 +19,51 @@
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "42bec5388d70f15d"
+          }
+        ]
+      },
+      {
+        "id": "00bda3e6c7bbd6e5",
+        "type": "tabs",
+        "dimension": 40.73455759599332,
+        "children": [
+          {
+            "id": "3497326f542c2b6d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Latino/Seneca.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "42bec5388d70f15d"
           }
         ]
       }
@@ -149,12 +194,12 @@
   },
   "active": "00a8c58a15a8d117",
   "lastOpenFiles": [
-    "Arte/Impressionismo.md",
-    "Latino/Seneca.md",
-    "README.md",
-    "Sacco; infinito; parardiso.md",
     "Filosofia/Schopenhauer.md",
     "Matematica/Limite.md",
+    "Latino/Seneca.md",
+    "Arte/Impressionismo.md",
+    "README.md",
+    "Sacco; infinito; parardiso.md",
     "Matematica/Derivata.md",
     "Matematica/Integrale.md"
   ]
