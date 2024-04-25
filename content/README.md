@@ -1,3 +1,6 @@
+---
+title: Home
+---
 ## Cosa
 Versione 2.0 della ex SuperMappaConcettuale del Caius Iulius, mira ad essere un attrezzo utile per farmi memorizzare tutto il più presto possibile e prevedere ogni possibile "fotona" con una proto-mappa già esistente da potere applicare, nel caso in cui al momento non mi venga in mente un cazzo.
 In sostanza, "prevenire è meglio che curare".
