@@ -3,12 +3,22 @@ Data una funzione $f: D \to \mathbb{R}$ e un punto $x_0 \in \mathbb{R}$ non nece
 In particolare, permettono di trovare gli **asintoti** di una funzione, cioè delle **rette alle quali la funzione si avvicina indefinitamente**. Tali rette vanno cercate calcolando i **limiti agli estremi del dominio** della funzione e possono essere **orizzontali**, **verticali** o **obliqui**.
 # Definizione e teoremi
 ## Premesse
-L'intorno $I_{x_{0}}$ è un qualsiasi **intervallo contenente $x_0$**: viene indicato spesso con $I_{x_{0}}(\delta_{1},\delta_{2})$ ed equivale a $(x_{0} - \delta_{1},x_{0}+\delta_{2})$ con $\delta_{1},\delta_{2} \in \mathbb{R^+}$. Se $\delta_{1}=\delta_{2}$ si presenta un **intorno circolare di raggio $r=\delta_{1}=\delta_{2}$** detto $I_{x_{0}}(r)$ che può essere riscritto come $$I_{x_{0}}(r) = (x_{0}-r,x_{0}+r) = \{x \in \mathbb{R} : x_{0}-r<x<x_{0}+r\} = \{x \in \mathbb{R}: |x-x_{0}|<r\}$$Vi sono anche **intorni destri ($I_{x_{0}}^+$) e sinistri ($I_{x_{0}}^-$)** che considerano solo metà del rispettivo intorno completo; i destri comprendono i valori **maggiori** di quello dato, i sinistri quelli **minori**.
+L'intorno $I_{x_{0}}$ è un qualsiasi **intervallo contenente $x_0$**: viene indicato spesso con $I_{x_{0}}(\delta_{1},\delta_{2})$ ed equivale a $(x_{0} - \delta_{1},x_{0}+\delta_{2})$ con $\delta_{1},\delta_{2} \in \mathbb{R^+}$. Se $\delta_{1}=\delta_{2}$ si presenta un **intorno circolare di raggio $r=\delta_{1}=\delta_{2}$** detto $I_{x_{0}}(r)$ che può essere riscritto come
+$$I_{x_{0}}(r) = (x_{0}-r,x_{0}+r) = \{x \in \mathbb{R} : x_{0}-r<x<x_{0}+r\} = \{x \in \mathbb{R}: |x-x_{0}|<r\}$$
+
+Vi sono anche **intorni destri ($I_{x_{0}}^+$) e sinistri ($I_{x_{0}}^-$)** che considerano solo metà del rispettivo intorno completo; i destri comprendono i valori **maggiori** di quello dato, i sinistri quelli **minori**.
+
 L'intorno può essere definito anche per i simboli di $\pm\infty$:
+
 $$I_{+\infty}(r) = \{x\in\mathbb{R}: x > r\}$$
+
 $$I_{-\infty}(r) = \{x\in\mathbb{R}: x < r\}$$
+
 Definisco $\mathbb{\overline R} =: \mathbb{R} \cup \{ -\infty, +\infty \}$; d'ora in poi considererò ogni intorno, per semplicità, come circolare.
-Si definiscono: $$x_{0} \text{ punto di accumulazione per D} \iff \forall I_{x_{0}}: \exists d\neq x_{0} \in D : d \in I_{x_{0}}$$$$x_{0} \in D\text{ punto isolato} \iff \exists I_{x_{0}}: D \cap I_{x_{0}} = \emptyset$$
+
+Si definiscono:
+$$x_{0} \text{ punto di accumulazione per D} \iff \forall I_{x_{0}}: \exists d\neq x_{0} \in D : d \in I_{x_{0}}$$
+$$x_{0} \in D\text{ punto isolato} \iff \exists I_{x_{0}}: D \cap I_{x_{0}} = \emptyset$$
 ## Definizione
 La definizione più generale di limite è la seguente: **il limite per $x$ che *tende* ad un valore $\alpha$, con $\alpha \in \mathbb{\overline R}$ di una funzione $f(x)$ equivale a $l$ con $l\in\mathbb{\overline R}$  se e solo se per ogni intorno $I_{l}(\epsilon)$ esiste un intorno $I_{\alpha}(\delta)$ tale che per ogni $x$ nel dominio e nell'intorno di $\alpha$, escluso $\alpha$, si ha che $f(x)$ è all'interno dell'intorno di $\alpha$**. In simboli:
 $$\lim_{ x \to \alpha }f(x) = l \iff (\forall I_{l} \space \exists I_{\alpha} :\forall x\in (I_{\alpha} \cap D - \{\alpha\}) \implies f(x) \in I_{l})$$
