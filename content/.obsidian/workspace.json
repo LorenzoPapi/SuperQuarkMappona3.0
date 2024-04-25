@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a6a95b72629d8f",
+        "id": "f86486421e60501b",
         "type": "tabs",
         "children": [
           {
-            "id": "10d8db67e672e1fa",
+            "id": "00a8c58a15a8d117",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Limite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematica/Limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematica/Limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Matematica/Limite.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 210.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10d8db67e672e1fa",
+  "active": "eb8a76144ef1e31f",
   "lastOpenFiles": [
+    "Matematica/Derivata.md",
     "Matematica/Limite.md",
+    "Matematica/Integrale.md",
     "README.md"
   ]
 }

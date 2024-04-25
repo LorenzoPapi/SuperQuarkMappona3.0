@@ -1,7 +1,13 @@
 # Definizione e proprietà
 Data una funzione definita e continua in un intervallo chiuso e limitato $[a;b]$, è noto che la funzione soddisfa le ipotesi dei teoremi di Weierstrass e Darboux, dunque il suo grafico è un tratto continuo.
-Preso $x_0$ nell'intervallo, si chiama **rapporto incrementale di $f$ in $x_0$ relativo all'incremento $h$** il rapporto:$$\frac{f(x_0 + h) - f(x_0)}{h}$$Si definisce **derivata di $f$ in $x_0$**, e si indica il più delle volte come $f'(x_{0})$: 
-$$f'(x_0) = \lim_{ h \to 0 } \frac{f(x_0) + h - f(x_{0})}{h}$$
+Preso $x_0$ nell'intervallo, si chiama **rapporto incrementale di $f$ in $x_0$ relativo all'incremento $h$** il rapporto:
+$$
+\frac{f(x_0 + h) - f(x_0)}{h}
+$$
+Si definisce **derivata di $f$ in $x_0$**, e si indica il più delle volte come $f'(x_{0})$: 
+$$
+f'(x_0) = \lim_{ h \to 0 } \frac{f(x_0) + h - f(x_{0})}{h}
+$$
 se questo è finito. Geometricamente corrisponde al coefficiente angolare della tangente ad $f$ in $x_{0}$, e concettualmente alla **variazione "istantanea" di $f$**.
 È un operatore lineare e il suo inverso è l'[[Integrale|integrale indefinito]].
 # Utilizzo
