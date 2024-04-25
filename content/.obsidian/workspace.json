@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Seneca.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Seneca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Seneca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Limite.md"
+                "file": "Latino/Seneca.md"
               }
             }
           }
@@ -146,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8a76144ef1e31f",
+  "active": "00a8c58a15a8d117",
   "lastOpenFiles": [
-    "Matematica/Derivata.md",
+    "Arte/Impressionismo.md",
+    "Latino/Seneca.md",
+    "README.md",
+    "Sacco; infinito; parardiso.md",
+    "Filosofia/Schopenhauer.md",
     "Matematica/Limite.md",
-    "Matematica/Integrale.md",
-    "README.md"
+    "Matematica/Derivata.md",
+    "Matematica/Integrale.md"
   ]
 }
