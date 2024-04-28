@@ -1,4 +1,3 @@
-## Collegamenti da trattare secondo i criteri del [[README]]
 leopardi, verga -- darwin  
 kant -- dante -- darwin -- aristotele, democrito (finalismo/meccanicismo)  
 kant -- leopardi -- turner (viandante sul mare...) (sublime)  
