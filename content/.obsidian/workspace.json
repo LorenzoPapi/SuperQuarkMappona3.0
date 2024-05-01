@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/English Author.md",
+                "file": "Filosofia/Freud.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -175,14 +175,15 @@
   },
   "active": "e63cd36e697ec4ef",
   "lastOpenFiles": [
-    "Inglese/War Poets.md",
+    "Inglese/Oscar Wilde.md",
+    "Filosofia/Freud.md",
     "Inglese/David Herbert Lawrence.md",
+    "Templates/English Author.md",
+    "Inglese/War Poets.md",
     "Inglese/Proposte doc inglese.md",
     "Inglese/Emily Dickinson.md",
     "Inglese/James Joyce.md",
-    "Inglese/Oscar Wilde.md",
     "Inglese/English and American History (1837-now).md",
-    "Templates/English Author.md",
     "Templates/Collegamenti.md",
     "Latino/Apuleio.md",
     "Matematica/Limite.md",
@@ -200,7 +201,6 @@
     "Crediti e About.md",
     "index.md",
     "Canovaccio.md",
-    "Home.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]

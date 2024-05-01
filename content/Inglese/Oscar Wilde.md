@@ -4,9 +4,9 @@ Born in Ireland, after attending **Trinity College** he was sent to **Oxford** a
 #### 1881, USA
 After giving **lectures** about **Aestheticism** abroad, he also published the collection ***Poems*** and later **married Constance Lloyd** with whom he had two sons. At this point he was **very popular and known for his wit**. 
 #### 1891
-He published his **only novel**, _**The picture of Dorian Gray**_, and further developed interest in **drama**, producing successful comedies. _**The Importance of Being Earnest**_ actually **damaged his reputation** because it was considered **immoral**. He also **fell in love with Lord Alfred Douglas**, whose father forced a **trial against Oscar** who was found **guilty of homosexual practices** and sentenced to **two years in prison**.
+He published his **only novel**, ***The picture of Dorian Gray***, and further developed interest in **drama**, producing successful comedies. ***The Importance of Being Earnest*** actually **damaged his reputation** because it was considered **immoral**. He also **fell in love with Lord Alfred Douglas**, whose father forced a **trial against Oscar** who was found **guilty of homosexual practices** and sentenced to **two years in prison**.
 #### 1895-1897, Reading Gaol
-While imprisoned, he wrote _**De Profundis**_ a letter in which he **wrote reflections about life**.
+While imprisoned, he wrote ***De Profundis*** a letter in which he **wrote reflections about life**.
 #### 1897-1900, Paris
 After being released, he went to France where he spent his life under pseudonym in poverty and published the ***Ballad of Reading Gaol***, dying later of meningitis.
 # Ideology (Aestheticism)
