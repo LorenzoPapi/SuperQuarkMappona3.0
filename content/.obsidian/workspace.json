@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Apuleio.md",
+                "file": "Inglese/War Poets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Apuleio.md",
+                "file": "Inglese/War Poets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Apuleio.md",
+                "file": "Inglese/War Poets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Apuleio.md"
+                "file": "Inglese/War Poets.md"
               }
             }
           },
@@ -162,28 +162,33 @@
   },
   "active": "e63cd36e697ec4ef",
   "lastOpenFiles": [
-    "Latino/Tacito.md",
+    "Inglese/England History (1837-now).md",
+    "Inglese/James Joyce.md",
+    "Inglese/Proposte doc inglese.md",
+    "Inglese/Oscar Wilde.md",
+    "Inglese/War Poets.md",
     "Latino/Apuleio.md",
-    "Latino/Petronio.md",
+    "Matematica/Limite.md",
+    "Matematica/Integrazione.md",
+    "Templates/English Author.md",
+    "Templates/Collegamenti.md",
+    "Templates/Autore Latino-Italiano.md",
     "Latino/Svetonio.md",
+    "Latino/Tacito.md",
+    "Latino/Petronio.md",
+    "Latino/Plinio il Giovane.md",
+    "Latino/Quintiliano.md",
     "Untitled.md",
     "c.md",
     "Latino/Seneca.md",
     "Latino/Latino collegamenti.md",
-    "Templates/Collegamenti.md",
-    "Templates/Autore Latino-Italiano.md",
     "Crediti e About.md",
     "index.md",
     "Canovaccio.md",
     "Home.md",
-    "Latino/Plinio il Giovane.md",
-    "Matematica/Limite.md",
-    "Matematica/Integrazione.md",
     "Matematica/Derivata.md",
     "Arte/Impressionismo.md",
     "Templates/Untitled.canvas",
-    "Templates",
-    "Filosofia/Schopenhauer.md",
-    "Sacco; infinito; parardiso.md"
+    "Templates"
   ]
 }
