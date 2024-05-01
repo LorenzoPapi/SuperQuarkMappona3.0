@@ -1,0 +1,28 @@
+# The II part of Victoria's reign (1861-1901)
+After her **husband’s** **death**, the queen **withdrew** from society. The political scene was dominated by the **Liberal Party** led by **Gladstone** and the **Conservative Party** led by **Disraeli**, who alternated as **Prime Ministers** until the end of the century.
+## Social changes
+The country was changing and this change was bringing **uncertainty**: for the first time, people lived **more in towns** than in the country, the population was **sky-rocketing** and reforms were passed to **improve life conditions**:
+- the **“Artistans and Labourers Dwellings Act”** allowed the authorities to **clear the slums** and provide **housing for the poor**
+- the **“Public Health Act”** provided **sanitation**
+- the **“Factory Act”** limited working hours
+- the **“Education Act”** established a **national primary education system**
+- the **“Trade Union Act”** legalized worker unions 
+- the **“Third Reform Act”** introduced the **secret ballot** and extended **vote to all male householders**.
+## Foreign policy
+The British Empire achieved its **biggest expansion** during this time, thanks to the **free trade policy** and **liberalism**: India was considered the **jewel of the Empire** and the queen became **Empress of India**; the British later controlled **South Africa** after winning the **Boer wars** in 1902. This age of florishment and prosperity came to an end with the **death of the Queen** in **1901**.
+
+## Ideology of the time
+While material richness was huge in this era, during the last decades of the 19<sup>th</sup> century **ideological conflicts** started **undermining the positive attitude** of the people. There was a **growing pessimism** characterizing intellectuals and artists who where **doubtful** about **society’s stability**.
+They started going **against industrialisation** and one of the most prominent protester was **Karl Marx**, who wrote ***Das Kapital*** in London, and whose ideas were the foundation for the **Fabian Society** (1884): it aimed at transforming British society into a **socialist state** through gradual reforms. These ideas were later expressed by the **Independent Labour Party**.
+Pessimism was reinforced by **Social Darwinism**, the **application of Darwin’s theory** to the **human society**, proposing the idea that **races**, **social classes** and **nations** were subject to the **“survival of the fittest” principle** and that the poor and oppressed **didn’t deserve compassion**.
+
+# America and the civil war (1861-1901)
+Political **tension** grew in the States from the **economic differences** between the northern and southern states: the former were **industrialized**, while the latter were **agricultural dependent** and still relied on **slaves** for hard labour. After the 1830s, lots of the northern states had **abolished slavery**: they organised themselves in the **Republican Party** and demanded that slavery had to be **excluded everywhere**.
+When their candidate **Abraham Lincoln** won the elections (**1860**), the Southern states **seceded the Union** and formed the **Confederate States of America** guided by **Jefferson Davis**. The right to secede was **denied** by Lincoln and the **Civil War** broke out (**1861**). It ended with the **Northern victory** (**1865**) and the **assassination of President Lincoln**; poet **Walt Whitman** wrote ***O Captain! My Captain!*** reflecting the **emotional impact** that the event caused.
+Victory meant that the USA would remain **indivisible** and that **slavery was abolished** by the **13<sup>th</sup> Amendment** of the Constitution. After the war, the differences **still remained** and big fortunes were made by **fully exploiting the country’s resources**: men like **John Rockefeller** became from **rags to riches**, embodying the new **_American dream_** of the **self-made man**. However, most workers were **exploited** and started **organizing themselves** in the **American Federation of Labour** to protect their rights. The abolition of slavery meant the slaves were **free** but **without home or money**: some migrated in the North, others **remained with their masters** now poor and were **segregated**.
+# The Edwardian age (1901 - 1910)
+After the **death of Queen Victoria**, her son **Edward VII** succeeded to the throne. He brought new energy to the **stagnant monarchy** of the last years of Victoria's reign and took the **German surname Saxe-Coburg-Gotha**. After his death succeeded by his son **George V** who changed his surname to **Windsor** (1917) in response to **anti-German** feeling.
+## Foreign policy
+By being **related to most royalties**, he was able to assist in **foreign policy negotiations**, such as the ***Entente Cordiale*** (April 1904), and formed strong bonds with **Russia**
+## Social policy
+During his reign, the ***Women's Social and Political Union*** was founded (1903) to fight for the **right to vote** for women. Then, the **Labour party** was created (1906) and the **Liberals** won. They took steps towards the creation of a **welfare state**, a government in which the **State takes responsibility in the well-being of the citizens**: a **national insurance scheme** was introduced together with a **pension system**. However, there were **protests** low wages and high taxes: to counter them, the liberal **Lloyd George** proposed the ***People's Budget***, a law which called for a **land tax** and an **increased taxation** on the wealthy; the **refusal** of the House of Lords caused a **constitutional crisis** which led to the reform of the House itself

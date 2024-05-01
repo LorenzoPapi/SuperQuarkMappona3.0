@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/War Poets.md",
+                "file": "Inglese/James Joyce.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "508bce2fd5fa3901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/English Author.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/War Poets.md",
+                "file": "Inglese/James Joyce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/War Poets.md",
+                "file": "Inglese/James Joyce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/War Poets.md"
+                "file": "Inglese/James Joyce.md"
               }
             }
           },
@@ -162,16 +175,17 @@
   },
   "active": "e63cd36e697ec4ef",
   "lastOpenFiles": [
-    "Inglese/England History (1837-now).md",
-    "Inglese/James Joyce.md",
-    "Inglese/Proposte doc inglese.md",
     "Inglese/Oscar Wilde.md",
+    "Inglese/James Joyce.md",
+    "Inglese/Emily Dickinson.md",
+    "Templates/English Author.md",
+    "Templates/Collegamenti.md",
+    "Inglese/English and American History (1837-now).md",
     "Inglese/War Poets.md",
+    "Inglese/Proposte doc inglese.md",
     "Latino/Apuleio.md",
     "Matematica/Limite.md",
     "Matematica/Integrazione.md",
-    "Templates/English Author.md",
-    "Templates/Collegamenti.md",
     "Templates/Autore Latino-Italiano.md",
     "Latino/Svetonio.md",
     "Latino/Tacito.md",
@@ -187,7 +201,6 @@
     "Canovaccio.md",
     "Home.md",
     "Matematica/Derivata.md",
-    "Arte/Impressionismo.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
