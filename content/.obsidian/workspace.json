@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Inglese/David Herbert Lawrence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Inglese/David Herbert Lawrence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Inglese/David Herbert Lawrence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/James Joyce.md"
+                "file": "Inglese/David Herbert Lawrence.md"
               }
             }
           },
@@ -175,14 +175,15 @@
   },
   "active": "e63cd36e697ec4ef",
   "lastOpenFiles": [
-    "Inglese/Oscar Wilde.md",
-    "Inglese/James Joyce.md",
+    "Inglese/War Poets.md",
+    "Inglese/David Herbert Lawrence.md",
+    "Inglese/Proposte doc inglese.md",
     "Inglese/Emily Dickinson.md",
+    "Inglese/James Joyce.md",
+    "Inglese/Oscar Wilde.md",
+    "Inglese/English and American History (1837-now).md",
     "Templates/English Author.md",
     "Templates/Collegamenti.md",
-    "Inglese/English and American History (1837-now).md",
-    "Inglese/War Poets.md",
-    "Inglese/Proposte doc inglese.md",
     "Latino/Apuleio.md",
     "Matematica/Limite.md",
     "Matematica/Integrazione.md",
@@ -200,7 +201,6 @@
     "index.md",
     "Canovaccio.md",
     "Home.md",
-    "Matematica/Derivata.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
