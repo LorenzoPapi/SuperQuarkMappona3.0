@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3998e7883a3079",
+        "id": "dba4cc972a84ac20",
         "type": "tabs",
         "children": [
           {
-            "id": "dac93c6e68f9cdff",
+            "id": "e63cd36e697ec4ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,14 +160,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dac93c6e68f9cdff",
+  "active": "e63cd36e697ec4ef",
   "lastOpenFiles": [
-    "Latino/Latino collegamenti.md",
+    "Latino/Tacito.md",
     "Latino/Apuleio.md",
+    "Latino/Petronio.md",
     "Latino/Svetonio.md",
+    "Untitled.md",
+    "c.md",
+    "Latino/Seneca.md",
+    "Latino/Latino collegamenti.md",
     "Templates/Collegamenti.md",
     "Templates/Autore Latino-Italiano.md",
-    "Latino/Tacito.md",
     "Crediti e About.md",
     "index.md",
     "Canovaccio.md",
@@ -177,8 +181,6 @@
     "Matematica/Integrazione.md",
     "Matematica/Derivata.md",
     "Arte/Impressionismo.md",
-    "Latino/Seneca.md",
-    "Latino/Petronio.md",
     "Templates/Untitled.canvas",
     "Templates",
     "Filosofia/Schopenhauer.md",

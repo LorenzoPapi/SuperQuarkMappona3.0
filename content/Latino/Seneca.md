@@ -29,12 +29,12 @@ La filosofia è **parte della vita**, una **guida per agire**, un **conforto per
 # Opere
 ## *Dialogi*
 Scritti di tema filosofico ma non in forma dialogica:
-- ***Consolatio ad Marciam***: indirizzata a **Marcia** per la perdita del figlio **Metilio** e del padre **Cordo**, suicida per lesa maestà; il **ricordo del bene passato consola il male presente** e la morte è pietosa se evita di vivere in tempi terribili;
-- ***Consolatio ad Helviam matrem***: indirizzata alla madre **Elvia** per **confortarla** per il suo esilio, che altro non è se non un **cambio di luogo** che non può turbare la serenità dell'uomo;
-- ***Consolatio ad Polybium***: indirizzata al liberto **Polibio** di Claudio per consolarlo della morte di un fratello; tuttavia è pregna di **adulazione verso Claudio** al fine di tornare a Roma;
-- ***De ira*** (III): dedicato al fratello **Novato**, tratta dell'**ira**, quello stato nel quale l'**uomo diventa bestia**, definito come ***"brevem insaniam***", causata da un'**offesa subita** (*iniuria*); la reazione primaria di *impetus* non è ira, ma diventa tale quando si **vuole nuocere agli altri volontariamente**;
+- ***Consolatio ad Marciam***: indirizzata a **Marcia** per la perdita del figlio **Metilio** e del padre **Cordo**, suicida per lesa maestà; il **ricordo del bene passato consola il male presente** e la morte è pietosa se evita di vivere in tempi terribili
+- ***Consolatio ad Helviam matrem***: indirizzata alla madre **Elvia** per **confortarla** per il suo esilio, che altro non è se non un **cambio di luogo** che non può turbare la serenità dell'uomo
+- ***Consolatio ad Polybium***: indirizzata al liberto **Polibio** di Claudio per consolarlo della morte di un fratello; tuttavia è pregna di **adulazione verso Claudio** al fine di tornare a Roma
+- ***De ira*** (III): dedicato al fratello **Novato**, tratta dell'**ira**, quello stato nel quale l'**uomo diventa bestia**, definito come ***"brevem insaniam***", causata da un'**offesa subita** (*iniuria*); la reazione primaria di *impetus* non è ira, ma diventa tale quando si **vuole nuocere agli altri volontariamente**
 - ***De costantia sapientis***: #TODO
-- ***De providentia***: tratta del **motivo dell'esistenza del male per i buoni** in un mondo razionale; risponde che il male è **prova di virtù** e, in caso esso sia troppo grande, il **suicidio** è da percorrere.
+- ***De providentia***: tratta del **motivo dell'esistenza del male per i buoni** in un mondo razionale; risponde che il male è **prova di virtù** e, in caso esso sia troppo grande, il **suicidio** è da percorrere
 ## Trattati
 ## *Epistulae Morales ad Lucilium*
 ## Tragedie

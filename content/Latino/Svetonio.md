@@ -13,11 +13,11 @@ L'organizzazione della materia per **rubriche** è voluta al fine di far **emerg
 ---
 # Opere
 Il lessico *Suda* dà notizia di parecchie sue opere di carattere erudito, filologico e scientifico, unite ad un'opera a carattere enciclopedico. Di questa copiosa produzione sopravvivono alcune parti del *De viris illustribus* ed il *De vita Caesarum*, al quale è maggiormente affidata la sua fama.
-## De viris illustribus
+## *De viris illustribus*
 Riprendendo l'omonimo testo di **Cornelio Nepote**, costituisce una raccolta di **biografie** di **poeti, oratori, storici, filosofi, grammatici e retori**. Le porzioni meglio conservate sono:
 * *De grammaticis et rhetoribus*: offre lo **schema** secondo cui tutte le sezioni erano strutturate, presentando in apertura un **indice degli autori**, trattati in **ordine cronologico**, poi una **storia di grammatica e retorica romane** e infine i **profili** dei maggiori esponenti.
 * *De poetis*: parti di questa sezione sono pervenute in testa a **codici di opere** di Terenzio, Orazio e Lucano, probabilmente aggiunte da **commentatori posteriori**.
-## De vita Caesarum
+## *De vita Caesarum*
 Eccetto la dedica a Setticio e capitoli della prima biografia, ci è pervenuto intero. Racconta la **vita dei dodici imperatori** da **Giulio Cesare** a **Domiziano**. Ogni biografia mira a tratteggiare le **gesta** del personaggio ma anche il suo **carattere** e le sue **abitudini**, inserendo spesso **dicerie ed aneddoti**.
 La struttura è bipartita: la narrazione comincia ***per tempora*** (in ordine cronologico), fornendo informazioni sulla famiglia, il luogo e la data di nascita, l'educazione fino all'assunzione del potere; successivamente si passa a quella **per species** (per categorie), come le azioni belliche, politica interna, vita privata. Infine il racconto della **morte** segna il ritorno alla narrazione cronologica.
 
