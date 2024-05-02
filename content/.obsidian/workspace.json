@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/David Herbert Lawrence.md",
+                "file": "Inglese/Charles Dickens.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,19 +21,33 @@
             }
           },
           {
-            "id": "508bce2fd5fa3901",
+            "id": "d49c00b8b870952a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Freud.md",
+                "file": "Inglese/English and American History (1837-now).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5586b18dae658669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Bronte sisters.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/David Herbert Lawrence.md",
+                "file": "Inglese/Bronte sisters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/David Herbert Lawrence.md",
+                "file": "Inglese/Bronte sisters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/David Herbert Lawrence.md"
+                "file": "Inglese/Bronte sisters.md"
               }
             }
           },
@@ -173,17 +187,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e63cd36e697ec4ef",
+  "active": "5586b18dae658669",
   "lastOpenFiles": [
+    "Inglese/English and American History (1837-now).md",
+    "Inglese/Herman Melville.md",
+    "Inglese/Charles Dickens.md",
+    "Inglese/Bronte sisters.md",
+    "Inglese/David Herbert Lawrence.md",
+    "Inglese/Proposte doc inglese.md",
     "Inglese/Oscar Wilde.md",
     "Filosofia/Freud.md",
-    "Inglese/David Herbert Lawrence.md",
     "Templates/English Author.md",
     "Inglese/War Poets.md",
-    "Inglese/Proposte doc inglese.md",
     "Inglese/Emily Dickinson.md",
     "Inglese/James Joyce.md",
-    "Inglese/English and American History (1837-now).md",
     "Templates/Collegamenti.md",
     "Latino/Apuleio.md",
     "Matematica/Limite.md",
@@ -198,9 +215,6 @@
     "c.md",
     "Latino/Seneca.md",
     "Latino/Latino collegamenti.md",
-    "Crediti e About.md",
-    "index.md",
-    "Canovaccio.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
