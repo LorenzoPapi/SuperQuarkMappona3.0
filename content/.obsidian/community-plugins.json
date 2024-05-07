@@ -1,4 +1,13 @@
 [
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-plugin-toc",
+  "janitor",
+  "table-editor-obsidian",
+  "better-word-count",
+  "recent-files-obsidian",
+  "obsidian-style-settings",
+  "obsidian-reading-time",
+  "find-unlinked-files",
   "obsidian-latex-suite",
-  "templater-obsidian"
+  "better-reading-mode"
 ]

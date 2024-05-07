@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "65e860f40342cc0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "adfd69b027d2cf87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcecbcd3546e4187",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc9abe4a62e595db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efe44544583f0ed4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9954ce99f9127cd4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b90707d3a8b6c69e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c10f6cc12f174719",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "cd7368e8cb237853",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "979b260542627ee3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "aff8259a506ef104",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a50b660c710c9688",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "94b10be78dbc109c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "394c182a527761e1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "4d593534d696bdd7",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "janitor:Janitor: scan vault": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "dcecbcd3546e4187",
+  "lastOpenFiles": [
+    "Latino/Seneca.md",
+    "Collegamenti ita.md",
+    "Fascismo e Nazismo.md",
+    "Italiano/Pirandello.md",
+    "Sacco; infinito; parardiso.md",
+    "Latino/Latino collegamenti.md",
+    "Latino/Tacito.md",
+    "Nietzsche.md",
+    "Italiano/Naturalismo e Verismo.md",
+    "Ungaretti.md",
+    "Matematica/Fondamenti della Matematica.md",
+    "Untitled 2.md",
+    "Italiano/Pascoli.md",
+    "Filosofia/Kant.md",
+    "Filosofia/Spencer.md",
+    "Filosofia/Positivismo.md",
+    "Filosofia/Malthus.md",
+    "Filosofia/Hegel.md",
+    "Filosofia/Darwin.md",
+    "Italiano/Leopardi.md",
+    "Untitled 1.md",
+    "Italiano/D'Annunzio.md",
+    "Avant-garde.md",
+    "Proposte doc arte.md",
+    "Proposte doc inglese.md",
+    "Hallo.md"
+  ]
+}
