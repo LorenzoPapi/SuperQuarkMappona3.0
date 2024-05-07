@@ -4,7 +4,7 @@ Son of a **coal miner** and a **schoolteacher**, his mother was dissatisfied wit
 ## 1905, London
 After graduating, he started working as a **teacher in the suburbs** and began writing poetry.
 ## 1911-1918
-He publishes his first novel, ***The White Peacock*** (1911) and, after his brother's death, he became the centre of his **mother's emotional life**, telling their story in ***Sons and Lovers*** ( 1913). Being an **opponent of WWI** and husband of a **German-born woman**, he was suspected of **spying**.
+He publishes his first novel, ***The White Peacock*** (1911) and, after his brother's death, he became the centre of his **mother's emotional life**, telling their story in ***Sons and Lovers*** (1913). Being an **opponent of WWI** and husband of a **German-born woman**, he was suspected of **spying**.
 ## 1918-1930
 After the war, he started living in **different countries** and was very **prolific**, writing poems and novels. His last novel, ***Lady Chatterley's Lover*** (1928) was **banned** in England and in the USA until the 1960s for its **explicit sexual content**. He died of **tuberculosis**.
 # Works
