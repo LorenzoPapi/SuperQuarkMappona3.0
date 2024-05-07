@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e13b0aabefd9331f",
+        "id": "0ebeb0f2df9aeb10",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b19712a9d4167f",
+            "id": "82481effcf31a255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/English and American History (1837-now).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f1faae172596ad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglese/Virginia Woolf.md",
+                "file": "Inglese/James Joyce.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/Virginia Woolf.md",
+                "file": "Inglese/James Joyce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/Virginia Woolf.md",
+                "file": "Inglese/James Joyce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/Virginia Woolf.md"
+                "file": "Inglese/James Joyce.md"
               }
             }
           },
@@ -174,14 +160,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f1faae172596ad0",
+  "active": "82481effcf31a255",
   "lastOpenFiles": [
-    "Inglese/Proposte doc inglese.md",
-    "Inglese/Herman Melville.md",
     "Inglese/James Joyce.md",
-    "Inglese/Oscar Wilde.md",
-    "Inglese/Virginia Woolf.md",
+    "Inglese/Herman Melville.md",
     "Inglese/English and American History (1837-now).md",
+    "Inglese/Proposte doc inglese.md",
+    "Inglese/Virginia Woolf.md",
+    "Inglese/Oscar Wilde.md",
     "Inglese/Emily Dickinson.md",
     "Inglese/James Joyce APPUNTI.md",
     "Inglese/David Herbert Lawrence.md",

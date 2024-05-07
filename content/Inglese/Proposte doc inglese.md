@@ -4,9 +4,7 @@ Intellettuale-potere, progresso e i suoi limiti, dualismo dell'età vittoriana: 
 
 Tempo: Eveline
 
-Donne: In an essay on "Jane Eyre" and "Wuthering Heights" published in 1925 Virgina Woolf writes: "Charlotte's writing would've been even better, had she possessed three hundred \[pounds\] a year"  - Shulevitz??
+Donne: In an essay on "Jane Eyre" and "Wuthering Heights" published in 1925 Virgina Woolf writes: "Charlotte's writing would've been even better, had she possessed three hundred \[pounds\] a year" ??
 
 Conflitto, intellettuale-potere: Foto di Churchill e vittoria
 		Discorso di Churchill: "Abbiamo davanti a noi molti mesi di lotta e di sofferenze, ...."
-
-Citazione di Wittgenstein su conflitto
