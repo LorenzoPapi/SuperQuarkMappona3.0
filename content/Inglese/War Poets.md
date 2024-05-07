@@ -19,7 +19,7 @@ Owen sees its own work as a **warning to future generations**, which is all he c
 It describes a **gas attack**, in which a soldier **dies of agony** because he couldn't put on a mask in time. The title is a quotation from the Latin poet **Horace**, who borrowed it from the Greek **Tyrtaeus**: in the poem, the title's phrase, `Dulce et Decorum Est Pro Patria Mori`, is called ***The old Lie***, which shows Owen's opinion about war and dying in war: it's all nonsense.
 # Links
 **Art**: 
-**Filosofia**: [[Nietzsche]]
+**Filosofia**: [[Friedrich Wilhelm Nietzsche]]
 **Fisica**: 
 **Italiano**: [[D'Annunzio]]
 **Latino**: 

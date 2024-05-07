@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Studio di funzione",
+      "path": "Matematica/Studio di funzione.md"
+    },
+    {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
       "basename": "Tacito",
       "path": "Latino/Tacito.md"
     },
     {
       "basename": "Seneca",
       "path": "Latino/Seneca.md"
-    },
-    {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
     },
     {
       "basename": "Impressionismo",
@@ -187,10 +199,6 @@
     {
       "basename": "Spunti marx",
       "path": "Spunti marx.md"
-    },
-    {
-      "basename": "spunti Svevo",
-      "path": "spunti Svevo.md"
     }
   ],
   "omittedPaths": [],

@@ -62,7 +62,7 @@ La sintassi è **paratattica**, creando periodi ampi e articolati che **seguono 
 ---
 # Collegamenti
 **Arte**:
-**Filosofia**: [[Nietzsche]] (neoplatonismo)
+**Filosofia**: [[Friedrich Wilhelm Nietzsche]] (neoplatonismo)
 **Fisica**:
 **Inglese**:
 **Italiano**:
