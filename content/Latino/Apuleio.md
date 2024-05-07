@@ -32,7 +32,6 @@ Il giovane tuttavia non resiste alla curiosità: a nulla servono la storia di **
 
 #### Libro III
 Durante il processo, si scopre che Lucio è stato **protagonista della festa del dio Riso**, il cui successo gli valse una **statua in bronzo**. Mangiato vivo dalla curiosità, intreccia una relazione con **Fòtide**, servetta di Panfile, ottenendo la possibilità di **spiare gli incantesimi** della padrona e compiere su di se un **rito di metamorfosi** in cui, tuttavia, si trasforma in **asino** invece che uccello, come voleva. Dopo l'incauta magia, apprende che per tornare umano deve solo **mangiare delle rose**, ma tale rimedio non sarà subito reperibile. Sistemato nella stalla, Lucio-asino viene poi **catturato** da dei briganti.
-
 #### Libro IV-VI (*Amore e Psiche*)
 Trasportato in una caverna dove ascolta la **favola di Amore e Psiche** raccontata da una serva a **Càrite**, rapita al fidanzato **Tlepolemo**:
 - Un re e una regina avevano tre figlie; **Psiche**, la più giovane, era talmente bella da essere considerata la "**nuova Venere**". La dea ingelosita chiede allora al figlio Amore (Cupido) di **farla innamorare di un essere mostruoso**. La profezia avviene e Psiche viene abbandonata sull'orlo di un dirupo, pronta alle sue nozze funeste.

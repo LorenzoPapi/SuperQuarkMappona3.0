@@ -18,6 +18,15 @@ I metodi di risoluzione di un integrale sono molteplici:
 $$
 \int f(x) dx = \int f(g(t))\cdot g'(t)dt
 $$
-* **integrazione per parti**: viene spesso utilizzato con due classi di funzioni diverse moltiplicate tra loro; sfruttando la [[Derivata#Definizione e proprietà|regola di derivazione del prodotto]], si considerano due funzioni, una
+* **integrazione per parti**: viene spesso utilizzato con due classi di funzioni diverse moltiplicate tra loro; una si considera come **fattore finito** e l'altra come **fattore differenziale**, ovvero come **derivata di un'altra funzione**:
+$$
+\int u(x)\space dv = u(x)\cdot v(x) - \int v(x)\space du
+$$
 ---
 # Integrale definito
+## Utilizzo
+Viene utilizzata per **calcolare misure** di **archi, aree e volumi**.
+
+---
+## Definizione e proprietà
+Data una funzione 

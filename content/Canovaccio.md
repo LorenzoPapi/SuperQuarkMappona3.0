@@ -34,14 +34,3 @@ catullo, giovenale
 ### TROVA LE DIFFERENZE  
 empirismo vs materialismo vs positivismo...  
 limiti della conoscenza contingenti ed essenziali
-
-# MATERIE
-**Arte**:
-**Filosofia**:
-**Fisica**:
-**Inglese**:
-**Italiano**: 
-**Latino**: 
-**Matematica**:
-**Scienze**:
-**Storia**:

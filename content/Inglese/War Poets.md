@@ -16,7 +16,7 @@ The Poetry is in the pity. [...] All a poet can do today is warn.
 ```
 Owen sees its own work as a **warning to future generations**, which is all he can do, by **accurately describing the war**: gas casualties, mind-lost soldiers, brutal mass killings. The frequent use of **alliteration** and **assonance** give the lines a **moral force**. He also introduced **"pararhymes"**, which contributed to the effect of **disharmony**.
 ### *Dulce et Decorum Est*
-It describes a **gas attack**, in which a soldier **dies of agony** because he couldn't put on a mask in time. The title is a quotation from the Latin poet **Horace**, who borrowed it from the Greek **Tyrtaeus**: in the poem, the title is called ***The old Lie***, which shows Owen's opinion about war and dying in war: it's all nonsense.
+It describes a **gas attack**, in which a soldier **dies of agony** because he couldn't put on a mask in time. The title is a quotation from the Latin poet **Horace**, who borrowed it from the Greek **Tyrtaeus**: in the poem, the title's phrase, `Dulce et Decorum Est Pro Patria Mori`, is called ***The old Lie***, which shows Owen's opinion about war and dying in war: it's all nonsense.
 # Links
 **Art**: 
 **Filosofia**: [[Nietzsche]]

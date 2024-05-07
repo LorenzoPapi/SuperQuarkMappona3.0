@@ -25,7 +25,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 - prendono ispirazione dalle **stampe giapponesi**, le quali riproducevano una realtà **al di là di spazio e tempo**, un **attimo immobile**.
 ## Collegamenti
 **Filosofia**: l'ideale della realtà come "propria rappresentazione" è sintomo di una notevole influenza [[Schopenhauer|schopenhaueriana]].
-**Fisica**: l'impressionismo fa proprie quelle teorie sulla luce dettate dalle [[Equazioni di Maxwell|equazioni di Maxwell]].
+**Fisica**: l'impressionismo fa proprie quelle teorie sulla luce dettate dalle [[Elettro-magnetismo|equazioni di Maxwell]].
 **Inglese**: l'ideale di distacco dalla tradizione e di pittura del quotidiano, permettono all'arte di riguadagnare la sua autonomia come realtà al di fuori dello spazio, del tempo e della morale, concetto poi ripreso dall'[[Oscar Wilde|estetismo]].
 **Italiano**: anche se provenienti da un clima borghese, gli impressionisti ritraevano e narravano degli umili, allo stesso modo in cui [[Verga]] descrive la sua realtà.
 **Latino**: l'anti-tradizionalismo è sempre stato presente nella storia e un modello esemplare di rovesciamento dei canoni è offerto dal [[Petronio|Satyricon]].

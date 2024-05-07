@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Fisica/Elettro-magnetismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Fisica/Elettro-magnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inglese/James Joyce.md",
+                "file": "Fisica/Elettro-magnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglese/James Joyce.md"
+                "file": "Fisica/Elettro-magnetismo.md"
               }
             }
           },
@@ -162,32 +162,32 @@
   },
   "active": "82481effcf31a255",
   "lastOpenFiles": [
-    "Inglese/James Joyce.md",
-    "Inglese/Herman Melville.md",
-    "Inglese/English and American History (1837-now).md",
+    "Arte/Impressionismo.md",
+    "Matematica/Derivata.md",
+    "Fisica/Elettro-magnetismo.md",
+    "Arte/Avant-garde.md",
+    "Arte/Art Nouveau.md",
+    "Sacco; infinito; parardiso.md",
+    "Canovaccio.md",
+    "Templates/Autore Latino-Italiano.md",
+    "Fisica/Teoria della relatività.md",
     "Inglese/Proposte doc inglese.md",
     "Inglese/Virginia Woolf.md",
-    "Inglese/Oscar Wilde.md",
-    "Inglese/Emily Dickinson.md",
-    "Inglese/James Joyce APPUNTI.md",
-    "Inglese/David Herbert Lawrence.md",
-    "Inglese/Charles Dickens.md",
-    "Filosofia/Positivismo.md",
-    "Filosofia/Schopenhauer.md",
-    "Matematica/Limite.md",
-    "index.md",
     "Inglese/War Poets.md",
+    "Inglese/David Herbert Lawrence.md",
+    "Inglese/Oscar Wilde.md",
+    "Inglese/Herman Melville.md",
+    "Inglese/James Joyce.md",
+    "Inglese/English and American History (1837-now).md",
+    "Inglese/Emily Dickinson.md",
     "Inglese/Bronte sisters.md",
-    "Untitled.md",
-    "Filosofia/Freud.md",
-    "Templates/English Author.md",
-    "Templates/Collegamenti.md",
-    "Latino/Apuleio.md",
+    "Inglese/Charles Dickens.md",
     "Matematica/Integrazione.md",
-    "Templates/Autore Latino-Italiano.md",
-    "Latino/Svetonio.md",
-    "Latino/Tacito.md",
     "Latino/Petronio.md",
+    "Latino/Marziale.md",
+    "Latino/Lucano.md",
+    "Latino/Latino collegamenti.md",
+    "Latino/Apuleio.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]

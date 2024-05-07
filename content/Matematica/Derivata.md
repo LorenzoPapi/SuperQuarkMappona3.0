@@ -25,7 +25,7 @@ se questo è finito. Geometricamente corrisponde al coefficiente angolare della 
 # Collegamenti
 **Arte**:
 **Filosofia**:
-**Fisica**: le derivate compaiono nelle [[Equazioni di Maxwell]]
+**Fisica**: le derivate compaiono nelle [[Elettro-magnetismo#Equazioni di Maxwell|Equazioni di Maxwell]]
 **Inglese**:
 **Italiano**:
 **Latino**:
