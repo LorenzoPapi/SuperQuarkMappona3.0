@@ -73,21 +73,15 @@
               "type": "recent-files",
               "state": {}
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "71e1241f6bb04faa",
-    "type": "split",
-    "children": [
-      {
-        "id": "c2c1244ea53bafc4",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "81fae9d8c298aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
           {
             "id": "a69aa302d6c0ac7a",
             "type": "leaf",
@@ -116,18 +110,23 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "0637e82cf186e04a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "71e1241f6bb04faa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c1244ea53bafc4",
+        "type": "tabs",
+        "children": [
           {
             "id": "eb8a76144ef1e31f",
             "type": "leaf",
@@ -139,23 +138,22 @@
             }
           },
           {
-            "id": "81abef1a61a20a9b",
+            "id": "0637e82cf186e04a",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,9 +169,10 @@
   },
   "active": "5eeeb536f70f17cd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Matematica/Studio di funzione.md",
     "Matematica/Limite.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Fisica/Elettro-magnetismo.md",
     "Arte/Impressionismo.md",
     "Matematica/Derivata.md",
@@ -196,7 +195,6 @@
     "Inglese/Charles Dickens.md",
     "Matematica/Integrazione.md",
     "Latino/Petronio.md",
-    "Latino/Marziale.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
