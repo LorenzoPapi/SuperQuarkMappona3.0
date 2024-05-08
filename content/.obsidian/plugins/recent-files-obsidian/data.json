@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Canovaccio",
+      "path": "Canovaccio.md"
+    },
+    {
       "basename": "Friedrich Wilhelm Nietzsche",
       "path": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Kant",
       "path": "Filosofia/Kant.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "Studio di funzione",
@@ -91,10 +91,6 @@
     {
       "basename": "Art Nouveau",
       "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Canovaccio",
-      "path": "Canovaccio.md"
     },
     {
       "basename": "README",
@@ -187,18 +183,6 @@
     {
       "basename": "Biologia",
       "path": "Biologia.md"
-    },
-    {
-      "basename": "Elezioni 1913",
-      "path": "Elezioni 1913.md"
-    },
-    {
-      "basename": "Fascismo e Nazismo",
-      "path": "Fascismo e Nazismo.md"
-    },
-    {
-      "basename": "Nietzsche",
-      "path": "Nietzsche.md"
     }
   ],
   "omittedPaths": [],

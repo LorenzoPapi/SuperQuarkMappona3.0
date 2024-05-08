@@ -116,24 +116,24 @@ Nonostante queste difficoltà, la funzione della teoria è chiara: porsi nell'et
 
 L'uomo capace di ***decidere l'eterno ritorno*** non è l'individuo ottocentesco che soffre la **scissione di senso ed esistenza**, ma l'***oltreuomo*** che riesce a **vivere la vita come gioco creativo** e ad avere **in sé il proprio senso appagante**.
 # La filosofia del tramonto
-Nelle opere dell'ultimo periodo campeggia il tema della **critica della morale e del cristianesimo**, che, dopo la *pars costruens* costituita dallo Zarathustra, consiste nella *pars destruens* della filosofia nietzscheana ed è accompagnata alla forma dell'**invettiva polemica**. Si propone di **distruggere definitivamente le credenze dominanti per far posto all'avvento di un nuovo pensiero**.
-%%Apollineo vs Dionisiaco
-Tema del doppio
-I
-A differenza di Wienkelmann e Hegel, n. sostiene che alla base della cultura greca ci sia una forza primondiale, una dionisiaca.
-Perché gli uomini creano gli dei? Hanno paura del vuoto "balliamo sul caos".
-Nietzsche usa il sospetto nell'ambito filosofico, viene strumentalizzato da Hitler successivamente.
-Alla morte di dio l'uomo creerà "surrogati di Dio", quando non c'è più niente da idolatrare nascerà il superuomo. I valori uccisi sono:
-- Metafisica di Platone
-- Cristianesimo
-- Etica
-Il cristianesimo è il platonismo delle masse. I cristiani sono quelli che non ce l'hanno fatta, perciò hanno creato un paradiso in cui appagarsi.
-
-Così parlò zaratustra figure: cammello, leone, scimmia
-Caratteristiche del superuomo
-- Guarda l'uomo come l'uomo guarda la scimmia
-- E' colui che dice sì alla vita
-- E' capace di stare sull'abisso senza aggrapparsi a niente
-
-La ragione quando sovrasta il dionisiaco causa la decadenza della cultura. Si dimentica il sostrato caotico dell'esistenza.
-%%
+Nelle opere dell'ultimo periodo campeggia il tema della **critica della morale e del cristianesimo**, che, dopo la *pars costruens* costituita dallo Zarathustra, consiste nella *pars destruens* della filosofia nietzscheana ed è accompagnata alla forma dell'**invettiva polemica**. Si propone di **distruggere definitivamente le credenze dominanti per far posto all'avvento di un nuovo pensiero** finalizzato alla **creazione dell'*oltreuomo***, in particolare il **cristianeismo** e la **morale**.
+## *Al di là del bene e del male*
+La morale è sempre stata considerata un **fatto evidente**, tanto che in ogni scienza della morale è sempre **mancato il problema della morale stessa** (*Al di là del bene e del male*), pertanto il primo passo da compiere è di **mettere in discussione la morale stessa**. Intraprende quindi un'**analisi genealogica della morale** per svelarne l'**origine psicologica**, ritenendo che i **pretesi valori trascendenti** non sono altro che la **proiezione di determinate tendenze umane**. Anche la ***voce della coscienza*** da cui nasce la morale è la **presenza in noi delle autorità sociali** che ci hanno educato, dunque è la *voce di alcuni uomini nell'uomo*. Per cui la ***moralità è l'istinto del gregge nel singolo***, cioè il suo assoggettamento ai dogmi della società.
+Tuttavia, mentre nel **mondo classico** era espressione dell'aristocrazia cavalleresca e dunque improntata ai **valori vitali di forza, salute, fierezza e gioia** (morale dei *signori*), con l'avvento del **cristianesimo** risulta improntata ai **valori anti-vitali di disinteresse, abnegazione e sacrificio di sé** (morale degli *schiavi*). Tale supremazia è avvenuta perché i **sacerdoti** (virtù dello spirito) provavano una **segreta invidia** contro i **guerrieri** (virtù del corpo) e, non potendo dominarli sul loro terreno, elaborarono dei **valori antitetici** ai loro (corpo vs spirito, orgoglio vs umiltà, sessualità vs castità). Tale **rovesciamento di valori** caratterizza soprattutto gli **ebrei** e, se partecipato dalle masse, mette capo al **cristianesimo**, religione frutto del **risentimento dell'uomo debole contro la vita**. Il cristianesimo storico, con la nozione di **peccato**, ha prodotto un **uomo malato e represso** in preda a continui **sensi di colpa**: poiché gli istinti non espressi sono repressi, l'uomo cristiano nasconde in sé un'**aggressività rabbiosa contro la vita** ed uno spirito di **vendetta contro il prossimo** come dimostra l'esistenza di una **casta sacerdotale** che è esattamente `ciò contro cui Gesù ha predicato e contro cui egli ha insegnato ai suoi discepoli a combattere`.
+Ad ogni negazione di morale e religione, contrappone l'**affermazione della vita** tramite la ***trasvalutazione* di tutti i valori**, un nuovo modo di rapportarsi a essi, concepiti ora come **proiezioni dell'uomo e della sua *volontà di potenza***. Nietzsche si sente investito di una **missione epocale**, finalizzata a porre le basi ad una nuova civiltà, considerando il filosofo, al contrario di Kant ed Hegel, detti *operai scientifici*, come un **legislatore** ed un **costruttore di storia**: `il loro conoscere è creare, il loro creare è una legislazione`.
+## *Volontà di potenza*
+Si identifica come l'**intima essenza dell'essere** e in particolare come la **vita stessa** intesa come forza **espansiva** ed **auto-superantesi**, ovvero la molla della vita non è l'**autoconservazione** o l'**edonismo**, bensì la **spinta all'autoaffermazione**. L'*oltreuomo* diventa dunque **incarnazione di tale valore**, poiché la sua essenza sta nel **continuo auto-superamento di sé stesso**: la vita è auto-potenziamento ovvero **auto-creazione** cioè libera **produzione di se stessa al di là di ogni piano prestabilito**.
+Da questa concezione segue che l'**arte** (forza creatrice) è la **forma suprema dell'arte** e che l'**artista** è il **precursore dell'*oltreuomo***. La creatività della volontà di potenza sta nella **produzione di valori** come **proiezioni della vita e condizioni del suo esercizio**, da cui l'essenza **ermeneutica** che si configura come forza capace di **dare un senso all'insensatezza del mondo**. Ha inoltre il suo culmine nell'**accettazione dell'eterno ritorno**, con il quale l'***oltreuomo* si libera del peso del passato** e può ***redimere* il tempo**: solo grazie ad essa il ***così fu*** si scioglie nel ***così volli che fosse***.
+Tale volontà non è solo teorica, ma è anche connessa alla **sopraffazione** e al **dominio**: è innegabile la sua valenza **antidemocratica** e **antiegualitaria** che fa parte della **componente reazionaria** del filosofo.
+## Il nichilismo
+Il problema del nichilismo è uno dei motivi più rilevanti della riflessione nietzscheana:
+- inizialmente, lo intende come **volontà del nulla** e **fuga dal mondo concreto**, atteggiamento incarnato nei culti greci #TODO 
+# Collegamenti
+**Arte**:
+**Fisica**:
+**Inglese**: [[Oscar Wilde]] ("il mondo è un'opera d'arte che genera se stessa")
+**Italiano**: [[D'Annunzio]] (superuomo)
+**Latino**:
+**Matematica**:
+**Scienze**:
+**Storia**: [[Nazismo]]

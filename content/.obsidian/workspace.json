@@ -11,13 +11,8 @@
             "id": "5eeeb536f70f17cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,13 +99,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eeeb536f70f17cd",
+  "active": "eb8a76144ef1e31f",
   "lastOpenFiles": [
-    "Filosofia/Nietzsche/Citazioni.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Canovaccio.md",
     "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Nietzsche/Citazioni.md",
     "Filosofia/Kant.md",
     "Filosofia/Nietzsche",
     "aforisma 341.md",
@@ -180,7 +176,6 @@
     "Arte/Avant-garde.md",
     "Arte/Art Nouveau.md",
     "Sacco; infinito; parardiso.md",
-    "Canovaccio.md",
     "Templates/Autore Latino-Italiano.md",
     "Fisica/Teoria della relatività.md",
     "Inglese/Proposte doc inglese.md",
@@ -192,7 +187,6 @@
     "Inglese/James Joyce.md",
     "Inglese/English and American History (1837-now).md",
     "Inglese/Emily Dickinson.md",
-    "Inglese/Bronte sisters.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
