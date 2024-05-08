@@ -2,7 +2,15 @@
   "recentFiles": [
     {
       "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+      "path": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Citazioni",
+      "path": "Filosofia/Nietzsche/Citazioni.md"
+    },
+    {
+      "basename": "Kant",
+      "path": "Filosofia/Kant.md"
     },
     {
       "basename": "Untitled",
@@ -125,10 +133,6 @@
       "path": "Arte/Proposte doc arte.md"
     },
     {
-      "basename": "Kant",
-      "path": "Filosofia/Kant.md"
-    },
-    {
       "basename": "Leopardi",
       "path": "Italiano/Leopardi.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Nietzsche",
       "path": "Nietzsche.md"
-    },
-    {
-      "basename": "Picasso",
-      "path": "Picasso.md"
     }
   ],
   "omittedPaths": [],

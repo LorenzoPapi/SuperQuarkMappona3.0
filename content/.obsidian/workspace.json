@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +105,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "71e1241f6bb04faa",
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
               }
             }
           },
@@ -152,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +166,12 @@
   },
   "active": "5eeeb536f70f17cd",
   "lastOpenFiles": [
+    "Filosofia/Nietzsche/Citazioni.md",
+    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Kant.md",
+    "Filosofia/Nietzsche",
+    "aforisma 341.md",
     "Untitled.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Matematica/Studio di funzione.md",
     "Matematica/Limite.md",
     "Fisica/Elettro-magnetismo.md",
@@ -192,9 +193,6 @@
     "Inglese/English and American History (1837-now).md",
     "Inglese/Emily Dickinson.md",
     "Inglese/Bronte sisters.md",
-    "Inglese/Charles Dickens.md",
-    "Matematica/Integrazione.md",
-    "Latino/Petronio.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]

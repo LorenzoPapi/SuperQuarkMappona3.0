@@ -3,6 +3,7 @@
 Vi furono inizialmente due interpretazioni riguardo al rapporto filosofia-malattia:
 - secondo quella **positivista**, una **filosofia dovuta ad una mente malata è essa stessa malata**, sia che essa fosse **prodotto** o **causa** della malattia
 - secondo quella **avanguardista**, si valorizza la malattia come **necessaria per la creatività** del suo pensiero e per la **caduta delle illusioni irrazionali**
+
 Ad oggi, il rapporto è **irrilevante** dato che la filosofia va **giudicata per i contenuti**, non ciò che li ha potuti generare.
 ## Nazificazione e denazificazione
 Spesso associato alla **cultura nazifascista**, tanto da considerare essa un **"esperimento nietzscheano"**, tale lettura fu **agevolata dalla sorella** che lo mostrò come **propugnatore di una palingenesi reazionaria**; tuttavia attribuirle tutta la colpa è **eccessivo** (solo la **visita di Hitler** rappresenta un episodio noto), dato che la dottrina presenta **spunti antidemocratici** e **antiegualitaristi** atti ad una **lettura reazionaria**. Nel secondo dopoguerra fu **denazificato**, anzi considerato **progressista** al pari di Marx. Di recente, si è affermata la tendenza a considerare sia le **novità e rotture** del suo pensiero, sia i suoi **aspetti reazionari**.
@@ -10,15 +11,14 @@ Spesso associato alla **cultura nazifascista**, tanto da considerare essa un **"
 I caratteri generali del pensiero nietzscheano sono:
 - una **critica radicale all'Occidente** che diventa una **distruzione programmatica delle certezze del passato**
 - la **delineazione di un nuovo tipo di umanità** (***oltreuomo***)
-- l'utilizzo di **nuove modalità espressive** che testimoniano un **tono personale e coinvolgente**; in particolare:
-	- **poesia in prosa** con simboli, allegorie e parabole nello *Zarathustra*
-	- **invettiva polemica** negli ultimi scritti
+- l'utilizzo di **nuove modalità espressive** che testimoniano un **tono personale e coinvolgente**
 - l'**asistematicità** necessaria data l'**illusorietà del desiderio di impadronirsi del reale**, destinato all'**insuccesso** e la conseguente **pluralità di significati**
 # Opere
 Le edizioni delle opere furono molteplici:
 - ***in ottavo grande*** (**19**) pubblicata dall'**Archivio Nietzsche di Weimar** custodito dalla sorella, contenente anche ***La volontà di potenza*** (**1067** aforismi) che rappresenta una **sintesi** del suo pensiero
 - ***Musarion Ausgabe*** (**23**) presenta gli scritti in **ordine cronologico**
 - ***Karl Schlechta*** (**4**) simile a quella ***Colli-Montinari***, nella quale cade l'ordine tematico
+
 L'antologia è divisa in:
 - scritti **giovanili wagneriani-schopenhaueriani**, fra cui:
 	- ***La nascita della tragedia*** (**1872**)
@@ -36,10 +36,7 @@ L'opera risulta **composita** negli argomenti (filologia, filosofia, estetica e 
 - lo **spirito dionisiaco** nasce dalla **forza vitale** e dalla **partecipazione al divenire** ed è espresso dall'**esaltazione creatrice** di **musica** e **lirica**
 
 In contrapposizione con la filologia dominante, sottolinea il **carattere originariamente dionisiaco** della sensibilità greca, tanto che scorge ovunque il **dramma della vita e della morte** e definisce l'apollineo come **sua conseguenza**, nonché **tentativo di sublimare il caos nella forma**l, come dimostrano gli **dei olimpici**.
-Primariamente, i due spiriti convissero separati, ma nell'età della **tragedia attica** (Sofocle ed Eschilo), i due impulsi si **armonizzarono fra loro**: la tragedia è
-```
-un coro dionisiaco che sempre di nuovo si scarica in un mondo apollineo di immagini.
-```
+Primariamente, i due spiriti convissero separati, ma nell'età della **tragedia attica** (Sofocle ed Eschilo), i due impulsi si **armonizzarono fra loro**: la tragedia è `un coro dionisiaco che sempre di nuovo si scarica in un mondo apollineo di immagini`.
 Successivamente, nella **tragedia di Euripide** che inscena la **quotidianità dell'uomo**, prevale quello **apollineo** parallelamente all'**insegnamento razionalistico e ottimistico di Socrate** che compie l'**uccisione dell'istintualità**. La decadenza della tragedia funge da causa di quella della **civiltà occidentale** e trova simbolo nell'opposizione tra uomo **tragico** (accetta la vita) e uomo **teoretico** (`violenta la vita con i sillogismi`).
 La celebrazione del dionisiaco coincide con la **celebrazione della vita** che si pone **al di là di pessimismo e ottimismo**. Mentre da [[Schopenhauer]] Nietzsche deriva la tesi del **carattere doloroso dell'essere**, egli **respinge l'ascesi** contrapponendo alla ***noluntas*** un atteggiamento di **accettazione dell'essere** nella sua globalità. Poiché la vita è **dolore**, non ha né **ordine** né **scopo** e i due atteggiamenti verso di essa sono:
 - **rinuncia e fuga** che mette capo all'**ascetismo**, proprio del **cristianesimo**
@@ -54,6 +51,7 @@ Le quattro considerazioni, più che teorizzanti l'auspicata **rinascita della cu
 | monumentale |     modelli passati     | attivo<br>aspirante |    ritorno della grandezza    |                 mitizzazione del passato<br>fanatismo<br>                 |
 | antiquaria  |  fedeltà<br>amore<br>   | preserva<br>venera  |        tradizionalismo        |                  mummifica la vita<br>paralizza l'agire                   |
 |   critica   | liberazione dal passato |       soffre        | capacità di ripartire da capo | presunzione di giudizio<br>dimentica che il presente è frutto del passato |
+
 Ognuno di questi generi è valido solo se **non utilizzato esclusivamente**: è necessario un approccio alla storia che **integri tutti i possibili rapporti** con essa.
 # Il periodo illuministico
 Risulta caratterizzato dal **ripudio dei maestri di un tempo** e coincide con l'avvento dell'**aforistica**, ovvero **illuminazione istantanea** finalizzata a cogliere **al volo** i concetti, che però vanno **interpretati** (**ruminati**). Si trova inoltre l'**abbandono della metafisica estetica** in favore della **prospettiva scientifica**, tanto che la scienza **giudica metafisica, religione e arte**. 
@@ -73,7 +71,7 @@ Prima di comprendere la sua morte, definiamo cosa è ***Dio*** per Nietzsche:
 - il simbolo di ogni **prospettiva oltremondana** che pone il senso dell'**essere oltre l'essere** e che rappresenta una **fuga dalla vita** e una **rivolta contro questo mondo**
 - la **personificazione delle certezze dell'umanità** per dare un senso alla vita, concezione che è soltanto una **costruzione della nostra mente** per sopportare il **dolore di vivere**
 
-Di fronte allo sguardo disincantato del filosofo, metafisica e religioni sono **bugie di sopravvivenza** e *Dio* è la **più antica delle bugie vitali**, la **quintessenza di tutte le credenze escogitate nei tempi** per fronteggiare la caoticità dell'esistenza. Per questo sostiene superflua ogni **dimostrazione della sua non-esistenza**, poiché l'idea di *Dio* è confutata dalla **realtà stessa**, dato che nasce dalla **paura dell'uomo di fronte all'essere**. In uno dei passi significativi dell'opera, l'autore annuncia la ***morte di Dio*** (*Gott ist tot!*) con il racconto dell'**uomo folle** che, al pari del mito della caverna platonico, contiene una ricca **simbologia filosofica**:
+Di fronte allo sguardo disincantato del filosofo, metafisica e religioni sono **bugie di sopravvivenza** e *Dio* è la **più antica delle bugie vitali**, la **quintessenza di tutte le credenze escogitate nei tempi** per fronteggiare la caoticità dell'esistenza. Per questo sostiene superflua ogni **dimostrazione della sua non-esistenza**, poiché l'idea di *Dio* è confutata dalla **realtà stessa**, dato che nasce dalla **paura dell'uomo di fronte all'essere**. In uno dei passi significativi dell'opera, l'autore annuncia la [[Citazioni#Aforisma 125|morte di Dio]] (*Gott ist tot!*) con il racconto dell'**uomo folle** che, al pari del mito della caverna platonico, contiene una ricca **simbologia filosofica**:
 - il "folle" è il **filosofo-profeta**
 - le risa degli uomini sono l'**ateismo ottimistico e superficiale ottocentesco**, insensibile alla portata della notizia della morte di Dio
 - la difficoltà di bere il mare, cancellare l'orizzonte ecc. alludono al **carattere arduo e sovrumano dell'uccisione di Dio**
@@ -91,7 +89,34 @@ L'evento funesto si figura sia come frutto di una **persuasione filosofica**, ta
 5) con la **filosofia del mattino** si rivela **inutile e superfluo**
 6) con la **filosofia di Zarathustra**, all'**eliminazione del mondo vero** si affianca quella del **mondo apparente**, ovvero la fine di qualunque **prospettiva dualistica**
 In ***Aurora***, Nietzsche presenta la fine del mondo vero come ***autosoppressione della morale***, cioè che proprio in **omaggo ai valori morali di veracità e onestà** ci siamo **sbarazzati di idee morali e metafisiche di matrice platonico-cristiana**. La *morte di Dio* porta ad un **uomo nuovo** che sarà discusso dal Nietzsche *maturo*.
-## Così parlò Zarathustra
+# *Così parlò Zarathustra. Un libro per tutti e per nessuno*
+Dopo la ***morte di Dio*** e l'***eliminazione di ogni dualismo ontologico***, si aprono le possibilità dell'***ultimo uomo*** e dell'***oltreuomo***, concetti opposti. La scelta di ***Zarathustra*** come profeta dell'*oltreuomo* deriva dal modello di *autosoppressione della morale*, secondo cui lui fu sia il **primo a tradurre la morale in metafisica** sia il **primo a riconoscere il suo errore**. Alla nuova filosofia si accompagna un nuovo stile letterario di **poesia in prosa** con un **tono profetico** ricco di simboli, allegorie e parabole che determina la sua **difficile interpretazione**.
+#todo trama
+Concettualmente, tratta dell'**oltreuomo** (prima parte), **volontà di potenza** (seconda) ed **eterno ritorno**.
+## L'*oltreuomo* (*Übermensch*)
+È un **concetto filosofico** di cui si serve per esprimere un **modello di uomo** in cui si concretizzano i **temi di fondo** del suo pensiero: è colui che **accetta la tragicità dionisiaca dell'esistenza**, la vita, la *morte di Dio*, la perdita di certezze ecc. In questo modo non può che stagliarsi sull'**orizzonte del futuro** tanto che l'espressione indica un uomo **al di là di ogni tipo antropologico dato**, capace di **creare nuovi valori** e rapportarsi in maniera **inedita** alla vita. Lo presenta come il **senso della terra** e come il **fautore della fedeltà anti-idealistica al mondo**: l'uomo è terra, è nato per vivere sulla terra dunque l'**uomo è sostanzialmente corpo**, mentre l'**anima è insussistente**. In virtù dell'accettazione della vita, la terra diventa **dimora gioiosa** e il corpo diventa **modo concreto di essere nel mondo**.
+Nel primo discorso (***Delle tre metamorfosi***), descrive la genesi del superuomo come una **libertà che libera se stessa** per approdare all'affermazione della vita:
+1) lo spirito diventa **cammello**, simbolo dell'**uomo che porta i pesi della tradizione** e che si piega di fronte a *Dio* e alla morale
+2) il cammello diventa **leone**, simbolo dell'**uomo che si libera dai fardelli metafisici ed etici** all'insegna dell'***io voglio*** nell'ambito di una **libertà negativa** (*da*, non *di*)
+3) il leone diventa **fanciullo**, ovvero ***oltreuomo***, creatura che si **inventa al di là di bene e male** come se fosse uno *spirito libero*
+
+Qualche studioso ha considerato Nietzsche **progressista**, considerando l'*oltreuomo* come un'umanità liberata; tuttavia proprio questa concezione presenta **connotati antidemocratici e reazionari** dato che la liberazione riguarda un'**élite di uomini** che non solo si erige sulle masse, ma **necessita della schiavitù**, definendo l'*oltreuomo* come ***eccezione superiore che si contrappone al gregge inferiore***. Tuttavia, ciò non significa che Nietzsche metta a capo un **progetto politico definito**: anzi, **denuncia tutti gli idoli politici del suo tempo**, mostrando come il suo **messaggio ultimo** sia cercato sul piano **filosofico**, non politico.
+## L'eterno ritorno dell'uguale
+Significa la **ripetizione eterna di tutte le vicende del mondo** ed è detto da Zarathustra stesso il **suo pensiero più profondo**. Il filosofo racconta di essere stato *folgorato* da questa idea in una **passeggiata a Sils Maria** (agosto 1881) quando percorreva i boschi al di là di uomo e tempo. La prima formulazione si trova nell'**[[Citazioni#Aforisma 341|aforisma 341]]** della *Gaia scienza*, mostrando il suo carattere **selettivo**, fungendo da **spartiacque tra *uomo* e *superuomo***: la reazione di **terrore** è propria del primo, quella di **accettazione** del secondo.
+La seconda formulazione è descritta nel discorso ***La visione e l'enigma***: Zarathustra (il filosofo autentico, più solitario degli uomini) narra di una salita su un **impervio sentiero di montagna** (innalzarsi del pensiero) durante la quale giunge di fronte a una **porta carraia** sulla quale è scritto ***attimo*** (presente) e dinanzi alla quale si **uniscono due sentieri** che **nessuno ha mai percorso sino alla fine**. Uno porta ***indietro*** (passato), l'altro in ***avanti*** (futuro): chiede al nano che lo accompagna se le due vie siano destinate a **contraddirsi in eterno** o no e, alla sua risposta affrettata che allude alla **circolarità del tempo**, lo invita a non prendere le cose alla leggera, esponendo un abbozzo dell'*eterno ritorno*. A questo punto, Zarathustra ha una [[Citazioni#Visione del pastore|visione]] che nasconde molti significati filosofici: l'***uomo*** (pastore) può trasformarsi in ***oltreuomo*** (creatura ridente e superiore) a patto di **vincere la ripugnanza dell'*eterno ritorno*** (serpente) e prendere una **decisione coraggiosa** nei suoi confronti (morso alla testa del serpente).
+Dopo più di duemila anni, Nietzsche recupera una **concezione precristiana del mondo** che presuppone la **visione ciclica del tempo**, opposta a quella rettilinea cristiana. Ma proprio questa dottrina risulta il punto più **difficile e controverso** della filosofia nietzscheana:
+- forse rappresenta una **certezza cosmologica** fondata sulla contrapposizione tra la **finitezza dell'energia nell'universo** e l'**infinità del tempo nel quale si dispiega**, portando necessariamente alla ripetizione di manifestazioni precedenti
+- oppure è un'**ipotesi sull'esser** che funge da nuovo [[Kant|imperativo categorico]]
+- oppure è l'**enunciazione di un *modo di essere dell'essere*** che l'uomo può incarnare solo se **accetta la vita**
+
+Nonostante queste difficoltà, la funzione della teoria è chiara: porsi nell'eterno ritorno porta ad **escludere dei principi** (polemica) e **difenderne altri** (propositiva):
+- innanzitutto bisogna **rifiutare la linearità del tempo**, presupponendo quindi l'**impossibilità della felicità** dato che nessun momento vissuto ha un significato pieno e autosufficiente
+- poi si ritiene che il **senso dell'essere** è situato nell'**essere stesso**
+- si è disposti a vivere la vita come **coincidenza di essere e senso** realizzando la *felicità del circolo*
+
+L'uomo capace di ***decidere l'eterno ritorno*** non è l'individuo ottocentesco che soffre la **scissione di senso ed esistenza**, ma l'***oltreuomo*** che riesce a **vivere la vita come gioco creativo** e ad avere **in sé il proprio senso appagante**.
+# La filosofia del tramonto
+Nelle opere dell'ultimo periodo campeggia il tema della **critica della morale e del cristianesimo**, che, dopo la *pars costruens* costituita dallo Zarathustra, consiste nella *pars destruens* della filosofia nietzscheana ed è accompagnata alla forma dell'**invettiva polemica**. Si propone di **distruggere definitivamente le credenze dominanti per far posto all'avvento di un nuovo pensiero**.
 %%Apollineo vs Dionisiaco
 Tema del doppio
 I
