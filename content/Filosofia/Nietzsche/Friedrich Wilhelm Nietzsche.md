@@ -139,12 +139,18 @@ Alla domanda *che cos'è il nichilismo?* risponde che `manca il fine; manca la r
 In conclusione, progettare di vivere **senza certezze metafisiche assolute** significa portare l'**uomo come fonte di valori e significati**, ovvero **dare un senso al caos del mondo dopo la morte di ogni certezza**.
 ## Il prospettivismo
 La teoria secondo cui **non esistono cose o fatti**, solo **interpretazioni circostanziate di cose o fatti**: il mondo non ha *un* senso ma ***innumerevoli* sensi** a seconda della prospettiva che si sceglie. Tuttavia, ciò non è una forma di **idealismo**, in quanto lo stesso ***soggetto*** è una struttura interpretativa per cui bandisce anche il *cogito*. Concorda quindi parzialmente con *Kant* nella capacità di **unificazione dell'io penso**, ma al posto della sua *realtà assoluta* propone ***molteplici punti di vista nel mondo***. L'interpretazione si fonda sui **nostri bisogni**: le **verità** sono le **illusioni** di cui si è dimenticata la **natura illusoria**, puntualizzando che **conoscenza e logica** sono delle **invenzioni** create per porre **sotto controllo il caos multiforme quotidiano**.
+Coerentemente con tale visione, **critica la scienza moderna**:
+- la sua pretesa di **unicità** costituisce una **violenza al polimorfismo della natura**
+- la visione **atomizzata del mondo** ha portato ad una scienza che **non offre più una visione complessiva del mondo**
+- il **principio di causalità** è un qualcosa di ***posto* dall'uomo** per un'**esigenza di regolarità**
+
+Il prospettivismo nietzscheano, tuttavia, non comporta l'**equivalenza di tutte le interpretazioni** ma sostiene la necessità dei **criteri di scelta** che sono **salute e forza** ovvero ***vita*** che **accresce sempre sé stessa** ed è dunque ***volontà di potenza***. Tale concetto si riferisce anche alla **capacità *dionisiaca* di accettare la *tragicità* dell'esistenza**: la *salute* che l'uomo deve provare allude al **globale modo di essere dell'*oltreuomo*** come colui che sa vivere **senza certezze e senza fedi assolute**.
 # Collegamenti
-**Arte**:
-**Fisica**:
+**Arte**: 
+**Fisica**: [[Teoria della relatività]] (crisi delle certezze)
 **Inglese**: [[Oscar Wilde]] ("il mondo è un'opera d'arte che genera se stessa")
 **Italiano**: [[D'Annunzio]] (superuomo)
 **Latino**:
-**Matematica**:
-**Scienze**:
+**Matematica**: 
+**Scienze**: 
 **Storia**: [[Nazismo]]

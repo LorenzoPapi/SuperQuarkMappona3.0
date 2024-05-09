@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "655902a3861bf141",
+            "id": "b1b5063418f46f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Freud.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Freud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
+                "file": "Filosofia/Freud.md"
               }
             }
           },
@@ -164,15 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "655902a3861bf141",
+  "active": "b1b5063418f46f34",
   "lastOpenFiles": [
+    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+    "Italiano/D'Annunzio.md",
+    "Filosofia/Freud.md",
     "Fisica/Teoria della relatività.md",
     "Fisica/Elettro-magnetismo.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Canovaccio.md",
-    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
     "Filosofia/Nietzsche/Citazioni.md",
     "Filosofia/Kant.md",
     "Filosofia/Nietzsche",
@@ -194,7 +196,6 @@
     "Inglese/Herman Melville.md",
     "Inglese/James Joyce.md",
     "Inglese/English and American History (1837-now).md",
-    "Inglese/Emily Dickinson.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
