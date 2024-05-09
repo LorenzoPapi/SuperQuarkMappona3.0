@@ -127,7 +127,18 @@ Da questa concezione segue che l'**arte** (forza creatrice) è la **forma suprem
 Tale volontà non è solo teorica, ma è anche connessa alla **sopraffazione** e al **dominio**: è innegabile la sua valenza **antidemocratica** e **antiegualitaria** che fa parte della **componente reazionaria** del filosofo.
 ## Il nichilismo
 Il problema del nichilismo è uno dei motivi più rilevanti della riflessione nietzscheana:
-- inizialmente, lo intende come **volontà del nulla** e **fuga dal mondo concreto**, atteggiamento incarnato nei culti greci #TODO 
+- inizialmente, lo intende come **volontà del nulla** e **fuga dal mondo concreto**, atteggiamento incarnato nel *platonismo*
+- successivamente, il movimento storico che nasce dalla ***morte di Dio*** e la condizione dell'**uomo contemporaneo** che avverte di fronte all'essere lo **sgomento del vuoto e del nulla**
+Poiché Nietzsche si presenta come il `primo perfetto nichilista d'Europa, che però ha già vissuto in sé fino in fondo il nichilismo stesso - che lo ha dietro di sé, sotto di sé, fuori di sé`, nasce il problema di capire il rapporto con esso.
+Alla domanda *che cos'è il nichilismo?* risponde che `manca il fine; manca la risposta al "perchè?"; i valori supremi si svalorizzano`. Ma perché l'uomo arriva a sostenere la **mancanza di un fine**? L'uomo dapprima si è **immaginato dei fini assoluti e trascendenti**, ma avendo scoperto la *morte di Dio*, è **piombato nel nichilismo**: anzi **quanto più è illuso, tanto più è rimasto deluso** come testimonia l'**individuo post-cristiano** che soffre di un terribile **senso di vuoto**. L'errore dei nichilismo moderno sta nell'identificare la **mancanza di metafisica** con la **mancanza di senso totale**: in realtà il significato esiste come **volontà di potenza** la quale **affrontando il caos dell'essere** gli **impone i propri fini**. Ciò mostra che Nietzsche anche essendo un **nichilista radicale**, lo sia tale da **superare il nichilismo stesso**: questa visione è uno *stato intermedio*, un **momentaneo *no* alla vita** che con la ***volontà di potenza*** prepara il ***sì* ad essa**. Distingue infatti due tipi di nichilismo:
+- **incompleto**: i **vecchi valori sono distrutti** ma i **nuovi hanno la stessa fisionomia dei precedenti** perché si ha ancora **bisogno di verità**
+- **completo**: distruzione assoluta di ogni valore, si distingue in
+	- **passivo**: si limita a **prendere atto del declino** e a **crogiolarsi nel nulla**
+	- **attivo** (estatico, estremo):  si esercita come **forza violenta di distruzione**
+	- **classico**: è la **completezza dell'attivo** quando passa al **momento costruttivo** capendo che il **senso non essendo dato *ontologicamente* va creato *umanamente***
+In conclusione, progettare di vivere **senza certezze metafisiche assolute** significa portare l'**uomo come fonte di valori e significati**, ovvero **dare un senso al caos del mondo dopo la morte di ogni certezza**.
+## Il prospettivismo
+La teoria secondo cui **non esistono cose o fatti**, solo **interpretazioni circostanziate di cose o fatti**: il mondo non ha *un* senso ma ***innumerevoli* sensi** a seconda della prospettiva che si sceglie. Tuttavia, ciò non è una forma di **idealismo**, in quanto lo stesso ***soggetto*** è una struttura interpretativa per cui bandisce anche il *cogito*. Concorda quindi parzialmente con *Kant* nella capacità di **unificazione dell'io penso**, ma al posto della sua *realtà assoluta* propone ***molteplici punti di vista nel mondo***. L'interpretazione si fonda sui **nostri bisogni**: le **verità** sono le **illusioni** di cui si è dimenticata la **natura illusoria**, puntualizzando che **conoscenza e logica** sono delle **invenzioni** create per porre **sotto controllo il caos multiforme quotidiano**.
 # Collegamenti
 **Arte**:
 **Fisica**:

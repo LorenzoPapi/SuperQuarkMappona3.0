@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "70d962ad14b103d4",
+        "id": "30d92cd7263a10df",
         "type": "tabs",
         "children": [
           {
-            "id": "5eeeb536f70f17cd",
+            "id": "655902a3861bf141",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,13 +105,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
+              }
             }
           },
           {
@@ -156,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8a76144ef1e31f",
+  "active": "655902a3861bf141",
   "lastOpenFiles": [
+    "Fisica/Teoria della relatività.md",
+    "Fisica/Elettro-magnetismo.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -170,14 +180,12 @@
     "Untitled.md",
     "Matematica/Studio di funzione.md",
     "Matematica/Limite.md",
-    "Fisica/Elettro-magnetismo.md",
     "Arte/Impressionismo.md",
     "Matematica/Derivata.md",
     "Arte/Avant-garde.md",
     "Arte/Art Nouveau.md",
     "Sacco; infinito; parardiso.md",
     "Templates/Autore Latino-Italiano.md",
-    "Fisica/Teoria della relatività.md",
     "Inglese/Proposte doc inglese.md",
     "Inglese/Virginia Woolf.md",
     "Inglese/War Poets.md",
