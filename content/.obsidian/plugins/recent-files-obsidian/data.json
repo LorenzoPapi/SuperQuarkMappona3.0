@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Crisi dei fondamenti fisico-matematici",
+      "path": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Proposte doc arte",
+      "path": "Arte/Proposte doc arte.md"
+    },
+    {
+      "basename": "Picasso",
+      "path": "Arte/Picasso.md"
+    },
+    {
+      "basename": "Matisse",
+      "path": "Arte/Matisse.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Dadaismo.md"
+    },
+    {
+      "basename": "Avant-garde",
+      "path": "Arte/Avant-garde.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Crisi delle certezze",
+      "path": "NucleiTematici/Crisi delle certezze.md"
+    },
+    {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
+    },
+    {
+      "basename": "Integrazione",
+      "path": "Matematica/Integrazione.md"
+    },
+    {
+      "basename": "Derivata",
+      "path": "Matematica/Derivata.md"
+    },
+    {
+      "basename": "Studio di funzione",
+      "path": "Matematica/Studio di funzione.md"
+    },
+    {
       "basename": "Henri Bergson",
       "path": "Filosofia/Henri Bergson.md"
     },
@@ -49,28 +105,12 @@
       "path": "Filosofia/Nietzsche/Citazioni.md"
     },
     {
-      "basename": "Studio di funzione",
-      "path": "Matematica/Studio di funzione.md"
-    },
-    {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
       "basename": "Tacito",
       "path": "Latino/Tacito.md"
     },
     {
       "basename": "Seneca",
       "path": "Latino/Seneca.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
     },
     {
       "basename": "Equazioni di Maxwell",
@@ -101,48 +141,16 @@
       "path": "Arte/Immagini/Manet_02.jpg"
     },
     {
-      "basename": "Derivata",
-      "path": "Matematica/Derivata.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Picasso",
-      "path": "Arte/Picasso.md"
-    },
-    {
-      "basename": "Matisse",
-      "path": "Arte/Matisse.md"
     },
     {
       "basename": "Integrale",
       "path": "Matematica/Integrale.md"
     },
     {
-      "basename": "Crisi delle certezze",
-      "path": "NucleiTematici/Crisi delle certezze.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Dadaismo.md"
-    },
-    {
-      "basename": "Avant-garde",
-      "path": "Arte/Avant-garde.md"
-    },
-    {
       "basename": "Sacco; infinito; parardiso",
       "path": "Sacco; infinito; parardiso.md"
-    },
-    {
-      "basename": "Proposte doc arte",
-      "path": "Arte/Proposte doc arte.md"
     },
     {
       "basename": "Leopardi",
@@ -191,10 +199,6 @@
     {
       "basename": "14 punti e società delle nazioni",
       "path": "Storia/14 punti e società delle nazioni.md"
-    },
-    {
-      "basename": "Biologia",
-      "path": "Biologia.md"
     }
   ],
   "omittedPaths": [],

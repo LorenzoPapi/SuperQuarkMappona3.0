@@ -1,5 +1,5 @@
 # Utilizzo
-La derivata viene utilizzata nello **studio di funzione** per trovare **massimi e minimi locali** di una funzione, nonché i suoi **punti di flesso**, e da questi dati tracciare un **grafico del suo andamento**.
+La derivata viene utilizzata nello [[Studio di funzione|studio di funzione]] per trovare **massimi e minimi locali** di una funzione, nonché i suoi **punti di flesso**, e da questi dati tracciare un **grafico del suo andamento**.
 Permette di risolvere i **problemi di ottimizzazione**, nei quali si richiede di minimizzare o massimizzare una determinata quantità.
 Si presenta al **cuore della fisica** nelle **equazioni differenziali**, un particolare tipo di equazioni le cui incognite sono delle funzioni e nelle quali compaiono le **derivate di essa**.
 

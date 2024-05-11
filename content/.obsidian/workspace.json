@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30d92cd7263a10df",
+        "id": "dfaa2ce9649bdd14",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b5063418f46f34",
+            "id": "830512b7c7af3ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Henri Bergson.md",
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Henri Bergson.md",
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Henri Bergson.md",
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Henri Bergson.md"
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
               }
             }
           },
@@ -164,12 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1b5063418f46f34",
+  "active": "830512b7c7af3ded",
   "lastOpenFiles": [
+    "Arte/Postimpressionismo.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Arte/Proposte doc arte.md",
+    "Arte/Picasso.md",
+    "Arte/Matisse.md",
+    "Arte/Impressionismo.md",
+    "Arte/Dadaismo.md",
+    "Arte/Avant-garde.md",
+    "Arte/Art Nouveau.md",
+    "NucleiTematici/Crisi delle certezze.md",
+    "Matematica/Limite.md",
+    "Matematica/Integrazione.md",
+    "Matematica/Derivata.md",
+    "Matematica/Studio di funzione.md",
+    "Filosofia/Henri Bergson.md",
     "Filosofia/Sigmund Freud.md",
     "Filosofia/Hegel.md",
     "Filosofia/Kant.md",
-    "Filosofia/Henri Bergson.md",
     "Filosofia/Schopenhauer.md",
     "Filosofia/Positivismo.md",
     "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
@@ -183,20 +197,6 @@
     "Canovaccio.md",
     "Filosofia/Nietzsche/Citazioni.md",
     "Filosofia/Nietzsche",
-    "aforisma 341.md",
-    "Untitled.md",
-    "Matematica/Studio di funzione.md",
-    "Matematica/Limite.md",
-    "Arte/Impressionismo.md",
-    "Matematica/Derivata.md",
-    "Arte/Avant-garde.md",
-    "Arte/Art Nouveau.md",
-    "Sacco; infinito; parardiso.md",
-    "Templates/Autore Latino-Italiano.md",
-    "Inglese/Proposte doc inglese.md",
-    "Inglese/Virginia Woolf.md",
-    "Inglese/War Poets.md",
-    "Inglese/David Herbert Lawrence.md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
