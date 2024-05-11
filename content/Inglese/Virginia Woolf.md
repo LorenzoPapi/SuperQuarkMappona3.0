@@ -6,7 +6,7 @@ When she was thirteen, her **mother died**, causing her first **mental breakdown
 ## 1904
 After her father's death, she moved to the **Bloomsbury area** of London and with her **sister Vanessa** became member of the **Bloomsbury Group** which included the avant-garde of early 1900.
 ## 1912 - 1941
-She married **Leonard Woolf** and later published ***The Voyage out*** (1915), her first novel. The Woolfs also founded their **publisher**, the **Hogarth Press**, which also published [[Freud]]'s and Eliot's works. In this period, she also met **Vita Sackville-West**, a writer and gardener destined to become her best friend. Virginia was also a **talented literary critic**, but suddenly sank into **depression** and unable to cope with her **anxiety**, increased by WWII, she **drowned herself** in the **River Ouse**.
+She married **Leonard Woolf** and later published ***The Voyage out*** (1915), her first novel. The Woolfs also founded their **publisher**, the **Hogarth Press**, which also published [[Sigmund Freud]]'s and Eliot's works. In this period, she also met **Vita Sackville-West**, a writer and gardener destined to become her best friend. Virginia was also a **talented literary critic**, but suddenly sank into **depression** and unable to cope with her **anxiety**, increased by WWII, she **drowned herself** in the **River Ouse**.
 # Ideology
 She was interested in **giving voice** to the **inner world of feeling and memory**: the *events* of a story are much less important than the ***impression*** they left on the **who experienced them**.
 In her essay ***A Sketch of the Past***, she wonders why **some events are very powerful and memorable** and she concludes that there are two kinds of experiences:

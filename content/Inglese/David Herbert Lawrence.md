@@ -24,7 +24,7 @@ As its seen from the novel, Lawrence considered women **only as instrument for m
 The novel is told with a **third-person narrator** but all the events are seen **through Paul's eyes**. Characters are portrayed by **showing and telling** and their feelings are revealed by **words and images** related to the senses.
 # Links
 **Art**:
-**Philosophy**: [[Freud]]
+**Philosophy**: [[Sigmund Freud]]
 **Physics**:
 **Italian**:
 **Latin**:

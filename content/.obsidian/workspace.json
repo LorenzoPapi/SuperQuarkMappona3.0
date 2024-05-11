@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Freud.md",
+                "file": "Filosofia/Henri Bergson.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Freud.md",
+                "file": "Filosofia/Henri Bergson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Freud.md",
+                "file": "Filosofia/Henri Bergson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Freud.md"
+                "file": "Filosofia/Henri Bergson.md"
               }
             }
           },
@@ -166,9 +166,15 @@
   },
   "active": "b1b5063418f46f34",
   "lastOpenFiles": [
+    "Filosofia/Sigmund Freud.md",
+    "Filosofia/Hegel.md",
+    "Filosofia/Kant.md",
+    "Filosofia/Henri Bergson.md",
+    "Filosofia/Schopenhauer.md",
+    "Filosofia/Positivismo.md",
     "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+    "Pasted image 20240511192322.png",
     "Italiano/D'Annunzio.md",
-    "Filosofia/Freud.md",
     "Fisica/Teoria della relatività.md",
     "Fisica/Elettro-magnetismo.md",
     "Untitled 2.canvas",
@@ -176,7 +182,6 @@
     "Untitled.canvas",
     "Canovaccio.md",
     "Filosofia/Nietzsche/Citazioni.md",
-    "Filosofia/Kant.md",
     "Filosofia/Nietzsche",
     "aforisma 341.md",
     "Untitled.md",
@@ -192,10 +197,6 @@
     "Inglese/Virginia Woolf.md",
     "Inglese/War Poets.md",
     "Inglese/David Herbert Lawrence.md",
-    "Inglese/Oscar Wilde.md",
-    "Inglese/Herman Melville.md",
-    "Inglese/James Joyce.md",
-    "Inglese/English and American History (1837-now).md",
     "Templates/Untitled.canvas",
     "Templates"
   ]
