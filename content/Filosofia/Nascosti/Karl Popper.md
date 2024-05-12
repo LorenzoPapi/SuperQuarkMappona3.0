@@ -4,26 +4,7 @@
 ## Rapporto con Einstein
 
 # Sintesi del pensiero
-I caratteri generali del pensiero nietzscheano sono:
-- una **critica radicale all'Occidente** che diventa una **distruzione programmatica delle certezze del passato**
-- la **delineazione di un nuovo tipo di umanità** (***oltreuomo***)
-- l'utilizzo di **nuove modalità espressive** che testimoniano un **tono personale e coinvolgente**
-- l'**asistematicità** necessaria data l'**illusorietà del desiderio di impadronirsi del reale**, destinato all'**insuccesso** e la conseguente **pluralità di significati**
 # Opere
-Le edizioni delle opere furono molteplici:
-- ***in ottavo grande*** (**19**) pubblicata dall'**Archivio Nietzsche di Weimar** custodito dalla sorella, contenente anche ***La volontà di potenza*** (**1067** aforismi) che rappresenta una **sintesi** del suo pensiero
-- ***Musarion Ausgabe*** (**23**) presenta gli scritti in **ordine cronologico**
-- ***Karl Schlechta*** (**4**) simile a quella ***Colli-Montinari***, nella quale cade l'ordine tematico
-
-L'antologia è divisa in:
-- scritti **giovanili wagneriani-schopenhaueriani**, fra cui:
-	- ***La nascita della tragedia*** (**1872**)
-	- ***Considerazioni inattuali*** (**1873 - 1876**)
-- scritti **intermedi illuministici**, fra cui:
-	- ***Umano, troppo umano*** (**1878 - 1880**)
-	- ***La gaia scienza*** (**1882**)
-- scritti **"del meriggio"** che comprendono ***Così parlo Zarathustra*** (**1883 - 1885**) e i relativi frammenti postumi
-- scritti "**del tramonto**", in particolare ***Al di là del bene e del male*** (**1886**)
 # Il periodo giovanile
 Principalmente legato alla **cultura greca** e ai maestri [[Schopenhauer]] e Wagner, gli scritti di questo periodo sono principalmente **saggi** e **trattati**.
 ## *La nascita della tragedia* (la duplice spiritualità)

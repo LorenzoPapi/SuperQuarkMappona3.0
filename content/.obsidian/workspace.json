@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nascosti/Karl Popper.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nascosti/Karl Popper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Nascosti/Karl Popper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
+                "file": "Filosofia/Nascosti/Karl Popper.md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79155bdde92e4a03",
+  "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
     "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Karl Popper.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Filosofia/Nascosti/Karl Popper.md",
     "Filosofia/Sigmund Freud.md",
     "Filosofia/Post-positivismo.md",
     "Filosofia/Neopositivismo.md",
