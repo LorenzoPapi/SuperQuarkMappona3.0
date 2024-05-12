@@ -17,7 +17,7 @@ Viene pubblicato il manifesto ***La concezione scientifica del mondo***, che ind
 5) lo sviluppo di **linguaggi formali**
 6) il **rigetto di ogni apriorismo**
 ## Circolo di Berlino
-Influenzato da ***Planck e  [[Crisi dei fondamenti fisico-matematici#Il formalismo|Hilbert]]***, collaborò con il Circolo viennese ed ebbe eco anche nei paesi **scandinavi** e in **Polonia**. Tuttavia, molti dei suoi rappresentanti dovettero **lasciare la Germania** a causa della loro antipatia per il regime nazista, trasferendosi negli **Stati Uniti** dove trovarono un ambiente **simpatetico** soprattutto nei **pragmatisti** come Quine #TODO. Si riprese l'idea di **scienza unificata** avendo per oggetto **tutta la realtà conoscibile** avvalendosi di un **unico linguaggio logico**, portando alla nascita dell'***Enciclopedia internazionale della scienza unificata***. 
+Influenzato da ***Planck e  [[Crisi dei fondamenti fisico-matematici#Il formalismo|Hilbert]]***, collaborò con il Circolo viennese ed ebbe eco anche nei paesi **scandinavi** e in **Polonia**. Tuttavia, molti dei suoi rappresentanti dovettero **lasciare la Germania** a causa della loro antipatia per il regime nazista, trasferendosi negli **Stati Uniti** dove trovarono un ambiente **simpatetico** soprattutto nei **pragmatisti** come [[Post-positivismo#Quine|Quine]]. Si riprese l'idea di **scienza unificata** avendo per oggetto **tutta la realtà conoscibile** avvalendosi di un **unico linguaggio logico**, portando alla nascita dell'***Enciclopedia internazionale della scienza unificata***. 
 # Caratteristiche
 Nella prima fase, è rappresentato da autori accomunati da alcune convinzioni di fondo:
 - le uniche **proposizioni con significato conoscitivo** sono quelle che possono essere **verificate empiricamente** (***criterio di significanza***)
@@ -39,18 +39,4 @@ Legata alla verificazione è la ***polemica sui protocolli*** che si genera a pa
 - **fisicalismo** (Neurath): si riferisce agli **oggetti osservabili da tutti** ed è **intersoggettivo**
 - **riduzionismo** (Carnap): ***ogni*** affermazione va riformulata in **termini fisici**
 
-Schlick rifiuta il fisicalismo perché le sue proposizioni sono solo **ipotetiche** (suscettibili all'*errore del percipiente*) e
-
-# Critici
-## Quine
-Nell'articolo ***I due dogmi dell'empirismo logico***, identifica i due presupposti fondamentali del neopositivismo:
-- **analiticità**: credenza che **accanto alle verità sintetiche sussistano quelle analitiche**
-- **riduzionismo**: convinzione che **ogni proposizione vera è tale per la sua relazione con l'esperienza** e dunque che a questa possa **essere ridotta**
-
-A proposito della prima, rileva le **difficoltà con il *significato*** che sorgono cercando di darne una definizione: la teoria del ***significato*** è molto più *oscura* di quella del ***riferimento***. Infatti, pretendo di spiegare il *significato* di un termine, usiamo **sinonimi** (traduzioni): la tautologia *nessun uomo non sposato è sposato* può essere riscritta sostituendo a *uomo non sposato* il termine *scapolo* usando la ***sinonimia*** ottenendo una verità ***analitica non logica*** perché dipende dal linguaggio. Se per spiegare cosa *è* la sinonimia utilizzo il termine *significato*, cado in un **circolo vizioso**: dunque, **analiticità, sinonimia, significato** sono interconnesse e definire una porta al ricorso alle altre. È **impossibile la dualità delle verità** e, anche se la conoscenza deriva da esperienza e linguaggio, è **impossibile stabilire per ogni proposizione da cosa dipenda**. Bisogna dunque **eliminare il significato** e parlare solo di ***termini*** ed ***enunciati***, spiegabili con l'analisi linguistica per evitare l'approdo ad un nuovo **platonismo del significato**. Inoltre, anche i **nomi** vanno valutati attentamente perché sarebbe erroneo inferire l'**esistenza dell'entità da quella di un nome**: ne consegue un criterio di **economia ontologica** che elimina le **entità astratte**.
-L'ontologia va dunque scelta nello **schema concettuale più semplice** al quale si possano adattare e ordinare le **proprie esperienze**: ed essendo scelta nel linguaggio in cui si opera, è **teorica** e **relativa**: ***non è possibile parlare di enti indipendentemente dal riferimento al linguaggio che adottiamo***. La *credenza* nell'esistenza di qualcosa dipende dal **contesto culturale** in cui viviamo.
-A proposito del secondo, preferisce il punto di vista ***olistico***, sostenendo che:
-- ogni enunciato è **vero** a patto che nel sistema vengano fatti gli **opportuni adattamenti**
-- la **revisionabilità** investe **ogni enunciato empirico, logico e matematico**
-## Popper
-## Kuhn
+Schlick rifiuta il fisicalismo perché le sue proposizioni sono solo **ipotetiche** (suscettibili all'*errore del percipiente*) e perché manca il **punto di contatto tra protocolli e realtà**. Propone di assumere le ***constatazioni***, ovvero enunciati **assolutamente certi formulati in immediata connessione con l'esperienza**, anche se perdono il carattere protocollare.

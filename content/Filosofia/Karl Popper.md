@@ -1,12 +1,8 @@
 # Biografia
-## Filosofia e malattia
-Vi furono inizialmente due interpretazioni riguardo al rapporto filosofia-malattia:
-- secondo quella **positivista**, una **filosofia dovuta ad una mente malata è essa stessa malata**, sia che essa fosse **prodotto** o **causa** della malattia
-- secondo quella **avanguardista**, si valorizza la malattia come **necessaria per la creatività** del suo pensiero e per la **caduta delle illusioni irrazionali**
+## Rapporto con il neopositivismo
 
-Ad oggi, il rapporto è **irrilevante** dato che la filosofia va **giudicata per i contenuti**, non ciò che li ha potuti generare.
-## Nazificazione e denazificazione
-Spesso associato alla **cultura nazifascista**, tanto da considerare essa un **"esperimento nietzscheano"**, tale lettura fu **agevolata dalla sorella** che lo mostrò come **propugnatore di una palingenesi reazionaria**; tuttavia attribuirle tutta la colpa è **eccessivo** (solo la **visita di Hitler** rappresenta un episodio noto), dato che la dottrina presenta **spunti antidemocratici** e **antiegualitaristi** atti ad una **lettura reazionaria**. Nel secondo dopoguerra fu **denazificato**, anzi considerato **progressista** al pari di Marx. Di recente, si è affermata la tendenza a considerare sia le **novità e rotture** del suo pensiero, sia i suoi **aspetti reazionari**.
+## Rapporto con Einstein
+
 # Sintesi del pensiero
 I caratteri generali del pensiero nietzscheano sono:
 - una **critica radicale all'Occidente** che diventa una **distruzione programmatica delle certezze del passato**
