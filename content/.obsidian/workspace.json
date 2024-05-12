@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canovaccio.md",
+                "file": "Filosofia/Neopositivismo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8920a89a30d6effd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canovaccio.md",
+                "file": "Filosofia/Neopositivismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canovaccio.md",
+                "file": "Filosofia/Neopositivismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canovaccio.md"
+                "file": "Filosofia/Neopositivismo.md"
               }
             }
           },
@@ -166,11 +179,13 @@
   },
   "active": "830512b7c7af3ded",
   "lastOpenFiles": [
-    "Sacco; infinito; parardiso.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Filosofia/Neopositivismo.md",
+    "Filosofia/Positivismo.md",
     "Canovaccio.md",
+    "Sacco; infinito; parardiso.md",
     "index.md",
     "Crediti e About.md",
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
     "Filosofia/Gottlob Frege.md",
     "Filosofia/Bertrand Russell.md",
     "Arte/Postimpressionismo.md",
@@ -190,8 +205,6 @@
     "Filosofia/Sigmund Freud.md",
     "Filosofia/Hegel.md",
     "Filosofia/Kant.md",
-    "Filosofia/Schopenhauer.md",
-    "Filosofia/Positivismo.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

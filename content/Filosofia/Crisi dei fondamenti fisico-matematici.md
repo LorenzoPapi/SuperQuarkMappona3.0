@@ -47,9 +47,9 @@ In ambito gnoseologico è importante ***La conoscenza umana: ambito e limiti*** 
 - la conoscenza **descrittiva** invece permette, tramite gli *universali*, di conoscere gli **oggetti fisici** che sono noti non *direttamente* ma dalla **descrizione delle loro proprietà** dalle quali *inferiamo* la sua **esistenza**, e le **realtà psichiche altrui**
 
 Russell **sfiora il *solipsismo***, superato però dall'*inferenza* che, come procede da *dati* a *cose*, procede da *dati* ad *altre realtà psichiche*.
-## Intuizionismo
+## L'intuizionismo
 Propugnato da ***Brouwer***, sosteneva kantianamente l'**intuizione** alla base del **numero** e dunque della matematica. Ne *Sui fondamenti della matematica*, stravolge i rapporti tra matematica, logica e linguaggio, sostenendo che la **priorità è la matematica** che non necessita fondazione perché è **base di ogni elaborazione concettuale**. L'**intuizione** isola nel continuo spazio-temporale ciò che diventa poi **oggetto della mente**, per poi volgersi alla costruzione con gli **oggetti già formati**. Gli **enti matematici** sussistono solo perché possiamo **costruirli con finite operazioni** a partire da essa, e sono **presenti solo nella mente**. **Linguaggio** e **logica** sono successive e sono elaborate solo per **ordinare** e **comunicare** ciò che è stato costruito. Per il suo **linguaggio astruso** inizialmente ebbe scarso seguito: con il ***teorema di Gödel*** invece ottenne maggiore credibilità
-## Formalismo
+## Il formalismo
 Se il logicismo è impossibile, almeno si può dimostrare la **coerenza della matematica** attraverso la nuova disciplina, detta ***metamatematica*** (*teoria della dimostrazione*), fondata da ***Hilbert***. I procedimenti matematici sono **espressi con alcuni segni** governati da **poche regole** che partono da una **serie di assiomi**: la ***coerenza e completezza*** matematica sono dimostrabili considerando essa come un **linguaggio formalizzato**, i cui elementi sono esplicitabili come **segni e loro combinazioni**.
 ## I teoremi di Gödel
 Mentre i formalisti erano impegnati nel loro programma, sopravvenne la pubblicazione del logico ***Kurt Gödel*** intitolata ***Su proposizioni formalmente indecidibili dei "Principia mathematica" e sistemi affini***. In questo articolo, enunciò e dimostrò i suoi due ***teoremi di incompletezza***:
@@ -58,5 +58,15 @@ Mentre i formalisti erano impegnati nel loro programma, sopravvenne la pubblicaz
 
 In particolare, se un sistema si costruisce in modo tale da **dimostrare la sua *non-contraddittorietà***, diventa ***incoerente***: viceversa, se salvaguardia la sua *coerenza*, diventa ***incompleto***. I teoremi risultano quindi la **negazione del programma di Hilbert** e dunque l'**impossibilità di fondare la matematica**, chiudendo un'epoca. I due teoremi sono paragonabili ai limiti gnoseologici della *Critica della ragion pura*, in quanto ripropongono la **realtà del limite**, portando alla *rivincita intuizionista* attraverso il *logicismo di Gödel*.
 # La "nuova" fisica
-La rivoluzione scientifica che scosse la fisica del Novecento, prese avvio con la [[Elettro-magnetismo|teoria del campo]] di ***Maxwell***
+La rivoluzione scientifica che scosse la fisica del Novecento, prese avvio con la [[Elettro-magnetismo|teoria del campo]] di ***Maxwell***. Sebbene 
 
+La **meccanica statistica** e l'**elettromagnetismo** costituiscono i punti d'approdo di due diverse concezioni fisiche, la ***teoria del discreto*** e la ***teoria del continuo***, contrasto ancora presente nei giorni nostri con la **difficoltà a conciliare *relatività generale* e *meccanica quantistica***. Da un lato si poneva la **materia ponderabile** e dall'altro l'**etere luminifero**: il tentativo di chiarire i rapporti fra loro si ebbe con ***Lorentz***, che poneva nella realtà tre entità:
+1) **materia ponderabile**: enti con proprietà *meccaniche*
+2) **etere**: supporto *privo di proprietà meccaniche*
+3) **elettroni**: **quanti** elementari di carica, che **mediano l'interazione fra materia ed etere**
+
+Nel frattempo, emergevano molteplici scoperte sulle **radiazioni**, fornendo la possibilità di formulare dei **modelli atomici** (*Thomson*, *Rutheford*), considerando l'atomo come un **sistema planetario** con un nucleo positivo centrale, modello che però **contraddiceva l'elettromagnetismo**, perché gli elettroni sarebbero caduti nel nucleo. Altra contraddizione era l'**etere stesso** perché ogni fenomeno sembrava avvenire **in maniera solidale con l'etere**: [[Teoria della relatività|Michaelson e Morley]] provarono a rilevare il *vento d'etere*, ma fallirono. Una soluzione sembrò quella suggerita da Lorentz che ipotizzò la **contrazione delle lunghezze** a causa del **moto traslatorio** attraverso l'etere.
+
+## La teoria della relatività
+
+## La teoria quantistica
