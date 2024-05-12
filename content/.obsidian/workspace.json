@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+                "file": "Canovaccio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+                "file": "Canovaccio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+                "file": "Canovaccio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
+                "file": "Canovaccio.md"
               }
             }
           },
@@ -166,8 +166,14 @@
   },
   "active": "830512b7c7af3ded",
   "lastOpenFiles": [
-    "Arte/Postimpressionismo.md",
+    "Sacco; infinito; parardiso.md",
+    "Canovaccio.md",
+    "index.md",
+    "Crediti e About.md",
     "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Filosofia/Gottlob Frege.md",
+    "Filosofia/Bertrand Russell.md",
+    "Arte/Postimpressionismo.md",
     "Arte/Proposte doc arte.md",
     "Arte/Picasso.md",
     "Arte/Matisse.md",
@@ -186,18 +192,12 @@
     "Filosofia/Kant.md",
     "Filosofia/Schopenhauer.md",
     "Filosofia/Positivismo.md",
-    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
     "Pasted image 20240511192322.png",
-    "Italiano/D'Annunzio.md",
-    "Fisica/Teoria della relatività.md",
-    "Fisica/Elettro-magnetismo.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Canovaccio.md",
-    "Filosofia/Nietzsche/Citazioni.md",
     "Filosofia/Nietzsche",
     "Templates/Untitled.canvas",
-    "Templates"
+    "templates"
   ]
 }
