@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Nascosti/Karl Popper.md",
+                "file": "Filosofia/Karl Popper.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Nascosti/Karl Popper.md",
+                "file": "Filosofia/Karl Popper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Nascosti/Karl Popper.md",
+                "file": "Filosofia/Karl Popper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Nascosti/Karl Popper.md"
+                "file": "Filosofia/Karl Popper.md"
               }
             }
           },
@@ -164,14 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "79155bdde92e4a03",
   "lastOpenFiles": [
-    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Karl Popper.md",
     "Filosofia/Crisi dei fondamenti fisico-matematici.md",
-    "Filosofia/Nascosti/Karl Popper.md",
-    "Filosofia/Sigmund Freud.md",
     "Filosofia/Post-positivismo.md",
     "Filosofia/Neopositivismo.md",
+    "Fisica/Teoria della relatività.md",
+    "Fisica/Elettro-magnetismo.md",
+    "Filosofia/Sigmund Freud.md",
+    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
     "Filosofia/Henri Bergson.md",
     "Filosofia/Nascosti/Schopenhauer.md",
     "Filosofia/Nascosti",
@@ -191,8 +193,6 @@
     "Arte/Avant-garde.md",
     "Arte/Art Nouveau.md",
     "NucleiTematici/Crisi delle certezze.md",
-    "Matematica/Limite.md",
-    "Matematica/Integrazione.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
