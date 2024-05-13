@@ -40,12 +40,3 @@ O per dirla in tre parole: problemi-teorie-critica.
 Tale metodo è per ***congetture e confutazioni*** (*trial and error*) ed è una sorta di **prolungamento culturale** del meccanismo che sta alla base dell'**evoluzione biologica**: con esso, Popper offre una **valorizzazione epistemologica e pedagogica dell'errore** che fa parte **integrante del sapere scientifico** e mostra che la scienza è ***doxa***, non *episteme*.
 ## Il rifiuto dell'induzione e la mente come faro
 L'**impotenza strutturale dell'induzione** trova illustrazione nella vicenda del ***tacchino induttivista*** raccontata da [[Crisi dei fondamenti fisico-matematici#Russell|Russell]]. Afferma dunque che non sono i ***fatti* che muovono le *teorie***, ma le ***teorie* che sono controllate dai *fatti***. La sua epistemologia è dunque assimilabile ad una **sintesi di *razionalismo* ed *empirismo***: dal primo prende l'orientamento ***logico-deduttivo***, dal secondo l'insegnamento che ***solo l'esperienza può mostrare la validità di un'ipotesi***. Inoltre si scaglia contro l'***osservazionismo***, sostenendo che la mente umana è un ***faro* che illumina**, un deposito di ipotesi alla luce delle quali **percepiamo la realtà**, sostenendo che la scienza **non parte mai dal *nulla***.
-# Collegamenti
-**Arte**: 
-**Fisica**: [[Teoria della relatività]] (crisi delle certezze)
-**Inglese**: [[Oscar Wilde]] ("il mondo è un'opera d'arte che genera se stessa")
-**Italiano**: [[D'Annunzio]] (superuomo)
-**Latino**:
-**Matematica**: 
-**Scienze**: 
-**Storia**: [[Nazismo]]
