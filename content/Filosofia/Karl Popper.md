@@ -15,10 +15,17 @@ La sua filosofia si divide in **epistemologia** e **politica**: tuttavia, è imp
 
 Dunque, rifiutando la filosofia come ***pura analitica***, egli continua a sostenere che essa ha ***a che fare con la conoscenza della realtà***, visione confermata dalla **rivalutazione dei presocratici** e del **problema cosmologico** (la *specializzazione* è un *peccato mortale* per il filosofo).
 # L'epistemologia
-## La *falsificabilità* e la *precarietà* della scienza
+## *Falsificabilità*, *precarietà* e *corroborazione*
 Il punto di partenza di Popper è la ricerca di un ***criterio di demarcazione*** che funga da linea di confine tra **asserzione *empiriche* e *non***. Subito boccia il **verificazionismo** come un'**utopia** in quanto bisognerebbe **valutare ogni caso possibili** per confermare del tutto una teoria. Invece teorizza il ***criterio di falsificabilità***: una teoria è ***scientifica*** solo se **può teoricamente essere smentita dall'esperienza**, ovvero se i suoi enunciati sono in potenziale conflitto con le osservazioni ed esibisce come **asserzioni-base delle esperienze falsificanti**.
-Tali asserzioni sono **elementari** (nel luogo K c'è un indice) e dunque **intersoggettivamente controllabili** e accettati in **accordo** fra gli scienziati: e poiché gli stessi possono metterli in discussione, segue che la **base empirica del sapere** è priva di assolutezza e che la **scienza** è **eretta su *fragili palafitte***.
-## La corroborazione
+
+Tali asserzioni sono **elementari** (nel luogo K c'è un indice) e dunque **intersoggettivamente controllabili** e accettati in **accordo** fra gli scienziati: e poiché gli stessi possono metterli in discussione, segue che la **base empirica del sapere** è priva di assolutezza e che la **scienza** è **eretta su *fragili palafitte***. Le asserzioni base hanno duplice funzione:
+- quelle **logicamente possibili** servono per **stabilire il carattere empirico delle teorie**, essendo dei possibili falsificatori
+- quelle **effettivamente accettate** sono il **punto di partenza del concreto meccanismo di controllo di una teoria**, senza le quali si avrebbe una nuova ***Babele delle lingue***
+
+La superiorità della *falsificabilità* deriva dall'***asimmetria*** con la *verificabilità*: *miliardi di conferme non certificano una teoria*, mentre **una contraddizione la confuta**. La scienza è l'**universo delle ipotesi** non ancora falsificate.
+
+Le teorie possono tuttavia essere ***corroborate*** quando hanno **superato il confronto con un'esperienza falsificante**, fungendo da **criterio di scelta tra ipotesi rivali**: la teoria che è *più corroborata* è preferibile, ma ciò non stabilisce la sua **verità**.
+
 ## La riabilitazione della metafisica
 ## La critica al marxismo e alla psicoanalisi
 ## Congetture e confutazioni

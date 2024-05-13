@@ -1,4 +1,3 @@
-# Pollo
 # Il movimento
 ## Coordinate spazio-temporali
 ### 15 aprile 1874 - 1886

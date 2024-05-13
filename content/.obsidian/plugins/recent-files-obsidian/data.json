@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
+      "basename": "Collegamenti ita",
+      "path": "Italiano/Collegamenti ita.md"
+    },
+    {
+      "basename": "Eugenio Montale",
+      "path": "Italiano/Eugenio Montale.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
     },
     {
       "basename": "Karl Popper",
       "path": "Filosofia/Karl Popper.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
     },
     {
       "basename": "Crisi dei fondamenti fisico-matematici",
@@ -31,10 +43,6 @@
     {
       "basename": "Sigmund Freud",
       "path": "Filosofia/Sigmund Freud.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md"
     },
     {
       "basename": "Henri Bergson",
@@ -149,10 +157,6 @@
       "path": "Inglese/James Joyce.md"
     },
     {
-      "basename": "Collegamenti ita",
-      "path": "Italiano/Collegamenti ita.md"
-    },
-    {
       "basename": "Italo Svevo",
       "path": "Italiano/Italo Svevo.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Degas_01",
       "path": "Arte/Immagini/Degas_01.jpg"
-    },
-    {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Simbolismo e Decadentismo.md"
-    },
-    {
-      "basename": "Biologia",
-      "path": "Scienze/Biologia.md"
     }
   ],
   "omittedPaths": [],

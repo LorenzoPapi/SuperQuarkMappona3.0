@@ -3,3 +3,5 @@ Verga: fiumana del progresso, ideale dell'ostrica, positivisimo e analogia decad
 Pirandello, Verga, D'annunzio, Svevo e rispettive visioni sul progresso
 Simbolismo, decadentismo e freud
 Leopardi e lettera madame de stahel
+
+Allegoria -> metafora -> simbolo -> folgorazione -> correlativo oggettivo, la parola ormai è concreta.
