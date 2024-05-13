@@ -4,18 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "f474a29910bc6b55",
+        "id": "a70e922b176f62d8",
         "type": "tabs",
         "children": [
           {
-            "id": "8da986019bc61000",
+            "id": "52f52d83eba3bc7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e6312c89510911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "339bbf08b80b5f37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Post-positivismo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,10 +76,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non chiederci",
+                "query": "#TODO",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -83,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
+              }
             }
           },
           {
@@ -157,35 +193,35 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8da986019bc61000",
+  "active": "a3e6312c89510911",
   "lastOpenFiles": [
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Filosofia/Neopositivismo.md",
+    "Filosofia/Post-positivismo.md",
+    "Filosofia/Sigmund Freud.md",
+    "Filosofia/Henri Bergson.md",
+    "Filosofia/Citazioni.md",
+    "Filosofia/Karl Popper.md",
+    "Italiano/Leopardi.md",
+    "Filosofia/Nascosti/Hegel.md",
+    "Crediti e About.md",
     "Italiano/Collegamenti ita.md",
     "Italiano/Eugenio Montale.md",
     "Media Note - Non chiederci la parola (Eugenio Montale, voce di Vittorio Gassman).md",
-    "Filosofia/Nietzsche/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Karl Popper.md",
     "Arte/Impressionismo.md",
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
-    "Filosofia/Post-positivismo.md",
-    "Filosofia/Neopositivismo.md",
     "Fisica/Teoria della relatività.md",
     "Fisica/Elettro-magnetismo.md",
-    "Filosofia/Sigmund Freud.md",
-    "Filosofia/Henri Bergson.md",
     "Filosofia/Nascosti/Schopenhauer.md",
     "Filosofia/Nascosti",
     "Filosofia/Nascosti/Positivismo.md",
     "Canovaccio.md",
     "Sacco; infinito; parardiso.md",
     "index.md",
-    "Crediti e About.md",
     "Filosofia/Gottlob Frege.md",
     "Filosofia/Bertrand Russell.md",
     "Arte/Postimpressionismo.md",
     "Arte/Proposte doc arte.md",
-    "Arte/Picasso.md",
-    "Arte/Matisse.md",
-    "Arte/Dadaismo.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

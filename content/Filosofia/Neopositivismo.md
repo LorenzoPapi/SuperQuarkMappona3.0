@@ -30,10 +30,9 @@ Nella prima fase, è rappresentato da autori accomunati da alcune convinzioni di
 - il **discorso scientifico è logico e formale** cioè deve tradurre le procedure scientifiche in un linguaggio con valore **predittivo** e **normativo**
 - socialmente, la filosofia doveva **opporsi alle filosofie irrazionalistiche** di fine Ottocento e ridare una **base apodittica alle scienze**, scosse dalle crisi di quegli anni
 ## Verificazionismo e protocolli
-`Una questione è di principio risolvibile se possiamo immaginare le esperienze che dovremmo avere per darle una risposta`.
-Questa frase, ripresa da ***Schlick***, spiega il ***principio di verificazione***, ovvero un principio che permette di **determinare la verificabilità di un enunciato**. In particolare,
-`il significato di una proposizione è il metodo della sua verifica`
-per cui un enunciato è **sensato solo se esistono procedure empiriche atte a verificarne o falsificarne la validità**. Il principio si rivolge solo alle **proposizioni dichiarative**, quindi alla sola significanza **cognitiva**, non a quella in generale.
+***Schlick*** spiega il ***principio di verificazione***, ovvero quel principio che permette di determinare la ***verificabilità* di un enunciato** nel seguente modo:
+`Una questione è di principio risolvibile se possiamo immaginare le esperienze che dovremmo avere per darle una risposta. Il significato di una proposizione è il metodo della sua verifica`.
+Dunque, un enunciato è **sensato solo se esistono procedure empiriche atte a verificarne o falsificarne la validità**. Il principio si rivolge solo alle **proposizioni dichiarative**, quindi alla sola significanza **cognitiva**, non a quella in generale.
 Legata alla verificazione è la ***polemica sui protocolli*** che si genera a partire dalla riflessione sulla **scelta delle esperienze che consentono la verifica empirica** e trova risposta in tre correnti di pensiero:
 - **fenomenismo** (Schlick): fonda **tutta la conoscenza su qualcosa di immediatamente dato** ed opta l'espressione delle esperienze nel **linguaggio fenomenistico**, dipendente dalla loro **ricezione psicologica individuale** (conoscenza diretta di Russell)
 - **fisicalismo** (Neurath): si riferisce agli **oggetti osservabili da tutti** ed è **intersoggettivo**
