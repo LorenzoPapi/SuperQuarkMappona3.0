@@ -9,7 +9,7 @@ Influenzato principalmente dal logicismo di [[Crisi dei fondamenti fisico-matema
 - **primo** Circolo (1907 - 1914): composto da ***Hahn, Frank e Neurath*** discutevano della **natura della filosofia**, della **logica della scienza** e dell'**insensatezza della metafisica**
 - **secondo** Circolo (1924 - 1938): comprendente ***Carnap e Gödel***, si fonda sul ***Tractatus*** di ***Wittgenstein*** e sull'opera di Carnap stesso, si sciolse dopo l'annessione dell'Austria alla Germania nazista
 
-Viene pubblicato il manifesto ***La concezione scientifica del mondo***, che indica i tratti caratteristici della nuova corrente filosofica:
+Viene pubblicato ***La concezione scientifica del mondo***, che indica i tratti caratteristici della nuova corrente filosofica:
 1) lo scopo di **unificare la sciena**
 2) l'enfasi sul **lavoro collettivo**
 3) l'identificazione del **metodo di chiarificazione concettuale** con l'**analisi logica**
@@ -23,12 +23,12 @@ Nella prima fase, è rappresentato da autori accomunati da alcune convinzioni di
 - le uniche **proposizioni con significato conoscitivo** sono quelle che possono essere **verificate empiricamente** (***criterio di significanza***)
 - poiché la ***scienza*** si basa sulla **verifica**, rappresenta l'**attività conoscitiva per eccellenza**
 - le proposizioni **metafisiche non hanno senso** perché **non sono verificabili** e dunque non hanno **significato** (per cui non ha senso parlare della loro verità)
-- metafisica, etica e religione **non hanno valenza conoscitiva**, si configurano soltanto come il **bisogno dell'uomo di esprimere le *proprie* considerazioni**, mettendo dunque a capo una costitutiva **incapacità di comunicazione** tra i suoi cultori
-- gli enunciati significanti sono classificati in **relazioni tra idee**, che costituiscono delle **tautologie**, e tra **fatti**, veri solo se **testimoniati dall'esperienza** (tradizione humeana)
+- metafisica, etica e religione **non hanno valenza conoscitiva**, si configurano soltanto come il **bisogno dell'uomo di esprimere le *proprie* considerazioni**, mettendo dunque a capo una costitutiva **incapacità di comunicazione**
+- gli enunciati significanti sono classificati in **relazioni tra idee** (***tautologie***), e tra **fatti** (veri se **testimoniati dall'*esperienza***), seguendo la tradizione humeana
 - la **filosofia** è un'**attività chiarificatrice** che ha come compito l'**analisi del linguaggio della scienza e denuncia di quello metafisico**
 - la **scienza è unica**, permettendo una visione unitaria del sapere che comprenda **scienze naturali e sociali**, sulla base di un'**ipotesi ontologicamente monistica** e **logicamente unitaria**
 - il **discorso scientifico è logico e formale** cioè deve tradurre le procedure scientifiche in un linguaggio con valore **predittivo** e **normativo**
-- socialmente, la filosofia doveva **opporsi alle filosofie irrazionalistiche** di fine Ottocento e ridare una **base apodittica alle scienze**, scosse dalle crisi di quegli anni
+- socialmente, la filosofia doveva **opporsi alle filosofie irrazionalistiche** di fine Ottocento e ridare una **base apodittica alle scienze**, scosse dalle [[Crisi dei fondamenti fisico-matematici|crisi]] di quegli anni
 ## Verificazionismo e protocolli
 ***Schlick*** spiega il ***principio di verificazione***, ovvero quel principio che permette di determinare la ***verificabilità* di un enunciato** nel seguente modo:
 `Una questione è di principio risolvibile se possiamo immaginare le esperienze che dovremmo avere per darle una risposta. Il significato di una proposizione è il metodo della sua verifica`.
