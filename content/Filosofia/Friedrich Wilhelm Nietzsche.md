@@ -35,7 +35,7 @@ L'opera risulta **composita** negli argomenti (filologia, filosofia, estetica e 
 - lo **spirito apollineo** nasce dalla **fuga dal divenire** ed è espresso nelle forme **armoniose** di **scultura** ed **epica**
 - lo **spirito dionisiaco** nasce dalla **forza vitale** e dalla **partecipazione al divenire** ed è espresso dall'**esaltazione creatrice** di **musica** e **lirica**
 
-In contrapposizione con la filologia dominante, sottolinea il **carattere originariamente dionisiaco** della sensibilità greca, tanto che scorge ovunque il **dramma della vita e della morte** e definisce l'apollineo come **sua conseguenza**, nonché **tentativo di sublimare il caos nella forma**l, come dimostrano gli **dei olimpici**.
+In contrapposizione con la filologia dominante, sottolinea il **carattere originariamente dionisiaco** della sensibilità greca, tanto che scorge ovunque il **dramma della vita e della morte** e definisce l'apollineo come **sua conseguenza**, nonché **tentativo di sublimare il caos nella forma**, come dimostrano gli **dei olimpici**.
 Primariamente, i due spiriti convissero separati, ma nell'età della **tragedia attica** (Sofocle ed Eschilo), i due impulsi si **armonizzarono fra loro**: la tragedia è `un coro dionisiaco che sempre di nuovo si scarica in un mondo apollineo di immagini`.
 Successivamente, nella **tragedia di Euripide** che inscena la **quotidianità dell'uomo**, prevale quello **apollineo** parallelamente all'**insegnamento razionalistico e ottimistico di Socrate** che compie l'**uccisione dell'istintualità**. La decadenza della tragedia funge da causa di quella della **civiltà occidentale** e trova simbolo nell'opposizione tra uomo **tragico** (accetta la vita) e uomo **teoretico** (`violenta la vita con i sillogismi`).
 La celebrazione del dionisiaco coincide con la **celebrazione della vita** che si pone **al di là di pessimismo e ottimismo**. Mentre da [[Schopenhauer]] Nietzsche deriva la tesi del **carattere doloroso dell'essere**, egli **respinge l'ascesi** contrapponendo alla ***noluntas*** un atteggiamento di **accettazione dell'essere** nella sua globalità. Poiché la vita è **dolore**, non ha né **ordine** né **scopo** e i due atteggiamenti verso di essa sono:
@@ -60,9 +60,10 @@ La prima sezione dell'opera è dedicata a **Voltaire**; viene detto illuminista 
 Questo nuovo metodo del pensiero è **critico storico-genealogico**:
 - critico perché **sospetto = regola di indagine**
 - storico-genealogico perché **realtà = esito di un processo da ricostruire**
+
 Il metodo si articola inoltre in due fasi:
 - **analisi storico-concettuale** che dimostra come i valori ritenuti ***eterni*** sono il frutto di uno sviluppo storico, dunque sono in realtà ***relativi*** e contingenti
-- **critica demistificante** con la quale rivela he sotto la **presunta assolutezza**, si celano **interessi umani**
+- **critica demistificante** con la quale rivela che sotto la **presunta assolutezza**, si celano **interessi umani**
 
 Nietzsche parla del suo metodo come ***chimica delle idee e dei sentimenti***, alludendo sia alla **demistificazione** (scomponendo le cose nobili e complesse nei semplici bisogni umani), sia alla **dialettica** (un atteggiamento scaturisce dal suo opposto).
 Le ***figure*** con le quali si concretizza la filosofia illuministica, sono lo ***spirito libero*** che si identifica con il **viandante** che riesce a **emanciparsi dalle tenebre passate**, e la ***filosofia del mattino*** da lui seguita, basata sulla concezione della vita come **transitorietà** e come **libero esperimento senza certezze precostituite**. Proprio la **morale** e la **metafisica** sono gli errori dell'umanità: se la morale sarà sviluppata negli ultimi scritti, la critica alla metafisica trova espressione nella teoria della *morte di Dio*, sviluppata nella ***Gaia scienza***.
@@ -127,7 +128,8 @@ Tale volontà non è solo teorica, ma è anche connessa alla **sopraffazione** e
 ## Il nichilismo
 Il problema del nichilismo è uno dei motivi più rilevanti della riflessione nietzscheana:
 - inizialmente, lo intende come **volontà del nulla** e **fuga dal mondo concreto**, atteggiamento incarnato nel *platonismo*
-- successivamente, il movimento storico che nasce dalla ***morte di Dio*** e la condizione dell'**uomo contemporaneo** che avverte di fronte all'essere lo **sgomento del vuoto e del nulla**
+- successivamente, come il movimento storico che nasce dalla ***morte di Dio*** e la condizione dell'**uomo contemporaneo** che avverte di fronte all'essere lo **sgomento del vuoto e del nulla**
+
 Poiché Nietzsche si presenta come il `primo perfetto nichilista d'Europa, che però ha già vissuto in sé fino in fondo il nichilismo stesso - che lo ha dietro di sé, sotto di sé, fuori di sé`, nasce il problema di capire il rapporto con esso.
 Alla domanda *che cos'è il nichilismo?* risponde che `manca il fine; manca la risposta al "perchè?"; i valori supremi si svalorizzano`. Ma perché l'uomo arriva a sostenere la **mancanza di un fine**? L'uomo dapprima si è **immaginato dei fini assoluti e trascendenti**, ma avendo scoperto la *morte di Dio*, è **piombato nel nichilismo**: anzi **quanto più è illuso, tanto più è rimasto deluso** come testimonia l'**individuo post-cristiano** che soffre di un terribile **senso di vuoto**. L'errore dei nichilismo moderno sta nell'identificare la **mancanza di metafisica** con la **mancanza di senso totale**: in realtà il significato esiste come **volontà di potenza** la quale **affrontando il caos dell'essere** gli **impone i propri fini**. Ciò mostra che Nietzsche anche essendo un **nichilista radicale**, lo sia tale da **superare il nichilismo stesso**: questa visione è uno *stato intermedio*, un **momentaneo *no* alla vita** che con la ***volontà di potenza*** prepara il ***sì* ad essa**. Distingue infatti due tipi di nichilismo:
 - **incompleto**: i **vecchi valori sono distrutti** ma i **nuovi hanno la stessa fisionomia dei precedenti** perché si ha ancora **bisogno di verità**

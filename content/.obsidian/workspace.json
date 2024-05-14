@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f5080af07fd675ef",
+        "id": "0add899799a4dc60",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5460e98518ce37",
+            "id": "77dfcd4481bf1f11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
+                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
+                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf"
+                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md"
               }
             }
           },
@@ -157,28 +162,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "77dfcd4481bf1f11",
   "lastOpenFiles": [
     "Filosofia/Karl Popper.md",
-    "NucleiTematici/Roba da sistemare/Il primo Novecento.docx",
+    "Filosofia/Neopositivismo.md",
+    "Fisica/Elettro-magnetismo.md",
+    "Fisica/Teoria della relatività.md",
+    "Filosofia/Sigmund Freud.md",
+    "Filosofia/Post-positivismo.md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
     "NucleiTematici/Roba da sistemare/latino.docx",
     "NucleiTematici/Roba da sistemare/Svetonio.docx",
-    "NucleiTematici/Roba da sistemare/Giovanni Pascoli.docx",
     "NucleiTematici/Roba da sistemare/Seneca_240506_150748.docx",
     "NucleiTematici/Roba da sistemare/Notes_240506_150617.docx",
     "NucleiTematici/Roba da sistemare/Notes_240506_150450.docx",
-    "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
+    "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
     "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/LA GLICOLISI E LE FERMENTAZIONI.pdf",
-    "Filosofia/Post-positivismo.md",
-    "Filosofia/Neopositivismo.md",
+    "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
+    "NucleiTematici/Roba da sistemare/Il primo Novecento.docx",
     "Filosofia/Henri Bergson.md",
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Sigmund Freud.md",
     "Filosofia/Citazioni.md",
     "Italiano/Leopardi.md",
     "Filosofia/Nascosti/Hegel.md",
@@ -187,8 +195,6 @@
     "Italiano/Eugenio Montale.md",
     "Media Note - Non chiederci la parola (Eugenio Montale, voce di Vittorio Gassman).md",
     "Arte/Impressionismo.md",
-    "Fisica/Teoria della relatività.md",
-    "Fisica/Elettro-magnetismo.md",
     "Filosofia/Nascosti/Schopenhauer.md",
     "Filosofia/Nascosti/Positivismo.md",
     "Canovaccio.md",
