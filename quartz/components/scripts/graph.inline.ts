@@ -25,6 +25,22 @@ function addToVisited(slug: SimpleSlug) {
   localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
 }
 
+function detectMob() {
+  const toMatch = [
+      /Android/i,
+      /webOS/i,
+      /iPhone/i,
+      /iPad/i,
+      /iPod/i,
+      /BlackBerry/i,
+      /Windows Phone/i
+  ];
+  
+  return toMatch.some((toMatchItem) => {
+      return navigator.userAgent.match(toMatchItem);
+  });
+}
+
 async function renderGraph(container: string, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
@@ -200,6 +216,63 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("r", nodeRadius)
     .attr("fill", color)
     .style("cursor", "pointer")
+    .on("touchstart", function (_, d) {
+      const currentId = d.id
+      const linkNodes = d3
+        .selectAll(".link")
+        .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
+
+      if (focusOnHover) {
+        // fade out non-neighbour nodes
+        connectedNodes = linkNodes.data().flatMap((d: any) => [d.source.id, d.target.id])
+
+        d3.selectAll<HTMLElement, NodeData>(".link")
+          .transition()
+          .duration(200)
+          .style("opacity", 0.2)
+        d3.selectAll<HTMLElement, NodeData>(".node")
+          .filter((d) => !connectedNodes.includes(d.id))
+          .transition()
+          .duration(200)
+          .style("opacity", 0.2)
+      }
+
+      // highlight links
+      linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
+
+      const bigFont = fontSize * 1.5
+
+      // show text for self
+      const parent = this.parentNode as HTMLElement
+      d3.select<HTMLElement, NodeData>(parent)
+        .raise()
+        .select("text")
+        .transition()
+        .duration(200)
+        .attr("opacityOld", d3.select(parent).select("text").style("opacity"))
+        .style("opacity", 1)
+        .style("font-size", bigFont + "em")
+    })
+    .on("touchend", function (_, d) {
+      if (focusOnHover) {
+        d3.selectAll<HTMLElement, NodeData>(".link").transition().duration(200).style("opacity", 1)
+        d3.selectAll<HTMLElement, NodeData>(".node").transition().duration(200).style("opacity", 1)
+      }
+      const currentId = d.id
+      const linkNodes = d3
+        .selectAll(".link")
+        .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
+
+      linkNodes.transition().duration(200).attr("stroke", "var(--lightgray)")
+
+      const parent = this.parentNode as HTMLElement
+      d3.select<HTMLElement, NodeData>(parent)
+        .select("text")
+        .transition()
+        .duration(200)
+        .style("opacity", d3.select(parent).select("text").attr("opacityOld"))
+        .style("font-size", fontSize + "em")
+    })
     .on("click", (_, d) => {
       const targ = resolveRelative(fullSlug, d.id)
       window.spaNavigate(new URL(targ, window.location.toString()))

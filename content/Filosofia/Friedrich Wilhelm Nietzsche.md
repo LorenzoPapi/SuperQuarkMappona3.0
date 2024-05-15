@@ -1,8 +1,8 @@
 # Biografia
 ## Filosofia e malattia
-Vi furono inizialmente due interpretazioni riguardo al rapporto filosofia-malattia:
-- secondo quella **positivista**, una **filosofia dovuta ad una mente malata è essa stessa malata**, sia che essa fosse **prodotto** o **causa** della malattia
-- secondo quella **avanguardista**, si valorizza la malattia come **necessaria per la creatività** del suo pensiero e per la **caduta delle illusioni irrazionali**
+Vi furono inizialmente due interpretazioni riguardo:
+- **positivista**: una **filosofia dovuta ad una mente malata -> è malata**, sia che essa fosse **prodotto** o **causa** della malattia
+- **avanguardista**: la malattia è **necessaria per la creatività** del suo pensiero e per la **caduta delle illusioni irrazionali**
 
 Ad oggi, il rapporto è **irrilevante** dato che la filosofia va **giudicata per i contenuti**, non ciò che li ha potuti generare.
 ## Nazificazione e denazificazione
