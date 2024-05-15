@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "it-IT",
+    baseUrl: "lorenzopapi.github.io/SuperQuarkMappona3.0",
     ignorePatterns: ["private", "templates", ".obsidian", "NucleiTematici", "Filosofia/Nascosti", "Canovaccio.md"],
     defaultDateType: "created",
     theme: {
