@@ -37,7 +37,8 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false
       }
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
+    //Component.DesktopOnly(Component.TableOfContents()),
+    Component.TableOfContents(),
     Component.Backlinks(),
   ],
 }
