@@ -1,0 +1,24 @@
+# Il principato per adozione (96 - 192)
+Con la morte di Domiziano, gli imperatori non si susseguirono più per successione dinastica, ma furono scelti dal loro predecessore in base al nuovo sistema: l’adozione.
+## Nerva (96 - 98)
+Conosciuto per aver sedato la congiura del Pisone, concesse l’amnistia e la restituzione delle proprietà sequestrate durante il principato di Domiziano. Rimase al governo per pochi anni e scelse come successore Traiano.
+## Traiano (98 - 117)
+Fu il primo imperatore di origine non italica a governare l’impero (originario della Spagna): si rivelò un ottimo imperatore, al punto di ottenere il titolo di *optimus princeps*, sapendo trovare un compromesso tra l’autorità del potere imperiale e l’ideale repubblicano di *libertas*. La sua fu una monarchia militare: riuscì a ridurre la Dacia a provincia e, per celebrare la vittoria, commissionò la costruzione della monumentale **colonna Traiana**. Occupò poi l’Armenia, la Mesopotamia e la Siria. In punto di morte consegnò l’anello ad Adriano.
+## Adriano (117 - 138)
+Abbandonò la politica espansionistica del suo predecessore puntando invece su una **strategia difensiva** (vallo di Adriano), viaggiando molto e fondando numerose città, quasi tutte chiamate ***Adrianopoli***. Grande amante della cultura, specialmente quella greca, è una volta tornato a Roma a fondò l’***Athenaeum***, un’accademia in cui si tenevano lezioni di retorica latina e greca. Adriano adottò come successore Lucio Ceionio Commodo ma, a causa della sua prematura morte, fu costretto a ripiegare su Antonino, che venne adottato solo a condizione che a sua volta avrebbe nominato come successori il proprio nipote, Marco Aurelio e Commodo Vero, figlio dell’erede morto.
+## Antonio Pio (138 - 161)
+Passò alla storia come Pio per il rispetto mostrato nei confronti della tradizione; seppe limitare il malgoverno dei funzionari e tutta l’autorità senatoria: la *pax romana* continuava a regnare incontrastata.
+## Marco Aurelio e Lucio Vero (161 - 180)
+Marco Aurelio si rivelò un imperatore rispettoso del Senato è un abile amministratore dello Stato: decise di associare al governo, con pari poteri, il fratello di adozione Lucio Vero. Per la prima volta fu sperimentata la **diarchia**. Quando i confini danubiani cominciarono a vacillare, i due imperatori si recarono personalmente al fronte: Lucio Vero morì durante il viaggio di ritorno in Italia. Il principato cominciò a vacillare a causa della pressione dei barbari ai confini e alla scarsità di risorse economiche e militari. La scelta di associare al potere il figlio Commodo decretò la fine della pace.
+## Commodo (180 - 192)
+Curandosi solo di alimentare il suo potere, sempre più **autocratico**., dopo un incendio disastroso che distrusse gran parte di Roma (**191**), rifondò la città con il nome di *Colonia Commodiana* ed assunse il titolo titolo di Ercole romano. Tuttavia, i suoi tentativi di divinizzazione provocarono l’antipatia del Senato e dell’aristocrazia, che lo eliminò con una congiura nel 192.
+
+---
+# Un nuovo orizzonte culturale
+Il clima di stabilità e prosperità si riflesse anche sulla vita culturale: si ebbe una maggiore **alfabetizzazione** e lo spostamento progressivo del centro culturale dalla capitale in direzione delle province. La progressiva **romanizzazione** dei territori dell’impero favorì l’interazione della cultura e della **lingua greca e latina**. Con l’avvento del principato il clima di *pax* e coesione favorì lo sviluppo di una cultura e una **letteratura bilingui**.
+
+Una delle dimostrazioni della diffusione della lingua e della cultura greca dell’impero fu la nascita di movimenti di pensiero che influenzarono anche la cultura e la letteratura latina. È il caso della **[[Apuleio|Seconda Sofistica]]**, un movimento di letterati e filosofi che recitavano orazioni nelle scuole di retorica, ispirandosi ai sofisti greci del V secolo a.C.. In questo modo le orazioni venivano completamente svuotate di ogni messaggio politico o filosofico.
+
+il rapporto tra gli intellettuali e il potere politico segnò profondamente la tendenza letteraria dell’epoca: Traiano, pur non essendo un uomo di lettere, influenzò positivamente scrittori del tempo come si nota dal [[Plinio il Giovane|Panegirico]] scritto in suo onore; Adriano fece costruire numerose **biblioteche** e **scuole di retorica**.
+
+Nel II secolo la poesia subì un generale declino deformandosi in puro ed effimero intrattenimento. Una delle tendenze letterarie più caratteristiche fu la riscoperta dell’**antico** e il gusto per l’**arcaismo**: gli intellettuali guardano ora agli oratori dell’età repubblicana come nuovi modelli stilistici. La ripresa dell’antico non si limitò allo **stile** o al **lessico** ma ad una riscoperta di **discipline specialistiche**, come la filologia. Inoltre la diffusione delle biblioteche pubbliche permise agli eruditi di scoprire gli antichi testi.

@@ -15,7 +15,7 @@ Gli stessi pretoriani proclamarono imperatore Claudio, lo zio di Caligola, frate
 
 Nel 48 d.C. Claudio sventò una congiura a cui prese parte anche la moglie infedele Messalina, condannata a morte. Sposò allora sua nipote Agrippina, figlia del fratello Germanico, che aveva già un figlio (**Nerone**). Per favorire l'ascesa di suo figlio, Agrippina fece adottare Nerone e poi avvelenò Claudio con dei funghi. 
 ## Nerone (54 - 68)
-A soli 16 anni divenne imperatore, sotto le guide della madre, di un prefetto e del filosofo [[Seneca]]. Inizialmente governò in modo illuminato, ma ben presto emersero le sue **tendenze assolutistiche**:
+A soli 16 anni divenne imperatore, sotto le guide della madre, di un prefetto e del filosofo [[Lucio Anneo Seneca]]. Inizialmente governò in modo illuminato, ma ben presto emersero le sue **tendenze assolutistiche**:
 - si liberò della madre, ripudiò la moglie Ottavia per sposare Poppea Sabina e nominò come nuovo prefetto lo scellerato Ofonio Tigellino
 - con l'obiettivo di diventare un sovrano assoluto, in politica estera guardò a Oriente
 - promulgò una **riforma monetaria** con cui riduceva il peso delle monete d'oro e aumentava quello delle monete d'argento
@@ -52,8 +52,8 @@ Al contrario del fratello moderato, Domiziano rinnovò la **tendenza autoritaria
 
 Tuttavia a Roma l'opposizione contro i suoi metodi di governo cresceva: rimase vittima di una congiura favorita dalla sua stessa moglie Domizia.  Il senato nominò imperatore l'anziano **Nerva** e decretò per l'ultimo dei Flavi la ***damnatio memoriae***.
 
----
-# La letteratura della prima età imperiale
+--- 
+# La letteratura della prima età imperiale 
 Morti anche Ovidio e Livio, tra gli intellettuali si diffuse la sensazione che tutto era già stato detto e nel migliore dei modi. Gli autori della prima età imperiale vissero infatti all'ombra dei capolavori augustei e la letteratura ("argentea") si basava sull'**emulazione manieristica**. 
 
 La corte imperiale non divenne mai un centro di aggregazione per gli intellettuali nonostante il controllo su di essi (per evitare le **opposizioni**); tuttavia ogni imperatore influenzò la letteratura del suo tempo e il rapporto con gli intellettuali. Non sempre infatti gli autori si trovavano d'accordo con la linea politica e lo dimostravano nei loro scritti. Una delle ragione per cui gli intellettuali rimpiangevano il principato augusteo era **l'assenza**, nella loro epoca, **di figure di spicco nel panorama culturale** (mancava un "mecenate"); a nessuno infatti interessava tutelare gli interessi degli intellettuali, che perciò dovettero cercare patroni facoltosi a cui poter chiedere finanziamenti. 
@@ -62,7 +62,7 @@ L'unico periodo in cui cultura e politica si son avvicinate è stato durante l'*
 
 L'età giulio-claudia fu un'epoca "*sperimentale*" a livello letterario: il gusto per l'eccesso, il passionale e il cupo dominava ogni genere e si perdeva la sobrietà dei classici di età augustea -> **Barocco imperiale**.
 ## La guerra allo stoicismo
-Lo **stoicismo**, da sempre grande nemico dell'assolutismo imperiale, in realtà non criticava il potere assoluto, ma invitava a riflettere sulla **libertà** del saggio: da qui il problema dell'assolutismo imperiale. Di fronte alla privazione della libertà politica, il **suicidio** diveniva il simbolo più evidente della totale padronanza della propria vita: in età neroniana, i suicidi di scrittori stoici aumentarono notevolmente ([[Seneca]], [[Petronio]] e [[Lucano]]). Lo stoicismo influenzò gli intellettuali anche per la critica e il contrasto con gli orientamenti artistici proposti dall'imperatore.
+Lo **stoicismo**, da sempre grande nemico dell'assolutismo imperiale, in realtà non criticava il potere assoluto, ma invitava a riflettere sulla **libertà** del saggio: da qui il problema dell'assolutismo imperiale. Di fronte alla privazione della libertà politica, il **suicidio** diveniva il simbolo più evidente della totale padronanza della propria vita: in età neroniana, i suicidi di scrittori stoici aumentarono notevolmente ([[Lucio Anneo Seneca]], [[Petronio]] e [[Lucano]]). Lo stoicismo influenzò gli intellettuali anche per la critica e il contrasto con gli orientamenti artistici proposti dall'imperatore.
   
 Vespasiano emanò un bando contro i filosofi, mentre Domiziano emanò un *senatusconsultum* per cacciare sa Roma e dall'Italia tutti i filosofi, i retori e i precettori e fece uccidere gli oppositori che dichiaravano di aderire allo stoicismo.
 ## Prosa e poesia
@@ -74,7 +74,7 @@ La cultura latina conosce un significativo incremento anche della **prosa scient
 **46**: di famiglia equestre, milita in Germania e conosce il futuro imperatore Tito.
 **69**: rientrato a Roma, divenne *procuratore imperiale* con Vespasiano al trono. Lavorava e studiava giorno e notte, considerando sprecata ogni ora che non fosse dedita all'attività intellettuale.
 **79**: volendo studiare più da vicino l'eruzione del Vesuvio, morì asfissiato.
-#### Opere
+#### *Naturalis historia*
 La sua produzione letteraria è immensa, dovuta alla sua instancabile attività di studioso. La principale opere di Plinio è la ***[Naturalis historia](## Storia naturale)*** (**37 libri**), si tratta di un'**opera enciclopedica** che tratta ogni ramo della scienza:
 - Libro 1: **dedica a Tito**, indice e bibliografia -> l'opera era destinata alla **consultazione**, attingendo a 146 autori latini e 327 autori greci registrando le informazioni **acriticamente**
 - Libri 2 - 6: cosmologia e geografia

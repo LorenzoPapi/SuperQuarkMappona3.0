@@ -47,7 +47,7 @@ Nietzsche sceglie di essere **discepolo di Dioniso**, colui che incarna **tutte 
 ## *Considerazioni inattuali* (la concezione della storia)
 Le quattro considerazioni, più che teorizzanti l'auspicata **rinascita della cultura tragica**, diventano una **critica della cultura contemporanea**. Nella seconda, *Sull'utilità e il danno della storia per la vita*, si schiera **contro lo storicismo**, sostenendo che l'**eccesso di storia** è una **malattia** di cui l'uomo del XIX secolo soffre per la sua **coscienza epigonale** (seguace) ed è propenso a ritenere che "non c'è nulla di nuovo sotto il sole"; inoltre favorisce l'***idolatria del fatto*** e fa dell'uomo un **processo necessario** costretto a chinare la testa davanti la potenza della storia, accontentandosi del ***consumismo della storia***.
 
-Contro questo atteggiamento, ricorda il ***fattore oblio*** perché **senza incoscienza non c'è felicità** ([[Leopardi]], animali) e perché per **poter agire bisogna dimenticare il passato**. Tuttavia la **storia deve essere al servizio della vita** in tre possibili rapporti. Ognuno di questi generi è valido solo se **non utilizzato esclusivamente**: è necessario un approccio alla storia che **integri tutti i possibili rapporti** con essa.
+Contro questo atteggiamento, ricorda il ***fattore oblio*** perché **senza incoscienza non c'è felicità** ([[Giacomo Leopardi]], animali) e perché per **poter agire bisogna dimenticare il passato**. Tuttavia la **storia deve essere al servizio della vita** in tre possibili rapporti. Ognuno di questi generi è valido solo se **non utilizzato esclusivamente**: è necessario un approccio alla storia che **integri tutti i possibili rapporti** con essa.
 
 |   Storia    |         Ricerca         |      Individuo      |              Pro              |                                  Contro                                   |
 | :---------: | :---------------------: | :-----------------: | :---------------------------: | :-----------------------------------------------------------------------: |
@@ -156,7 +156,7 @@ Il prospettivismo, tuttavia, non comporta l'**equivalenza di tutte le interpreta
 **Arte**: 
 **Fisica**: [[Teoria della relatività]] (crisi delle certezze)
 **Inglese**: [[Oscar Wilde]] ("il mondo è un'opera d'arte che genera se stessa")
-**Italiano**: [[D'Annunzio]] (superuomo)
+**Italiano**: [[Gabriele D'Annunzio]] (superuomo)
 **Latino**:
 **Matematica**: 
 **Scienze**: 

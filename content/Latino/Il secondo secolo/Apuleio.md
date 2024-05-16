@@ -1,4 +1,4 @@
-# Coordinate spazio-temporali
+# Biografia
 ## 125, Madaura
 Originario dell'**Algeria**, viene considerato uno dei **più grandi narratori dell'antichità**. Appartenente ad una famiglia agiata, suo padre era **duumviro** e lasciò ai figli due milioni di sesterzi, cifra viene **diminuita** per la sua generosità, il suo amore per i viaggi e la dedizione agli studi, che lo portò ad approfondire **grammatica e retorica** a **Cartagine** e studi **filosofici** ad **Atene**, accostandosi alle scienze naturali ed al platonismo, acquisendo quel carattere **enciclopedico** irrinunciabile per ogni intellettuale, nonché a quelle **dottrine mistiche orientali**: a **Cartagine** si avvicinò ai misteri di **Asclepio**, ad **Atene** a quelli di **Demetra** e a **Roma**, dove divenne poi **avvocato**, fu iniziato ai culti di **Iside** ed **Osiride**.
 ## 155, Oea

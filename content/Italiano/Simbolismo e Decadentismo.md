@@ -26,7 +26,7 @@ Per i positivisti la realtà è interamente conoscibile, per gli antipositivisti
 Il simbolismo viene inglobato nell'attegiamento (non poetica) del Decadentismo. Il D. è molto ampio e va studiato meglio #TODO .
 La parola decadentismo proviene dall'attacco dei critici francesi dell'epoca contro i maledetti, che invece adottarono la parola per autodefinirsi.
 
-[[Pascoli]] è un decadentista, si fa interprete italiano del Simbolismo francese.
+[[Giovanni Pascoli]] è un decadentista, si fa interprete italiano del Simbolismo francese.
 I decadentisti sono convinti di vivere un periodo di decadenza sociale e culturale, tutto volge alla sua morte.
 Altre esperienze di tipo decadentista
 - Superomismo ed estetismo di d'Annunzio

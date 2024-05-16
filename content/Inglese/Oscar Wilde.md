@@ -24,4 +24,4 @@ The main characters are symbols of certain values:
 The themes are those of **beauty** and **appearance** as the **ultimate values in life**, from which emerges the **Faustian pact** between Dorian and the painting and the theme of the **double**: while Dorian **appears good and beautiful**, he’s the **most spiritually corrupted man** in the world, symbolizing the **Victorian middle class**. The story is told by an **impersonal third-person narrator** and characters are defined by **their actions**.
 # Links
 **Art**: aestheticism and [[Impressionismo|impressionism]] are strictly related to each other, both chronologically and for their ideal of considering art a reality in itself.
-**Italian**: it's impossible not to see the analogies between Oscar Wilde's masterpiece and [[D'Annunzio]]'s work "Il piacere", both heavily influenced by the philosophy of Aestheticism.
+**Italian**: it's impossible not to see the analogies between Oscar Wilde's masterpiece and [[Gabriele D'Annunzio]]'s work "Il piacere", both heavily influenced by the philosophy of Aestheticism.

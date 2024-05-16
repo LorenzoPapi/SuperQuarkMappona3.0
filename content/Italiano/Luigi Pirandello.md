@@ -6,11 +6,11 @@ La vita è un flusso magmatico inarrestabile che prima o poi avrà bisogno di co
 
 Il Fu Mattia Pascal è il primo romanzo che mette in pratica l'umorismo. Anche lui inizialmente si libera di tutte le sue forme, ma scopre che senza forme non si può vivere. Tant'è che alla fine tenta di rientrare nella forma, ma non ci riesce.
 Passi interessanti del Fu Mattia Pascal:
-- Maledetto Copernico! (collega con [[Leopardi]])
+- Maledetto Copernico! (collega con [[Giacomo Leopardi]])
 - Squarcio nel cielo di carta
 - Canarino
 - Lanterninosofia
-- Tram a Milano (collega con [[Futurismo]] e [[D'Annunzio]])
+- Tram a Milano (collega con [[Futurismo]] e [[Gabriele D'Annunzio]])
 - Passeggiata sulla Spiaggia
 La capacità di scomporre la realtà e trovarne le contraddizioni fa di Mattia Pascal un umorista.
 

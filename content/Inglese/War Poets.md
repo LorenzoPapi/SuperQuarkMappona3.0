@@ -21,7 +21,7 @@ It describes a **gas attack**, in which a soldier **dies of agony** because he c
 **Art**: 
 **Filosofia**: [[Friedrich Wilhelm Nietzsche]]
 **Fisica**: 
-**Italiano**: [[D'Annunzio]]
+**Italiano**: [[Gabriele D'Annunzio]]
 **Latino**: 
 **Matematica**: 
 **Scienze**: (gas mostarda)

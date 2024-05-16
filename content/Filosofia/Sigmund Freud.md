@@ -60,7 +60,7 @@ La civiltà invece **devia la ricerca del piacere** nella società e nel lavoro,
 **Arte**: [[Surrealismo]]
 **Fisica**: 
 **Inglese**: [[David Herbert Lawrence]] (complesso di Edipo)
-**Italiano**: [[Italo Svevo]] (coscienza di Zeno), [[Pascoli]] (*Il poeta e la fantasia*)
+**Italiano**: [[Italo Svevo]] (coscienza di Zeno), [[Giovanni Pascoli]] (*Il poeta e la fantasia*)
 **Latino**:
 **Matematica**:
 **Scienze**:

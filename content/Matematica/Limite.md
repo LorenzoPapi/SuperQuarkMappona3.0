@@ -114,7 +114,7 @@ $$
 **Filosofia**: [[Hegel]]
 **Fisica**: [[Teoria della relatività]], Meccanica quantistica e infinite possibilità
 **Inglese**: #TODO
-**Italiano**: [[Leopardi]]
-**Latino**: [[Seneca]] (limitatezza dell'essere umano?)
+**Italiano**: [[Giacomo Leopardi]]
+**Latino**: [[Lucio Anneo Seneca]] (limitatezza dell'essere umano?)
 **Scienze**: #TODO 
 **Storia**: #TODO 

@@ -1,4 +1,4 @@
-# Coordinate spazio-temporali
+# Biografia
 ## 4 a.C., Cordova
 Nasce come **figlio di Seneca il Retore**, appartenente alla **ricca classe provinciale**. Si trasferisce a Roma e viene istruito da **Attalo** allo **stoicismo**: di salute cagionevole, medita spesso il **suicidio**, dal quale però si desta pensando al dolore che avrebbe inflitto al padre. Per migliorare la sua salute, si trasferisce in **Egitto** dal parente prefetto **Gaio Valerio**.
 ## 31 d.C., Roma

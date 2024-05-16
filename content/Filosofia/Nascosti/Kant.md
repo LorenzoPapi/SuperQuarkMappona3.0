@@ -7,4 +7,4 @@
 ## Pensiero
 #TODO prendi da articoli di Gargano
 ## Opinione
-#TODO collega con [[Leopardi]], [[Dante]], [[Darwin]], Aristotele, Democrito, Turner, [[Seneca]] (filtri, infinito, sublime, finalismo vs meccanicismo, moralità, concezione scientifica)
+#TODO collega con [[Giacomo Leopardi]], [[Dante]], [[Darwin]], Aristotele, Democrito, Turner, [[Lucio Anneo Seneca]] (filtri, infinito, sublime, finalismo vs meccanicismo, moralità, concezione scientifica)

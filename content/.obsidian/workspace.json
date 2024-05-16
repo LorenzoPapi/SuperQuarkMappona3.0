@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0add899799a4dc60",
+        "id": "feaff0d6d4782901",
         "type": "tabs",
         "children": [
           {
-            "id": "77dfcd4481bf1f11",
+            "id": "b302881cc63cca60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Postimpressionismo.md",
+                "file": "Italiano/Giuseppe Ungaretti.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#TODO",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Postimpressionismo.md",
+                "file": "Italiano/Giuseppe Ungaretti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Postimpressionismo.md",
+                "file": "Italiano/Giuseppe Ungaretti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Postimpressionismo.md"
+                "file": "Italiano/Giuseppe Ungaretti.md"
               }
             }
           },
@@ -165,44 +165,44 @@
       "media-extended:Open media": false
     }
   },
-  "active": "77dfcd4481bf1f11",
+  "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
-    "Arte/Impressionismo.md",
-    "Arte/Postimpressionismo.md",
-    "Latino/Storia della letteratura latina (14 - 476).md",
-    "Latino/latino.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
-    "Matematica/Limite.md",
-    "Latino/Apuleio.md",
-    "Matematica/Integrazione.md",
-    "Matematica/Derivata.md",
-    "Matematica/Studio di funzione.md",
-    "templates/Collegamenti.md",
-    "templates/English Author.md",
-    "Canovaccio.md",
+    "Italiano/Giovanni Pascoli.md",
+    "Italiano/Naturalismo e Verismo.md",
+    "Italiano/Italo Svevo.md",
+    "Italiano/Giovanni Verga.md",
+    "Italiano/Luigi Pirandello.md",
+    "Italiano/Giacomo Leopardi.md",
+    "Italiano/Gabriele D'Annunzio.md",
+    "Italiano/Dante.md",
+    "Filosofia/Nascosti/Hegel.md",
     "Crediti e About.md",
-    "index.md",
-    "Latino/Petronio.md",
-    "Latino/Notes_240506_150617.md",
-    "Filosofia/Post-positivismo.md",
+    "Latino/Il secondo secolo/Plinio il Giovane.md",
+    "Latino/Il secondo secolo/Gaio Svetonio Tranquillo.md",
+    "templates/Collegamenti.md",
+    "NucleiTematici/Roba da sistemare/Seneca.docx",
+    "templates/Autore Latino-Italiano.md",
+    "templates/English Author.md",
+    "Inglese/Charles Dickens.md",
+    "Inglese/Bronte sisters.md",
     "Filosofia/Sigmund Freud.md",
+    "Filosofia/Post-positivismo.md",
     "Filosofia/Neopositivismo.md",
     "Filosofia/Karl Popper.md",
-    "Fisica/Elettro-magnetismo.md",
-    "Fisica/Teoria della relatività.md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "Latino/Il primo secolo/Quintiliano.md",
+    "Latino/Il primo secolo/Lucio Anneo Seneca.md",
+    "Latino/Il primo secolo/Il primo secolo d.C. (14 - 96).md",
+    "Latino/Il secondo secolo/Il secondo secolo d.C. (96 - 192).md",
+    "NucleiTematici/Roba da sistemare/italiano.docx",
+    "Latino/Il secondo secolo",
+    "Latino/Il primo secolo",
     "NucleiTematici/Roba da sistemare/latino.docx",
     "NucleiTematici/Roba da sistemare/Svetonio.docx",
     "NucleiTematici/Roba da sistemare/Seneca_240506_150748.docx",
     "NucleiTematici/Roba da sistemare/Notes_240506_150617.docx",
     "NucleiTematici/Roba da sistemare/Notes_240506_150450.docx",
     "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
-    "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
-    "NucleiTematici/Roba da sistemare/LA GLICOLISI E LE FERMENTAZIONI.pdf",
-    "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
-    "NucleiTematici/Roba da sistemare/Il primo Novecento.docx",
-    "Filosofia/Henri Bergson.md",
-    "Filosofia/Citazioni.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
