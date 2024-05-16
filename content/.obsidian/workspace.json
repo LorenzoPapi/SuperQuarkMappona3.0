@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Storia della letteratura latina (18-476).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7635747c239351b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematica/Limite.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52920bc7d533a6a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Storia della letteratura latina (14 - 476).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Storia della letteratura latina (14 - 476).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Latino/Storia della letteratura latina (14 - 476).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Limite.md"
+                "file": "Latino/Storia della letteratura latina (14 - 476).md"
               }
             }
           },
@@ -193,18 +166,29 @@
       "media-extended:Open media": false
     }
   },
-  "active": "52920bc7d533a6a4",
+  "active": "77dfcd4481bf1f11",
   "lastOpenFiles": [
-    "Latino/Storia della letteratura latina (18-476).md",
+    "Latino/latino.md",
+    "Latino/Storia della letteratura latina (14 - 476).md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Matematica/Limite.md",
+    "Arte/Impressionismo.md",
+    "Latino/Apuleio.md",
+    "Matematica/Integrazione.md",
+    "Matematica/Derivata.md",
+    "Matematica/Studio di funzione.md",
+    "templates/Collegamenti.md",
+    "templates/English Author.md",
+    "Canovaccio.md",
+    "Crediti e About.md",
+    "index.md",
     "Latino/Petronio.md",
     "Latino/Notes_240506_150617.md",
-    "Latino/latino.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Filosofia/Post-positivismo.md",
     "Filosofia/Sigmund Freud.md",
     "Filosofia/Neopositivismo.md",
     "Filosofia/Karl Popper.md",
-    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
     "Fisica/Elettro-magnetismo.md",
     "Fisica/Teoria della relatività.md",
     "NucleiTematici/Roba da sistemare/latino.docx",
@@ -220,17 +204,6 @@
     "Filosofia/Henri Bergson.md",
     "Filosofia/Citazioni.md",
     "Italiano/Leopardi.md",
-    "Filosofia/Nascosti/Hegel.md",
-    "Crediti e About.md",
-    "Italiano/Collegamenti ita.md",
-    "Italiano/Eugenio Montale.md",
-    "Media Note - Non chiederci la parola (Eugenio Montale, voce di Vittorio Gassman).md",
-    "Arte/Impressionismo.md",
-    "Filosofia/Nascosti/Schopenhauer.md",
-    "Filosofia/Nascosti/Positivismo.md",
-    "Canovaccio.md",
-    "Sacco; infinito; parardiso.md",
-    "index.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

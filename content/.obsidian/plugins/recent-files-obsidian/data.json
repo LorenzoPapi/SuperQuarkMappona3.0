@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
-      "basename": "Storia della letteratura latina (18-476)",
-      "path": "Latino/Storia della letteratura latina (18-476).md"
-    },
-    {
-      "basename": "Petronio",
-      "path": "Latino/Petronio.md"
-    },
-    {
-      "basename": "Notes_240506_150617",
-      "path": "Latino/Notes_240506_150617.md"
+      "basename": "Storia della letteratura latina (14 - 476)",
+      "path": "Latino/Storia della letteratura latina (14 - 476).md"
     },
     {
       "basename": "latino",
@@ -23,6 +11,62 @@
     {
       "basename": "Friedrich Wilhelm Nietzsche",
       "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Crisi dei fondamenti fisico-matematici",
+      "path": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
+    },
+    {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Apuleio",
+      "path": "Latino/Apuleio.md"
+    },
+    {
+      "basename": "Integrazione",
+      "path": "Matematica/Integrazione.md"
+    },
+    {
+      "basename": "Derivata",
+      "path": "Matematica/Derivata.md"
+    },
+    {
+      "basename": "Studio di funzione",
+      "path": "Matematica/Studio di funzione.md"
+    },
+    {
+      "basename": "Collegamenti",
+      "path": "templates/Collegamenti.md"
+    },
+    {
+      "basename": "English Author",
+      "path": "templates/English Author.md"
+    },
+    {
+      "basename": "Canovaccio",
+      "path": "Canovaccio.md"
+    },
+    {
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Petronio",
+      "path": "Latino/Petronio.md"
+    },
+    {
+      "basename": "Notes_240506_150617",
+      "path": "Latino/Notes_240506_150617.md"
     },
     {
       "basename": "Post-positivismo",
@@ -39,10 +83,6 @@
     {
       "basename": "Karl Popper",
       "path": "Filosofia/Karl Popper.md"
-    },
-    {
-      "basename": "Crisi dei fondamenti fisico-matematici",
-      "path": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
     },
     {
       "basename": "Elettro-magnetismo",
@@ -69,10 +109,6 @@
       "path": "Filosofia/Nascosti/Hegel.md"
     },
     {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
       "basename": "Collegamenti ita",
       "path": "Italiano/Collegamenti ita.md"
     },
@@ -81,24 +117,12 @@
       "path": "Italiano/Eugenio Montale.md"
     },
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
       "basename": "Schopenhauer",
       "path": "Filosofia/Nascosti/Schopenhauer.md"
     },
     {
       "basename": "Positivismo",
       "path": "Filosofia/Nascosti/Positivismo.md"
-    },
-    {
-      "basename": "Canovaccio",
-      "path": "Canovaccio.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Postimpressionismo",
@@ -131,18 +155,6 @@
     {
       "basename": "Crisi delle certezze",
       "path": "NucleiTematici/Crisi delle certezze.md"
-    },
-    {
-      "basename": "Integrazione",
-      "path": "Matematica/Integrazione.md"
-    },
-    {
-      "basename": "Derivata",
-      "path": "Matematica/Derivata.md"
-    },
-    {
-      "basename": "Studio di funzione",
-      "path": "Matematica/Studio di funzione.md"
     },
     {
       "basename": "Kant",
@@ -187,18 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Integrale",
-      "path": "Matematica/Integrale.md"
-    },
-    {
-      "basename": "Seconda rivoluzione industriale",
-      "path": "Storia/Seconda rivoluzione industriale.md"
-    },
-    {
-      "basename": "Verga",
-      "path": "Italiano/Verga.md"
     }
   ],
   "omittedPaths": [],

@@ -1,11 +1,5 @@
+// vorrei togliere questa merda ma se lo faccio si sminchia tutto porc
 .backlinks {
-  position: relative;
-
-  & > h3 {
-    font-size: 1rem;
-    margin: 0;
-  }
-
   & > ul {
     list-style: none;
     padding: 0;
@@ -15,6 +9,53 @@
       & > a {
         background-color: transparent;
       }
+    }
+  }
+}
+
+button#bls {
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  & h3 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+#bls-content {
+  list-style: none;
+  overflow: hidden;
+  max-height: none;
+  transition: max-height 0.5s ease;
+  
+  &.collapsed > .overflow::after {
+    opacity: 0;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0.5rem 0;
+    padding: 0;
+    & > li {
+      background-color: transparent;
     }
   }
 }
