@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Storia della letteratura latina (14 - 476).md",
+                "file": "Arte/Postimpressionismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Storia della letteratura latina (14 - 476).md",
+                "file": "Arte/Postimpressionismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Storia della letteratura latina (14 - 476).md",
+                "file": "Arte/Postimpressionismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Storia della letteratura latina (14 - 476).md"
+                "file": "Arte/Postimpressionismo.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +167,13 @@
   },
   "active": "77dfcd4481bf1f11",
   "lastOpenFiles": [
-    "Latino/latino.md",
+    "Arte/Impressionismo.md",
+    "Arte/Postimpressionismo.md",
     "Latino/Storia della letteratura latina (14 - 476).md",
+    "Latino/latino.md",
     "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Filosofia/Crisi dei fondamenti fisico-matematici.md",
     "Matematica/Limite.md",
-    "Arte/Impressionismo.md",
     "Latino/Apuleio.md",
     "Matematica/Integrazione.md",
     "Matematica/Derivata.md",
@@ -203,7 +203,6 @@
     "NucleiTematici/Roba da sistemare/Il primo Novecento.docx",
     "Filosofia/Henri Bergson.md",
     "Filosofia/Citazioni.md",
-    "Italiano/Leopardi.md",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
