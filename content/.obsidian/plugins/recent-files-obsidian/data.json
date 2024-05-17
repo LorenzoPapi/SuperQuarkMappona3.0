@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Karl Marx",
+      "path": "Filosofia/Nascosti/Karl Marx.md"
+    },
+    {
+      "basename": "Agostino",
+      "path": "Latino/Il 4° secolo/Agostino.md"
+    },
+    {
+      "basename": "La crisi del III secolo (193 - 305)",
+      "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
+    },
+    {
       "basename": "Giuseppe Ungaretti",
       "path": "Italiano/Giuseppe Ungaretti.md"
     },
@@ -46,11 +62,11 @@
     },
     {
       "basename": "Plinio il Giovane",
-      "path": "Latino/Il secondo secolo/Plinio il Giovane.md"
+      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
     },
     {
       "basename": "Gaio Svetonio Tranquillo",
-      "path": "Latino/Il secondo secolo/Gaio Svetonio Tranquillo.md"
+      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
     },
     {
       "basename": "Collegamenti",
@@ -94,27 +110,27 @@
     },
     {
       "basename": "Quintiliano",
-      "path": "Latino/Il primo secolo/Quintiliano.md"
+      "path": "Latino/Il 1° secolo/Quintiliano.md"
     },
     {
       "basename": "Lucio Anneo Seneca",
-      "path": "Latino/Il primo secolo/Lucio Anneo Seneca.md"
+      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
     },
     {
       "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il primo secolo/Il primo secolo d.C. (14 - 96).md"
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
     },
     {
       "basename": "Il secondo secolo d.C. (96 - 192)",
-      "path": "Latino/Il secondo secolo/Il secondo secolo d.C. (96 - 192).md"
+      "path": "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md"
     },
     {
       "basename": "Apuleio",
-      "path": "Latino/Il secondo secolo/Apuleio.md"
+      "path": "Latino/Il 2° secolo/Apuleio.md"
     },
     {
       "basename": "Tacito",
-      "path": "Latino/Il secondo secolo/Tacito.md"
+      "path": "Latino/Il 2° secolo/Tacito.md"
     },
     {
       "basename": "Postimpressionismo",
@@ -122,7 +138,7 @@
     },
     {
       "basename": "Petronio",
-      "path": "Latino/Il primo secolo/Petronio.md"
+      "path": "Latino/Il 1° secolo/Petronio.md"
     },
     {
       "basename": "Impressionismo",
@@ -130,11 +146,7 @@
     },
     {
       "basename": "Lucano",
-      "path": "Latino/Il primo secolo/Lucano.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
+      "path": "Latino/Il 1° secolo/Lucano.md"
     },
     {
       "basename": "Avant-garde",
@@ -187,18 +199,6 @@
     {
       "basename": "Elettro-magnetismo",
       "path": "Fisica/Elettro-magnetismo.md"
-    },
-    {
-      "basename": "Teoria della relatività",
-      "path": "Fisica/Teoria della relatività.md"
-    },
-    {
-      "basename": "Henri Bergson",
-      "path": "Filosofia/Henri Bergson.md"
-    },
-    {
-      "basename": "Citazioni",
-      "path": "Filosofia/Citazioni.md"
     }
   ],
   "omittedPaths": [],

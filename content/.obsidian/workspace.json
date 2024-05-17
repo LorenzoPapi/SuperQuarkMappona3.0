@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Giuseppe Ungaretti.md",
+                "file": "Arte/Art Nouveau.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Giuseppe Ungaretti.md",
+                "file": "Arte/Art Nouveau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Giuseppe Ungaretti.md",
+                "file": "Arte/Art Nouveau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Giuseppe Ungaretti.md"
+                "file": "Arte/Art Nouveau.md"
               }
             }
           },
@@ -165,8 +165,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "b302881cc63cca60",
   "lastOpenFiles": [
+    "Filosofia/Nascosti/Karl Marx.md",
+    "Arte/Art Nouveau.md",
+    "Latino/Il 4° secolo/Agostino.md",
+    "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md",
+    "orphaned files output.md",
+    "Latino/Il 4° secolo",
+    "Italiano/Giuseppe Ungaretti.md",
+    "Latino/Il 3° secolo",
     "Italiano/Giovanni Pascoli.md",
     "Italiano/Naturalismo e Verismo.md",
     "Italiano/Italo Svevo.md",
@@ -177,8 +185,8 @@
     "Italiano/Dante.md",
     "Filosofia/Nascosti/Hegel.md",
     "Crediti e About.md",
-    "Latino/Il secondo secolo/Plinio il Giovane.md",
-    "Latino/Il secondo secolo/Gaio Svetonio Tranquillo.md",
+    "Latino/Il 2° secolo/Plinio il Giovane.md",
+    "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md",
     "templates/Collegamenti.md",
     "NucleiTematici/Roba da sistemare/Seneca.docx",
     "templates/Autore Latino-Italiano.md",
@@ -188,21 +196,13 @@
     "Filosofia/Sigmund Freud.md",
     "Filosofia/Post-positivismo.md",
     "Filosofia/Neopositivismo.md",
-    "Filosofia/Karl Popper.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
-    "Latino/Il primo secolo/Quintiliano.md",
-    "Latino/Il primo secolo/Lucio Anneo Seneca.md",
-    "Latino/Il primo secolo/Il primo secolo d.C. (14 - 96).md",
-    "Latino/Il secondo secolo/Il secondo secolo d.C. (96 - 192).md",
     "NucleiTematici/Roba da sistemare/italiano.docx",
-    "Latino/Il secondo secolo",
-    "Latino/Il primo secolo",
+    "Latino/Il 2° secolo",
+    "Latino/Il 1° secolo",
     "NucleiTematici/Roba da sistemare/latino.docx",
     "NucleiTematici/Roba da sistemare/Svetonio.docx",
     "NucleiTematici/Roba da sistemare/Seneca_240506_150748.docx",
     "NucleiTematici/Roba da sistemare/Notes_240506_150617.docx",
-    "NucleiTematici/Roba da sistemare/Notes_240506_150450.docx",
-    "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
