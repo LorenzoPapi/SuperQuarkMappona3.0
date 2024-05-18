@@ -17,27 +17,31 @@ async function savePDF(this : HTMLElement) {
   //   pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight)  
   //   pdf.save('MYPdf.pdf'); // Generated PDF   
   // });
-  // const contentIndexPath = "/static/contentIndex.json"
-  // const fetchData = fetch(contentIndexPath).then(data => data.json())
+  const contentIndexPath = "/static/contentIndex.json"
+  const fetchData = fetch(contentIndexPath).then(data => data.json())
   
-  // const data = await fetchData
-  // console.log(Object.keys(data))
+  const data = await fetchData
+  console.log(Object.keys(data))
 
-  // var fileName = null
-  // Object.keys(data).forEach((el) => {
-  //   //console.log(el, decodeURI(location.href))
-  //   if (decodeURI(location.href).includes(el)) {
-  //     console.log("BINGO")
-  //     fileName = el
-  //     return
-  //   }
-  // })
-  // if (fileName) {
-  //   console.log(fileName)
-  //   //const pdf = ;//{path: `/content/${fileName}`}
+  var fileName = null
+  Object.keys(data).forEach((el) => {
+    //console.log(el, decodeURI(location.href))
+    if (decodeURI(location.href).includes(el)) {
+      console.log("BINGO")
+      fileName = el
+      return
+    }
+  })
+  if (fileName) {
+    console.log(fileName)
+    var link = document.createElement('a')
+    link.href = `./../pdfs/${fileName}`
+    link.download = fileName
+    link.click()
+    //const pdf = ;//{path: `/content/${fileName}`}
 
-  //   //if (pdf) fs.writeFileSync("test.pdf", pdf.content)
-  // } else console.log('ERROR')
+    //if (pdf) fs.writeFileSync("test.pdf", pdf.content)
+  } else console.log('ERROR')
 }
 
 function setupSavePDF(this: HTMLElement) {
