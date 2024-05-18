@@ -25,9 +25,11 @@ jobs:
         with:
           node-version: 20.12.2
       - name: Install Dependencies
-        run: npm ci
+        run: npm ci; npm i md-to-pdf;
       - name: Build Quartz
         run: npx quartz build
+      - name: Construct PDFs
+        run: ./generate_PDFs.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
