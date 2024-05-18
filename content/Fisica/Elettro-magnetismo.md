@@ -26,4 +26,4 @@ $$
 # Onde elettromagnetiche
 Da queste equazioni Maxwell teorizza l'esistenza delle **onde elettromagnetiche**: se in un punto dello spazio, privo di materia e di energia, si spende energia per **"accendere" un campo elettrico (o magnetico)**, tale campo ne genera uno **magnetico (o elettrico)**, e così anch'esso e così via. L'energia iniziale dunque si **propaga di punto in punto**, proprio come avviene con un'onda.
 ## Collegamenti
-**Matematica**: le ultime due equazioni di Maxwell mettono in relazione il cambiamento istantaneo nel tempo, espressione che in matematica trova la sua formulazione nel concetto di [[Derivata]].
+**Matematica**: le ultime due equazioni di Maxwell mettono in relazione il cambiamento istantaneo nel tempo, espressione che in matematica trova la sua formulazione nel concetto di [[Derivata|derivata]].

@@ -11,7 +11,7 @@ Riprova fondando la ***Arts and Crafts Exhibition Society (1888)***, associazion
 # Il movimento
 La massificazione della produzione colpì tutti i settori produttivi e sfornava oggetti **tutti uguali e a-personali**, rendendo **inconoscibile la mano che li ha prodotti**. La necessità di dare **dignità artistica** agli oggetti è sia **economica**, poiché ora anche la **piccola e media borghesia** poteva comprare questi oggetti d'uso comune, sia di **modernizzazione**, volendo porre le basi per un'**arte diversa e moderna**, in linea con il progresso dei tempi. L'***Art Nouveau*** è la **risposta artistica della cultura europea al disagio del suo tempo**.
 
-Tuttavia, essa **non è arte d'evasione**: i risultati di Morris dimostrano che l'*Art Nouveau* diventa il **gusto di un'epoca** incarnando una società che si **avvia nel nuovo secolo** e sta precipitando nella **Grande Guerra**. In ogni Paese si sviluppa in modo diverso, come diverso è anche il nome: ***Modern (Glasgow) Style*** in Inghilterra, ***Liberty*** in Italia dalla ditta omonima, ***Jugendstil*** in Germania, ***Style Sapin*** in Svizzera, ***Nieuwe Kunst*** nei Paesi Bassi, ***Secession*** in Ungheria, ***Style Horta*** in Belgio, ***Arte Jòven (Modernismo)*** in Spagna. Tale corrente è l'ultima che si **diffuse omogeneamente in Europa**, preparando il terreno alle [[Avant-garde|avanguardie]] del Novecento.d
+Tuttavia, essa **non è arte d'evasione**: i risultati di Morris dimostrano che l'*Art Nouveau* diventa il **gusto di un'epoca** incarnando una società che si **avvia nel nuovo secolo** e sta precipitando nella **Grande Guerra**. In ogni Paese si sviluppa in modo diverso, come diverso è anche il nome: ***Modern (Glasgow) Style*** in Inghilterra, ***Liberty*** in Italia dalla ditta omonima, ***Jugendstil*** in Germania, ***Style Sapin*** in Svizzera, ***Nieuwe Kunst*** nei Paesi Bassi, ***Secession*** in Ungheria, ***Style Horta*** in Belgio, ***Arte Jòven (Modernismo)*** in Spagna. Tale corrente è l'ultima che si **diffuse omogeneamente in Europa**, preparando il terreno alle avanguardie del Novecento.
 
 La portata del movimento fu talmente grande che mutò **ogni campo del vivere quotidiano**:
 - nell'**arredamento** si prediligono le **forme morbide e naturali**
@@ -20,63 +20,28 @@ La portata del movimento fu talmente grande che mutò **ogni campo del vivere qu
 - ceramica, porcellana e vetri riescono a **conciliare produttività e qualità** come auspicato da Morris
 - nella grafica si porta al **perfezionamento della litografia** consentendo **manifesti, locandine, riviste** permettendo agli artisti di **diffondere le proprie opere**
 ## Architettura
-Essendo un movimento frammentato, l'architettura si sviluppa in modi diversi, che si accomunano però per l'**uso di material nuovi** e **elementi decorativi** che riprendono le **forme della natura**.
-
-
-In generale, però, si riprendono le forme della natura. Si esprime la volontà di fondere arti maggiori e minori. Un architetto progetta tutto di una casa, dal palazzo al cucchiaio.
-
-#### Guimard e Machintosh p20?
-
-### Antoni Gaudì
-Movimento catalano "modernismo"
-Fantasia irrefrenabile e turbinosa. Unisce il cromatismo all'arte islamica e ad uno studio accuratissimo sulla statica delle strutture.
-#### Sagrada Familia
-Impianto a croce latina, 5 navate con transetto tripartito. Cappelle radiali. Cura di ogni minimo dettaglio. Roba di catenarie e progetto inconcluso.
-#### Parco Guell
-Architetture fiabesche. E' quanto resta di un inattuato progetto di costruire una città-giardino nei pressi di Barcellona. Grande uso del mosaico.
-#### Casa Milà
-Grande edificio residenziale nel cuore di barcellona. Concepita come sperone roccioso naturale, scavato da vento e piogge. Le ringhiere sono un groviglio di ferri contorti. I volumi tecnici superiori sono accolti da sagome fantastiche e vagamente inquietanti.
-E' evidente la maestria di Gaudì nel modellare il cemento.
-
-## L'Esperienza viennese
-Kunstgewerbeschule: struttura pubblica per l'apprendimento dell'arte e delle tecniche industriali ad essa relative.
-La scuola di vienna resta comunque legata all'imitazione delle arti maggiori, una riproduzione degli stili del passato.
-La svolta avviene con la **Secessione**, un movimento che si distacca dall'ambiente intellettuale del tempo. Tra i vari artisti il più importante è **Gustav Klimt**
-
-Un importante organo della secessione è la rivista "Ver Sacrum". Il titolo allude all'auspicio di una nuova primavera per l'arte.
-L'obiettivo prefissato è la perfetta e completa parità delle arti, dell'arte per il ricco e dell'arte per il povero.
-
-### Palazzo della Secessione
-Spazio espositivo alternativo a quelli dell'arte accademica.
-Realizzato da Joseph Olbrich, di formazione accademica e uno degli esponenti di punta della S.
-Contrasto bianco e oro.
-Pianta semplice.
-
-### Gustav Klimt
-Visitò ravenna in diverse occasioni e rimase colpito dall'arte bizantina, che imitò ampiamente.
-#### Disegno
-I suoi studi evidenziano un passaggio dall'imitazione del Rinascimento ad un linearismo essenziale.
-
-In "Idillio" si nota la grande capacità di imitazione degli stili.
-
-Lo stile di Klimt è fortemente bidimensionale, anche se mani e viso sono sempre raffigurati realisticamente.
-
+Essendo un movimento frammentato, l'architettura si sviluppa in modi diversi, che si accomunano però per l'**uso di material nuovi** e **elementi decorativi** che riprendono le **forme della natura**. Un architetto, volendo fondere arti **maggiori e minori**, progetta **tutta la casa**, dalla struttura all'arredamento.
+### Antoni Gaudì (1852, Reus - 1926, Barcellona)
+Maggior protagonista del *Modernismo* catalano, le sue opere sono contraddistinte da una **fantasia turbinosa di modellazione delle superfici**. Unisce il **cromatismo islamico** allo studio della **staticità delle strutture** (gotico), superando ogni classicismo.
+#### *Sagrada Familia* (1882 - presente, Barcellona)
+L'opera più singolare e nota basata su un progetto **neogotico**. Impianto a **croce latina** a cinque navate sul quale sono impostati **diciotto torrioni con pinnacoli traforati** come in un gigantesco castello di sabbia. Ogni **particolare** è studiato e fatto realizzare da persone scelte da lui.
+#### Parco Guell (1900 - 1914, Barcellona)
+Quanto resta del progetto di una **città-giardino** alle porte della città, si accede oltrepassate le due palazzine di **architettura fiabesca** attraverso una scalinata a **salamandra** rivestita di frammenti di **vetro**. Si accede poi a una sala ipostila con colonne doriche e capitelli. Si accede poi ad una **foresta pietrificata** e alla **terrazza superiore** con vista panoramica su tutto.
+#### Casa Milà (1905- 1910, Barcellona)
+Grande edificio residenziale, è concepita come **sperone roccioso naturale** scavato da vento e piogge, ottenuto come una **successione di profili ondulati** sui quali si impostano delle  **ringhiere** formate da grovigli. Il tetto è popolato di  **volumi tecnici** accolti da sagome fantastiche e vagamente inquietanti.
+## Pittura
+### Gustav Klimt (1862, Baumgarten - 1918, Vienna)
+Uno dei maggiori promotori della *Secessione* viennese, dopo la formazione nella *Kunstgewerbeschule* fondò con il fratello un nucleo di **arte decorativa** che gli fecero avere **fama immediata**. Divenne il principale esponente della *Wiener Secession* da cui si staccò nel 1905 con la *Kunstschau*. Visitò **Ravenna**, città che lo influenzò nella **scelta materica** e sullo **stile** per la conoscenza con i **mosaici della tarda romanità**, che lo porteranno ad utilizzare spesso il colore **oro** nelle sue opere. Nel disegno si evidenzia un passaggio dallo *studio sul nudo* rinascimentale al **linearismo decorativo**.
 #### Giuditta
-In due versioni
-##### Giuditta 1, 1901
-Soggetto biblico quasi assente, grandecarica erotica dell'eroina. Rappresentazione della *femme fatale*.
-##### Giuditta 2, 1909
-Boh
-
-#### Ritratto di Adele Bloch-Bauer
-Diversi motivi decorativi ripetuti. Voluttuodsità, giochi di luce delle tessere, la figura si smaterializza nella corrente geometrica che la circonda.
-Evidente la presenza dell'occhio di Horus.
-
-#### Il Bacio
-Corpi dorati su sperone fiorito.
-Donna ha motivi spiraleggianti, uomo rettangolari.
-E' simboleggiato uno stato edenico e primordiale.
-
+Nel fine secolo direziona l'arte verso un **disegno rigoroso e armonico** verso la **bidimensionalità**, tralasciando volumetria nei ritratti. Vi sono due versioni:
+- *Giuditta 1 (1901)*: la simbologia biblica è assente, anzi sostituita dall'immagine della **femme fatale** seducente ed erotica, mostra la testa di Oloferne con uno sguardo di sfida ed un volto enigmatico, incorniciato dal *collier* gemmato, **senza contorno**, reso prezioso dal **fondo oro** su cui insistono disegni **geometrici e naturalisti**
+- *Giuditta 2 (1909)*: in realtà **Salomè**, cioè la passione che sconfigge la morte
+#### Ritratto di Adele Bloch-Bauer (1907)
+Facente parte del *periodo d'oro*, ritrae la moglie di un ricco industriale ebreo. La foglia d'oro **satura la tela** e la parete dell'interno separata dalla fascia verde porta ad un **effetto di pulviscolo dorato** come tessere di un mosaico splendente. La figura si smaterializza in un insieme **geometrico** in cui l'abito si fonde con la tappezzeria, con lo schienale e i cuscini. Le linee curve delineano il **contorno del corpo** e fanno dubitare che non sia proprio **in piedi**.
+#### Il Bacio (1907 - 1908)
+Due amanti che si baciano inginocchiati su uno sperone fiorito, circondati da un'**aura d'oro a girali filamentosi**. Solo nelle teste troviamo linee volumetriche: tutto il resto è **colore** che nell'uomo, piegato verso la donna, è di **rettangoli di colore alterno**, mentre in lei è di **ovali colorati con ornamenti e anelli**. Le teste coronate di fiori testimoniano un **nuovo *eden***.
+#### Lo *stile fiorito* (1909 - 1911)
+Coincide con i viaggi di Klimt in Europa che lo portarono a conoscere i [[Fauves]], portandolo a sostituire il geometrismo con il **colore forte** e la **bellezza cromatica**, come vediamo nei futuri ritratti, nei quali si sbizzarrisce per la **fantasia degli abiti**, con un influsso giapponese.
 # Collegamenti
 **Filosofia**: [[Karl Marx]]
 **Fisica**: [[Teoria della relatività]]

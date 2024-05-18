@@ -1,17 +1,21 @@
+---
+tags:
+  - DONE
+---
 # Il movimento
 ## Coordinate spazio-temporali
 ### 15 aprile 1874 - 1886
-Viene organizzata la **prima** **mostra** (163 opere) da alcuni giovani artisti, le cui opere erano state **rifiutate dai _Salons_ ufficiali**, nel vecchio studio del fotografo **Felix Nadar** al 35 di Boulevard des Capucines, presentandosi come **_Società Anonima degli artisti, pittori, incisori, scultori ecc._**
+Viene organizzata la **prima** **mostra** (163 opere) da alcuni giovani artisti, le cui opere erano state **rifiutate dai *Salons* ufficiali**, nel vecchio studio del fotografo **Felix Nadar** al 35 di Boulevard des Capucines, presentandosi come ***Società Anonima degli artisti, pittori, incisori, scultori ecc.***
 
-Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi Leroy**, osservando un dipinto di Monet chiamato **_Impressione, sole nascente_**, lo stroncò sostenendo che:
+Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi Leroy**, osservando un dipinto di Monet chiamato ***Impressione, sole nascente****, lo stroncò sostenendo che:
 `la carta da parati allo stato embrionale è ancora più curata di questo dipinto`
-e concluse estendendo a tutti gli artisti l’appellativo di **_Impressionisti_**. Tale movimento durò fino al **1886** anno dell’ottava esposizione: già dal 1880 i **contrasti ideologici** portarono i componenti del gruppo a partecipare **individualmente ai _Salons_** che iniziarono ad accettarli.
+e concluse estendendo a tutti gli artisti l’appellativo di ***Impressionisti***. Tale movimento durò fino al **1886** anno dell’ottava esposizione: già dal 1880 i **contrasti ideologici** portarono i componenti del gruppo a partecipare **individualmente ai *Salons*** che iniziarono ad accettarli.
 ### Parigi
-Parigi, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come **_Ville lumiere_**. Grazie alla [[Seconda rivoluzione industriale]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico. Gli impressionisti sono i primi a portarlo nell'arte.
+Parigi, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come ***Ville lumiere***. Grazie alla [[Seconda rivoluzione industriale]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico. Gli impressionisti sono i primi a portarlo nell'arte.
 ## Ideologia
 L’Impressionismo si sviluppa in maniera **diversa** dai movimenti artistici precedenti:
 - è **privo** **base culturale** omogenea, gli aderenti avevano passati diversi fra loro;
-- è **privo** **manifesti**, fondandosi solo sull’**insofferenza per la pittura accademica** che portò alcuni artisti a riunirsi al **_Cafè Guerbois_**, ritrovo poi divenuto appuntamento settimanale o giornaliero, per scambiarsi **idee**, **opinioni** che poi diventavano **arte**;
+- è **privo** **manifesti**, fondandosi solo sull’**insofferenza per la pittura accademica** che portò alcuni artisti a riunirsi al ***Cafè Guerbois***, ritrovo poi divenuto appuntamento settimanale o giornaliero, per scambiarsi **idee**, **opinioni** che poi diventavano **arte**;
 - poiché ciò che si **percepisce con gli occhi continua oltre il nostro campo visivo**, va **abolita la prospettiva**;
 - l’importante della rappresentazione è l’**impressione** suscitata nell’artista da uno stimolo che, dalle **sue sensazioni**, opera una **sintesi** tesa ad **eliminare il superfluo** per cogliere l’**impressione pura**, ovvero la realtà **come gli appare**.
 ## Tecnica
@@ -19,7 +23,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 - in primis, è presente la **completa assenza di disegno e linee di contorno**;
 - piuttosto che utilizzare contrasti chiaroscurali, si tende a rendere il **colore locale** **con accostamenti di colori puri**, seguendo anche le contemporanee teorie sull’addizione dei colori, secondo le quali **nessun colore esiste di per sé**;
 - inoltre è la **luce** che rende un colore più chiaro o scuro, esaltando o meno la sua vivacità, varietà che va resa cogliendo l’**attimo fuggente**, tramite pennellate veloci per **tocchi virgolati**, **trattini**, **macchiette**, **picchiettature**, unite all’uso di pochi colori puri, **escludendo bianco e nero** (non-colori);
-- per poter maggiormente sfruttare la luce del sole, gli impressionisti preferiscono dipingere **_en plein air_**, nella natura o nei locali più umili della loro città;
+- per poter maggiormente sfruttare la luce del sole, gli impressionisti preferiscono dipingere ***en plein air***, nella natura o nei locali più umili della loro città;
 - poiché la realtà è un movimento incessante, riccore il tema dell’**acqua** come ciò che di natura non si acquieta mai, riproducendola con **increspature di colori** che vengono **fusi dall’occhio**, generando colori più vivaci di quelli presenti sulla tela;
 - la **fotografia** ha aiutato molto gli impressionisti, dato che la **riproduzione meccanica della realtà** permise loro di cogliere **dettagli impercettibili all’occhio umano**;
 - prendono ispirazione dalle **stampe giapponesi**, le quali riproducevano una realtà **al di là di spazio e tempo**, un **attimo immobile**.
@@ -30,7 +34,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 **Italiano**: anche se provenienti da un clima borghese, gli impressionisti ritraevano e narravano degli umili, allo stesso modo in cui [[Giovanni Verga]] descrive la sua realtà.
 **Latino**: l'anti-tradizionalismo è sempre stato presente nella storia e un modello esemplare di rovesciamento dei canoni è offerto dal [[Petronio|Satyricon]].
 **Matematica**: gli impressionisti cercavano di mostrare l'attimo fuggente e il movimento nella staticità, paradosso millenario che trova la sua soluzione matematica nel concetto di [[Derivata|derivata]].
-**Scienze**: #TODO
+**Scienze**: [[Impressionismo#L'assenzio (Museo d'Orsay, Parigi)|L'assenzio]] di Degas e l'alcol
 
 ---
 # Esponenti

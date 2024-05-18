@@ -1,136 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Hegel",
+      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md"
+    },
+    {
+      "basename": "2-16",
+      "path": "NucleiTematici/Roba da sistemare/Storia/2-16.md"
+    },
+    {
+      "basename": "14 punti e società delle nazioni",
+      "path": "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md"
+    },
+    {
+      "basename": "Elezioni 1913",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Elezioni 1913.md"
+    },
+    {
+      "basename": "Fascismo e Nazismo",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md"
+    },
+    {
+      "basename": "Seconda rivoluzione industriale",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
       "basename": "Art Nouveau",
       "path": "Arte/Art Nouveau.md"
     },
     {
-      "basename": "Karl Marx",
-      "path": "Filosofia/Nascosti/Karl Marx.md"
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
     },
     {
-      "basename": "Agostino",
-      "path": "Latino/Il 4° secolo/Agostino.md"
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
     },
     {
-      "basename": "La crisi del III secolo (193 - 305)",
-      "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
     },
     {
-      "basename": "Giuseppe Ungaretti",
-      "path": "Italiano/Giuseppe Ungaretti.md"
-    },
-    {
-      "basename": "Giovanni Pascoli",
-      "path": "Italiano/Giovanni Pascoli.md"
-    },
-    {
-      "basename": "Naturalismo e Verismo",
-      "path": "Italiano/Naturalismo e Verismo.md"
-    },
-    {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Italo Svevo.md"
-    },
-    {
-      "basename": "Giovanni Verga",
-      "path": "Italiano/Giovanni Verga.md"
-    },
-    {
-      "basename": "Luigi Pirandello",
-      "path": "Italiano/Luigi Pirandello.md"
-    },
-    {
-      "basename": "Giacomo Leopardi",
-      "path": "Italiano/Giacomo Leopardi.md"
-    },
-    {
-      "basename": "Gabriele D'Annunzio",
-      "path": "Italiano/Gabriele D'Annunzio.md"
-    },
-    {
-      "basename": "Dante",
-      "path": "Italiano/Dante.md"
-    },
-    {
-      "basename": "Hegel",
-      "path": "Filosofia/Nascosti/Hegel.md"
-    },
-    {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
-      "basename": "Plinio il Giovane",
-      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
-    },
-    {
-      "basename": "Gaio Svetonio Tranquillo",
-      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
-    },
-    {
-      "basename": "Collegamenti",
-      "path": "templates/Collegamenti.md"
-    },
-    {
-      "basename": "Autore Latino-Italiano",
-      "path": "templates/Autore Latino-Italiano.md"
-    },
-    {
-      "basename": "English Author",
-      "path": "templates/English Author.md"
-    },
-    {
-      "basename": "Charles Dickens",
-      "path": "Inglese/Charles Dickens.md"
-    },
-    {
-      "basename": "Bronte sisters",
-      "path": "Inglese/Bronte sisters.md"
-    },
-    {
-      "basename": "Sigmund Freud",
-      "path": "Filosofia/Sigmund Freud.md"
-    },
-    {
-      "basename": "Post-positivismo",
-      "path": "Filosofia/Post-positivismo.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Neopositivismo.md"
-    },
-    {
-      "basename": "Karl Popper",
-      "path": "Filosofia/Karl Popper.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
-      "basename": "Quintiliano",
-      "path": "Latino/Il 1° secolo/Quintiliano.md"
-    },
-    {
-      "basename": "Lucio Anneo Seneca",
-      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "Il secondo secolo d.C. (96 - 192)",
-      "path": "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md"
-    },
-    {
-      "basename": "Apuleio",
-      "path": "Latino/Il 2° secolo/Apuleio.md"
-    },
-    {
-      "basename": "Tacito",
-      "path": "Latino/Il 2° secolo/Tacito.md"
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
     },
     {
       "basename": "Postimpressionismo",
@@ -141,64 +65,140 @@
       "path": "Latino/Il 1° secolo/Petronio.md"
     },
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
-      "basename": "Lucano",
-      "path": "Latino/Il 1° secolo/Lucano.md"
+      "basename": "Giovanni Pascoli",
+      "path": "Italiano/Giovanni Pascoli.md"
     },
     {
-      "basename": "Avant-garde",
-      "path": "Arte/Avant-garde.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Dadaismo.md"
-    },
-    {
-      "basename": "Matisse",
-      "path": "Arte/Matisse.md"
-    },
-    {
-      "basename": "Picasso",
-      "path": "Arte/Picasso.md"
-    },
-    {
-      "basename": "Crisi dei fondamenti fisico-matematici",
-      "path": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
-    },
-    {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
-      "basename": "Integrazione",
-      "path": "Matematica/Integrazione.md"
-    },
-    {
-      "basename": "Derivata",
-      "path": "Matematica/Derivata.md"
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
     },
     {
       "basename": "Studio di funzione",
       "path": "Matematica/Studio di funzione.md"
     },
     {
-      "basename": "Canovaccio",
-      "path": "Canovaccio.md"
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "Derivata",
+      "path": "Matematica/Derivata.md"
     },
     {
-      "basename": "Notes_240506_150617",
-      "path": "Latino/Notes_240506_150617.md"
+      "basename": "Integrazione",
+      "path": "Matematica/Integrazione.md"
     },
     {
-      "basename": "Elettro-magnetismo",
-      "path": "Fisica/Elettro-magnetismo.md"
+      "basename": "Agostino",
+      "path": "Latino/Il 4° secolo/Agostino.md"
+    },
+    {
+      "basename": "La crisi del III secolo (193 - 305)",
+      "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
+    },
+    {
+      "basename": "Tacito",
+      "path": "Latino/Il 2° secolo/Tacito.md"
+    },
+    {
+      "basename": "Plinio il Giovane",
+      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
+    },
+    {
+      "basename": "Gaio Svetonio Tranquillo",
+      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
+    },
+    {
+      "basename": "Il secondo secolo d.C. (96 - 192)",
+      "path": "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md"
+    },
+    {
+      "basename": "Apuleio",
+      "path": "Latino/Il 2° secolo/Apuleio.md"
+    },
+    {
+      "basename": "Quintiliano",
+      "path": "Latino/Il 1° secolo/Quintiliano.md"
+    },
+    {
+      "basename": "Marziale",
+      "path": "Latino/Il 1° secolo/Marziale.md"
+    },
+    {
+      "basename": "Lucio Anneo Seneca",
+      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
+    },
+    {
+      "basename": "Lucano",
+      "path": "Latino/Il 1° secolo/Lucano.md"
+    },
+    {
+      "basename": "Il primo secolo d.C. (14 - 96)",
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
+    },
+    {
+      "basename": "Italo Svevo",
+      "path": "Italiano/Italo Svevo.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Simbolismo e Decadentismo.md"
+    },
+    {
+      "basename": "Naturalismo e Verismo",
+      "path": "Italiano/Naturalismo e Verismo.md"
+    },
+    {
+      "basename": "Luigi Pirandello",
+      "path": "Italiano/Luigi Pirandello.md"
+    },
+    {
+      "basename": "Giuseppe Ungaretti",
+      "path": "Italiano/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "Giovanni Verga",
+      "path": "Italiano/Giovanni Verga.md"
+    },
+    {
+      "basename": "Giacomo Leopardi",
+      "path": "Italiano/Giacomo Leopardi.md"
+    },
+    {
+      "basename": "Gabriele D'Annunzio",
+      "path": "Italiano/Gabriele D'Annunzio.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Italiano/Futurismo.md"
+    },
+    {
+      "basename": "Eugenio Montale",
+      "path": "Italiano/Eugenio Montale.md"
+    },
+    {
+      "basename": "Dante",
+      "path": "Italiano/Dante.md"
+    },
+    {
+      "basename": "War Poets",
+      "path": "Inglese/War Poets.md"
+    },
+    {
+      "basename": "Virginia Woolf",
+      "path": "Inglese/Virginia Woolf.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Oscar Wilde.md"
+    },
+    {
+      "basename": "James Joyce",
+      "path": "Inglese/James Joyce.md"
     }
   ],
   "omittedPaths": [],

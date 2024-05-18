@@ -27,6 +27,7 @@ The setting is **London**, shown in three social levels:
 - the **parochial world of the workhouse** where there are **no feelings towards the poor**;
 - the **criminal world** which is caused by poverty;
 - the **middle class world** where respectable people are portrayed.
+
 The novel was written to **attack the institutions** and the **individuals** towards children; the main themes are **childhood** and the correlation between **poverty and crime** with their effect on an **individual’s life**.
 # Links
 **Art**:

@@ -3,19 +3,20 @@
 #### 1886 - 1905, Francia
 Nasce dalla necessità di **andare *oltre* l'[[Impressionismo]]**, frugando ancora fra le **pieghe della natura** in un processo che diventa **personale** e **interiore**.
 ## Ideologia
-Le tendenze postimpressioniste presentano alcune caratteristiche comuni:
+Le tendenze post-impressioniste presentano alcune caratteristiche comuni:
 - il **rifiuto della sola impressione visiva**, la quale doveva essere basata su un **fondamento scientifico** o **interiore**;
 - la ricerca nella **solidità dell'immagine**;
 - la sicurezza del **contorno**;
 - la **libertà del colore**.
-## Collegamenti
-**Fisica**: #TODO 
-**Filosofia**: #TODO 
-**Inglese**: #TODO 
-**Italiano**: #TODO 
-**Latino**: #TODO 
-**Scienze**: #TODO 
-**Mate**: #TODO 
+# Collegamenti #TODO 
+**Filosofia**:
+**Fisica**:
+**Inglese**:
+**Italiano**:
+**Latino**:
+**Matematica**:
+**Scienze**:
+**Storia**:
 
 ---
 # Esponenti
