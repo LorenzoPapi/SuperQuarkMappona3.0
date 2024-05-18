@@ -1,4 +1,5 @@
 #!/bin/bash
+npm i md-to-pdf
 find ./content -type f | grep -i .md > MDList.txt
 mkdir ./pdfs
 while read p; do
