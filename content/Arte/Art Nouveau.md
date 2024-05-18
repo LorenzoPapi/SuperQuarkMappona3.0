@@ -11,11 +11,19 @@ Riprova fondando la ***Arts and Crafts Exhibition Society (1888)***, associazion
 # Il movimento
 La massificazione della produzione colpì tutti i settori produttivi e sfornava oggetti **tutti uguali e a-personali**, rendendo **inconoscibile la mano che li ha prodotti**. La necessità di dare **dignità artistica** agli oggetti è sia **economica**, poiché ora anche la **piccola e media borghesia** poteva comprare questi oggetti d'uso comune, sia di **modernizzazione**, volendo porre le basi per un'**arte diversa e moderna**, in linea con il progresso dei tempi. L'***Art Nouveau*** è la **risposta artistica della cultura europea al disagio del suo tempo**.
 
-Tuttavia, essa **non è arte d'evasione**: i risultati di Morris dimostrano che l'*Art Nouveau* diventa il **gusto di un'epoca** incarnando una società che si **avvia nel nuovo secolo** e sta precipitando nella **Grande Guerra**. In ogni Paese si sviluppa in modo diverso, come diverso è anche il nome: ***Modern (Glasgow) Style*** in Inghilterra, ***Liberty*** in Italia dalla ditta omonima, ***Jugendstil*** in Germania, ***Style Sapin*** in Svizzera, ***Nieuwe Kunst*** nei Paesi Bassi, ***Secession*** in Ungheria, ***Style Horta*** in Belgio, ***Arte Jòven (Modernismo)*** in Spagna.
+Tuttavia, essa **non è arte d'evasione**: i risultati di Morris dimostrano che l'*Art Nouveau* diventa il **gusto di un'epoca** incarnando una società che si **avvia nel nuovo secolo** e sta precipitando nella **Grande Guerra**. In ogni Paese si sviluppa in modo diverso, come diverso è anche il nome: ***Modern (Glasgow) Style*** in Inghilterra, ***Liberty*** in Italia dalla ditta omonima, ***Jugendstil*** in Germania, ***Style Sapin*** in Svizzera, ***Nieuwe Kunst*** nei Paesi Bassi, ***Secession*** in Ungheria, ***Style Horta*** in Belgio, ***Arte Jòven (Modernismo)*** in Spagna. Tale corrente è l'ultima che si **diffuse omogeneamente in Europa**, preparando il terreno alle [[Avant-garde|avanguardie]] del Novecento.d
 
-La portata del movimento è grande.
+La portata del movimento fu talmente grande che mutò **ogni campo del vivere quotidiano**:
+- nell'**arredamento** si prediligono le **forme morbide e naturali**
+- nel campo **tessile** tramite la **stampa a più colori** si producono **stoffe e tessuti** con motivi complessi e delicati
+- gli **stilisti** aboliscono la **rigidezza** in favore della **morbidezza e armonia**
+- ceramica, porcellana e vetri riescono a **conciliare produttività e qualità** come auspicato da Morris
+- nella grafica si porta al **perfezionamento della litografia** consentendo **manifesti, locandine, riviste** permettendo agli artisti di **diffondere le proprie opere**
 ## Architettura
-Essendo un movimento frammentato, l'art nouveau sviluppa l'architettura in modi diversi. In generale, però, si riprendono le forme della natura. Si esprime la volontà di fondere arti maggiori e minori. Un architetto progetta tutto di una casa, dal palazzo al cucchiaio.
+Essendo un movimento frammentato, l'architettura si sviluppa in modi diversi, che si accomunano però per l'**uso di material nuovi** e **elementi decorativi** che riprendono le **forme della natura**.
+
+
+In generale, però, si riprendono le forme della natura. Si esprime la volontà di fondere arti maggiori e minori. Un architetto progetta tutto di una casa, dal palazzo al cucchiaio.
 
 #### Guimard e Machintosh p20?
 
