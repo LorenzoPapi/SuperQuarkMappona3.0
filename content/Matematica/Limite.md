@@ -40,6 +40,7 @@ Distinguendo tra valori finiti e infiniti di $a$ ed $l$ si hanno quattro tipolog
 * limite **finito ($l \in \mathbb{R}$)** all'**infinito ($a \in \{ -\infty,+\infty \}$)**
 * limite **infinito ($l \in \{ -\infty,+\infty \}$)** al **finito ($a \in \mathbb{R}$)**
 * limite **infinito ($l \in \{ -\infty,+\infty \}$)** all'**infinito ($a \in \{ -\infty,+\infty \}$)**
+
 A seconda del tipo di intorno, ritroviamo poi i limiti **destri ($\alpha^+$) e sinistri ($\alpha^-$)**, nonché i risultati per **eccesso ($l^+$) e difetto ($l^-$)**.
 
 ---
@@ -67,6 +68,7 @@ $$
 Tale condizione si riduce ai seguenti due casi:
 - se $x_0$ è punto isolato, è automaticamente continua in $x_0$;
 - altrimenti, $\text{continua in }x_{0}\iff \displaystyle \lim_{ x \to x_{0} }f(x) = f(x_{0})$.
+
 Sapendo che una funzione è continua in un punto, possiamo dunque calcolare il suo limite in quel punto semplicemente valutando lì la funzione.
 Valgono in generale le seguenti regole:
 * $\displaystyle \lim_{ x \to \alpha}[a\cdot f(x)\pm b\cdot g(x)] = a\cdot\lim_{ x \to \alpha }f(x) \pm b\cdot\lim_{ x \to \alpha }g(x)$, proprietà che fa del limite un operatore **lineare**
@@ -86,6 +88,7 @@ Un punto $x_0$ nel quale la funzione non è continua si dice di **discontinuità
 Supponendo come ipotesi:
 - $a,b \in \mathbb{R} \land f:[a,b] \to \mathbb{R} \space \land$
 - $f \text{ continua in } [a,b]$
+
 Si dimostrano i seguenti teoremi:
 - teorema di **Weierstrass**: 
 $$

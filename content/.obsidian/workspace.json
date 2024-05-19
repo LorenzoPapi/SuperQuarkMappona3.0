@@ -11,8 +11,13 @@
             "id": "a09b09b53b82464d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematica/Limite.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -83,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
+                "file": "Matematica/Limite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
+                "file": "Matematica/Limite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md"
+                "file": "Matematica/Limite.md"
               }
             }
           },
@@ -160,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "a09b09b53b82464d",
   "lastOpenFiles": [
     "Filosofia/Nascosti/Karl Marx.md",
     "Arte/Art Nouveau.md",

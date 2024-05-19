@@ -50,6 +50,9 @@ export default {
       title: "Search",
       searchBarPlaceholder: "Search for something",
     },
+    pdfDownload: {
+      title: "Save PDF"
+    },
     tableOfContents: {
       title: "Table of Contents",
     },
