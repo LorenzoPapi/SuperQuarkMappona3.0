@@ -1,5 +1,12 @@
 async function savePDF(this : HTMLElement) {
-  const contentIndexPath = "/static/contentIndex.json"
+  // Questa cosa penso sia la peggiore che abbia mai fatto
+  // nella mia carriera da programmatore inesperto
+  // hardcodeare qualcosa che
+  // funziona in production
+  // ma
+  // andrà in errore in dev mode
+  // cosa sto facendo della mia vita
+  const contentIndexPath = "/SuperQuarkMappona3.0/static/contentIndex.json"
   const fetchData = fetch(contentIndexPath).then(data => data.json())
   
   const data = await fetchData
