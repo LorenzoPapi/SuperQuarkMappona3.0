@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "806ada9aa603e8ae",
+        "id": "3388b52a3fc5bc81",
         "type": "tabs",
         "children": [
           {
-            "id": "a09b09b53b82464d",
+            "id": "8fc9f85d8c414e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Arte/Avanguardie/Futurismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Arte/Avanguardie/Futurismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matematica/Limite.md",
+                "file": "Arte/Avanguardie/Futurismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matematica/Limite.md"
+                "file": "Arte/Avanguardie/Futurismo.md"
               }
             }
           },
@@ -154,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -165,43 +164,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a09b09b53b82464d",
+  "active": "8fc9f85d8c414e28",
   "lastOpenFiles": [
+    "Italiano/Novecento/Futurismo letterario.md",
+    "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
+    "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
+    "NucleiTematici/Roba da sistemare/Proposte doc arte.md",
+    "NucleiTematici/Roba da sistemare/Proposte doc inglese.md",
+    "Italiano/Dante.md",
+    "Italiano/Ottocento",
+    "Arte/Avanguardie/Futurismo.md",
+    "Italiano/Novecento",
+    "Filosofia/Untitled",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Cubismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Impressionismo.md",
+    "templates/Movimento artistico.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
     "Filosofia/Nascosti/Karl Marx.md",
     "Arte/Art Nouveau.md",
-    "Arte/Impressionismo.md",
     "Arte/Pop Art.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Astrattismo.md",
     "Arte/Postimpressionismo.md",
     "Latino/Il 1° secolo/Petronio.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Italiano/Giovanni Pascoli.md",
+    "Italiano/Ottocento/Giovanni Pascoli.md",
     "Crediti e About.md",
     "Matematica/Studio di funzione.md",
-    "Matematica/Limite.md",
-    "Matematica/Derivata.md",
-    "Matematica/Integrazione.md",
-    "Latino/Il 4° secolo/Agostino.md",
-    "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md",
-    "Latino/Il 2° secolo/Tacito.md",
-    "Latino/Il 2° secolo/Plinio il Giovane.md",
     "Arte/Avanguardie",
     "Latino/Il 4° secolo",
     "Latino/Il 3° secolo",
     "NucleiTematici/Roba da sistemare/Seneca.docx",
-    "templates/Autore Latino-Italiano.md",
-    "templates/English Author.md",
-    "Inglese/Charles Dickens.md",
-    "Inglese/Bronte sisters.md",
-    "Filosofia/Sigmund Freud.md",
-    "Filosofia/Post-positivismo.md",
     "NucleiTematici/Roba da sistemare/italiano.docx",
     "Latino/Il 2° secolo",
-    "Latino/Il 1° secolo",
-    "NucleiTematici/Roba da sistemare/latino.docx",
-    "NucleiTematici/Roba da sistemare/Svetonio.docx",
-    "NucleiTematici/Roba da sistemare/Seneca_240506_150748.docx",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

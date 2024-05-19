@@ -10,7 +10,7 @@ Passi interessanti del Fu Mattia Pascal:
 - Squarcio nel cielo di carta
 - Canarino
 - Lanterninosofia
-- Tram a Milano (collega con [[Italiano/Futurismo]] e [[Gabriele D'Annunzio]])
+- Tram a Milano (collega con [[Futurismo letterario]] e [[Gabriele D'Annunzio]])
 - Passeggiata sulla Spiaggia
 La capacità di scomporre la realtà e trovarne le contraddizioni fa di Mattia Pascal un umorista.
 

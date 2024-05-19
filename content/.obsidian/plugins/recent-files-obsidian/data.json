@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Futurismo letterario",
+      "path": "Italiano/Novecento/Futurismo letterario.md"
+    },
+    {
+      "basename": "AMMINOACIDI E PROTEINE",
+      "path": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf"
+    },
+    {
+      "basename": "Collegamenti ita",
+      "path": "NucleiTematici/Roba da sistemare/Collegamenti ita.md"
+    },
+    {
+      "basename": "Proposte doc arte",
+      "path": "NucleiTematici/Roba da sistemare/Proposte doc arte.md"
+    },
+    {
+      "basename": "Proposte doc inglese",
+      "path": "NucleiTematici/Roba da sistemare/Proposte doc inglese.md"
+    },
+    {
+      "basename": "Dante",
+      "path": "Italiano/Dante.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Movimento artistico",
+      "path": "templates/Movimento artistico.md"
+    },
+    {
+      "basename": "Kierkegaard",
+      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md"
     },
     {
       "basename": "Hegel",
@@ -33,32 +97,12 @@
       "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
     },
     {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
       "basename": "Art Nouveau",
       "path": "Arte/Art Nouveau.md"
     },
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
       "basename": "Pop Art",
       "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
     },
     {
       "basename": "Postimpressionismo",
@@ -69,12 +113,8 @@
       "path": "Latino/Il 1° secolo/Petronio.md"
     },
     {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
       "basename": "Giovanni Pascoli",
-      "path": "Italiano/Giovanni Pascoli.md"
+      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
     },
     {
       "basename": "Crediti e About",
@@ -83,6 +123,10 @@
     {
       "basename": "Studio di funzione",
       "path": "Matematica/Studio di funzione.md"
+    },
+    {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
     },
     {
       "basename": "Derivata",
@@ -142,63 +186,19 @@
     },
     {
       "basename": "Italo Svevo",
-      "path": "Italiano/Italo Svevo.md"
+      "path": "Italiano/Novecento/Italo Svevo.md"
     },
     {
       "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Simbolismo e Decadentismo.md"
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
     },
     {
       "basename": "Naturalismo e Verismo",
-      "path": "Italiano/Naturalismo e Verismo.md"
+      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
     },
     {
       "basename": "Luigi Pirandello",
-      "path": "Italiano/Luigi Pirandello.md"
-    },
-    {
-      "basename": "Giuseppe Ungaretti",
-      "path": "Italiano/Giuseppe Ungaretti.md"
-    },
-    {
-      "basename": "Giovanni Verga",
-      "path": "Italiano/Giovanni Verga.md"
-    },
-    {
-      "basename": "Giacomo Leopardi",
-      "path": "Italiano/Giacomo Leopardi.md"
-    },
-    {
-      "basename": "Gabriele D'Annunzio",
-      "path": "Italiano/Gabriele D'Annunzio.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Italiano/Futurismo.md"
-    },
-    {
-      "basename": "Eugenio Montale",
-      "path": "Italiano/Eugenio Montale.md"
-    },
-    {
-      "basename": "Dante",
-      "path": "Italiano/Dante.md"
-    },
-    {
-      "basename": "War Poets",
-      "path": "Inglese/War Poets.md"
-    },
-    {
-      "basename": "Virginia Woolf",
-      "path": "Inglese/Virginia Woolf.md"
-    },
-    {
-      "basename": "Oscar Wilde",
-      "path": "Inglese/Oscar Wilde.md"
-    },
-    {
-      "basename": "James Joyce",
-      "path": "Inglese/James Joyce.md"
+      "path": "Italiano/Novecento/Luigi Pirandello.md"
     }
   ],
   "omittedPaths": [],
