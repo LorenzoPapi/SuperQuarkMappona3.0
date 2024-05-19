@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "it-IT",
     baseUrl: "lorenzopapi.github.io/SuperQuarkMappona3.0",
-    ignorePatterns: ["private", "templates", ".obsidian", "NucleiTematici", "Filosofia/Nascosti", "Canovaccio.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "NucleiTematici", "Canovaccio.md"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

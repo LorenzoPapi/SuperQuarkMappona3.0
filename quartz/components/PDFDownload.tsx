@@ -2,15 +2,13 @@
 // modules are automatically deferred and we don't want that to happen for critical beforeDOMLoads
 // see: https://v8.dev/features/modules#defer
 import pdfDownloadScript from "./scripts/pdfdownload.inline"
-//import styles from "./styles/darkmode.scss"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { i18n } from "../i18n"
-import { classNames } from "../util/lang"
 
 const PDFDownload: QuartzComponent = ({cfg}) => {
   return (
     <div>
-      <button type="button" id="pdfsave" style="background-color: transparent; border: none;">
+      <button type="button" id="pdfsave" style="background-color: transparent; border: none; cursor: pointer;">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           height="24px"
@@ -27,6 +25,5 @@ const PDFDownload: QuartzComponent = ({cfg}) => {
 }
 
 PDFDownload.afterDOMLoaded = pdfDownloadScript
-//PDFDownload.css = styles
 
 export default (() => PDFDownload) satisfies QuartzComponentConstructor

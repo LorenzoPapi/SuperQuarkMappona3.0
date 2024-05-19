@@ -19,3 +19,4 @@ function setupBls(this: HTMLElement) {
 }
 
 window.addEventListener("load", setupBls)
+document.addEventListener("nav", setupBls)

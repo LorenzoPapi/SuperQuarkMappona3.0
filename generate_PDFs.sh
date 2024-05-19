@@ -1,6 +1,7 @@
 #!/bin/bash
-npm install -g md-to-pdf
-find ./content -type f | grep -i '.*.md$' > MDList.txt
+#npm install -g md-to-pdf
+find ./content -type f -not \( -path "./content/NucleiTematici/*" -o -path "./content/templates/*" \) | grep -i '.*.md$' > MDList.txt
+exit
 declare root_pdf_folder="./public/pdfs"
 rm -rf $root_pdf_folder
 mkdir $root_pdf_folder
