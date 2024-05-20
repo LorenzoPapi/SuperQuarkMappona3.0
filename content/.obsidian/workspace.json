@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "639ba582034df39b",
+        "id": "8cc02eda7db72fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f449fc84d24df0b",
+            "id": "38247af097d02845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Il 4° secolo/Agostino.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Il 4° secolo/Agostino.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Il 4° secolo/Agostino.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "71e1241f6bb04faa",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Il 4° secolo/Agostino.md"
+                "file": "Arte/Avanguardie/Surrealismo.md"
               }
             }
           },
@@ -154,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -165,34 +165,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f449fc84d24df0b",
+  "active": "38247af097d02845",
   "lastOpenFiles": [
+    "Crediti e About.md",
+    "index.md",
+    "Arte/Impressionismo.md",
+    "Arte/Postimpressionismo.md",
+    "Arte/Pop Art.md",
+    "Storia/Guerra fredda.md",
+    "Storia/Fascismo.md",
+    "Storia/Nazismo.md",
+    "Storia/Stalinismo.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Cubismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Arte/Avanguardie/Futurismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Art Nouveau.md",
+    "Latino/Il 4° secolo/Aurelio Agostino.md",
+    "NucleiTematici/Crisi delle certezze.md",
     "Latino/FILE NECESSARIO NON TOCCARE.md",
-    "Latino/Il 4° secolo/Agostino.md",
     "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md",
     "Latino/Il 1° secolo/Marco Fabio Quintiliano.md",
     "Latino/Il 1° secolo/Lucio Anneo Seneca.md",
     "Latino/Il 2° secolo/Apuleio.md",
     "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
-    "Italiano/Novecento/Eugenio Montale.md",
-    "Italiano/Novecento/Futurismo letterario.md",
-    "Latino/Il 1° secolo/La satira.md",
-    "Latino/Il 2° secolo/Publio Cornelio Tacito.md",
-    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
-    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
-    "Latino/Il 1° secolo/L'epica.md",
-    "Arte/Avanguardie/Surrealismo.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Arte/Avanguardie/Astrattismo.md",
-    "Arte/Art Nouveau.md",
-    "Arte/Pop Art.md",
-    "Arte/Avanguardie/Dadaismo.md",
-    "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Filosofia/Post-positivismo.md",
-    "Filosofia/Neopositivismo.md",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",

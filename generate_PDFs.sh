@@ -13,7 +13,7 @@ while read md_file; do
     readarray -d "/" -t folders <<< "$percorso_file"
     unset 'folders[${#folders[@]}-1]'
     for i in "${folders[@]}"; do
-        local_folder="$local_folder/$i"
+        local_folder="$local_folder/${i/ /'-'}"
         if [ ! -d "$local_folder" ]; then
             mkdir "$local_folder"
         fi
@@ -21,5 +21,5 @@ while read md_file; do
     echo "Leggendo $nome_file.md da $percorso_file verso "$local_folder/${nome_file//' '/'-'}.pdf""
 
     declare options=$(printf '{ "scale": 0.8, "format": "A4", "margin": "16mm 10mm 10mm 10mm", "printBackground": false, "displayHeaderFooter": true, "headerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><h1>%s</h1></div>", "footerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><span class=\\"pageNumber\\"></span> / <span class=\\"totalPages\\"></span></div>"}' "$nome_file")
-    cat "$md_file".md | md-to-pdf --stylesheet ./public/index.css --document-title "$nome_file" --pdf-options "${options}" > "${local_folder// /'-'}/${nome_file// /'-'}.pdf";
+    cat "$md_file".md | md-to-pdf --stylesheet ./public/index.css --document-title "$nome_file" --pdf-options "${options}" > "$local_folder/${nome_file// /'-'}.pdf";
 done < MDList.txt

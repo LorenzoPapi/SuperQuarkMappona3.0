@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Agostino",
-      "path": "Latino/Il 4° secolo/Agostino.md"
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Guerra fredda.md"
+    },
+    {
+      "basename": "Fascismo",
+      "path": "Storia/Fascismo.md"
+    },
+    {
+      "basename": "Nazismo",
+      "path": "Storia/Nazismo.md"
+    },
+    {
+      "basename": "Stalinismo",
+      "path": "Storia/Stalinismo.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Aurelio Agostino",
+      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
+    },
+    {
+      "basename": "Crisi delle certezze",
+      "path": "NucleiTematici/Crisi delle certezze.md"
     },
     {
       "basename": "FILE NECESSARIO NON TOCCARE",
@@ -57,46 +133,6 @@
       "path": "Latino/Il 1° secolo/L'epica.md"
     },
     {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
       "basename": "Post-positivismo",
       "path": "Filosofia/Post-positivismo.md"
     },
@@ -107,14 +143,6 @@
     {
       "basename": "Seconda guerra mondiale",
       "path": "Storia/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
     },
     {
       "basename": "AMMINOACIDI E PROTEINE",
@@ -171,34 +199,6 @@
     {
       "basename": "Giovanni Pascoli",
       "path": "Italiano/Ottocento/Giovanni Pascoli.md"
-    },
-    {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
-      "basename": "Studio di funzione",
-      "path": "Matematica/Studio di funzione.md"
-    },
-    {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
-      "basename": "Derivata",
-      "path": "Matematica/Derivata.md"
-    },
-    {
-      "basename": "Integrazione",
-      "path": "Matematica/Integrazione.md"
-    },
-    {
-      "basename": "La crisi del III secolo (193 - 305)",
-      "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
-    },
-    {
-      "basename": "Plinio il Giovane",
-      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
     }
   ],
   "omittedPaths": [],

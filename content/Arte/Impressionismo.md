@@ -1,6 +1,5 @@
 ---
-tags:
-  - DONE
+tags: []
 ---
 # Il movimento
 ## Coordinate spazio-temporali
@@ -34,7 +33,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 **Italiano**: anche se provenienti da un clima borghese, gli impressionisti ritraevano e narravano degli umili, allo stesso modo in cui [[Giovanni Verga]] descrive la sua realtà.
 **Latino**: l'anti-tradizionalismo è sempre stato presente nella storia e un modello esemplare di rovesciamento dei canoni è offerto dal [[Gaio Petronio Arbitro|Satyricon]].
 **Matematica**: gli impressionisti cercavano di mostrare l'attimo fuggente e il movimento nella staticità, paradosso millenario che trova la sua soluzione matematica nel concetto di [[Derivata|derivata]].
-**Scienze**: [[Impressionismo#L'assenzio (Museo d'Orsay, Parigi)|L'assenzio]] di Degas e l'alcol
+**Scienze**: [[Impressionismo#L'assenzio (Museo d'Orsay, Parigi)|L'assenzio]] di Degas e l'alcol #TODO 
 
 ---
 # Esponenti
