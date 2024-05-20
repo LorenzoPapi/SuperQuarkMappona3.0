@@ -5,6 +5,10 @@
       "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Seconda guerra mondiale.md"
+    },
+    {
       "basename": "Surrealismo",
       "path": "Arte/Avanguardie/Surrealismo.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Neopositivismo",
       "path": "Filosofia/Neopositivismo.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Seconda guerra mondiale.md"
     },
     {
       "basename": "AMMINOACIDI E PROTEINE",

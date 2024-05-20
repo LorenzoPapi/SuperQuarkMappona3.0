@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f73d9af9a6ff9788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Seconda guerra mondiale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -167,6 +180,8 @@
   },
   "active": "38247af097d02845",
   "lastOpenFiles": [
+    "Storia/Seconda guerra mondiale.md",
+    "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Surrealismo.md",
     "Crediti e About.md",
     "index.md",
@@ -180,7 +195,6 @@
     "Arte/Avanguardie/Espressionismo.md",
     "Arte/Avanguardie/Dadaismo.md",
     "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Astrattismo.md",
     "Arte/Avanguardie/Futurismo.md",
     "Arte/Avanguardie/Metafisica.md",
@@ -192,7 +206,6 @@
     "Latino/Il 1° secolo/Marco Fabio Quintiliano.md",
     "Latino/Il 1° secolo/Lucio Anneo Seneca.md",
     "Latino/Il 2° secolo/Apuleio.md",
-    "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",
