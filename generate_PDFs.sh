@@ -8,7 +8,6 @@ while read md_file; do
     md_file="${md_file%.*}"
     declare nome_file="${md_file##*/}"
     declare percorso_file="${md_file/.\/content\/}"
-    echo "Leggendo: $nome_file.md, percorso: $percorso_file"
     
     declare local_folder=$root_pdf_folder
     readarray -d "/" -t folders <<< "$percorso_file"
@@ -19,7 +18,8 @@ while read md_file; do
             mkdir "$local_folder"
         fi
     done
+    echo "Leggendo $nome_file.md da $percorso_file verso "$local_folder/${nome_file//' '/'-'}.pdf""
 
-    declare options=$(printf '{ "scale": 0.5, "format": "A4", "margin": "16mm 10mm 10mm 10mm", "printBackground": false, "displayHeaderFooter": true, "headerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><h1>%s</h1></div>", "footerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><span class=\\"pageNumber\\"></span> / <span class=\\"totalPages\\"></span></div>"}' "$nome_file")
+    declare options=$(printf '{ "scale": 0.8, "format": "A4", "margin": "16mm 10mm 10mm 10mm", "printBackground": false, "displayHeaderFooter": true, "headerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><h1>%s</h1></div>", "footerTemplate": "<div style=\\"width: 100vw;font-size:10px;text-align:center;\\"><span class=\\"pageNumber\\"></span> / <span class=\\"totalPages\\"></span></div>"}' "$nome_file")
     cat "$md_file".md | md-to-pdf --stylesheet ./public/index.css --document-title "$nome_file" --pdf-options "${options}" > "$local_folder/${nome_file// /'-'}.pdf";
 done < MDList.txt

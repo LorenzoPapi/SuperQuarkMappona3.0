@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
       "basename": "Futurismo",
       "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
     },
     {
       "basename": "Futurismo letterario",
@@ -27,38 +75,6 @@
     {
       "basename": "Dante",
       "path": "Italiano/Dante.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
     },
     {
       "basename": "Movimento artistico",
@@ -95,18 +111,6 @@
     {
       "basename": "Seconda rivoluzione industriale",
       "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
     },
     {
       "basename": "Petronio",
@@ -195,10 +199,6 @@
     {
       "basename": "Naturalismo e Verismo",
       "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
-    },
-    {
-      "basename": "Luigi Pirandello",
-      "path": "Italiano/Novecento/Luigi Pirandello.md"
     }
   ],
   "omittedPaths": [],
