@@ -1,3 +1,6 @@
+# Persio
+# Giovenale
+# Marco Valerio Marziale
 Unico autore latino a scrivere esclusivamente epigrammi.
 Gli epigrammi acquistano valore letterario nel periodo ellenistico. La destinazione di un epigramma può essere:
 - Funerario

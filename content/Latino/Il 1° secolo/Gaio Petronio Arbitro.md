@@ -28,7 +28,7 @@ Come è evidenziato dalla presenza di nomi parlanti, i personaggi sono tipi comu
 	- L'imbarcazione appartiene ad un vecchio nemico di Encolpio, Lica, che lo porta ad un finto processo, che si trasforma in una situazione assurda, che vinene risolta. Scoppia una tempesta e Licia muore annegato, i tre vengono soccorsi da alcuni pescatori.
 - A Crotone
 	- Durante il tragitto per Crotone Eumolpo recita una composizione sulla guerra civile.
-	- Si dice che la città sia il regno dei caccatori di eredità (un tema che si ritroverà in [[Marziale]]), perciò Eumolpo si traveste da vecchio facoltoso con gli altri due come schiavi. 
+	- Si dice che la città sia il regno dei caccatori di eredità (un tema che si ritroverà in [[La satira]]), perciò Eumolpo si traveste da vecchio facoltoso con gli altri due come schiavi. 
 	- Encolpio va a letto con una signora dell'alta società, ma soffre l'impotenza sul culmine.
 - Conclusioni
 	- Encolpio verrà guarito grazie all'intervento di Mercurio.
@@ -42,7 +42,7 @@ Non è comunque un modello per vari motivi, tra cui l'assenza di un intento mora
 ### Altri generi
 La narrazione è intessuta di motivi derivanti da generi letterari "alti", come l'epica, la tragedia, la storiografia e l'oratoria. Infatti ci sono diversi riferimenti rivolti ad un pubblico colto capace di cogliere riferimenti intertestuali, probabilmente per dimostrare di aver scelto il linguaggio volgare, ma di essere capace d'altro.
 Lo schema macrotestuale dell'opera ricorda l'Odissea e l'Eneide, ma in questo caso Encolpio è alla ricerca della virilità perduta. Questo gioco è svelato dallo stesso autore all'interno del testo, sia esplicitamente che implicitamente.
-I versi di Eumolpo sulla guerra civile sono una parodia del Bellum Civile di [[Lucano]], non è chiaro se in chiave antilucanea o come caratterizzazione di cattivo poeta del personaggio.
+I versi di Eumolpo sulla guerra civile sono una parodia del Bellum Civile di [[L'epica]], non è chiaro se in chiave antilucanea o come caratterizzazione di cattivo poeta del personaggio.
 ### La decadenza dell'oratoria
 Encolpio ed Agamennone riconoscono il problema, ma differiscono nell'individiuazione delle cause. In ogni caso scalfiscono il problema, non si curano delle cause profonde, invece individuabili nella fine della repubblica e nell'iniziodell'autocrazia imperiale. Non è possibile identificare la posizione dell'autore.
 ### Cena Trimalchionis

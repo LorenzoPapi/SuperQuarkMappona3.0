@@ -32,7 +32,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 **Fisica**: l'impressionismo fa proprie quelle teorie sulla luce dettate dalle [[Elettro-magnetismo|equazioni di Maxwell]].
 **Inglese**: l'ideale di distacco dalla tradizione e di pittura del quotidiano, permettono all'arte di riguadagnare la sua autonomia come realtà al di fuori dello spazio, del tempo e della morale, concetto poi ripreso dall'[[Oscar Wilde|estetismo]].
 **Italiano**: anche se provenienti da un clima borghese, gli impressionisti ritraevano e narravano degli umili, allo stesso modo in cui [[Giovanni Verga]] descrive la sua realtà.
-**Latino**: l'anti-tradizionalismo è sempre stato presente nella storia e un modello esemplare di rovesciamento dei canoni è offerto dal [[Petronio|Satyricon]].
+**Latino**: l'anti-tradizionalismo è sempre stato presente nella storia e un modello esemplare di rovesciamento dei canoni è offerto dal [[Gaio Petronio Arbitro|Satyricon]].
 **Matematica**: gli impressionisti cercavano di mostrare l'attimo fuggente e il movimento nella staticità, paradosso millenario che trova la sua soluzione matematica nel concetto di [[Derivata|derivata]].
 **Scienze**: [[Impressionismo#L'assenzio (Museo d'Orsay, Parigi)|L'assenzio]] di Degas e l'alcol
 

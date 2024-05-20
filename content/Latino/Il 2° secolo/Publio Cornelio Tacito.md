@@ -1,5 +1,5 @@
 ## Coordinate cronologiche
-Non conosciamo né luogo né data di nascita, sappiamo che è stato allievo di [[Quintiliano]], perciò è stato sotto i flavi, dovrebbe essere nato intorno al 55dc.
+Non conosciamo né luogo né data di nascita, sappiamo che è stato allievo di [[Marco Fabio Quintiliano]], perciò è stato sotto i flavi, dovrebbe essere nato intorno al 55dc.
 Ha fatto tutto il cursus honorum, rifletti su questo.
 Robe Domiziano e imperatori di adozione
 Sposa la figlia di un personaggio politico importate, Giulio Agricola.
@@ -40,7 +40,7 @@ Qundi possiamo dire che l'opera ha un genere ibrido.
 
 Agricola è il profilo ideale dell'eroe. Di lui elogia l'obbedienza al princeps, anche domiziano.
 Il pregio più importante nei tempi difficili è l'obbedienza allo stato: "Anche sotto cattivi prinicipi possono vivere grani uomini".
-Il principato ormai è una realtà, bisogna trovare una chiave di lettura in esso perché non si può tornare indietro. Opposizione con [[Lucano]]
+Il principato ormai è una realtà, bisogna trovare una chiave di lettura in esso perché non si può tornare indietro. Opposizione con [[L'epica]]
 Tacito potrebbe aver scritto l'opera per giustificare se stesso per aver fatto carriera in un sistema che condannava, secondo lui la cosa migliore è stare al gioco, lavorare, non tirarsi indietro e subire il silenzio.
 
 p352, finalmente si torna a respirare (latino)

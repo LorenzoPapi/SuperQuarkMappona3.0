@@ -1,68 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
+      "basename": "Agostino",
+      "path": "Latino/Il 4° secolo/Agostino.md"
     },
     {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Seconda guerra mondiale.md"
+      "basename": "FILE NECESSARIO NON TOCCARE",
+      "path": "Latino/FILE NECESSARIO NON TOCCARE.md"
     },
     {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
+      "basename": "Gaio Svetonio Tranquillo",
+      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
     },
     {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
+      "basename": "Marco Fabio Quintiliano",
+      "path": "Latino/Il 1° secolo/Marco Fabio Quintiliano.md"
     },
     {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
+      "basename": "Lucio Anneo Seneca",
+      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
     },
     {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
+      "basename": "Apuleio",
+      "path": "Latino/Il 2° secolo/Apuleio.md"
     },
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
+      "basename": "Collegamenti ita",
+      "path": "NucleiTematici/Roba da sistemare/Collegamenti ita.md"
     },
     {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
+      "basename": "Eugenio Montale",
+      "path": "Italiano/Novecento/Eugenio Montale.md"
     },
     {
       "basename": "Futurismo letterario",
       "path": "Italiano/Novecento/Futurismo letterario.md"
     },
     {
-      "basename": "AMMINOACIDI E PROTEINE",
-      "path": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf"
+      "basename": "La satira",
+      "path": "Latino/Il 1° secolo/La satira.md"
     },
     {
-      "basename": "Collegamenti ita",
-      "path": "NucleiTematici/Roba da sistemare/Collegamenti ita.md"
+      "basename": "Publio Cornelio Tacito",
+      "path": "Latino/Il 2° secolo/Publio Cornelio Tacito.md"
+    },
+    {
+      "basename": "Gaio Petronio Arbitro",
+      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
+    },
+    {
+      "basename": "Il primo secolo d.C. (14 - 96)",
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
+    },
+    {
+      "basename": "L'epica",
+      "path": "Latino/Il 1° secolo/L'epica.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Post-positivismo",
+      "path": "Filosofia/Post-positivismo.md"
+    },
+    {
+      "basename": "Neopositivismo",
+      "path": "Filosofia/Neopositivismo.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "AMMINOACIDI E PROTEINE",
+      "path": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf"
     },
     {
       "basename": "Proposte doc arte",
@@ -113,10 +169,6 @@
       "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
     },
     {
-      "basename": "Petronio",
-      "path": "Latino/Il 1° secolo/Petronio.md"
-    },
-    {
       "basename": "Giovanni Pascoli",
       "path": "Italiano/Ottocento/Giovanni Pascoli.md"
     },
@@ -141,64 +193,12 @@
       "path": "Matematica/Integrazione.md"
     },
     {
-      "basename": "Agostino",
-      "path": "Latino/Il 4° secolo/Agostino.md"
-    },
-    {
       "basename": "La crisi del III secolo (193 - 305)",
       "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
     },
     {
-      "basename": "Tacito",
-      "path": "Latino/Il 2° secolo/Tacito.md"
-    },
-    {
       "basename": "Plinio il Giovane",
       "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
-    },
-    {
-      "basename": "Gaio Svetonio Tranquillo",
-      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
-    },
-    {
-      "basename": "Il secondo secolo d.C. (96 - 192)",
-      "path": "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md"
-    },
-    {
-      "basename": "Apuleio",
-      "path": "Latino/Il 2° secolo/Apuleio.md"
-    },
-    {
-      "basename": "Quintiliano",
-      "path": "Latino/Il 1° secolo/Quintiliano.md"
-    },
-    {
-      "basename": "Marziale",
-      "path": "Latino/Il 1° secolo/Marziale.md"
-    },
-    {
-      "basename": "Lucio Anneo Seneca",
-      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
-    },
-    {
-      "basename": "Lucano",
-      "path": "Latino/Il 1° secolo/Lucano.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
-    },
-    {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
-      "basename": "Naturalismo e Verismo",
-      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
     }
   ],
   "omittedPaths": [],

@@ -5,3 +5,4 @@ Simbolismo, decadentismo e freud
 Leopardi e lettera madame de stahel
 
 Allegoria -> metafora -> simbolo -> folgorazione -> correlativo oggettivo, la parola ormai è concreta.
+simbolo è **soggettivo**, il correlativo è invece **universale**

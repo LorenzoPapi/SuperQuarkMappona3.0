@@ -6,7 +6,7 @@
 
 [[Naturalismo e Verismo]]
 ## Opinione
-collega con [[Petronio]] ...
+collega con [[Gaio Petronio Arbitro]] ...
 
 ### Mastro-Don Gesualdo e il rifiuto dell'Ulissismo
 L'ideale dell'ostrica si può intendere come uno "stai nel tuo, abbandonati e non ti succederà niente di male", o, almeno, il male sarà un po' meno peggio. Il Mastro-Don Gesualdo esplica questa concezione nell'ottica della scalata sociale. L'idea di Gesualdo è di andare oltre alla sua natura (rappresentata da Mastro Nunzio), per crearsi una vita fondata sulla Roba. La sua impresa va male, e muore in una condizione penosa proprio a causa della sua arroganza. Gesualdo è quindi un Ulisse dei giorni nostri, se per Ulisse intendiamo la sua rappresentazione nella Divina Commedia:
