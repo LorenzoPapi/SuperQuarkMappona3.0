@@ -13,7 +13,7 @@ while read md_file; do
     readarray -d "/" -t folders <<< "$percorso_file"
     unset 'folders[${#folders[@]}-1]'
     for i in "${folders[@]}"; do
-        local_folder="$local_folder/${i/ /'-'}"
+        local_folder="$local_folder/${i// /'-'}" #commento per ricordare che mi ci sono volute 4 FOTTUTE COMMIT PER AGGIUSTARE L'ERRORE MANNAGGIA A ME
         if [ ! -d "$local_folder" ]; then
             mkdir "$local_folder"
         fi

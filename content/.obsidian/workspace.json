@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Avanguardie/Surrealismo.md",
+                "file": "Arte/Avanguardie/Cubismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Avanguardie/Surrealismo.md",
+                "file": "Arte/Avanguardie/Cubismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Avanguardie/Surrealismo.md",
+                "file": "Arte/Avanguardie/Cubismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "71e1241f6bb04faa",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Avanguardie/Surrealismo.md"
+                "file": "Arte/Avanguardie/Cubismo.md"
               }
             }
           },
@@ -155,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -167,6 +167,7 @@
   },
   "active": "38247af097d02845",
   "lastOpenFiles": [
+    "Arte/Avanguardie/Surrealismo.md",
     "Crediti e About.md",
     "index.md",
     "Arte/Impressionismo.md",
@@ -183,7 +184,6 @@
     "Arte/Avanguardie/Astrattismo.md",
     "Arte/Avanguardie/Futurismo.md",
     "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Surrealismo.md",
     "Arte/Art Nouveau.md",
     "Latino/Il 4° secolo/Aurelio Agostino.md",
     "NucleiTematici/Crisi delle certezze.md",
