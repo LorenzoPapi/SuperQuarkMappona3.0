@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/LorenzoPapi/SuperQuarkMappona3.0",
+      "Linkedin": "www.linkedin.com/in/lorenzo-montano-aa19472aa",
     },
   }),
 }
@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false
       }
     }),
-    //Component.DesktopOnly(Component.TableOfContents()),
+    Component.MobileOnly(Component.Explorer()),
     Component.TableOfContents(),
     Component.Backlinks(),
   ],

@@ -27,7 +27,7 @@ Maggior protagonista del *Modernismo* catalano, le sue opere sono contraddistint
 L'opera più singolare e nota basata su un progetto **neogotico**. Impianto a **croce latina** a cinque navate sul quale sono impostati **diciotto torrioni con pinnacoli traforati** come in un gigantesco castello di sabbia. Ogni **particolare** è studiato e fatto realizzare da persone scelte da lui.
 #### Parco Guell (1900 - 1914, Barcellona)
 Quanto resta del progetto di una **città-giardino** alle porte della città, si accede oltrepassate le due palazzine di **architettura fiabesca** attraverso una scalinata a **salamandra** rivestita di frammenti di **vetro**. Si accede poi a una sala ipostila con colonne doriche e capitelli. Si accede poi ad una **foresta pietrificata** e alla **terrazza superiore** con vista panoramica su tutto.
-#### Casa Milà (1905- 1910, Barcellona)
+#### Casa Milà (1905 - 1910, Barcellona)
 Grande edificio residenziale, è concepita come **sperone roccioso naturale** scavato da vento e piogge, ottenuto come una **successione di profili ondulati** sui quali si impostano delle  **ringhiere** formate da grovigli. Il tetto è popolato di  **volumi tecnici** accolti da sagome fantastiche e vagamente inquietanti.
 ## Pittura
 ### Gustav Klimt (1862, Baumgarten - 1918, Vienna)

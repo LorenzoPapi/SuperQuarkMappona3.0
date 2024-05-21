@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Canovaccio",
+      "path": "Canovaccio.md"
+    },
+    {
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Teoria della relatività",
+      "path": "Fisica/Teoria della relatività.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
       "basename": "Magnetismo",
       "path": "Fisica/Magnetismo.md"
     },
@@ -9,8 +33,60 @@
       "path": "Fisica/Circuiti elettrici.md"
     },
     {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
       "basename": "Sigmund Freud",
       "path": "Filosofia/Sigmund Freud.md"
+    },
+    {
+      "basename": "Futurismo letterario",
+      "path": "Italiano/Novecento/Futurismo letterario.md"
+    },
+    {
+      "basename": "Cezanne_01",
+      "path": "Arte/Immagini/Cezanne_01.jpg"
     },
     {
       "basename": "Alessandro Manzoni",
@@ -41,10 +117,6 @@
       "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
     },
     {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
       "basename": "Post-positivismo",
       "path": "Filosofia/Post-positivismo.md"
     },
@@ -53,64 +125,12 @@
       "path": "Filosofia/Citazioni.md"
     },
     {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
       "basename": "Rivoluzione Russa",
       "path": "Storia/Rivoluzione Russa.md"
     },
     {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
       "basename": "Seconda guerra mondiale",
       "path": "Storia/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
     },
     {
       "basename": "Guerra fredda",
@@ -137,10 +157,6 @@
       "path": "NucleiTematici/Crisi delle certezze.md"
     },
     {
-      "basename": "FILE NECESSARIO NON TOCCARE",
-      "path": "Latino/FILE NECESSARIO NON TOCCARE.md"
-    },
-    {
       "basename": "Gaio Svetonio Tranquillo",
       "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
     },
@@ -165,10 +181,6 @@
       "path": "Italiano/Novecento/Eugenio Montale.md"
     },
     {
-      "basename": "Futurismo letterario",
-      "path": "Italiano/Novecento/Futurismo letterario.md"
-    },
-    {
       "basename": "La satira",
       "path": "Latino/Il 1° secolo/La satira.md"
     },
@@ -183,22 +195,6 @@
     {
       "basename": "Il primo secolo d.C. (14 - 96)",
       "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "L'epica",
-      "path": "Latino/Il 1° secolo/L'epica.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Neopositivismo.md"
-    },
-    {
-      "basename": "AMMINOACIDI E PROTEINE",
-      "path": "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf"
-    },
-    {
-      "basename": "Proposte doc arte",
-      "path": "NucleiTematici/Roba da sistemare/Proposte doc arte.md"
     }
   ],
   "omittedPaths": [],

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5f291159a3fcf9a7",
+        "id": "ef8e94d60b871a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "8932146a457ca235",
+            "id": "fd8ead5fd9760b24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fisica/Magnetismo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fisica/Magnetismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fisica/Magnetismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fisica/Magnetismo.md"
+                "file": "Latino/FILE NECESSARIO NON TOCCARE.md"
               }
             }
           },
@@ -154,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -165,34 +157,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8932146a457ca235",
+  "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
-    "Fisica/Circuiti elettrici.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Canovaccio.md",
+    "Crediti e About.md",
+    "index.md",
+    "Fisica/Teoria della relatività.md",
+    "Fisica/Elettro-magnetismo.md",
     "Fisica/Magnetismo.md",
+    "Fisica/Circuiti elettrici.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Futurismo.md",
+    "Arte/Art Nouveau.md",
+    "Arte/Avanguardie/Cubismo.md",
+    "Arte/Postimpressionismo.md",
+    "Arte/Pop Art.md",
+    "Arte/Impressionismo.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
     "Filosofia/Sigmund Freud.md",
+    "Italiano/Novecento/Futurismo letterario.md",
+    "Arte/Immagini/Cezanne_01.jpg",
     "Italiano/Ottocento/Alessandro Manzoni.md",
     "Italiano/Ottocento/Gabriele D'Annunzio.md",
     "Italiano/Ottocento/Giacomo Leopardi.md",
     "Italiano/Ottocento/Giovanni Pascoli.md",
     "Italiano/Ottocento/Giovanni Verga.md",
-    "Italiano/Ottocento/Naturalismo e Verismo.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
-    "Arte/Avanguardie/Surrealismo.md",
-    "Filosofia/Post-positivismo.md",
-    "Filosofia/Citazioni.md",
-    "Arte/Pop Art.md",
-    "Arte/Postimpressionismo.md",
-    "Arte/Art Nouveau.md",
-    "Arte/Impressionismo.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Astrattismo.md",
-    "Storia/Rivoluzione Russa.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Dadaismo.md",
-    "Storia/Seconda guerra mondiale.md",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",

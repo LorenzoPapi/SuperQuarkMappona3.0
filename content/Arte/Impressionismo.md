@@ -2,15 +2,14 @@
 tags:
 ---
 # Il movimento
-## Coordinate spazio-temporali
-### 15 aprile 1874 - 1886
+## 15 aprile 1874 - 1886, Parigi
 Viene organizzata la **prima** **mostra** (163 opere) da alcuni giovani artisti, le cui opere erano state **rifiutate dai *Salons* ufficiali**, nel vecchio studio del fotografo **Felix Nadar** al 35 di Boulevard des Capucines, presentandosi come ***Società Anonima degli artisti, pittori, incisori, scultori ecc.***
 
-Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi Leroy**, osservando un dipinto di Monet chiamato ***Impressione, sole nascente****, lo stroncò sostenendo che:
+Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi Leroy**, osservando un dipinto di Monet chiamato ***Impressione, sole nascente***, lo stroncò sostenendo che:
 `la carta da parati allo stato embrionale è ancora più curata di questo dipinto`
-e concluse estendendo a tutti gli artisti l’appellativo di ***Impressionisti***. Tale movimento durò fino al **1886** anno dell’ottava esposizione: già dal 1880 i **contrasti ideologici** portarono i componenti del gruppo a partecipare **individualmente ai *Salons*** che iniziarono ad accettarli.
-### Parigi
-Parigi, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come ***Ville lumiere***. Grazie alla [[Seconda rivoluzione industriale]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico. Gli impressionisti sono i primi a portarlo nell'arte.
+e concluse estendendo a tutti gli artisti l’appellativo di ***Impressionisti***. Tale movimento durò fino al **1886** (VIII esposizione): i **contrasti ideologici** portarono i componenti del gruppo a partecipare **individualmente ai *Salons*** che iniziarono ad accettarli.
+
+La capitale francese, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come ***Ville lumiere***. Grazie alla [[Seconda rivoluzione industriale]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico: gli impressionisti sono i primi a portarlo nell'arte.
 ## Ideologia
 L’Impressionismo si sviluppa in maniera **diversa** dai movimenti artistici precedenti:
 - è **privo** **base culturale** omogenea, gli aderenti avevano passati diversi fra loro;

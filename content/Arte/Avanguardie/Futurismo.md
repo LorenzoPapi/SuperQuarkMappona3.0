@@ -1,5 +1,5 @@
 # Il movimento
-## Parigi, 20 febbraio 1909 - 1944
+## 20 febbraio 1909 - 1944, Parigi
 Nasce con la **pubblicazione** sul quotidiano **“Le Figaro”** a firma di [[Futurismo letterario#Filippo Tommaso Marinetti (1876, Alessandria d'Egitto - 1944, Como)|Marinetti]] del ***Manifesto del Futurismo*** dopo una profonda riflessione sui recenti sviluppi tecnologici e con l’intento di **rinnovare profondamente il modo di fare arte e di comunicarla**. Nonostante nel Ventennio l’arte fu soggetta a censura e fu usata come mezzo di propaganda, i futuristi riuscirono a mantenere una **loro autonomia**: tuttavia quando Mussolini tenterà di sopprimere le avanguardie bollandole come ***arte degenerata*** sarà Marinetti a intervenire e **opporsi**, riuscendo a mantenere un certo grado di libertà per l’**arte moderna**.
 ## Ideologia
 Il primo manifesto è preceduto da un prologo che racconta i momenti di fondazione del movimento; contiene 11 punti salienti che insistono sulla:
@@ -8,8 +8,8 @@ Il primo manifesto è preceduto da un prologo che racconta i momenti di fondazio
 - **abolizione di ogni canone artistico precedente**
 - **esaltazione della macchina**: fonte di **eterno rinnovamento**, di forza, velocità, regolarità, precisione
 - necessità di rendere l’**arte quotidiana**: i futuristi cercheranno di raggiungere un **pubblico più ampio possibile** tramite le **serate futuriste**, spettacoli teatrali di atti ed eventi culturali con grande **effetto provocatorio** sullo spettatore, stimolando reazioni volutamente **veementi** che portavano all’**eco sui giornali** e quindi a un maggiore pubblico, **incuriosito** da questi avvenimenti
-
-Proprio in una di queste serate viene pubblicato il ***Manifesto dei pittori futuristi*** (**8 marzo 1910**), succeduto poi dal ***Manifesto tecnico della pittura futurista***. Mentre il primo manifesto è puramente teorico, riproponendo il **rifiuto della tradizione**, il secondo è più tecnico ed offre indicazioni pratiche riassunte nella seguente frase: `Noi porremo lo spettatore nel centro del quadro.`
+## Tecnica
+In una delle serate futuriste viene pubblicato il ***Manifesto dei pittori futuristi*** (**8 marzo 1910**), succeduto poi dal ***Manifesto tecnico della pittura futurista***. Mentre il primo manifesto è puramente teorico, riproponendo il **rifiuto della tradizione**, il secondo è più tecnico ed offre indicazioni pratiche riassunte nella seguente frase: `Noi porremo lo spettatore nel centro del quadro.`
 I pittori hanno sempre mostrato cose e persone poste davanti a noi, immagini statiche dalle quali noi siamo estraniati; invece l’arte deve renderci **al centro della rappresentazione** mostrando il **movimento** in tre tratti fondamentali:
 - la ***contemporaneità della visione***: fondante della vita metropolitana, mostrato con l'unione di **più punti di vista**
 - la ***sintesi tra visione mentale e ottica***: la necessità di unire la ***percezione*** degli oggetti con la ***memoria*** che abbiamo di essi, ovvero la loro **configurazione assunta nel tempo**
@@ -27,10 +27,9 @@ Un ciclo di tre dipinti (*Gli addii*, *Quelli che vanno*, *Quelli che restano*) 
 Una figura umana che incede a grandi passi, **senza volto e braccia**, puro movimento. Il profilo segue linee **frammentate e irregolari** che si protendono nello spazio e **fluttuano** come scie solidificatesi nello spazio. La figura si **fonde con l'ambiente circostante**, da cui deriva vibrante dinamicità. La scultura si fonda sulla sua **autonomia tridimensionale**, fondata sulla **simultaneità** e la sintesi tra **visione ottica e mentale**.
 # Collegamenti
 **Filosofia**: [[Henri Bergson]] (tempo e durata, in particolare la sintesi tra visione mentale e ottica)
-**Fisica**:
-**Inglese**:
-**Italiano**:
-**Latino**:
+**Fisica**: [[Teoria della relatività]] (compenetrazione dei tempi)
+**Inglese**: [[Virginia Woolf]] (tempo interiore)
+**Latino**: [[L'epica#Marco Anneo Lucano|Lucano]] (rovesciamento dei modelli?)
 **Matematica**:
 **Scienze**:
-**Storia**:
+**Storia**: [[Prima Guerra Mondiale]]
