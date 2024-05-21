@@ -21,7 +21,13 @@ La sua tavolozza si scalda di colori caldi e ripropone il tema della famiglia. I
 ## Les damoiselles d'Avignon (1907)
 Quadro di rottura nel quale, partendo dalle **solide volumetrie di Cézanne**, **semplifica le geometrie dei corpi** (cinque prostitute nel bordello) e lo **spazio** che viene **smaterializzato** e reso un'oggetto, come avviene per la natura morta sul tavolino in basso. Le stesse figure sono **compenetrate nello spazio** ma fatte della stessa materia. Mentre per i volti centrali si ispira alla **scultura iberica**, per le altre alle **maschere rituali dell'Africa nera**. Sono stravolte tutte le regole di prospettiva e senso comune, verso una nuova **percezione della realtà**, volta a rappresentare **più lati contemporaneamente**.
 ## Guernica (1937)
-Come risposta al bombardamento di Guernica per la [[Seconda guerra mondiale#Guerra civile spagnola|guerra civile spagnola]] la dipinge come **atto d'accusa contro la guerra**. L'opera destò uno scalpore e commozione pari all'indifferenza derisoria con la quale fu giudicata da Hitler e Mussolini. Già nelle dimensioni (3.5 x 8 m) denuncia la sua funzione **ideologica e politica**, rappresentando il drammatico **momento del bombardamento**
+Come risposta al bombardamento di Guernica per la [[Seconda guerra mondiale#Guerra civile spagnola|guerra civile spagnola]] la dipinge come **atto d'accusa contro la guerra**. Già nelle dimensioni (3.5 x 8 m) denuncia la sua funzione **ideologica e politica**, rappresentando il drammatico **momento del bombardamento** in una gamma **grigio-azzurra** su fondo antracite con delle **figure urlanti**, illuminate dai bagliori delle esplosioni. Tutto è movimento, dramma, rendendo **udibile la guerra tramite la pittura**.
+La composizione è divisa in **tre fasce verticali**, in un'ambientazione **esterna** (edifici in fiamme) e **interna** (lampadario), non solo come necessità cubista ma anche come simbolo del **bombardamento che sparpaglia il quotidiano**:
+- all'estrema sinistra una **madre grida al cielo** con in mano il **cadavere del figlio**, contrapposta dall'altro lato con l'eco di un'altra donna che **grida tra le fiamme**
+- al centro un **cavallo ferito** (onesto e laborioso popolo spagnolo) **nitrisce dolorosamente**
+- ovunque sono **morte e distruzione** con un **disegno duro e tagliente**, chi può cerca di **fuggire** come la donna che si slancia verso il **toro** (violenza)
+- un'altra donna si affaccia disperata con una **lampada ad olio** (regresso)
+- tra le macerie, cadaveri straziati e simboli di **vita e ragionevolezza** che comunque **trionferanno** sulla guerra
 # Collegamenti
 **Filosofia**:
 **Fisica**:

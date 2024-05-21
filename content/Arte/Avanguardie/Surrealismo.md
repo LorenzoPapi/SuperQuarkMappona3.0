@@ -7,7 +7,7 @@
 ## Biografia
 ## Opera 1
 # Collegamenti
-**Filosofia**:
+**Filosofia**: [[Sigmund Freud]] (sogno = porta per l'inconscio)
 **Fisica**:
 **Inglese**:
 **Italiano**:

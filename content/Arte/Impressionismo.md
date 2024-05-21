@@ -1,5 +1,5 @@
 ---
-tags: []
+tags:
 ---
 # Il movimento
 ## Coordinate spazio-temporali

@@ -15,11 +15,11 @@ Si riconoscono ancora **chiaramente le figure**: nella *VI (Domenica)*, con una 
 ## Composizioni
 Irriconoscibile qualunque schema: le **masse di colore** governano il dipinto, liberato dalla schiavitù delle forme scoprendo l'**emotività del colore** tramite fasci di **linee curve parallele**, **punti distinti** e **tratti divergenti**.
 # Collegamenti
-**Filosofia**:
-**Fisica**:
-**Inglese**:
-**Italiano**:
-**Latino**:
-**Matematica**:
-**Scienze**:
-**Storia**:
+**Filosofia**: 
+**Fisica**: 
+**Inglese**: 
+**Italiano**: 
+**Latino**: 
+**Matematica**: 
+**Scienze**: 
+**Storia**: 

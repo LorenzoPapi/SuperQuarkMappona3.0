@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
+      "basename": "Magnetismo",
+      "path": "Fisica/Magnetismo.md"
     },
     {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Seconda guerra mondiale.md"
+      "basename": "Circuiti elettrici",
+      "path": "Fisica/Circuiti elettrici.md"
+    },
+    {
+      "basename": "Sigmund Freud",
+      "path": "Filosofia/Sigmund Freud.md"
+    },
+    {
+      "basename": "Alessandro Manzoni",
+      "path": "Italiano/Ottocento/Alessandro Manzoni.md"
+    },
+    {
+      "basename": "Gabriele D'Annunzio",
+      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
+    },
+    {
+      "basename": "Giacomo Leopardi",
+      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
+    },
+    {
+      "basename": "Giovanni Pascoli",
+      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
+    },
+    {
+      "basename": "Giovanni Verga",
+      "path": "Italiano/Ottocento/Giovanni Verga.md"
+    },
+    {
+      "basename": "Naturalismo e Verismo",
+      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
     },
     {
       "basename": "Surrealismo",
       "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Post-positivismo",
+      "path": "Filosofia/Post-positivismo.md"
+    },
+    {
+      "basename": "Citazioni",
+      "path": "Filosofia/Citazioni.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Rivoluzione Russa.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Seconda guerra mondiale.md"
     },
     {
       "basename": "Crediti e About",
@@ -19,18 +111,6 @@
     {
       "basename": "index",
       "path": "index.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
     },
     {
       "basename": "Guerra fredda",
@@ -47,34 +127,6 @@
     {
       "basename": "Stalinismo",
       "path": "Storia/Stalinismo.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
     },
     {
       "basename": "Aurelio Agostino",
@@ -137,10 +189,6 @@
       "path": "Latino/Il 1° secolo/L'epica.md"
     },
     {
-      "basename": "Post-positivismo",
-      "path": "Filosofia/Post-positivismo.md"
-    },
-    {
       "basename": "Neopositivismo",
       "path": "Filosofia/Neopositivismo.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Proposte doc arte",
       "path": "NucleiTematici/Roba da sistemare/Proposte doc arte.md"
-    },
-    {
-      "basename": "Proposte doc inglese",
-      "path": "NucleiTematici/Roba da sistemare/Proposte doc inglese.md"
-    },
-    {
-      "basename": "Dante",
-      "path": "Italiano/Dante.md"
-    },
-    {
-      "basename": "Movimento artistico",
-      "path": "templates/Movimento artistico.md"
-    },
-    {
-      "basename": "Kierkegaard",
-      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md"
-    },
-    {
-      "basename": "Hegel",
-      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md"
-    },
-    {
-      "basename": "2-16",
-      "path": "NucleiTematici/Roba da sistemare/Storia/2-16.md"
-    },
-    {
-      "basename": "14 punti e società delle nazioni",
-      "path": "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md"
-    },
-    {
-      "basename": "Elezioni 1913",
-      "path": "NucleiTematici/Roba da sistemare/Storia/Elezioni 1913.md"
-    },
-    {
-      "basename": "Fascismo e Nazismo",
-      "path": "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md"
-    },
-    {
-      "basename": "Imperialismo",
-      "path": "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md"
-    },
-    {
-      "basename": "Seconda rivoluzione industriale",
-      "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
-    },
-    {
-      "basename": "Giovanni Pascoli",
-      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
     }
   ],
   "omittedPaths": [],
