@@ -13,8 +13,6 @@ L'incontro decisivo fu quello con ***Ambrogio***, uomo potente della Chiesa con 
 Dopo alcuni anni di ritiro spirituale, gli viene chiesto di accettare la **nomina di sacerdote d'Ippona**, dove fonda un monastero e scrive la sua **Regola**, nella quale esorta i monaci ad un **maggiore impegno nell'evangelizzazione**. Morto il vescovo Valerio, viene acclamato suo **successore**, iniziando un periodo di intensa attività pastorale.
 ## 430
 A seguito del sacco di Roma e degli attacchi barbarici, scrive la *Città di Dio*, ma **morì** poco prima dell'assedio di Ippona.
-
----
 # Opere
 Uno scrittore estremamente prolifico, le sue opere superstiti sono centinaia. In particolare di carattere **filosofico, dottrinale e morale**. Oltre le ***Confessioni*** e la ***Città di Dio***:
 - **opere filosofiche**: in particolare nei *Dialoghi di Cassiaco*, ovvero quattro opere distinte che affrontano le **tematiche della filosofia classica** come la conoscenza della verità, della felicità e del bene
@@ -41,12 +39,8 @@ Critica della **religione pagana**, erronea sia da un punto di vista **morale** 
 Esplora il concetto di **Bene**, discutendo però prima il **Male**: esso è ***assenza di Bene***, e deriva da *Lucifero*, interpretando la **storia come conflitto tra Bene e Male** da Adamo. Proprio questa vicenda simboleggia la ***città degli uomini***: la scelta dell'**amor proprio rispetto a Dio, la materia sullo spirito, l'istante all'eternità**; la scelta opposta invece è l'essenza della ***città di Dio***.
 #### Libri XIV-XVIII
 Riepilogo della storia antica alla luce di Bene e Male che **coesistono nel mondo e in ogni individuo**: la città degli uomini è espressa da **imperi e stati, destinati a crollare**, e l'unica che rimarrà in eterno sarà quella divina.
-
---- 
 # Stile
 Riesce a **calibrare il linguaggio** a seconda dell'**occasione**, dello scopo e del genere, soprattutto sugli **effetti uditivi**, dato che il pubblico fruiva dei suoi testi per *verba*. Passa dallo stile **paratattico e piano** a quello **irregolare e conciso** o **patetico**: i passi più **introspettivi** sono ricchi di **domande e interrogativi**, alternato alla **durezza dei tratti dogmatici** e alla **posatezza delle opere catechetiche**. 
-
----
 # Collegamenti
 **Arte**:
 **Inglese**:

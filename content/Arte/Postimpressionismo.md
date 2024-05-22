@@ -33,15 +33,15 @@ Una sua opera viene acquistata per la prima volta dal ***Staatliche Museen, Berl
 Il *Salon d'Automne* gli dedica un'intera sala.
 ##### 22 ottobre 1906
 Dopo un collasso avuto il 15 ottobre morì nella sua città natale.
-### Pensiero e disegno:
+### Ideologia:
 La produzione artistica di Cézanne viene spesso divisa in quattro periodi:
 * Periodo **oscuro** (Parigi, 1861-1870), nel quale era attaccato al **realismo** di Delacroix.
 * Periodo **impressionista** (Provenza, 1871-1878), quando venne a contatto con i primi **impressionisti** e aderì completamente al movimento.
 * Periodo **maturo** (Provenza, 1879-1890), segna il **distacco** e la ricerca di **nuove vie** per rappresentare la realtà.
 * Periodo **lirico** (Provenza, 1890-1906), nel quale **inventa figure** nei paesaggi.
-La principale caratteristica del suo dipinto è la **dissoluzione della realtà in forme geometriche elementari**, tanto che sosteneva di volere:
-***"Trattare la natura secondo il cilindro, la sfera e il cono."***
-Il disegno è **deciso** con linee ondulate, lascia delle **zone non colorate** per evidenziare le zone **direttamente illuminate** (bianche) e non rifinisce le masse.
+
+La principale caratteristica del suo dipinto è la **dissoluzione della realtà in forme geometriche elementari**, tanto che sosteneva di volere `trattare la natura secondo il cilindro, la sfera e il cono`. Il disegno è **deciso** con linee ondulate, lascia delle **zone non colorate** per evidenziare le zone **direttamente illuminate** (bianche) e non rifinisce le masse.
+## Opere
 #### La casa dell'impiccato (Museo d'Orsay, Parigi)
 ![[Cezanne_01.jpg]]
 ***Prima mostra impressionista, 1874***. Nonostante sia notevole l'influenza impressionista, si intravedono già alcuni elementi posteriori ad essi.

@@ -18,8 +18,6 @@ Eccetto la dedica a Setticio e capitoli della prima biografia, ci è pervenuto i
 La struttura è bipartita: la narrazione comincia ***per tempora*** (in ordine cronologico), fornendo informazioni sulla famiglia, il luogo e la data di nascita, l'educazione fino all'assunzione del potere; successivamente si passa a quella ***per species*** (per categorie), come le azioni belliche, politica interna, vita privata. Infine il racconto della **morte** segna il ritorno alla narrazione cronologica.
 # Stile
 Svetonio predilige una **prosa chiara e scorrevole**, evitando ricercatezze o preziosismi, mentre utilizza spesso **tecnicismi e grecismi**, nonché espressioni colloquiali. Tale stile largamente accessibile ha contribuito alla sua fama postuma.
-
----
 # Collegamenti
 **Arte**:
 **Filosofia**:

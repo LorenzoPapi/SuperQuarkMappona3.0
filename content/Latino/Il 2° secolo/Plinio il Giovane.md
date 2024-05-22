@@ -2,21 +2,12 @@
 # Biografia
 ## LOREM IPSUM
 Dolorem sit amet.
-
----
 # Pensiero
 Lorem ipsum dolorem sit amet.
-
----
 # Opere
 Lorem ispsum dolorem sit amet.
-
---- 
 # Stile
 Lorem ispsum dolorem sit amet.
-
----
-
 Plinio il giovane nacque a Como nel 61 o nel 62. Il suo nome in origine era Gaio Cecilio Secondo, ma alla morte del padre fu adottato dallo zio materno, **Plinio il Vecchio** che gli trasmise il suo nome. Trasferito a Roma, prima studiò presso Quintiliano e, una volta completata la sua preparazione, intraprese una carriera giudiziaria e politica che culminò nel 100 quando, sotto Traiano, fu nominato ***consul suffectus*** (console subentrato). Più tardi fu nominato governatore della Bitinia, dove morì intorno al 113.
 
 **IL PANEGIRICO**. Ispirandosi a Cicerone, compose orazioni di vario genere, di cui sopravvive solo il ***Panegirico a Traiano*** e un’ampia raccolta di epistole. Il termine ***panegyricus*** deriva dal greco e in origine indicava un discorso pubblico tenuto in occasione di qualcuna delle grandi festività panelleniche (panegirico di Isocrate). In seguito con *panegyricus* si cominciò ad intendere un encomio del sovrano. Il Panegirico a Traiano costituisce la versione rielaborata del discorso di ringraziamento che Plinio pronunciò quando entrò in carica come *consul suffectus*. L’orazione, dallo stile ridondante, costituisce un **elogio di Traiano** per le proprie virtù. Tuttavia si tratta di una versione estremamente idealizzata del principato: Plinio si presta infatti, anche se in buona fede, a riproporre la **propaganda imperiale**.** 

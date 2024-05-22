@@ -14,16 +14,17 @@ I pittori hanno sempre mostrato cose e persone poste davanti a noi, immagini sta
 - la ***contemporaneità della visione***: fondante della vita metropolitana, mostrato con l'unione di **più punti di vista**
 - la ***sintesi tra visione mentale e ottica***: la necessità di unire la ***percezione*** degli oggetti con la ***memoria*** che abbiamo di essi, ovvero la loro **configurazione assunta nel tempo**
 - la ***compenetrazione dinamica***: vicinanza e **sovrapposizione** tra gli oggetti che consiste nell'**idea di *sinestesia***
-# Umberto Boccioni (1882, Reggio Calabria - 1916, Verona)
-## Biografia
+# Umberto Boccioni
+## Biografia (1882, Reggio Calabria - 1916, Verona)
 Stabilitosi a Roma (1900) e avvicinandosi al divisionista *Balla*, da cui apprende la tecnica ed il **gusto del vero**, si iscrive all'Accademia di **Venezia** (1907) per poi andare a **Milano**, sancendo un periodo impressionista. Dall'incontro con Marinetti (1910), diventa ispiratore del *Manifesto dei pittori futuristi* nel quale scaturisce l'idea di **pittura come sensazione dinamica eternata, non più un momento fermo**. Pubblica poi il ***Manifesto tecnico della scultura futurista*** dove definisce i concetti di **linea di forza**, **dinamismo** e **simultaneità**.
-## La città che sale (1910)
+## Opere
+### La città che sale (1910)
 Protagonista della tela è un **turbinoso affollarsi di cavalli e uomini** in un cantiere edile da cui emergono **edifici in costruzione**. Lo scenario è quindi una **città urbana in espansione** (ciminiere fumanti, tram elettrici). La scena restituisce un senso di **durata nel tempo** grazie alla **profondità di campo**, che aggiunge densità alla visione e lo porta **dentro il dipinto**, e alla distinzione tra **cavalli e operai** e **fabbriche e periferie**. Inizialmente lo sguardo è attrato dall'**intensità di colori** e successivamente le **forme**, prive di contorni e **fuse le une con le altre** che emergono dall'insieme e si **unificano**.
-## Stati d'animo (1911)
+### Stati d'animo (1911)
 Un ciclo di tre dipinti (*Gli addii*, *Quelli che vanno*, *Quelli che restano*) e ne fa **due versioni**, una pre-cubista, l'altra post. In entrambe sono presenti la concezione della **pittura come espressione di sensazione che appaiono *chiassosamente***, la riaffermazione della **tecnica divisionista**, l'unica che permette di descrivere ***moto e luce, distruttori della materialità***:
 - nella prima versione, balza all'occhio come essa sia **portata all'estremo**, tanto che le ondeggianti **linee di colori** hanno sostituito i puntini e diventano **masse cromatiche**, lasciando intravedere **ombre scure che si abbracciano**, in un movimento **ripetuto** che si espande nello spazio coinvolgendo l'**osservatore stesso**
 - nella seconda, si ripete sempre il movimento, ma sono presenti anche una **locomotiva** riconoscibile per frammenti distinti come il **fumo dal fumaiolo** e il **numero di serie** della macchina e il **fanale posteriore**, insieme e all'**andamento dei binari** e sullo sfondo un **traliccio** allude al progresso, assumendo proporzioni irreali come **solo nella memoria**
-## Forme uniche della continuità nello spazio (1913)
+### Forme uniche della continuità nello spazio (1913)
 Una figura umana che incede a grandi passi, **senza volto e braccia**, puro movimento. Il profilo segue linee **frammentate e irregolari** che si protendono nello spazio e **fluttuano** come scie solidificatesi nello spazio. La figura si **fonde con l'ambiente circostante**, da cui deriva vibrante dinamicità. La scultura si fonda sulla sua **autonomia tridimensionale**, fondata sulla **simultaneità** e la sintesi tra **visione ottica e mentale**.
 # Collegamenti
 **Filosofia**: [[Henri Bergson]] (tempo e durata, in particolare la sintesi tra visione mentale e ottica)

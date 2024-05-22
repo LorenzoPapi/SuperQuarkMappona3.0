@@ -2,7 +2,8 @@
 L'industrializzazione del XIX secolo portò alla **distruzione di molte attività artigianali**, sorpassate dalla concorrenza **industriale**, e le **città** non riuscirono ad accogliere i **nuovi venuti dalle campagne**. Così, molti individui dovettero abbandonare le proprie radici contadini (***perdita di identità***) ed erano anche costretti ad un lavoro massacrante e non gratificante (***alienazione***) che produceva oggetti **scadenti** e senza pregio.
 
 La grande *Esposizione dei prodotti industriali di tutte le nazioni* (Londra, 1851) mostrò **pezzi altamente decorativi e costosi** al fianco di una **svilita produzione industriale comune**, mostrando che la produzione in serie portava alla **fine dell'estetica**. Gli artisti quindi sentivano necessario **cambiare la situazione** per aiutare gli operai maltrattati e al contempo **far crescere la qualità** degli oggetti.
-## William Morris (1834, Walthamstow - 1896, Hammersmith)
+## William Morris
+### Biografia (1834, Walthamstow - 1896, Hammersmith)
 Pittore, pubblicista, decoratore e grafico, nonché un personaggio **estroso e vulcanico** , studiò ad Oxford e aderì al socialismo (**1883**). Riteneva che bisognasse **restituire al lavoro operaio la *spiritualità*** eliminata dalle macchine, conciliando **lavoro** e **artigianato**.
 
 Fonda la ***Morris, Marshall, Faulkner & Co.*** (**1861**), ditta per **arredamenti** e **decorazione delle abitazioni**, ma data la loro alta qualità, si rivolgeva sempre a **poche persone**.
@@ -21,7 +22,8 @@ La portata del movimento fu talmente grande che mutò **ogni campo del vivere qu
 - nella grafica si porta al **perfezionamento della litografia** consentendo **manifesti, locandine, riviste** permettendo agli artisti di **diffondere le proprie opere**
 ## Architettura
 Essendo un movimento frammentato, l'architettura si sviluppa in modi diversi, che si accomunano però per l'**uso di material nuovi** e **elementi decorativi** che riprendono le **forme della natura**. Un architetto, volendo fondere arti **maggiori e minori**, progetta **tutta la casa**, dalla struttura all'arredamento.
-### Antoni Gaudì (1852, Reus - 1926, Barcellona)
+### Antoni Gaudì
+#### Biografia (1852, Reus - 1926, Barcellona)
 Maggior protagonista del *Modernismo* catalano, le sue opere sono contraddistinte da una **fantasia turbinosa di modellazione delle superfici**. Unisce il **cromatismo islamico** allo studio della **staticità delle strutture** (gotico), superando ogni classicismo.
 #### *Sagrada Familia* (1882 - presente, Barcellona)
 L'opera più singolare e nota basata su un progetto **neogotico**. Impianto a **croce latina** a cinque navate sul quale sono impostati **diciotto torrioni con pinnacoli traforati** come in un gigantesco castello di sabbia. Ogni **particolare** è studiato e fatto realizzare da persone scelte da lui.
@@ -30,7 +32,8 @@ Quanto resta del progetto di una **città-giardino** alle porte della città, si
 #### Casa Milà (1905 - 1910, Barcellona)
 Grande edificio residenziale, è concepita come **sperone roccioso naturale** scavato da vento e piogge, ottenuto come una **successione di profili ondulati** sui quali si impostano delle  **ringhiere** formate da grovigli. Il tetto è popolato di  **volumi tecnici** accolti da sagome fantastiche e vagamente inquietanti.
 ## Pittura
-### Gustav Klimt (1862, Baumgarten - 1918, Vienna)
+### Gustav Klimt
+#### Biografia (1862, Baumgarten - 1918, Vienna)
 Uno dei maggiori promotori della *Secessione* viennese, dopo la formazione nella *Kunstgewerbeschule* fondò con il fratello un nucleo di **arte decorativa** che gli fecero avere **fama immediata**. Divenne il principale esponente della *Wiener Secession* da cui si staccò nel 1905 con la *Kunstschau*. Visitò **Ravenna**, città che lo influenzò nella **scelta materica** e sullo **stile** per la conoscenza con i **mosaici della tarda romanità**, che lo porteranno ad utilizzare spesso il colore **oro** nelle sue opere. Nel disegno si evidenzia un passaggio dallo *studio sul nudo* rinascimentale al **linearismo decorativo**.
 #### Giuditta
 Nel fine secolo direziona l'arte verso un **disegno rigoroso e armonico** verso la **bidimensionalità**, tralasciando volumetria nei ritratti. Vi sono due versioni:
