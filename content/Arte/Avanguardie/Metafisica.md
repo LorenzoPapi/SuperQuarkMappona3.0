@@ -8,11 +8,12 @@ Questa stessa sensazione si traduce con l'**utilizzo di oggetti comuni in posti 
 # Giorgio de Chirico
 ## Biografia
 ## Canto d'amore
+Mostra tre oggetti senza relazione tra loro: l'**Apollo del Belvedere**, un **rosso guanto da gomma chirurgico** e una **palla** di **dimensioni fuori scala** e in un **contesto urbano**. Proprio per la mancanza di nessi fra loro, il luogo dove sono riuniti appare **silenzioso e inanimato** e generano un senso di **spaesamento**.
 ## L'enigma dell'ora
 ## Muse inquietanti
 ## Piazze d'Italia
 # Andrea Modigliani
-## Biografia
+## Biografia (1884, Livorno - 1920, Parigi)
 ## Nudo disteso
 ## Bambina in blu
 ## Ritratti

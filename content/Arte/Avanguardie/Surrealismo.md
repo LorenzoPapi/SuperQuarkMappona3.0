@@ -9,7 +9,16 @@ Nell'insieme è un'arte **figurativa non astratta**, nella quale le **forme sono
 - ***grattage***: **grattare il colore steso** per far emergere un colore sottostante o la tela
 - ***collage***: accostando casualmente ritagli si perviene a un'**associazione irrazionale di forme**
 # René Magritte
-## Biografia
+## Biografia (1898, Lessines - 1967, Bruxelles)
+Dopo avere studiato all'accademia delle belle arti, inizia a lavorare disegnando **carta da parati**. Dopo essere venuto a contatto con i **dipinti di [[Metafisica#Giorgio de Chirico|De Chirico]]** e i Surrealisti, si trasferisce a Parigi (1927) ma dopo contrasti con Breton ritorna in Belgio (1930). Dopo l'invasione del Belgio nella [[Seconda guerra mondiale]], si trasferisce a Carcassonne e riprende la sua attività, per poi tornare a Bruxelles.
+
+Dopo essere venuto a contatto con le avanguardie surrealiste-metafisiche, la **sua ricerca verterà sul *non avere senso***, sui rapporti tra **visione e linguaggio** e sulla creazione di **situazioni inattese e impossibili** di **oggetti comuni in luoghi inusuali**. Non ricorre al sogno, ma ad una **veglia *fin troppo* reale** con oggetti **ben definiti** anche se accostati tra loro. Per raggiungere la *crisi dell'oggetto*, Magritte opera con 8 categorie:
+- **isolamento o decontestualizzazione**
+- **alterazione delle qualità degli oggetti**
+- **ibridazione, mutamento di scala**
+- **incontri casuali**
+- **giochi di doppie immagini e paradossi**
+- **bipolarismo concettuale**
 ## Il tradimento delle immagini (1928)
 Una pipa con scritto ***Ceci n'est pas une pipe*** (Questa non è una pipa), volendo sottolineare la **differenza** tra la *pipa* e la sua *pipa dipinta* perché, nonostante essa sia ovvia, riferendoci al quadro indicheremmo quella come **una pipa**, anche se non lo è. Inoltre, l'**utilizzo della didascalia** in un corsivo scolastico esplicita l'**intenzione didattica** che porti ad una **riflessione sull'arte**, non sul quadro.
 ## La condizione umana (1933)
@@ -21,14 +30,17 @@ Casa sul lago circondata da un busco dipinta **notturna** ma con un cielo **diur
 ## Le grazie naturali (1963)
 Quattro uccelli verdi che sono anche foglie turgide in un deserto con in lontananza una catena montuosa in un'**ibridazione** usata come **mezzo di spaesamento**: le foglie diventano **animate**, gli uccelli **vegetali**, privati della capacità di volare.
 # Salvador Dalì
-## Biografia
+## Biografia (1904, Figueres - 1989, Figueres)
 ## Costruzione molle (1936)
 L'incombere oscuro della [[Seconda guerra mondiale#Guerra civile spagnola|guerra civile]] e della sua violenza è incarnato da una **forma anatomica ripugnante**: una mano nodosa strizza un seno, l'altra mano scarnificata poggia terra, un uomo compare da una roccia incuriosito, un piede appoggia su un bacino sorretto da un piede, in alto un **volto ghignante** volge in alto lo sguardo disperato, al suolo la caoticità di **ossa, fave bollite, minerali, armadio**. Ovunque è **violenza, angoscia, paura**, particolarmente enfatizzata dalla **tecnica realista**.
 ## Apparizione di un volto e di una fruttiera sulla spiaggia (1938)
-
+Dalla paranoia al **sogno**, nel quale **forme e personaggi non hanno più contorni definiti** e assumono quindi significati **vari e contraddittori**. Ad oggi **non si sa che rappresenta**, dato che per ogni soggetto rappresenta **una cosa diversa**, mancando quindi **ogni certezza**.
 ## Sogno causato dal volo di un'ape (1944)
+L'atmosfera si fa **nitida e tersa**: sua moglie Gala **riposa nuda sollevata su uno scoglio** viene punta da una **baionetta**, mentre l'ape ronza intorno ad una melagrana. La percezione della puntura assume la forma di **due tigri feroci che balzano da un pesce che balza da una melagrana spaccata**, mentre nello sfondo un **elefante dalle esili zampe regge un'obelisco** (*Elefante di Minerva*, Bernini, 1667), riuscendo a camminare sull'acqua in un **mare piatto**. Al gusto fumettistico delle tigri si contrappone il **realismo erotico del nudo**.
 ## Ritratto di Isabel Styler-Tas (1945)
+Figlia del gioielliere Louis Tas rifacendosi ai **doppi ritratti cinquecenteschi italiani** ma la donna si contrappone solo alla **sua immagine speculare** che rimanda alla **rappresentazione di un paesaggio brullo** che consiste nella sua **interiorità** spigolosa e volitiva. 
 ## Crocifissione (1954)
+Rivisitando negli anni cinquanta la tradizione spirituale cattolica spagnola, affronta il tema della **crocifissione di Cristo** con una figura **anatomicamente perfetta**, a mezz'aria su una **croce tridimensionale** che allude all'***ipercubo***, solido non euclideo in **4 dimensioni**. La mancanza di corone di spine e chiodi, sostituiti da dei **parallelepipedi** alludono ad una visione **anticonvenzionale e sdrammatizzata**, nello sfondo di una **scacchiera infinita** mentre la Gala-Vergine compiange il figlio morto.
 # Collegamenti
 **Filosofia**: [[Sigmund Freud]] (sogno = porta per l'inconscio)
 **Fisica**:

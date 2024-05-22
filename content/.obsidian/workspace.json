@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica.md",
+                "file": "Arte/Avanguardie/Metafisica.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica.md",
+                "file": "Arte/Avanguardie/Metafisica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica.md",
+                "file": "Arte/Avanguardie/Metafisica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica.md"
+                "file": "Arte/Avanguardie/Metafisica.md"
               }
             }
           },
@@ -154,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -167,13 +166,20 @@
   },
   "active": "12d0077d632a7d33",
   "lastOpenFiles": [
+    "Arte/Avanguardie/Futurismo.md",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "Arte/Avanguardie/Cubismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Latino/Il 1° secolo/L'epica.md",
     "Latino/Il 2° secolo/Apuleio.md",
     "Latino/Il 1° secolo/Lucio Anneo Seneca.md",
-    "Latino/Il 1° secolo/L'epica.md",
     "Latino/Il 1° secolo/La satira.md",
     "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
     "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
-    "Arte/Avanguardie/Cubismo.md",
     "Inglese/Oscar Wilde.md",
     "templates/Movimento artistico.md",
     "templates/Collegamenti.md",
@@ -181,18 +187,11 @@
     "templates/Autore Latino-Italiano.md",
     "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md",
     "Latino/Il 4° secolo/Aurelio Agostino.md",
-    "Arte/Avanguardie/Surrealismo.md",
     "Arte/Art Nouveau.md",
     "Arte/Impressionismo.md",
     "Arte/Pop Art.md",
     "Arte/Postimpressionismo.md",
-    "Arte/Avanguardie/Astrattismo.md",
     "Canovaccio.md",
-    "Crediti e About.md",
-    "index.md",
-    "Fisica/Teoria della relatività.md",
-    "Fisica/Elettro-magnetismo.md",
-    "Fisica/Magnetismo.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
