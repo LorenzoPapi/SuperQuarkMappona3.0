@@ -24,4 +24,11 @@ Si susseguirono **21 imperatori** scelti tra i **comandanti dell'esercito** quin
 - **Treboniano, Volusiano** ed **Emiliano** (**251 - 252**)
 - **Valeriano** (**253 - 260**), anziano senatore incapace di reagire alle emergenze orientali, fu **catturato dai Parti** e morì in prigionia
 - **Gallieno** (**260 - 268**), ricordato per la **tolleranza con i cristiani** e per avere reso l'**esercito un lavoro** espellendo i **senatori**, dividendo **carriera civile e militare**
-- 
+- **Claudio II** (**268 - 270**), riportò molte vittorie sui Goti
+- **Aureliano** (**270 - 275**), **riunificò l'impero** dopo le secessioni dell Gallia e di Palmira, introdusse il culto del *Sol invictus* per **rafforzare la sua autorità**, costruì nuove mura
+- **Claudio Tacito, Floriano, Probo, Aurelio Caro** (**275 - 284**), varie vittorie
+## Diocleziano (284 - 305)
+Alla morte di Aurelio, fu acclamato *Gaio Aurelio Valerio* di Diocle, meglio noto come **Diocleziano** che pose fine all'anarchia militare. Promosse una profonda **riorganizzazione fiscale e amministrativa**: 
+- ***tetrarchia***: le province erano accorpate in **dodici diocesi**, raggruppate in **quattro prefetture** (Gallia, Italia, Pannoia, Bitinia), ciascuna governata da un **esponente di dignità imperiale**. Quindi divise il potere con **Massimiano** (due Augusti), **Galerio** e **Costanzo Cloro** (due Cesari, successori)
+- **nuova tassazione**: per ogni provincia si calcolò la **terra coltivabile** e **per ogni *iugum* di terra un *caput* da tassare**, poi un **calmiere** per i prezzi
+- **controllo**: Diocleziano voleva controllare **ogni aspetto della vita dei suoi sudditi**, impegnandosi in una feroce **campagna anti-cristiana**, proibendo la celebrazione dei loro riti, escludendoli dalle cariche pubbliche e **bruciando le loro scritture**

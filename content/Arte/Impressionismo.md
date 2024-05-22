@@ -1,5 +1,6 @@
 ---
 tags:
+  - DONE
 ---
 # Il movimento
 ## 15 aprile 1874 - 1886, Parigi

@@ -1,28 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
+      "basename": "L'epica",
+      "path": "Latino/Il 1° secolo/L'epica.md"
     },
     {
-      "basename": "Canovaccio",
-      "path": "Canovaccio.md"
+      "basename": "Apuleio",
+      "path": "Latino/Il 2° secolo/Apuleio.md"
     },
     {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
+      "basename": "Lucio Anneo Seneca",
+      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
     },
     {
-      "basename": "index",
-      "path": "index.md"
+      "basename": "La satira",
+      "path": "Latino/Il 1° secolo/La satira.md"
     },
     {
-      "basename": "Teoria della relatività",
-      "path": "Fisica/Teoria della relatività.md"
+      "basename": "Gaio Petronio Arbitro",
+      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
     },
     {
-      "basename": "Elettro-magnetismo",
-      "path": "Fisica/Elettro-magnetismo.md"
+      "basename": "Il primo secolo d.C. (14 - 96)",
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Oscar Wilde.md"
+    },
+    {
+      "basename": "Movimento artistico",
+      "path": "templates/Movimento artistico.md"
+    },
+    {
+      "basename": "Collegamenti",
+      "path": "templates/Collegamenti.md"
+    },
+    {
+      "basename": "English Author",
+      "path": "templates/English Author.md"
+    },
+    {
+      "basename": "Autore Latino-Italiano",
+      "path": "templates/Autore Latino-Italiano.md"
+    },
+    {
+      "basename": "La crisi del III secolo (193 - 305)",
+      "path": "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md"
+    },
+    {
+      "basename": "Aurelio Agostino",
+      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
     },
     {
       "basename": "Magnetismo",
@@ -33,60 +85,8 @@
       "path": "Fisica/Circuiti elettrici.md"
     },
     {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
       "basename": "Sigmund Freud",
       "path": "Filosofia/Sigmund Freud.md"
-    },
-    {
-      "basename": "Futurismo letterario",
-      "path": "Italiano/Novecento/Futurismo letterario.md"
-    },
-    {
-      "basename": "Cezanne_01",
-      "path": "Arte/Immagini/Cezanne_01.jpg"
     },
     {
       "basename": "Alessandro Manzoni",
@@ -125,12 +125,44 @@
       "path": "Filosofia/Citazioni.md"
     },
     {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
       "basename": "Rivoluzione Russa",
       "path": "Storia/Rivoluzione Russa.md"
     },
     {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
       "basename": "Seconda guerra mondiale",
       "path": "Storia/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
     },
     {
       "basename": "Guerra fredda",
@@ -149,10 +181,6 @@
       "path": "Storia/Stalinismo.md"
     },
     {
-      "basename": "Aurelio Agostino",
-      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
-    },
-    {
       "basename": "Crisi delle certezze",
       "path": "NucleiTematici/Crisi delle certezze.md"
     },
@@ -165,36 +193,12 @@
       "path": "Latino/Il 1° secolo/Marco Fabio Quintiliano.md"
     },
     {
-      "basename": "Lucio Anneo Seneca",
-      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
-    },
-    {
-      "basename": "Apuleio",
-      "path": "Latino/Il 2° secolo/Apuleio.md"
-    },
-    {
       "basename": "Collegamenti ita",
       "path": "NucleiTematici/Roba da sistemare/Collegamenti ita.md"
     },
     {
       "basename": "Eugenio Montale",
       "path": "Italiano/Novecento/Eugenio Montale.md"
-    },
-    {
-      "basename": "La satira",
-      "path": "Latino/Il 1° secolo/La satira.md"
-    },
-    {
-      "basename": "Publio Cornelio Tacito",
-      "path": "Latino/Il 2° secolo/Publio Cornelio Tacito.md"
-    },
-    {
-      "basename": "Gaio Petronio Arbitro",
-      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
     }
   ],
   "omittedPaths": [],

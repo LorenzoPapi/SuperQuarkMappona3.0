@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8e94d60b871a3b",
+        "id": "e680ea3e48d1c7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "fd8ead5fd9760b24",
+            "id": "12d0077d632a7d33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Latino/Il 1° secolo/L'epica.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ARTE",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Latino/Il 1° secolo/L'epica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Latino/Il 1° secolo/L'epica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/FILE NECESSARIO NON TOCCARE.md"
+                "file": "Latino/Il 1° secolo/L'epica.md"
               }
             }
           },
@@ -147,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -157,8 +165,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "12d0077d632a7d33",
   "lastOpenFiles": [
+    "Latino/Il 2° secolo/Apuleio.md",
+    "Latino/Il 1° secolo/Lucio Anneo Seneca.md",
+    "Latino/Il 1° secolo/L'epica.md",
+    "Latino/Il 1° secolo/La satira.md",
+    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
+    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
+    "Arte/Avanguardie/Cubismo.md",
+    "Inglese/Oscar Wilde.md",
+    "templates/Movimento artistico.md",
+    "templates/Collegamenti.md",
+    "templates/English Author.md",
+    "templates/Autore Latino-Italiano.md",
+    "Latino/Il 3° secolo/La crisi del III secolo (193 - 305).md",
+    "Latino/Il 4° secolo/Aurelio Agostino.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Art Nouveau.md",
+    "Arte/Impressionismo.md",
+    "Arte/Pop Art.md",
+    "Arte/Postimpressionismo.md",
     "Arte/Avanguardie/Astrattismo.md",
     "Canovaccio.md",
     "Crediti e About.md",
@@ -166,26 +193,7 @@
     "Fisica/Teoria della relatività.md",
     "Fisica/Elettro-magnetismo.md",
     "Fisica/Magnetismo.md",
-    "Fisica/Circuiti elettrici.md",
-    "Arte/Avanguardie/Surrealismo.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Arte/Art Nouveau.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Arte/Postimpressionismo.md",
-    "Arte/Pop Art.md",
-    "Arte/Impressionismo.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Dadaismo.md",
-    "Filosofia/Sigmund Freud.md",
-    "Italiano/Novecento/Futurismo letterario.md",
     "Arte/Immagini/Cezanne_01.jpg",
-    "Italiano/Ottocento/Alessandro Manzoni.md",
-    "Italiano/Ottocento/Gabriele D'Annunzio.md",
-    "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Italiano/Ottocento/Giovanni Pascoli.md",
-    "Italiano/Ottocento/Giovanni Verga.md",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",

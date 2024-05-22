@@ -15,8 +15,6 @@ Il periodo di più alto prestigio politico per Seneca, segnato anche dall'**omic
 Nerone non volle più regnare con la tutela di Seneca, né in maniera stoica e si circondò di **uomini inferiormente morali**; il filosofo preferì **allontanarsi dalla corte** e ritirarsi a vita privata.
 ## 65
 Scoperta la **congiura di Pisone**, Seneca vi rimase implicato e, dopo aver ricevuto l'**ordine di suicidio**, egli si **recise le vene dei polsi**, poi **bevve la cicuta**, si fece **immergere nell'acqua calda** e infine chiese di essere portato in un **bagno a vapore** dove morì soffocato. 
-
----
 # Pensiero
 La filosofia è **parte della vita**, una **guida per agire**, un **conforto per l'esistenza** e una **forma di introspezione**:
 - Seneca aderisce pienamente all'ideale **stoico** di **"servire gli uomini e la società"**, cercando di coniugare sapienza e azione.
@@ -25,7 +23,6 @@ La filosofia è **parte della vita**, una **guida per agire**, un **conforto per
 - L'**Universo è retto dal *Logos***, che dirige secondo uno schema divino e razionale il corso degli eventi; per analogia, la **ragione deve dominare l'uomo**.
 - L'unico bene che l'uomo possiede è il **tempo**; il resto è **effimero** rispetto alla grandezza dell'Universo.
 - Il **dolore va affrontato** e la ragione deve **allenarci a soffrire**, tanto che la **morte può essere un bene** perché **libera l'anima** dalle catene del corpo.
----
 # Opere
 ## *Dialogi*
 Scritti di tema filosofico ma non in forma dialogica:
@@ -40,11 +37,4 @@ Scritti di tema filosofico ma non in forma dialogica:
 ## Tragedie
 ## *Apokolokyntosis*
 
-
---- 
 # Stile
-
-
----
-# Collegamenti
-
