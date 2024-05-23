@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
       "basename": "Astrattismo",
       "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Rivoluzione Russa.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
     },
     {
       "basename": "Metafisica",
@@ -15,14 +31,6 @@
     {
       "basename": "Dadaismo",
       "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
       "basename": "Pop Art",
@@ -191,14 +199,6 @@
     {
       "basename": "Naturalismo e Verismo",
       "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
-    },
-    {
-      "basename": "Post-positivismo",
-      "path": "Filosofia/Post-positivismo.md"
-    },
-    {
-      "basename": "Citazioni",
-      "path": "Filosofia/Citazioni.md"
     }
   ],
   "omittedPaths": [],
