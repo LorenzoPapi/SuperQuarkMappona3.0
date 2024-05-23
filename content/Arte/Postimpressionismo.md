@@ -7,7 +7,7 @@ Le tendenze post-impressioniste presentano alcune caratteristiche comuni:
 - la ricerca nella **solidità dell'immagine**;
 - la sicurezza del **contorno**;
 - la **libertà del colore**.
-# Collegamenti #TODO 
+# Collegamenti 
 **Filosofia**:
 **Fisica**:
 **Inglese**:

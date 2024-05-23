@@ -3,9 +3,9 @@ Contemporaneamente ai movimenti del [[Positivismo]], [[Naturalismo e Verismo]] (
 - Sfiducia nella scienza
 - Impossibile conoscere tutto con certezza
 
-Dalla famiglia dell'anti positivismo scaturisce in Francia la poetica del Simbolismo ( #TODO esponenti).
+Dalla famiglia dell'anti positivismo scaturisce in Francia la poetica del Simbolismo ( esponenti).
 Il simbolismo prevede un rapporto tra poeta e realtà mediato dai simboli (a-logici). **Il poeta è l'unico in grado di cogliere i simboli con cui il creato si manifesta**. Spesso si trova in una posizione di alterazione dei sensi (usano anche sostanze).
-#TODO i tre poeti maledetti (nomi p307), fautori di un nuovo tipo di poeta, che si pone ai margini della società. Si rende una personalità unica. "Emarginato". (I maledetti francesi si distinguevano per uso di droghe, alcol, ...)
+ i tre poeti maledetti (nomi p307), fautori di un nuovo tipo di poeta, che si pone ai margini della società. Si rende una personalità unica. "Emarginato". (I maledetti francesi si distinguevano per uso di droghe, alcol, ...)
 
 In generale, nel Decadentismo si sviluppano diverse figure di poeta:
 - Poeta Vate
@@ -22,8 +22,8 @@ Baudelaire precursore dei simbolisti
 
 Il linguaggio poetico cambia radicalmente, gli schemi vengono abbandonati a favore di una poesia più libera. Viene comunque perseguita la musicalità. Tutto è una metafora. Questa cosa è stata fatta di proposito. Non è più d'interesse farsi comprendere dalla massa, solo pochi eletti ugualmente disillusi.
 
-Per i positivisti la realtà è interamente conoscibile, per gli antipositivisti è inconoscibile e il ruolo del poeta è percepire ed intuire l'inconoscibile (**poeta-vate**). Nessuno se non il poeta sa interpretare la realtà. è un presupposto radicalmente diverso. #TODO fai ragionamento gnoseologico
-Il simbolismo viene inglobato nell'attegiamento (non poetica) del Decadentismo. Il D. è molto ampio e va studiato meglio #TODO .
+Per i positivisti la realtà è interamente conoscibile, per gli antipositivisti è inconoscibile e il ruolo del poeta è percepire ed intuire l'inconoscibile (**poeta-vate**). Nessuno se non il poeta sa interpretare la realtà. è un presupposto radicalmente diverso.  fai ragionamento gnoseologico
+Il simbolismo viene inglobato nell'attegiamento (non poetica) del Decadentismo. Il D. è molto ampio e va studiato meglio .
 La parola decadentismo proviene dall'attacco dei critici francesi dell'epoca contro i maledetti, che invece adottarono la parola per autodefinirsi.
 
 [[Giovanni Pascoli]] è un decadentista, si fa interprete italiano del Simbolismo francese.

@@ -2,7 +2,7 @@
 **1890**: Il padre, **lucchese** come la madre, muore nei lavori per il Canale di Suez.
 **1905**: Frequenta l'**Ecole Suisse Jacot** leggendo letteratura contemporanea, lasciando in lui un paesaggio **fantastico e irreale** che comparirà nei suoi versi
 **1912**: Si reca a **Parigi** dove frequenta la Sorbona, approfondisce [[Simbolismo e Decadentismo]] e frequenta gli ambienti di **avanguardia**.
-**1914**: Conosce i [[Futurismo letterario|futuristi fiorentini]] e pubblica le prime poesie su **Lacerba**. Entusiasta della [[Prima Guerra Mondiale|guerra]], si arruola come **volontario in un reggimento di fanteria** e viene inviato sul **Carso** dove inizia a comporre poesie.
+**1914**: Conosce i [[Futurismo letterario|futuristi fiorentini]] e pubblica le prime poesie su ***Lacerba***. Entusiasta della [[Prima Guerra Mondiale|guerra]], si arruola come **volontario in un reggimento di fanteria** e viene inviato sul **Carso** dove inizia a comporre poesie.
 **1920**: Alla fine del conflitto ritorna a **Parigi** dove si sposa con ***Jeanne Dupoix***.
 **1921**: Si trasferisce a **Roma** e **aderisce al [[Fascismo|fascismo]]**, convinto che la **dittatura rafforzerà la solidarietà nazionale**.
 **1936**: Divenuto uno dei **più noti e prestigiosi intellettuali italiani** la cui poesia darà i natali all'**ermetismo**, ricopre la **cattedra di Letteratura italiana** presso l'**Università di San Paolo in Brasile**.
@@ -123,7 +123,7 @@ nel mio silenzio
 ho scritto  
 lettere piene d'amore  
   >
-Non sono mai stato  
+>Non sono mai stato  
 tanto  
 attaccato alla vita
 
@@ -143,12 +143,12 @@ E guardo
 Il passaggio quieto  
 Delle nuvole sulla luna
 >
-Stamani mi sono disteso  
+>Stamani mi sono disteso  
 In un’urna d’acqua  
 E come una reliquia  
 Ho riposato
 >
-L’Isonzo scorrendo  
+>L’Isonzo scorrendo  
 Mi levigava  
 Come un suo sasso  
 Ho tirato su  
@@ -157,59 +157,59 @@ E me ne sono andato
 Come un acrobata  
 Sull’acqua
 >
-Mi sono accoccolato  
+>Mi sono accoccolato  
 Vicino ai miei panni  
 Sudici di guerra  
 E come un beduino  
 Mi sono chinato a ricevere  
 Il sole
 >
-Questo è l’Isonzo  
+>Questo è l’Isonzo  
 E qui meglio  
 Mi sono riconosciuto  
 Una docile fibra  
 Dell’universo
 >
-Il mio supplizio  
+>Il mio supplizio  
 È quando  
 Non mi credo  
 In armonia
 >
-Ma quelle occulte  
+>Ma quelle occulte  
 Mani  
 Che m’intridono  
 Mi regalano  
 La rara  
 Felicità
 >
-Ho ripassato  
+>Ho ripassato  
 Le epoche  
 Della mia vita
 >
-Questi sono  
+>Questi sono  
 I miei fiumi
 >
-Questo è il Serchio  
+>Questo è il Serchio  
 Al quale hanno attinto  
 Duemil’anni forse  
 Di gente mia campagnola  
 E mio padre e mia madre.
 >
-Questo è il Nilo  
+>Questo è il Nilo  
 Che mi ha visto  
 Nascere e crescere  
 E ardere d’inconsapevolezza  
 Nelle distese pianure
 >
-Questa è la Senna  
+>Questa è la Senna  
 E in quel suo torbido  
 Mi sono rimescolato  
 E mi sono conosciuto
 >
-Questi sono i miei fiumi  
+>Questi sono i miei fiumi  
 Contati nell’Isonzo
 >
-Questa è la mia nostalgia  
+>Questa è la mia nostalgia  
 Che in ognuno  
 Mi traspare  
 Ora ch’è notte  
@@ -225,18 +225,18 @@ La poesia della **consapevolezza** che dimostra una **raggiunta identità tramit
 > [!info]- Testo
 > *Valloncello dell’Albero Isolato il 27 agosto 1916*
 > 
-Di queste case 
+> Di queste case 
 non è rimasto  
 che qualche  
 brandello di muro
 >
-Di tanti  
+>Di tanti  
 che mi corrispondevano  
 non è rimasto  
 neppure tanto  
 Ma nel cuore
 >
-nessuna croce manca  
+>nessuna croce manca  
 È il mio cuore  
 il paese più straziato
 

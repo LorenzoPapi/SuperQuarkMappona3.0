@@ -1,3 +1,4 @@
+#TODO collegamenti
 # Utilizzo
 Data una funzione $f: D \to \mathbb{R}$ e un punto $x_0 \in \mathbb{R}$ non necessariamente incluso nel dominio della stessa, l'operatore **limite** ci permette di studiare il **comportamento della funzione** in un **intorno di $x_0$**.
 In particolare, permettono di trovare gli **asintoti** di una funzione, cioè delle **rette alle quali la funzione si avvicina indefinitamente**. Tali rette vanno cercate calcolando i **limiti agli estremi del dominio** della funzione e possono essere **orizzontali**, **verticali** o **obliqui**.
@@ -116,8 +117,8 @@ $$
 **Arte**: [[Art Nouveau|Klimt]]
 **Filosofia**: [[Hegel]]
 **Fisica**: [[Teoria della relatività]], Meccanica quantistica e infinite possibilità
-**Inglese**: #TODO
+**Inglese**: 
 **Italiano**: [[Giacomo Leopardi]]
 **Latino**: [[Lucio Anneo Seneca]] (limitatezza dell'essere umano?)
-**Scienze**: #TODO 
-**Storia**: #TODO 
+**Scienze**: 
+**Storia**:  

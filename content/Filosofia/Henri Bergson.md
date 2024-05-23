@@ -11,7 +11,7 @@ L'origine di questi concetti non è **spaziale** (come diceva Kant), ma **[[Cita
 **Arte**: [[Surrealismo]] (??)
 **Fisica**: [[Teoria della relatività]] (tempo)
 **Inglese**: [[Virginia Woolf]] (Mrs Dalloway e il tempo soggetivo)
-**Italiano**: [[Giuseppe Ungaretti]] (??)
+**Italiano**: [[Giuseppe Ungaretti]] (tempo come memoria)
 **Latino**: 
 **Matematica**: 
 **Scienze**:

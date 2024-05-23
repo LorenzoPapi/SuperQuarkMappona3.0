@@ -8,7 +8,7 @@ Mentre i simbolisti francesi vogliono mettersi in contatto con i simboli alteran
 Se la realtà si esprime con i simboli a livello fondamentale, allora la poesia deve essere pesantemente retorica per adattarvisi. In particolare l'analogia.
 Livello di sintesi crescente: similitudine -> metafora -> analogia. Nell'analogia ciò che accosta i due elementi è noto solo al poeta. è qualcosa che proviene dal mondo interiore del poeta, totalmente irrazionale e soggettivo. *è una versione soggettiva del volo pindarico* (circa).
 Altre figure molto importanti privilegiate: sinestesia, metafora, asindeto, onomatopea (primaria e secondaria), fonosimbolismo, chiasmo, ossimoro. In generale tutte le figure che creano oscurità e allusività.
-#TODO pascoli, jazz ed entropia (a riguardo: ragionamento su scelta di non rispettare la struttura "classica" è espressiva. collega a fanciullino e creatività di dare i nomi alle cose)
+pascoli, jazz ed entropia (a riguardo: ragionamento su scelta di non rispettare la struttura "classica" è espressiva. collega a fanciullino e creatività di dare i nomi alle cose)
 
 ## Poetica e ideologia
 D'Annunzio: sensibilità solo poeta

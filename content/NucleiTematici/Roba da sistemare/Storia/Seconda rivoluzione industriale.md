@@ -40,11 +40,11 @@ Emigrazioni, "prima globalizzazione", "melting pot", tensioni e chiusure bla bla
 L'industrializzazione ebbe come conseguenza la formazione di grandi aggregati sociali omogenei, caratterizzati da un consumismo massiccio. La classe operaia e i ceti medi divennero sempre più importanti, la massa diventò a tutti gli effetti un singolo soggetto. Il potere politico cominciò a necessitare il consenso di questi strati sociali, perciò si mise in moto un processo di **nazionalizzazione delle masse**.
 
 Venne introdotta l'istruzione per le masse, si intraprese una feroce lotta all'analfabetismo, le istituzioni dedicarono grande attenzione all'istruzione superiore, soprattutto quella tecnico-professionale. L'istruzione era uno strumento di produzione. Venne anche usata per un processo di **nation building**. Serviva, soprattuto negli stati cosmopoliti, a uniformare il comportamento e i valori morali, creare una cultura comune ed incentivare la stabilità sociale
-		*"Istruire il popolo quanto basta, educarlo più che si può"* - #TODO chi?
+		*"Istruire il popolo quanto basta, educarlo più che si può"* -  chi?
 L'informazione (quotidiani, libri, riviste) divennero beni di consumo, si formarono le grandi agenzie di stampa (e.g. Associated press, 1848). Rispondeva ad una crescente necessità di formare un'opinione pubblica, diventò un territorio di contesa del consenso.
 
 **Importanti innovazioni per la cultura:** fotografia, fonografo, cinematografo
 
-La nuova potenza del genere umano fece scaturire l'ideale del [[Positivismo]] #TODO approfondimento p464
+La nuova potenza del genere umano fece scaturire l'ideale del [[Positivismo]] approfondimento p464
 
-#TODO p465-9
+465-9

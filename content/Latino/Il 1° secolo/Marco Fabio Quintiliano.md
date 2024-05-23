@@ -30,7 +30,7 @@ Il perfectus orator deve avere una formazione globale, perseguita fino all'infan
 Nel libro X Q. esprime un giudizio su diversi autori latini e greci, suddivisi per generi. A lui quindi si deve la prima sintesi della storia della letteratura latina. 
 Secondo il principio dell'**aemulatio**, Q. intende fornire ai suoi allievi vari esempi a cui ispirarsi sul piano formale ed espressivo. 
 Predilige autori cesariani e augustei, armoniosi e pieni di gravitas espressiva. Il modello prediletto è **Cicerone**. Prende le distanze dalle tendenze arcaizzanti e dallo stile "moderno" di [[Lucio Anneo Seneca]] (critica le "minutissimae sententiae"), che giudica corrotto e dannoso per i giovani in via di formazione.
-#TODO collega con tutti gli autori di cui fa una critica, Seneca, [[Gaio Petronio Arbitro]], Cicerone, altri...
+ollega con tutti gli autori di cui fa una critica, Seneca, [[Gaio Petronio Arbitro]], Cicerone, altri...
 
 ### Pedagogia
 Sebbene l'institutio oratoria dovesse fornire una sintesi della retorica antica, la parte più interessante sono i primi due libri, dove sviluppa quello che in effetti è il primo metodo pedagogico della storia.

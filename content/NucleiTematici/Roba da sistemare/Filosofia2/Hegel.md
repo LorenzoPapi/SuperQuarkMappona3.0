@@ -18,7 +18,7 @@ Per l'europa dell'epoca industriale gira un'idea di uomo frammentato derivante d
 Infatti, secondo il poeta Friedrich Hoelderlin: "l'uomo vive a pezzi".
 Hegel aveva intuito diverse contraddizioni del capitalismo (Nota: Marx si forma sui testi di Hegel). Per l'analisi che ha portato avanti possiamo dire che egli era una sorta di protosociologo.
 Mentre Marx pensa all'abolizione della proprietà privata, Hegel propone un modello corporativo.
-#TODO Schiller su modernità citazione, Adam Ferguson su ignoranza e industria
+Schiller su modernità citazione, Adam Ferguson su ignoranza e industria
 
 Hegel fa parte di una corrente che vuole sanare questa società. Si può creare uno stato che che eviti la spaccatura nell'uomo, ma che contemporaneamente assorba la modernità? La sua filosofia vuole capire le cause della società putrida e trovarne un "antidoto".
 
@@ -77,7 +77,7 @@ La realtà è un finito che non è già pronto, ha bisogno di realizzarsi a poco
 La dialettica non è solo il modo in cui spieghiamo il reale, il reale è dialettico. Da questo tutto ciò che è reale è razionale...
 
 Spirito: ogli realta "preterindividuale" (tutto ciò che va oltre l'individualità), cioè prodotto dalla totalità degli individui (tipo linguaggio, leggi, idee), secondo lui il cristianesimo è la religione che l'ha capito meglio.
-#TODO negativo e spirito
+ negativo e spirito
 
 ## Fenomenologia dello spirito
 Storia di hegel bambino e l'abaco; tre fasi: scoperta dell'abaco, numeri fuori di me; esperienza su numeri e mente, numeri dentro di me; applicazione dei numeri costruiti dalla mente alla realtà, numeri sono realtà e me.
@@ -105,7 +105,7 @@ La fenomenologia è divisa in due parti. La prima, che studia le manifestazioni 
 		- **Piacere e necessità**: si getta nella vita alla ricerca del proprio godimento. Viene travolto dalla necessità del destino
 		- **Legge del cuore e delirio della presunzione**: fanatismo vario, i singoli si contraddicono a vicenda
 		- **Virtù e corso del mondo**: Fallimento della ragione
-	- **Individualità in se e per se** Io cerca leggi per sé e le eleva a leggi universali #TODO 
+	- **Individualità in se e per se** Io cerca leggi per sé e le eleva a leggi universali  
 La seconda, che studia le manifestazioni collettive, è divisa in:
 - **Spirito**
 	- Spirito libero?

@@ -72,7 +72,7 @@ L'amarezza di Tacito non si trova nella nostalgia della Repubblica (si era già 
 TODO ROBE CRITICA DELL'ANNO SPECIALE DA APPUNTI
 
 #### Archeologia giudaica
-Breve digressione su usi e costumi degli ebrei nell'ambito della rivolta repressa da Tito. Rappresenta la più antica forma documentata di antisemitismo. #TODO documento su drive.
+Breve digressione su usi e costumi degli ebrei nell'ambito della rivolta repressa da Tito. Rappresenta la più antica forma documentata di antisemitismo. documento su drive.
 Gli sembra strano il monoteismo, la circoncisione, l'astensione dal mangiare la carne, mangiano il pane azimo: gli ebrei sono un popolo strano.
 
 ### Annales
@@ -96,7 +96,7 @@ drammatizzazione della storiografia
 Particolarità di T: Raccontando i fatti coglie i più importanti ed espone i collegamenti tra gli eventi storici. Racconta al lettore il clima dell'epoca e analizza la psicologia dei personaggi. Documenta l'effetto dei fatti storici sulle classi sociali.
 T. individua i seguenti attori principali nel sistema Roma: imperatore, Senato, esercito, cavalieri, plebe.
 Esempio: morte di nerone
-#TODO arcanum imperii
+arcanum imperii
 Tacito riconosce l'importanza del contesto. Oltre ai fatti analizza il clima socio-politico-economico, reazioni delle provincie, dei soldati... Più importante dei fatti sono le loro relazioni, cause, effetti.
 Inoltre fa spesso fa frequenti giudizi moraleggianti
 Historiae di Tacito = Analisi storica + senso morale + pessimismo
