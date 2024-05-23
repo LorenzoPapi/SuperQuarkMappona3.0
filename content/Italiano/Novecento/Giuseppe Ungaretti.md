@@ -277,3 +277,5 @@ Comprende le poesie del periodo successivo alla *Terra promessa* ed è evidente 
 **Matematica**:
 **Scienze**: Il gas mostarda??
 **Storia**: [[Prima Guerra Mondiale]] (Allegria), [[Fascismo]] (rapporto intellettuale-regime), [[Seconda guerra mondiale]] (Il dolore)
+
+#TODO collegamento scienze e mate

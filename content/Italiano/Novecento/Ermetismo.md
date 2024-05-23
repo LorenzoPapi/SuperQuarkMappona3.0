@@ -1,4 +1,3 @@
-#TODO Testi e collegamenti
 # Genesi
 La definizione del termine è riconosciuta quando **Flora** pubblica il libro ***La poesia ermetica***, seguito da ***Letteratura come vita*** di **Bo**, contenente i fondamenti **teorico-metodologici** della poesia ermetica che spiegano l'**esigenza diffusa dai *lirici nuovi***. Il termine divenne sinonimo di **oscurità e indecifrabilità**, ma rinvia anche alla tradizione di ***Ermete Trismegisto***, autore di **libri magici** che permettevano all'uomo di partecipare alla **natura divina**. Nel secondo dopoguerra, vi sarà una maggiore **tendenza all'apertura verso la realtà** portando ad una diversificazione degli stili.
 ****
@@ -43,3 +42,4 @@ Si assiste ad una maggiore apertura espressiva:
 - ***Verso lineare***: il verso si **allunga** e diventa più **comunicativo**.
 - ***Temi concreti***: la poesia si arricchisce di tratti concreti che la rendono più **accessibile**.
 - ***Soluzioni corali***: dal piano *metafisico-esistenziale* si passa a quello **storico** che rende la poesia uno strumento di **testimonianza politica e polemica sociale**, dettata dalla necessità di una **nuova forma di impegno** per scongiurare un'altra guerra.
+#TODO Testi e collegamenti
