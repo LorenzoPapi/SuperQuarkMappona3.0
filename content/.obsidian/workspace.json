@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md"
+                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
               }
             }
           },
@@ -154,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -167,12 +166,14 @@
   },
   "active": "fa0cb279307f5dbc",
   "lastOpenFiles": [
+    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
+    "Latino/Il 1° secolo/L'epica del 1° secolo.md",
     "Italiano/Novecento/Ermetismo.md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
     "Italiano/Novecento/Eugenio Montale.md",
-    "Latino/Il 4° secolo/Aurelio Agostino.md",
+    "Italiano/Novecento/Giuseppe Ungaretti.md",
     "Italiano/Novecento/Futurismo letterario.md",
     "Arte/Avanguardie/Astrattismo.md",
+    "Latino/Il 4° secolo/Aurelio Agostino.md",
     "Arte/Avanguardie/Cubismo.md",
     "Latino/Il 2° secolo/Publio Cornelio Tacito.md",
     "Matematica/Limite.md",
@@ -189,10 +190,8 @@
     "Italiano/Novecento/Italo Svevo.md",
     "Italiano/Novecento/Luigi Pirandello.md",
     "Filosofia/Henri Bergson.md",
-    "Latino/Il 1° secolo/L'epica del 1° secolo.md",
     "Storia/Prima Guerra Mondiale.md",
     "Storia/Rivoluzione Russa.md",
-    "Storia/Seconda guerra mondiale.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",

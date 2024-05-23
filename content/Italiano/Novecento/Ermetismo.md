@@ -27,6 +27,11 @@ Di questo periodo troviamo:
 - ***Erato e Apollion*** (1936): **raffinatezza estetizzante** che trasporta la mitologia sul piano dell'idea per recuperare una **parola assoluta**.
 - ***Ed è subito sera*** (1942): culmine della sua esperienza ermetica.
 #### *Ed è subito sera* (Acque e terre)
+> [!info]- Testo
+> Ognuno sta solo sul cuore della terra  
+trafitto da un raggio di sole:  
+ed è subito sera.
+
 Ritroviamo i caratteri salienti dell'ermetismo:
 - Il primo verso esprime la **solitudine dell'uomo** che si trova tuttavia al **centro delle cose** (antitesi), e da egli scaturisce la **vita**, il tutto espresso con una **concisione estrema**.
 - Il secondo racchiude un duplice significato per l'aggettivo ***trafitto*** che sia mostra l'uomo come **simbolo di luce** sia come **vittima della morte**.

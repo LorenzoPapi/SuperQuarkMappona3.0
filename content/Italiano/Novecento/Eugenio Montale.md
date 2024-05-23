@@ -20,7 +20,7 @@ Prima sua raccolta poetica, divisa in quattro sezioni:
 Si colgono i legami con il **contesto culturale del tempo**:
 - ***Pessimismo di [[Schopenhauer]]***: la realtà sensibile è ingannevole, contesta il determinismo positivistico.
 - ***Terminologia [[Gabriele D'Annunzio|dannunziana]]***: riprende termini e stili ma rifiuta ogni vitalismo e sensualità.
-- ***Temi umili [[Giovanni Pascoli|pascoliani]]***: sceglie di trattare delle *piccole cose*.
+- ***Umiltà [[Giovanni Pascoli|pascoliana]]***: sceglie di trattare delle *piccole cose*.
 - ***Esperienza crepuscolare***: adotta soluzioni prosastiche, rifiuta l'aulicità poetica.
 
 Gli *ossi di seppia* sono dei **residui calcarei deposti sulla riva**: il titolo simboleggia quindi sia una **condizione vitale impoverita** sia la necessità di **attingere alle realtà minime** puntando ad una dizione **spoglia e secca**.
@@ -55,11 +55,29 @@ In apertura alla sezione *Ossi di seppia*, si **rivolge ad un interlocutore** (i
 - Nella prima quartina afferma l'**impossibilità di ordinare il caos dell'uomo** (*squadrare*, *dichiarare a lettere di fuoco*) e di **definire con precisione impulsi e sentimenti contraddittori** (*animo informe*), mostrando l'**insufficienza conoscitiva della parola**.
 - La seconda funge da elemento di **cerniera**, con un'**apertura di rammarico** ed estraneità dall'uomo **conformista** che non si preoccupa della **negatività della sua esistenza** (*ombra*), ma solo della **luce sul muro**
 - La terza si corrisponde alla prima, affermando prima l'**inesistenza della *formula* per catturare l'essenza del reale** e che la poesia è fatta di ***sillabe secche come i rami*** e poi negli ultimi due versi la **condizioni di *esistenza priva di certezze e valori*** che portano alla **sfiducia nella poesia** e alla distanza dai modelli.
-- Il testo si colloca nella **[[Fascismo|dittatura fascista]]** e quindi gli ultimi due versi dimostrano anche il suo militante **antifascismo**.
+- Il testo si colloca durante la **[[Fascismo|dittatura fascista]]** e quindi gli ultimi due versi dimostrano anche il suo militante **antifascismo**.
+### *Meriggiare pallido e assorto*
+Il più antico della raccolta descrive una **sospensione assoluta** nella quale la vita si arresta nella sua **forma**:
+- Il paesaggio è **arido e scabro** in cui si colgono echi *dannunziani*, ma che non hanno nulla a che fare con il suo *panismo*, proponendo al contrario un'**assoluta aridità** come emblema di una **esistenza desolata e svuotata**. È anche **chiuso in sé stesso**, un *mezzo* verso un qualcosa di **inconoscibile**.
+- I due versi conclusivi esprimono la **condizione di chiusura nella prigione esistenziale** e l'impossibilità di **giungere alla verità**.
+- Si trova qui l'applicazione dei principi della [[#*Non chiederci la parola*|lirica precedente]] con molti suoni aspri ed è presente il frequente uso del ***correlativo*** nell'enumerazione di oggetti.
+### *Spesso il male di vivere ho incontrato*
+Si ritrova il perfetto utilizzo del *correlativo*:
+- Nella prima strofa rende **concreto il *male di vivere***, avendolo ***incontrato*** e oggettivandolo (*era*) con **forme metaforiche e analogiche** che rimandano al **tormento soffocato**, all'**arsura che si sgretola**, all'**accasciamento pesante**, rovesciando le aspettative **gioiose** che i tre oggetti (*rivo, foglia, cavallo*) spesso indicano.
+- In opposizione a tale male, nella seconda strofa si manifesta l'**atteggiamento di distacco** e di ***Indifferenza*** (che richiama la *Provvidenza*) descritta con un parallelismo da tre suoi **emblemi** (*statua, nuvola, falco*).
+## *Le occasioni* (1939)
+Anche se allude ad occasioni biografiche, i riferimenti ad essi sono **impliciti**, portando all'estremo la ***poetica degli oggetti***, eliminando ogni dualismo *lirica-commento* e lasciando solo l'***oggetto* coi suoi significati**. Avvicinandosi sempre più ad *Eliot*, si registra un **netto innalzamento stilistico** in favore di un **registro elevato e mono-linguistico** (*ermetico*). Questa nuova poetica deriva dall'inserimento nel **gruppo fiorentino** le cui posizioni erano ispirate ad un **culto umanistico** della letteratura, che diveniva ora **elitaria**, lasciando cadere ogni precedente **comunicatività poetica**.
+
+Tale concezione della *religione della cultura* si proietta nell'**immagine sublimata della *donna-angelo*** capace di indicare una **via di salvezza** dall'inferno quotidiano. Altre donne che compaiono sono segnate da un **destino di irrequietudine e fuga**, mentre ***Arletta*** è la fanciulla **morta** attorno cui si addensano le memorie di un ***passato felice ma irrecuperabile***. Tutte queste donne sono in realtà **proiezioni delle inquietudini del poeta** e si contrappongono alla *Beatrice donna-angelo* che equivale ad un'**alternativa all'esistente**.
+
+Si presenta quindi sia una **condizione esistenziale imprigionata nell'eterno ritorno** su cui incombe la guerra, sia l'**attesa dell'epifania luminosa della donna-angelo**. La cultura e l'intelligenza sono **impotenti di fronte le follie belliche**, ma solo coloro che dominano il corso degli eventi avranno la **possibilità di salvezza**.
+#### *Non recidere, forbice, quel volto*
+Esprime l'angoscia per la memoria che **non riesce a conservare l'immagine dell'amata**:
+- Lo svanire #TODO CONTINUARE QUA
 ****
 # Collegamenti
 DANTE CON CACCIAGUIDA (medioevo certezza, novecento no)
-**Arte**:
+**Arte**: [[Metafisica]] (pittura immobile nel nulla)
 **Filosofia**: [[Friedrich Wilhelm Nietzsche#Il nichilismo|Nietzsche]] (nichilismo, eterno ritorno), [[Schopenhauer]] (eterno ritorno)
 **Fisica**:
 **Inglese**:
