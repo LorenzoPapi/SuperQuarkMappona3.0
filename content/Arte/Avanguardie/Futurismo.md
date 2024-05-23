@@ -30,7 +30,7 @@ Una figura umana che incede a grandi passi, **senza volto e braccia**, puro movi
 **Filosofia**: [[Henri Bergson]] (tempo e durata, in particolare la sintesi tra visione mentale e ottica)
 **Fisica**: [[Teoria della relatività]] (compenetrazione dei tempi)
 **Inglese**: [[Virginia Woolf]] (tempo interiore)
-**Latino**: [[L'epica#Marco Anneo Lucano|Lucano]] (rovesciamento dei modelli?)
+**Latino**: [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (rovesciamento dei modelli?)
 **Matematica**:
 **Scienze**:
 **Storia**: [[Prima Guerra Mondiale]]

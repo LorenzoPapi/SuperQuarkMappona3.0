@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Giuseppe Ungaretti",
+      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "L'epica del 1° secolo",
+      "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
+    },
+    {
+      "basename": "Ermetismo",
+      "path": "Italiano/Novecento/Ermetismo.md"
+    },
+    {
       "basename": "Astrattismo",
       "path": "Arte/Avanguardie/Astrattismo.md"
     },
@@ -97,10 +109,6 @@
       "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
     },
     {
-      "basename": "Giuseppe Ungaretti",
-      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
-    },
-    {
       "basename": "Hegel",
       "path": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md"
     },
@@ -123,10 +131,6 @@
     {
       "basename": "Aurelio Agostino",
       "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
-    },
-    {
-      "basename": "L'epica",
-      "path": "Latino/Il 1° secolo/L'epica.md"
     },
     {
       "basename": "Apuleio",
@@ -195,10 +199,6 @@
     {
       "basename": "Giovanni Verga",
       "path": "Italiano/Ottocento/Giovanni Verga.md"
-    },
-    {
-      "basename": "Naturalismo e Verismo",
-      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
     }
   ],
   "omittedPaths": [],

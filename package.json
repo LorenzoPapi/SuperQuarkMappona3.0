@@ -51,6 +51,7 @@
     "hast-util-to-html": "^9.0.0",
     "hast-util-to-jsx-runtime": "^2.3.0",
     "hast-util-to-string": "^3.0.0",
+    "html-pdf-node": "^1.0.7",
     "is-absolute-url": "^4.0.1",
     "js-yaml": "^4.1.0",
     "jspdf": "^2.5.1",

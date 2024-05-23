@@ -13,12 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Italiano/Novecento/Giuseppe Ungaretti.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "aac9f4e7733134da"
+          }
+        ]
+      },
+      {
+        "id": "7ebf0c2d263d2e1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd5459fb8faa153",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Italiano/Novecento/Giuseppe Ungaretti.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "aac9f4e7733134da"
           }
         ]
       }
@@ -88,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Italiano/Novecento/Giuseppe Ungaretti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Italiano/Novecento/Giuseppe Ungaretti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md"
+                "file": "Italiano/Novecento/Giuseppe Ungaretti.md"
               }
             }
           },
@@ -165,12 +208,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cf1eed11f4133ca",
+  "active": "8bd5459fb8faa153",
   "lastOpenFiles": [
+    "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+    "Italiano/Novecento/Giuseppe Ungaretti.md",
+    "Italiano/Novecento/Ermetismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
     "Storia/Prima Guerra Mondiale.md",
     "Storia/Rivoluzione Russa.md",
     "Storia/Seconda guerra mondiale.md",
-    "Arte/Avanguardie/Astrattismo.md",
     "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Surrealismo.md",
     "Arte/Avanguardie/Metafisica.md",
@@ -190,9 +236,6 @@
     "Matematica/Limite.md",
     "index.md",
     "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md",
-    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
