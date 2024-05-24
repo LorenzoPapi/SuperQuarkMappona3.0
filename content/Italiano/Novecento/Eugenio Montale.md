@@ -68,12 +68,31 @@ Si ritrova il perfetto utilizzo del *correlativo*:
 ## *Le occasioni* (1939)
 Anche se allude ad occasioni biografiche, i riferimenti ad essi sono **impliciti**, portando all'estremo la ***poetica degli oggetti***, eliminando ogni dualismo *lirica-commento* e lasciando solo l'***oggetto* coi suoi significati**. Avvicinandosi sempre più ad *Eliot*, si registra un **netto innalzamento stilistico** in favore di un **registro elevato e mono-linguistico** (*ermetico*). Questa nuova poetica deriva dall'inserimento nel **gruppo fiorentino** le cui posizioni erano ispirate ad un **culto umanistico** della letteratura, che diveniva ora **elitaria**, lasciando cadere ogni precedente **comunicatività poetica**.
 
-Tale concezione della *religione della cultura* si proietta nell'**immagine sublimata della *donna-angelo*** capace di indicare una **via di salvezza** dall'inferno quotidiano. Altre donne che compaiono sono segnate da un **destino di irrequietudine e fuga**, mentre ***Arletta*** è la fanciulla **morta** attorno cui si addensano le memorie di un ***passato felice ma irrecuperabile***. Tutte queste donne sono in realtà **proiezioni delle inquietudini del poeta** e si contrappongono alla *Beatrice donna-angelo* che equivale ad un'**alternativa all'esistente**.
+Tale concezione della *religione della cultura* si proietta nell'**immagine sublimata della *donna-angelo*** (***Clizia***) capace di indicare una **via di salvezza** dall'inferno quotidiano. Altre donne che compaiono sono segnate da un **destino di irrequietudine e fuga**, mentre ***Arletta*** è la fanciulla **morta** attorno cui si addensano le memorie di un ***passato felice ma irrecuperabile***. Tutte queste donne sono in realtà **proiezioni delle inquietudini del poeta** e si contrappongono alla *Beatrice donna-angelo* che equivale ad un'**alternativa all'esistente**.
 
 Si presenta quindi sia una **condizione esistenziale imprigionata nell'eterno ritorno** su cui incombe la guerra, sia l'**attesa dell'epifania luminosa della donna-angelo**. La cultura e l'intelligenza sono **impotenti di fronte le follie belliche**, ma solo coloro che dominano il corso degli eventi avranno la **possibilità di salvezza**.
 #### *Non recidere, forbice, quel volto*
 Esprime l'angoscia per la memoria che **non riesce a conservare l'immagine dell'amata**:
-- Lo svanire #TODO CONTINUARE QUA
+- Lo svanire del **ricordo** è come una **ferita esistenziale** espressa per immagine (*forbice che taglia, il freddo che raggela, l'albero che scrolla da se il fango*).
+- La *nebbia* contrasta con le **azioni nitidi** (*taglio*) che cancellano **nettamente** i ricordi.
+- L'esperienza dolorosa è resa anche **usando suoni aspri** e **paranomasie**.
+### *La casa dei doganieri*
+Ripropone il tema della memoria iniziando come l'*A Silvia* di Leopardi, però **rovesciandolo**:
+- Se Leopardi si augura che Silvia ricordi, la fanciulla montaliana **non può più ricordare**, concretizzando questa desolazione nella ***casa dei doganieri***, un tempo luogo di una memoria felice, ora segnata dall'**abbandono**.
+- La donna nel passato era ridente, ma il poeta si sofferma sul **diverso presente**, nel quale è segnata da un'**interiorità irrequieta**.
+- Senza la memoria, si rimane **prigionieri nel tempo che ritorna su se stesso**, non esistendo più certezza per il futuro.
+- Tenta di cercare un *varco*, in questo caso il ***punto d'orizzonte*** dove si accende la luce di una nave, ma la **speranza** è spenta dall'***infrangersi sempre uguale sugli scogli*** e in questo *immoto andare* non si distingue più chi vive e chi no.
+- Ricorda gli *Ossi* perché il **motivo biografico è esplicito**, ma la prevalenza degli *oggetti* è netta e la loro desolazione è **proiezione dell'*io lirico***.
+## *La bufera e altro* (1956)
+Nasce dalla **tragedia della guerra** e dalla **delusione per il trionfo definitivo della società massificata** (DC e PCI), prospettando anche la **catastrofe atomica**. Allo scenario storico si associa la **lontananza da Irma** e il nuovo amore per ***Maria Luisa Spaziani***.
+
+Ritorna la figura della **donna-angelo** che si carica di **valori cristiani** come la possibilità di essere una **salvezza per tutti**, ma non può ed è costretta a **fuggire nell'*oltrecielo***. Si verifica allora una **svolta** che **recupera l'infanzia ligure con la *memoria*** e che **rivaluta la vitalità istintuale** dell'adesione alla pura biologicità. Si impone la figura di **Volpe** che alla **sublimazione di Clizia** sostituisce l'**eros** proponendosi come un'**anti-Beatrice**, e anche la figura di **Mosca**, la moglie.
+
+L'ultima parte della raccolta, ***Conclusioni provvisorie***, comprende **due poesie politiche**:
+- ***Piccolo testamento***: il poeta proclama la sua **estraneità alle due *chiese* del suo tempo** (DC e PCI) profilando anche una possibile **apocalisse bellica** che pone fine all'umanità.
+- ***Sogno del prigioniero***: traendo ispirazione dagli **orrori dei regimi totalitari** tratta del prigioniero in **attesa della tortura**, che però allude ad una **condizione di prigionia *esistenziale*** da cui si può uscire solo con il **sogno**, concludendo l'**impossibilità della poesia**. Non scriverà versi per 12 anni.
+
+Proseguendo con un'intonazione **elevata** tuttavia si orienta verso un **maggiore plurilinguismo**, inserendo elementi **prosastici, tecnici e dialettali**.
 ****
 # Collegamenti
 DANTE CON CACCIAGUIDA (medioevo certezza, novecento no)

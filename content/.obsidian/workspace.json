@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Italiano/Novecento/Eugenio Montale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Italiano/Novecento/Eugenio Montale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Italiano/Novecento/Eugenio Montale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
+                "file": "Italiano/Novecento/Eugenio Montale.md"
               }
             }
           },
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -166,8 +167,8 @@
   },
   "active": "fa0cb279307f5dbc",
   "lastOpenFiles": [
-    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
     "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
     "Italiano/Novecento/Ermetismo.md",
     "Italiano/Novecento/Eugenio Montale.md",
     "Italiano/Novecento/Giuseppe Ungaretti.md",
