@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Storia/Seconda guerra mondiale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Storia/Seconda guerra mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md",
+                "file": "Storia/Seconda guerra mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Italiano/Novecento/Eugenio Montale.md"
+                "file": "Storia/Seconda guerra mondiale.md"
               }
             }
           },
@@ -167,15 +167,16 @@
   },
   "active": "fa0cb279307f5dbc",
   "lastOpenFiles": [
+    "Arte/Avanguardie/Cubismo.md",
+    "Storia/Seconda guerra mondiale.md",
+    "Italiano/Novecento/Eugenio Montale.md",
     "Latino/Il 1° secolo/L'epica del 1° secolo.md",
     "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
     "Italiano/Novecento/Ermetismo.md",
-    "Italiano/Novecento/Eugenio Montale.md",
     "Italiano/Novecento/Giuseppe Ungaretti.md",
     "Italiano/Novecento/Futurismo letterario.md",
     "Arte/Avanguardie/Astrattismo.md",
     "Latino/Il 4° secolo/Aurelio Agostino.md",
-    "Arte/Avanguardie/Cubismo.md",
     "Latino/Il 2° secolo/Publio Cornelio Tacito.md",
     "Matematica/Limite.md",
     "Arte/Impressionismo.md",
@@ -192,7 +193,6 @@
     "Italiano/Novecento/Luigi Pirandello.md",
     "Filosofia/Henri Bergson.md",
     "Storia/Prima Guerra Mondiale.md",
-    "Storia/Rivoluzione Russa.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
