@@ -5,6 +5,14 @@
       "path": "Storia/Seconda guerra mondiale.md"
     },
     {
+      "basename": "Guerra fredda",
+      "path": "Storia/Guerra fredda.md"
+    },
+    {
+      "basename": "Fascismo",
+      "path": "Storia/Fascismo.md"
+    },
+    {
       "basename": "Stalinismo",
       "path": "Storia/Stalinismo.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Oscar Wilde",
       "path": "Inglese/Oscar Wilde.md"
-    },
-    {
-      "basename": "Movimento artistico",
-      "path": "templates/Movimento artistico.md"
-    },
-    {
-      "basename": "Collegamenti",
-      "path": "templates/Collegamenti.md"
     }
   ],
   "omittedPaths": [],
