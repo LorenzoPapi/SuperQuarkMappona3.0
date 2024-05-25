@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/LorenzoPapi/SuperQuarkMappona3.0",
-      "Linkedin": "www.linkedin.com/in/lorenzo-montano-aa19472aa",
+      "Linkedin": "https://linkedin.com/in/lorenzo-montano-aa19472aa",
     },
   }),
 }

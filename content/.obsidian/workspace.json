@@ -154,7 +154,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,

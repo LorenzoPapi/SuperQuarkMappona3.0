@@ -17,14 +17,14 @@ L'***assassinio Dollfuss*** da parte dei nazisti mostrò la volontà di **espans
 Un **plebiscito** sancì la **riannessione della *Saar*** e poco dopo il Fuhrer reintrodusse la ***leva militare obbligatoria***, abolita dai trattati, per ricostruire la ***Wehrmacht*** affiancandole la ***Luftwaffe***. Tali azioni allarmarono i paesi limitrofi che riunitisi nel ***fronte di Stresa*** (Francia, Gran Bretagna, Italia) condannarono il riarmo. Questa compattezza era però **debole**:
 - Francia voleva **allearsi con l'URSS** in caso di attacco
 - Gran Bretagna **acconsentì la ricostruzione della flotta tedesca** pensando che questa avrebbe contenuto l'URSS.
-- Italia con l'**aggressione all'Etiopia** ( #TODO metti link) si **avvicinò alla Germania**.
+- Italia con l'**aggressione all'Etiopia** %%( #TODO metti link) %%si **avvicinò alla Germania**.
 ## La guerra civile spagnola
 La **Spagna** si presentava come una realtà **composita**:
 - **politica**: si affermarono le idee del **nazionalismo *catalano*** e ***basco*** che volevano l'***indipendenza*** accanto ad **ideologie socialiste rivoluzionarie** (1879) e **anarchiche**.
 - **economica**: convivevano **capitalismo industriale** ed **economia rurale**.
 - **sociale**: la differenza di industrializzazione portava a **scontri sociali**.
 ### 1923 - 1931: la *dittatura di Rivera*
-Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla crisi del 1929** ( #TODO link), creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
+Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla crisi del 1929**%% ( #TODO link)%%, creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
 ### 1932 - 1933: il *biennio rosso*
 La vittoria dei **repubblicani** mise al capo del governo ***Manuel Azana*** che inaugurò molti **provvedimenti sociali** (riforma agraria, confisca dei beni della Corona) e fece varie **concessioni agli indipendentisti**. Fu osteggiato dai **conservatori** che si ricompattarono.
 ### 1934 - 1935: il *biennio ne%%g%%ro*
@@ -53,3 +53,48 @@ Nel frattempo, l'Italia cercò di riacquisire rilevanza diplomatica con l'**inva
 ### 1939: i patti 
 I tedeschi chiesero (marzo) alla Polonia di poter **annettere *Danzica*** e **attraversarne il *corridoio***, che li divideva dalla Prussia orientale. Al rifiuto, iniziò i **preparativi per l'invasione** e in risposta ***Chamberlain dichiarò la fine dell'appeasement***, volendo difendere la sovranità polacca a ogni costo. Compreso il pericolo dell'espansione nazista, le potenze democratiche si **riavvicinarono alla Russia**, ma la lentezza delle trattative lasciarono spazio alla **diplomazia tedesca** con la quale firmò il ***Patto Ribbentrop-Molotov*** (agosto), un **accordo di non-aggressione**, utile sia per **scongiurare una guerra** sia per sfruttare l'espansione nazista **contro i capitalisti**. La conseguente **alleanza tra Gran Bretagna e Polonia** mostrò l'intolleranza verso nuove **iniziative militari tedesche**, ma questo non fermò Hitler. Il conflitto stava per iniziare.
 # Il conflitto
+## 1939: la spartizione della Polonia
+### 1 settembre, 4:45: lo scoppio
+Le truppe tedesche **invadono il territorio polacco** senza alcuna dichiarazione di guerra. Le due potenze democratiche inviano un ***ultimatum*** al Fuhrer intimandogli il ritiro delle truppe.
+Alla mancata risposta tedesca **Gran Bretagna e Francia dichiararono guerra alla Germania** (**3 settembre**), dando inizio alla ***Seconda guerra mondiale*** che, nonostante le somiglianze con la Prima, assunse i caratteri di una **guerra *totale*** per il **massiccio coinvolgimento dei civili** e si combatté effettivamente in **tutto il mondo**.
+### 8 ottobre: la sconfitta
+La ***Wehrmacht*** sbaragliò le truppe velocemente con il ***Blitzkrieg*** (*guerra-lampo*) grazie alla *Luftwaffe*, rendendo possibile la **guerra di movimento** per evitare il ritorno di quella di logoramento. Sulla base del patto R-M, l'**Armata rossa invase il paese da Est**, macchiandosi di innumerevoli crimini di guerra. La Polonia fu dunque spartita a **Ovest** dal **regime nazista** che impose la **costruzione di ghetti ebrei** e l'eliminazione dell'**elité del paese**, per eliminare la società polacca, a **Est** da quello comunista.
+## 1940
+### Il fronte nord-europeo
+Dopo avere conquistato la Polonia, la Russia **attaccò la Finlandia** che dopo una strenua resistenza cedette soltanto la **Carelia** (12 marzo). All'azione russa seguì l'**invasione tedesca di Danimarca e Norvegia**, completamente annesse a fine giugno. Più tardi, fu instaurato un governo **fantoccio in Svezia**, guidato da ***Vidkun Quisling*** che permise alla Germania di **imporre il proprio controllo nell'Europa centro-nord**.
+### La sconfitta della Francia
+#### 10 maggio: l'invasione
+Anche se avevano dichiarato guerra, Francia e Gran Bretagna **non ingaggiarono scontri diretti**, ma la nomina a primo ministro di ***Winston Churchill*** modificò la condotta del paese, dichiarando la **necessità storica di sconfiggere il nazismo**.
+Ma era tardi. Hitler **attaccò la Francia** la quale, facendo forza sulla *Linea Maginot*, non aveva paura: tuttavia, **violando la neutralità del Belgio**, le truppe tedesche aggirarono la linea **attraverso la foresta delle Ardenne**, non difesa.
+#### 22 giugno: la resa
+In poche settimane fu terminata l'**invasione della Francia** (il 14 a Parigi, il 20 a Lione), alla cui guida salì il maresciallo ***Philippe Petain*** che firmò l'***Armistizio di Compiègne*** nello stesso luogo dove la Germania si arrese durante la Prima guerra. Il paese fu diviso tra il **Nord**, sotto diretto **controllo tedesco** e il **Sud** con le **colonie** affidate ad un **governo collaborazionista** con capitale *Vichy* guidato da *Petain*. Il generale ***Charles de Gaulle*** tuttavia, rifugiatosi in Inghilterra, lanciò da **Radio Londra** un appello ai francesi, chiamandoli alla **resistenza**.
+### La vittoria inglese
+Unico ostacolo all'avanzata nazista, che aveva constato l'**impossibilità nel trattare con Churchill**, in estate diede il via all'**operazione *Leone Marino***: distruzione dell'aviazione e logoramento psicologico con **massicci bombardamenti** (Londra, Birmingham, Coventy). La ***Royal Air Force*** riuscì a contrastare l'offensiva tedesca con l'uso del ***RADAR*** %%( #TODO RADIOLOGIAAA)%%. Nonostante le pesanti distruzioni, la Gran Bretagna non cedette, rimandando il **progetto di sbarco** e rappresentando la **prima battuta d'arresto del Reich**.
+### L'Italia entra in guerra
+#### 10 giugno
+All'inizio della Guerra, l'Italia dichiarò lo stato di **non belligeranza** con l'assenso di Hitler, consapevole che **il paese non era in grado di combattere**. L'impazienza di <span title='"Ho bisogno di qualche migliaio di morti da far valere al tavolo della conferenza di pace" dirà a Badoglio' data-html="true"><u>Mussolini</u></span> si scontrò con la posizione dei vertici militari, in particolare dell'ex ministro ***Dino Grandi*** e quello in carica ***Galeazzo Ciano***. Tuttavia, i rapidi successi nazisti illusero di una **rapida vittoria**: Mussolini quindi **dichiarò guerra agli Alleati**.
+#### La guerra parallela
+Per prima cosa l'esercito si impegnò in un'**offensiva sulle Alpi occidentali**, inutile perché la Francia era appena stata conquistata. Allora avviò la ***guerra parallela***, autonoma da quella tedesca, con l'obiettivo di **acquisire il controllo del Mediterraneo**, attaccando l'**Egitto** attraverso la Libia e la **Grecia** attraverso l'Albania, con esiti **catastrofici**, che insinuarono un **clima di sfiducia** e portarono alle **dimissioni di *Badoglio***:
+- a novembre i greci con truppe inglesi **respinsero l'attacco** e penetrarono in Albania.
+- in Africa le truppe di ***Rodolfo Graziani*** furono respinte dai britannici, che strapparono la *Cirenaica* all'Italia.
+## 1941
+### L'avanza nazista e l'ipotetica Nuova Europa
+Davanti alle sconfitte italiane, fu richiesto l'**intervento tedesco** che, inviando gli ***Afrikakorps*** sotto la guida di ***Erwin Rommel*** respinse gli inglesi in Libia e la ridiede agli italiani. In primavera, la *Wermacht* **invase la Iugoslavia**, instaurandovi il regime collaborazionista degli ***ustasa*** e costrinse gli inglesi al **ritiro dalla Grecia**. Inoltre, con la caduta dell'ultima resistenza di ***Amba Alagi*** (maggio), l'Italia **perse l'imperio nel Corno d'Africa** e accettò la **subalternità alla Germania**.
+
+La guerra serviva ad instaurare un **nuovo ordine europeo** con la costituzione della **Grande Germania**, perseguita con le annessioni del 1938-1939 e giustificazione dell'invasione polacca, e di una **gerarchia politica *razziale*** a seconda della **prevalenza di caratteri *ariani*** nei popoli:
+- alla base i **popoli slavi** racchiusi in **colonie**, ritenuti indegni all'annessione
+- poi gli **Stati vassalli**, occupati direttamente o collaborazionisti
+- infine gli **alleati**, volontariamente schierati con Hitler
+- l'**Italia era *equiparata* alla Germania**, ma sempre più ridimensionata per la debolezza militare
+
+Tale progetto fu attuato  con tre piani di azione:
+- **oppressione politica**: la ***Gestapo*** controllava la situazione e ogni atto di **mancata obbedienza** era considerato un crimine **punito con detenzione, esecuzione o deportazione**.
+- **sfruttamento economico**: i territori conquistati avevano funzione di **rifornimento materiale** e di **forza lavoro**, riuscendo a mantenere stabili le condizioni di vita in Germania molto più a lungo.
+- **persecuzione razziale**: gli **slavi** erano ridotti a **schiavi**, mentre gli **ebrei** andavano completamente **sterminati**. 
+### L'operazione *Barbarossa* (giugno)
+Per realizzare il nuovo ordine era necessaria l'**invasione dell'URSS** sia per l'**ingente quantità di risorse** che per la **sconfitta del comunismo ebreo** (5 milioni di ebrei). Scattò quindi l'***operazione Barbarossa***, per richiamare le imprese dell'imperatore del XII secolo, con un imponente **dispiegamento di forze** e l'inclusione di un **corpo di spedizione italiano**. Stalin, <span title='Era sorpreso che Hitler lo avesse attaccato prima della sconfitta della Gran Bretagna, ma si aspettava la violazione del patto.'><u>colto di sorpresa</u></span> dalla violazione del Patto R-M, subì l'avanzata fino a **Mosca** e <span title='San Pietroburgo, rinominata così nel 1924'><b><u>Leningrado</u></b></span> e fino al **Mar Nero**. I sovietici resistettero organizzando una **resistenza per *terra bruciata***, riuscendo a trasferire ad est intere industrie per **evitare l'impossessarsi nazista**. Il piano della guerra lampo risultò **illusorio** e l'avanzata tedesca fu arrestata dal ***generale inverno***. 
+### L'estraneità statunitense 
+Fino a questo momento, gli USA erano rimasti **estranei alla guerra**, seguendo la linea **isolazionistica** diretta da **Roosevelt** e rafforzata dal comitato ***America First***. Tuttavia, di fronte alla *rapida conquista della Francia* e al ***pericolo di una Gran Bretagna sola contro il nazismo***, il presidente promosse l'idea degli USA come **arsenale della democrazia**, facendo approvare la ***Legge affitti e prestiti*** che consentiva la **fornitura agevolata economicamente di risorse** agli inglesi. Così Roosevelt si incontrò con Churchill (**14 agosto**) su una nave da guerra, firmando la ***Carta Atlantica*** in 8 punti, nella quale si dichiarava la **determinazione a sconfiggere il nazifascismo**, prospettando un **nuovo ordine mondiale democratico**.
+### L'attacco di *Pearl Harbour* (7 dicembre)
+Il Giappone aveva già sottoscritto l'***Asse RoBerTo*** ma si era concentrato sull'**espansione in Asia**, per formare un impero asiatico simile a quello teorizzato da Hitler in Europa. Tale espansionismo provocò la **reazione degli USA** che **sospesero le forniture** e chiesero il ritiro delle truppe. Allora, anche per l'ascesa al governo del nazionalista ***Hideki Yojo***, l'aviazione giapponese attaccò a sorpresa la **base navale di Pearl Harbour**, nelle Hawaii, distruggendo **buona parte della flotta americana**, sfruttando la debolezza statunitense per conquistare **isole e penisole dell'Asia orientale**. Ma il giorno dopo ***gli USA dichiarano guerra al Giappone***, ricevendo di conseguenza dichiarazione da Germania e Italia, e rendendo la **guerra *mondiale***.
+## 1942
