@@ -5,12 +5,20 @@
       "path": "Storia/Seconda guerra mondiale.md"
     },
     {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Rivoluzione Russa.md"
     },
     {
       "basename": "Eugenio Montale",
       "path": "Italiano/Novecento/Eugenio Montale.md"
+    },
+    {
+      "basename": "Giuseppe Ungaretti",
+      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
       "basename": "L'epica del 1° secolo",
@@ -23,10 +31,6 @@
     {
       "basename": "Ermetismo",
       "path": "Italiano/Novecento/Ermetismo.md"
-    },
-    {
-      "basename": "Giuseppe Ungaretti",
-      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
     },
     {
       "basename": "Futurismo letterario",
@@ -103,10 +107,6 @@
     {
       "basename": "Prima Guerra Mondiale",
       "path": "Storia/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Rivoluzione Russa",
-      "path": "Storia/Rivoluzione Russa.md"
     },
     {
       "basename": "Surrealismo",

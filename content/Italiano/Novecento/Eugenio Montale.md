@@ -36,7 +36,7 @@ A differenza della linea simbolista, la ***parola poetica non può attingere all
 Sul piano fonico la desolazione è data per **suoni aspri, ritmi rotti e anti-musicali, andamento prosastico**. Sul piano lessicale si incontrano **termini rari, letterari e aulici**, seguendo la lezione crepuscolare sull'accostare *prosaico* e *aulico* in **funzione ironica e straniante**. In metrica, usa sia il **verso libero** che l'**endecasillabo**, spesso in quartine, riprendendo la **tradizione in maniera corrotta**, svuotandola nel complesso.
 ### *Non chiederci la parola*
 > [!info]-
-Non chiederci la parola che squadri da ogni lato  
+>Non chiederci la parola che squadri da ogni lato  
 l'animo nostro informe, e a lettere di fuoco  
 lo dichiari e risplenda come un croco  
 perduto in mezzo a un polveroso prato.  

@@ -27,7 +27,7 @@ La **Spagna** si presentava come una realtà **composita**:
 Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla crisi del 1929**%% ( #TODO link)%%, creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
 ### 1932 - 1933: il *biennio rosso*
 La vittoria dei **repubblicani** mise al capo del governo ***Manuel Azana*** che inaugurò molti **provvedimenti sociali** (riforma agraria, confisca dei beni della Corona) e fece varie **concessioni agli indipendentisti**. Fu osteggiato dai **conservatori** che si ricompattarono.
-### 1934 - 1935: il *biennio ne%%g%%ro*
+### 1934 - 1935: il *biennio nigro*
 Alle elezioni vinse la **destra monarchica tradizionalista** che **annullò ogni riforma** e impose un **rigido centralismo politico**. Le forze di sinistra si aggregarono nell'***Internazionale***, mentre quelle di estrema destra si organizzarono nella ***Falange***, basata sul fascismo. La politica reazionaria provocò **molte rivolte popolari**, spesso represse nel sangue.
 ### 1936: lo scoppio della guerra
 La sinistra, riunita nel ***Fronte popolare***, tornò al governo, annunciando la **confisca dei grandi latifondi privati**, iniziativa accolta dall'estrema sinistra **rivoluzionaria**, raccolta intorno a ***Largo Caballero*** (*Lenin spagnolo*), ma osteggiata dalla destra **conservatrice**, raccolta intorno a ***Calvo Sotelo***. Quando questo fu ucciso dalla polizia, gli alti generali ***Emilio Mola*** e ***Francisco Franco***, autodefinitisi ***nacionales***, misero in atto un ***alzamiento*** contro il *Fronte*: Franco proclama via radio lo ***estado de guerra*** (**Tenerife, 17 luglio**).
@@ -98,3 +98,9 @@ Fino a questo momento, gli USA erano rimasti **estranei alla guerra**, seguendo 
 ### L'attacco di *Pearl Harbour* (7 dicembre)
 Il Giappone aveva già sottoscritto l'***Asse RoBerTo*** ma si era concentrato sull'**espansione in Asia**, per formare un impero asiatico simile a quello teorizzato da Hitler in Europa. Tale espansionismo provocò la **reazione degli USA** che **sospesero le forniture** e chiesero il ritiro delle truppe. Allora, anche per l'ascesa al governo del nazionalista ***Hideki Yojo***, l'aviazione giapponese attaccò a sorpresa la **base navale di Pearl Harbour**, nelle Hawaii, distruggendo **buona parte della flotta americana**, sfruttando la debolezza statunitense per conquistare **isole e penisole dell'Asia orientale**. Ma il giorno dopo ***gli USA dichiarano guerra al Giappone***, ricevendo di conseguenza dichiarazione da Germania e Italia, e rendendo la **guerra *mondiale***.
 ## 1942
+### Il *fronte alleato*
+USA, URSS e Gran Bretagna erano **pronti a superare le divergenze ideologiche** ed impegnarsi a **contrastare il nemico comune**, sottoscrivendo nella ***conferenza di Washington*** (gennaio), insieme agli altri paesi in guerra contro l'*Asse*, il ***Patto delle Nazioni Unite***, nel quale i contraenti si impegnavano a **combattere fino alla distruzione del nazifascismo**. Sul piano **bellico** la partecipazione degli USA si rivelò decisiva sia per l'**aiuto alleato** sia per il **risollevamento totale dalla Grande Depressione**. %%link%%
+### La vittoria orientale
+Inoltre, dopo un'offensiva estiva dei tedeschi, le truppe si scontrarono nella **battaglia di Stalingrado** (settembre - febbraio '43), vinta dalla **controffensiva sovietica** e portando alla **prima grande sconfitta nazista**, con conseguente crollo della **figura della Germania** nell'opinione pubblica.
+### La vittoria africana
+Inizialmente, i nazifascisti erano penetrati quasi fino al canale di Suez
