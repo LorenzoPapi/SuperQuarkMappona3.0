@@ -5,6 +5,18 @@
       "path": "Storia/Seconda guerra mondiale.md"
     },
     {
+      "basename": "Stalinismo",
+      "path": "Storia/Stalinismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
       "basename": "Rivoluzione Russa",
       "path": "Storia/Rivoluzione Russa.md"
     },
@@ -105,16 +117,8 @@
       "path": "Filosofia/Henri Bergson.md"
     },
     {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Prima Guerra Mondiale.md"
-    },
-    {
       "basename": "Surrealismo",
       "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
     },
     {
       "basename": "Dadaismo",
@@ -195,10 +199,6 @@
     {
       "basename": "Collegamenti",
       "path": "templates/Collegamenti.md"
-    },
-    {
-      "basename": "English Author",
-      "path": "templates/English Author.md"
     }
   ],
   "omittedPaths": [],
