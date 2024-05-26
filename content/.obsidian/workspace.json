@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ebf0c2d263d2e1a",
+        "id": "4f8ba78d6d9b6be6",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0cb279307f5dbc",
+            "id": "5cd78a53dc71a540",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,10 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -164,34 +166,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa0cb279307f5dbc",
+  "active": "5cd78a53dc71a540",
   "lastOpenFiles": [
-    "Storia/Guerra fredda.md",
+    "Storia/Nazismo.md",
     "Storia/Seconda guerra mondiale.md",
-    "Storia/Fascismo.md",
     "Storia/Stalinismo.md",
-    "Storia/Prima Guerra Mondiale.md",
-    "Arte/Avanguardie/Metafisica.md",
+    "Storia/Grande depressione.md",
+    "Storia/Fascismo.md",
     "Storia/Rivoluzione Russa.md",
     "Italiano/Novecento/Eugenio Montale.md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Latino/Il 1° secolo/L'epica del 1° secolo.md",
-    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
-    "Italiano/Novecento/Ermetismo.md",
-    "Italiano/Novecento/Futurismo letterario.md",
-    "Arte/Avanguardie/Astrattismo.md",
-    "Latino/Il 4° secolo/Aurelio Agostino.md",
-    "Latino/Il 2° secolo/Publio Cornelio Tacito.md",
     "Matematica/Limite.md",
-    "Arte/Impressionismo.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
-    "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md",
+    "Filosofia/Henri Bergson.md",
+    "Inglese/Bronte sisters.md",
     "Arte/Postimpressionismo.md",
+    "Storia/Prima Guerra Mondiale.md",
+    "Storia/Guerra fredda.md",
+    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
     "Italiano/Ottocento/Naturalismo e Verismo.md",
-    "Latino/Il 1° secolo/Marco Fabio Quintiliano.md",
-    "Latino/Il 1° secolo/Lucio Anneo Seneca.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
+    "Italiano/Ottocento/Giovanni Verga.md",
+    "Italiano/Ottocento/Giovanni Pascoli.md",
+    "Italiano/Ottocento/Gabriele D'Annunzio.md",
+    "Italiano/Ottocento/Giacomo Leopardi.md",
+    "Italiano/Ottocento/Alessandro Manzoni.md",
+    "Italiano/Novecento/Italo Svevo.md",
+    "Italiano/Novecento/Luigi Pirandello.md",
+    "Italiano/Novecento/Salvatore Quasimodo.md",
+    "Italiano/Novecento/Giuseppe Ungaretti.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Avanguardie/Cubismo.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",

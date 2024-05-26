@@ -1,6 +1,6 @@
 # Premesse
 %%## Affermazione dell'autoritarismo europeo
-Su esempio di [[Fascismo|Italia]] e [[Nazismo|Germania]], in numerosi paesi europei si affermarono regimi **dittatoriali**. Nessuno di questi tuttavia realizzò un **completo totalitarismo**, ma prendendo ad esempio questi regimi, il loro **prestigio** e la loro **influenza interanzionale** crebbe:
+Su esempio di [[Fascismo|Italia]] e [[Nazismo|Germania]], in numerosi paesi europei si affermarono regimi **dittatoriali**. Nessuno di questi tuttavia realizzò un **completo totalitarismo**, ma prendendo ad esempio questi regimi, il loro **prestigio** e la loro **influenza internazionale** crebbe:
 - **Polonia** (**1926**): sotto la guida del nazionalista ***Jozef Pilsudski*** che aveva assunto il governo della Repubblica polacca (**1918**) e sconfitto la Russia (**1921**), impose un **regime autoritario** per stroncare l'avanzata dei **democratici a lui avversi**.
 - **Portogallo** (**1933**): proclamata un'**instabile repubblica** (**1910**) caratterizzata da numerosi governi provvisori e colpi di Stato, ***Antonio Salazar*** instaurò la **dittatura *Estado novo***.
 - **Ungheria** (**1930**): soffocati i moti comunisti (**1920**), fu inaugurato il governo conservatore di ***Miklos Horthy*** sotto esempio del duce.

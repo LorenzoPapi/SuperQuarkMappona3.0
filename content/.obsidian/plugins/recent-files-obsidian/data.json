@@ -5,24 +5,20 @@
       "path": "Storia/Seconda guerra mondiale.md"
     },
     {
-      "basename": "Guerra fredda",
-      "path": "Storia/Guerra fredda.md"
-    },
-    {
-      "basename": "Fascismo",
-      "path": "Storia/Fascismo.md"
+      "basename": "Nazismo",
+      "path": "Storia/Nazismo.md"
     },
     {
       "basename": "Stalinismo",
       "path": "Storia/Stalinismo.md"
     },
     {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Prima Guerra Mondiale.md"
+      "basename": "Grande depressione",
+      "path": "Storia/Grande depressione.md"
     },
     {
-      "basename": "Metafisica",
-      "path": "Arte/Avanguardie/Metafisica.md"
+      "basename": "Fascismo",
+      "path": "Storia/Fascismo.md"
     },
     {
       "basename": "Rivoluzione Russa",
@@ -33,8 +29,76 @@
       "path": "Italiano/Novecento/Eugenio Montale.md"
     },
     {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
+    },
+    {
+      "basename": "Henri Bergson",
+      "path": "Filosofia/Henri Bergson.md"
+    },
+    {
+      "basename": "Bronte sisters",
+      "path": "Inglese/Bronte sisters.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Guerra fredda.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
+    },
+    {
+      "basename": "Naturalismo e Verismo",
+      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
+    },
+    {
+      "basename": "Giovanni Verga",
+      "path": "Italiano/Ottocento/Giovanni Verga.md"
+    },
+    {
+      "basename": "Giovanni Pascoli",
+      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
+    },
+    {
+      "basename": "Gabriele D'Annunzio",
+      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
+    },
+    {
+      "basename": "Giacomo Leopardi",
+      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
+    },
+    {
+      "basename": "Alessandro Manzoni",
+      "path": "Italiano/Ottocento/Alessandro Manzoni.md"
+    },
+    {
+      "basename": "Italo Svevo",
+      "path": "Italiano/Novecento/Italo Svevo.md"
+    },
+    {
+      "basename": "Luigi Pirandello",
+      "path": "Italiano/Novecento/Luigi Pirandello.md"
+    },
+    {
+      "basename": "Salvatore Quasimodo",
+      "path": "Italiano/Novecento/Salvatore Quasimodo.md"
+    },
+    {
       "basename": "Giuseppe Ungaretti",
       "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
     },
     {
       "basename": "Cubismo",
@@ -47,10 +111,6 @@
     {
       "basename": "Il primo secolo d.C. (14 - 96)",
       "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "Ermetismo",
-      "path": "Italiano/Novecento/Ermetismo.md"
     },
     {
       "basename": "Futurismo letterario",
@@ -69,28 +129,12 @@
       "path": "Latino/Il 2° secolo/Publio Cornelio Tacito.md"
     },
     {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
       "basename": "Impressionismo",
       "path": "Arte/Impressionismo.md"
     },
     {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
       "basename": "Seconda rivoluzione industriale",
       "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Naturalismo e Verismo",
-      "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
     },
     {
       "basename": "Marco Fabio Quintiliano",
@@ -105,24 +149,8 @@
       "path": "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md"
     },
     {
-      "basename": "Giovanni Pascoli",
-      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
-    },
-    {
       "basename": "Crediti e About",
       "path": "Crediti e About.md"
-    },
-    {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
-    },
-    {
-      "basename": "Luigi Pirandello",
-      "path": "Italiano/Novecento/Luigi Pirandello.md"
-    },
-    {
-      "basename": "Henri Bergson",
-      "path": "Filosofia/Henri Bergson.md"
     },
     {
       "basename": "Surrealismo",
@@ -171,34 +199,6 @@
     {
       "basename": "Gaio Svetonio Tranquillo",
       "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
-      "basename": "Derivata",
-      "path": "Matematica/Derivata.md"
-    },
-    {
-      "basename": "Bronte sisters",
-      "path": "Inglese/Bronte sisters.md"
-    },
-    {
-      "basename": "Apuleio",
-      "path": "Latino/Il 2° secolo/Apuleio.md"
-    },
-    {
-      "basename": "La satira",
-      "path": "Latino/Il 1° secolo/La satira.md"
-    },
-    {
-      "basename": "Gaio Petronio Arbitro",
-      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
-    },
-    {
-      "basename": "Oscar Wilde",
-      "path": "Inglese/Oscar Wilde.md"
     }
   ],
   "omittedPaths": [],
