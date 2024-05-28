@@ -14,10 +14,22 @@
 **1928**: fu festeggiato da un **convegno del Pen Club parigino**, accolto da molti intellettuali, e decise di scrivere un quarto romanzo, ma un **incidente d'auto** gli diede la morte.
 ****
 # Ideologia
-
+Alla base dell'opera di Svevo vi è una **robusta cultura filosofica** arricchita da **aperture verso le scienze**:
+- [[Schopenhauer]] gli trasmise un **pensiero a sfondo irrazionalistico** opposto al sistema hegeliano e un **pessimismo radicale**. Inoltre, attribuisce alla **volontà carattere *effimero* e *inconsistente* dei desideri**, mirando sempre a **smascherare gli autoinganni dei suoi personaggi**.
+- [[Friedrich Wilhelm Nietzsche]], letto direttamente dai testi originali, **polemizzando il superuomo dannunziano** e da lui trasse l'idea del **soggetto** come **pluralità di stati in divenire**.
+- **Darwin** gli trasmise i concetti di **selezione naturale** e **lotta per la vita**. Fu indotto a presentare il **comportamento dei suoi eroi come prodotto di leggi naturali immodificabili**, involontarie, ma avendo le loro radici nei **rapporti sociali**, non naturali ma **storiche**. Mette in luce la **responsabilità individuale dell'agire** approdando ad un **atteggiamento acutamente critico**.
+- [[Karl Marx]], di cui conosceva a fondo la dottrina, gli trasmise la **percezione dei conflitti di classe** e la consapevolezza che **tutti i fenomeni sono condizionata dalla classe sociale**, associando quindi il ***singolo* protagonista all'*uomo borghese* in un periodo della storia**, tuttavia **non condivise il risultato utopico** del socialismo.
+- [[Sigmund Freud]] ebbe un posto importante nella sua letteratura, gli interessava per le **tortuosità e ambivalenze della mente profonda**, tuttavia **non apprezza la psicoanalisi come *terapia* ma come *strumento conoscitivo***.
+- Prende i **grandi romanzieri realisti francesi dell'Ottocento** il ***bovarismo*** (voglia di *fuggire dagli stretti confini di una piccola città che non fa vivere i propri sogni*) che caratterizza solo i **primi due romanzi** e l'**atteggiamento di irrisione fredda e corrosiva** verso i due personaggi.
+- La conoscenza dei **romanzieri naturalisti**, modello che si scorge nel primo romanzo con le **descrizioni minuziose**.
+- Il **romanzo psicologico** di **Bourget** che si dedicava invece ad **analizzare i processi interiori**.
+- Dai **romanzieri russi** riprese i personaggi degli **inetti**, addentrandosi nella **psiche**.
+- Dagli **umoristi inglesi**, incontrati grazie a Joyce, dai quali elaborò l'***arioso umorismo*** dell'ultimo romanzo. L'amicizia con Joyce **rafforzò l'autostima dello scrittore**, spinto così a tornare a scrivere, ma **non c'è nessun contatto narrativo tra l'*Ulisse* e la *Coscienza di Zeno***.
 ****
 # Stile
-
+- La sua prosa **non è bella**, ma questo perché la sua **lingua era il dialetto triestino** e sono presenti anche **tracce di costrutti tedeschi**.
+- Tuttavia la sua **prosa è efficace nel rendere i *labirinti della psiche***, tenendo anche conto della tendenza a **riprodurre il modo di esprimersi dei personaggi** utilizzando il **discorso indiretto libero** con un **linguaggio tipico di un borghese triestino che usa l'italiano**.
+- Alcune *imperfezioni* stilistiche servono a **riflettere il suo modo di pensare**, quindi frutto di una **ricerca stilistica sofisticata**.
 ****
 # Opere
 ## *Una vita* (1892)

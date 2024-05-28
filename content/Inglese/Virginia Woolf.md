@@ -12,8 +12,8 @@ She was interested in **giving voice** to the **inner world of feeling and memor
 In her essay ***A Sketch of the Past***, she wonders why **some events are very powerful and memorable** and she concludes that there are two kinds of experiences:
 - moments of **being**, which are acts **experienced intensely and with awareness**
 - moments of **non-being**, in which the individual **isn't consciously aware**
-The **intensity** of the feeling and one's **consciousness** separate the two moments, of which the former causes the individual to realize her **connection to a larger pattern**.
 
+The **intensity** of the feeling and one's **consciousness** separate the two moments, of which the former causes the individual to realize her **connection to a larger pattern**.
 # Works
 Apart from her novels, her critic literature became very important during the 1960s. In particular, her essay ***A Room of One's Own***, explores **social injustices** and comments about **women's lack of free expression**. Her whole point is usually summed up by the following phrase:
 `A woman must have money and a room of her own if she is to write fiction.`

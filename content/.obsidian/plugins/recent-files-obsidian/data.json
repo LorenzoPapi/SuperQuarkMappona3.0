@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Italo Svevo",
+      "path": "Italiano/Novecento/Italo Svevo.md"
+    },
+    {
+      "basename": "Virginia Woolf",
+      "path": "Inglese/Virginia Woolf.md"
+    },
+    {
+      "basename": "Giuseppe Ungaretti",
+      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "Giacomo Leopardi",
+      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
+    },
+    {
+      "basename": "Romanticismo",
+      "path": "Italiano/Ottocento/Romanticismo.md"
+    },
+    {
+      "basename": "Salvatore Quasimodo",
+      "path": "Italiano/Novecento/Salvatore Quasimodo.md"
+    },
+    {
+      "basename": "Futurismo letterario",
+      "path": "Italiano/Novecento/Futurismo letterario.md"
+    },
+    {
       "basename": "Seconda guerra mondiale",
       "path": "Storia/Seconda guerra mondiale.md"
     },
@@ -73,28 +101,12 @@
       "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
     },
     {
-      "basename": "Giacomo Leopardi",
-      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
-    },
-    {
       "basename": "Alessandro Manzoni",
       "path": "Italiano/Ottocento/Alessandro Manzoni.md"
     },
     {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
-    },
-    {
       "basename": "Luigi Pirandello",
       "path": "Italiano/Novecento/Luigi Pirandello.md"
-    },
-    {
-      "basename": "Salvatore Quasimodo",
-      "path": "Italiano/Novecento/Salvatore Quasimodo.md"
-    },
-    {
-      "basename": "Giuseppe Ungaretti",
-      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
     },
     {
       "basename": "Metafisica",
@@ -111,10 +123,6 @@
     {
       "basename": "Il primo secolo d.C. (14 - 96)",
       "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "Futurismo letterario",
-      "path": "Italiano/Novecento/Futurismo letterario.md"
     },
     {
       "basename": "Astrattismo",
@@ -187,18 +195,6 @@
     {
       "basename": "Plinio il Giovane",
       "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Il secondo secolo d.C. (96 - 192)",
-      "path": "Latino/Il 2° secolo/Il secondo secolo d.C. (96 - 192).md"
-    },
-    {
-      "basename": "Gaio Svetonio Tranquillo",
-      "path": "Latino/Il 2° secolo/Gaio Svetonio Tranquillo.md"
     }
   ],
   "omittedPaths": [],

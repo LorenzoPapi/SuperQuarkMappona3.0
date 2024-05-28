@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8ba78d6d9b6be6",
+        "id": "ad1b9701364f35a6",
         "type": "tabs",
         "children": [
           {
-            "id": "5cd78a53dc71a540",
+            "id": "de19cc3a23e77561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Seconda guerra mondiale.md",
+                "file": "Italiano/Novecento/Italo Svevo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a4467c728ac47e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/Virginia Woolf.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Seconda guerra mondiale.md",
+                "file": "Italiano/Novecento/Italo Svevo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Seconda guerra mondiale.md",
+                "file": "Italiano/Novecento/Italo Svevo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Seconda guerra mondiale.md"
+                "file": "Italiano/Novecento/Italo Svevo.md"
               }
             }
           },
@@ -166,10 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cd78a53dc71a540",
+  "active": "de19cc3a23e77561",
   "lastOpenFiles": [
-    "Storia/Nazismo.md",
+    "Untitled.md",
+    "Italiano/Novecento/Italo Svevo.md",
+    "Inglese/Virginia Woolf.md",
+    "Italiano/Novecento/Giuseppe Ungaretti.md",
+    "Italiano/Ottocento/Giacomo Leopardi.md",
+    "Italiano/Ottocento/Romanticismo.md",
+    "Italiano/Novecento/Salvatore Quasimodo.md",
+    "Italiano/Novecento/Futurismo letterario.md",
     "Storia/Seconda guerra mondiale.md",
+    "Storia/Nazismo.md",
     "Storia/Stalinismo.md",
     "Storia/Grande depressione.md",
     "Storia/Fascismo.md",
@@ -186,14 +207,6 @@
     "Italiano/Ottocento/Giovanni Verga.md",
     "Italiano/Ottocento/Giovanni Pascoli.md",
     "Italiano/Ottocento/Gabriele D'Annunzio.md",
-    "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Italiano/Ottocento/Alessandro Manzoni.md",
-    "Italiano/Novecento/Italo Svevo.md",
-    "Italiano/Novecento/Luigi Pirandello.md",
-    "Italiano/Novecento/Salvatore Quasimodo.md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Cubismo.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",

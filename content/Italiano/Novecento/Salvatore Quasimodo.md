@@ -1,4 +1,4 @@
-# Biografia (Modica, 1901 - Napoli, 1908)
+# Biografia (Modica, 1901 - Napoli, 1968)
 **1901**: trascorre la giovinezza in **Sicilia** per il lavoro da capostazione del padre.
 **1920**: diplomatosi nelle **scuole tecniche** si stabilisce a **Roma** dove inizia lo studio classico. Viene presentato a [[Eugenio Montale]] e altri intellettuali che gli pubblicano le prime poesie su ***Solaria***.
 **1936**: trasferitosi a **Milano** ottiene la **cattedra di Letteratura italiana al Conservatorio**.

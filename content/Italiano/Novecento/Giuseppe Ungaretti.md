@@ -1,17 +1,17 @@
 # Biografia (Alessandria d'Egitto, 1888 - Milano, 1970)
 **1890**: Il padre, **lucchese** come la madre, muore nei lavori per il Canale di Suez.
-**1905**: Frequenta l'**Ecole Suisse Jacot** leggendo letteratura contemporanea, lasciando in lui un paesaggio **fantastico e irreale** che comparirà nei suoi versi
-**1912**: Si reca a **Parigi** dove frequenta la Sorbona, approfondisce [[Simbolismo e Decadentismo]] e frequenta gli ambienti di **avanguardia**.
+**1905**: Frequenta l'***Ecole Suisse Jacot*** leggendo letteratura contemporanea, lasciando in lui un paesaggio **fantastico e irreale** che comparirà nei suoi versi.
+**1912**: Si reca a **Parigi** dove frequenta la ***Sorbona***, approfondisce [[Simbolismo e Decadentismo]] e frequenta gli ambienti di **avanguardia**.
 **1914**: Conosce i [[Futurismo letterario|futuristi fiorentini]] e pubblica le prime poesie su ***Lacerba***. Entusiasta della [[Prima Guerra Mondiale|guerra]], si arruola come **volontario in un reggimento di fanteria** e viene inviato sul **Carso** dove inizia a comporre poesie.
 **1920**: Alla fine del conflitto ritorna a **Parigi** dove si sposa con ***Jeanne Dupoix***.
 **1921**: Si trasferisce a **Roma** e **aderisce al [[Fascismo|fascismo]]**, convinto che la **dittatura rafforzerà la solidarietà nazionale**.
-**1936**: Divenuto uno dei **più noti e prestigiosi intellettuali italiani** la cui poesia darà i natali all'**ermetismo**, ricopre la **cattedra di Letteratura italiana** presso l'**Università di San Paolo in Brasile**.
+**1936**: Divenuto uno dei **più noti e prestigiosi intellettuali italiani** la cui poesia darà i natali all'**ermetismo**, ricopre la **cattedra di Letteratura italiana** presso l'***Università di San Paolo* in Brasile**.
 **1942**: Rientrato in italia, insegna **Letteratura italiana contemporanea** a **Roma** e viene nominato **accademico d'Italia**.
 **1937**: La morte del fratello e del figlio insieme alle vicende della [[Seconda guerra mondiale]] maturano in lui una **nuova e dolorosa consapevolezza** che caratterizza le raccolte del secondo dopoguerra.
 **1969**: Con Mondadori pubblica ***Vita d'un uomo. Tutte le poesie*** come un testamento spirituale, data la sua morte l'anno successivo.
 ****
 # Ideologia
-- **Letteratura e vita sono *strettamente connesse fra loro***, e la prima ha un ruolo privilegiato perché **svela il senso nascosto delle cose**
+- **Letteratura e vita sono *strettamente connesse fra loro***, e la prima ha un ruolo privilegiato perché **svela il senso nascosto delle cose**.
 - La poesia deve ***illuminare l'essenza stessa della vita*** ed ha un significato **magico ed esoterico**, spingendola al limite dell'inconoscibile.
 - Il poeta è ***sacerdote della parola*** che riesce a cogliere i **nessi segreti** delle cose.
 - La vita viene ***illuminata* dall'intuitività poetica**.
@@ -28,7 +28,6 @@ Se le prime liriche erano **discorsive**, dalla prima raccolta si trovano molte 
 - ***Sistema mono-linguistico*** che adotta termini **leggeri** e trasferisce la realtà su un piano di **risonanze metafisiche e spirituali**.
 
 Nella seconda raccolta si ha il ***recupero delle strutture sintattiche e della metrica*** frutto di una rilettura attenta di Petrarca e [[Giacomo Leopardi|Leopardi]] dai quali ricava anche la **riflessione sul tempo**. ***La prima lirica doveva distruggere il verso per ricomporlo nella seconda***.
-
 ****
 # Opere
 Oltre ad alcune prose, e all'attività di **traduttore**, ritroviamo molte raccolte poetiche:
