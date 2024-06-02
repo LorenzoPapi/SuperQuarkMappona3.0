@@ -30,7 +30,7 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Construct PDFs
-        run: node generate_PDFs_pandoc.js
+        run: ./generate_PDFs.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
