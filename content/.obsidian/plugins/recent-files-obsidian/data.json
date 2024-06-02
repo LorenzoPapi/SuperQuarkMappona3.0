@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
+      "basename": "L'epica del 1° secolo",
+      "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
+    },
+    {
+      "basename": "Gaio Petronio Arbitro",
+      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
+    },
+    {
+      "basename": "Il primo secolo d.C. (14 - 96)",
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Plinio il Giovane",
+      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Oscar Wilde.md"
     },
     {
       "basename": "Virginia Woolf",
       "path": "Inglese/Virginia Woolf.md"
+    },
+    {
+      "basename": "Italo Svevo",
+      "path": "Italiano/Novecento/Italo Svevo.md"
     },
     {
       "basename": "Giuseppe Ungaretti",
@@ -117,14 +141,6 @@
       "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
-      "basename": "L'epica del 1° secolo",
-      "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
       "basename": "Astrattismo",
       "path": "Arte/Avanguardie/Astrattismo.md"
     },
@@ -177,24 +193,12 @@
       "path": "Arte/Art Nouveau.md"
     },
     {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
       "basename": "Fauves",
       "path": "Arte/Avanguardie/Fauves.md"
     },
     {
       "basename": "Espressionismo",
       "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Sigmund Freud",
-      "path": "Filosofia/Sigmund Freud.md"
-    },
-    {
-      "basename": "Plinio il Giovane",
-      "path": "Latino/Il 2° secolo/Plinio il Giovane.md"
     }
   ],
   "omittedPaths": [],

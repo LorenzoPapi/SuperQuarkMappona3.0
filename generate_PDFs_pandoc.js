@@ -1,26 +1,29 @@
 import fs from 'fs/promises';
-import {jsPDF} from 'jspdf';
+import nodePandoc from 'node-pandoc'
 
 const root_pdf_folder = "./public/pdfs"
-const HTMLList = (await fs.readdir('./public', { recursive: true })).filter((f) => {return f.endsWith('.html')})
+const HTMLList = (await fs.readdir('./content', { recursive: true })).filter((f) => {return f.endsWith('.md') && !f.startsWith('templates')})
 console.log(HTMLList)
 
+var callback = function(err, res) {
+    if (err) console.log(err)
+}
 for (let html_file of HTMLList) {
-    const folder_save = root_pdf_folder + html_file.substring(0, html_file.lastIndexOf('/'))
+    const folder_save = root_pdf_folder + '/' + html_file.substring(0, html_file.lastIndexOf('/'))
     fs.mkdir(folder_save, {recursive: true})
-    const fd = await fs.open('./public/' + html_file)
-    fd.createReadStream()
-    var fc = await fd.read()
-    var contents = fc.buffer.toString()
-    jsPDF().html(contents, {
-        callback: function(doc) {doc.save(folder_save + html.substring(html_file.lastIndexOf('/') + 1, html_file.lastIndexOf('.') + '.pdf'));}
-    }).doCallback()
+    // const fd = await fs.open('./content/' + html_file)
+    // fd.createReadStream()
+    // var fc = await fd.read()
+    // var contents = fc.buffer.toString()
+    var out_file = folder_save + html_file.substring(html_file.lastIndexOf('/'), html_file.lastIndexOf('.')) + '.pdf'
+    var args = `-f gfm -t pdf -V geometry:margin=1in -o`.split(' ').concat(out_file)
     
+    nodePandoc(`./content/${html_file}`, args, callback)
     // var matches = contents.matchAll('/x\[\[(.+)\]\]/g')
     // for (const match of matches) {
     //     console.log(match[1])
     // }
-    await fd.close()
+    // await fd.close()
 }
 /*#!/bin/bash
 

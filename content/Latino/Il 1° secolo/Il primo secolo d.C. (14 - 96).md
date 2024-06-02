@@ -23,7 +23,7 @@ A soli 16 anni divenne imperatore, sotto le guide della madre, di un prefetto e 
 Nel 64 d.C. un terribile incendio distrusse Roma e Nerone provò a far ricadere la colpa sui **cristiani**, dando inizio ad una dura repressione. Nerone, accusato di aver appiccato l'incendio di proposito, approfittò della ricostruzione per far edificare una reggia fastosa (***Domus Aurea***). Il malcontento aumentò e venne organizzata una congiura dal senatore Pisone che Nerone però riuscì a sventare. Nel clima di terrore, decise di partire per la Grecia, dove promosse iniziative con intento propagandistico. Tuttavia le ribellioni erano giunte a un punto di non ritorno: le legioni spagnole si ammutinarono proclamando imperatore il loro comandante e Nerone dovette suicidarsi. 
 ## 69: *longus et unus annus*
 Alla morte di Nerone, il senato si rivelò incapace di imporre la propria autorità e nel giro di un anno si susseguirono ben quattro imperatori:
-- l'esercito nominò imperatore **Galba** che
+- l'esercito nominò imperatore **Galba**
 - i pretoriani proclamarono **Otone**
 - le legioni sul Reno nominarono **Aulo Vitellio**
 - le legioni orientali si schierarono con **Tito Flavio Vespasiano** 
