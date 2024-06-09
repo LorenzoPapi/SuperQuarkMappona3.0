@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Romanticismo.md",
+                "file": "Filosofia/Romanticismo/Romanticismo e idealismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,12 +22,38 @@
             "group": "408e50bb8873fa5c"
           },
           {
+            "id": "d54abc2d61612efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9181c243a4a75767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a8d0fc1cd8878c52",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Filosofia/Romanticismo.md",
+                "file": "Filosofia/Romanticismo/Romanticismo e idealismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +83,8 @@
             },
             "group": "408e50bb8873fa5c"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Romanticismo.md",
+                "file": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Romanticismo.md",
+                "file": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Romanticismo.md"
+                "file": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
               }
             }
           },
@@ -191,7 +218,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -202,13 +228,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfbc7c61584a0d74",
+  "active": "d54abc2d61612efc",
   "lastOpenFiles": [
-    "Filosofia/Georg Wilhelm Friedrich Hegel.md",
-    "Filosofia/Romanticismo.md",
     "Filosofia/Friedrich Wilhelm Nietzsche.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
+    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Filosofia/Romanticismo",
+    "Storia/Prima Guerra Mondiale.md",
+    "Fisica/Elettro-magnetismo.md",
+    "Matematica/Limite.md",
     "Filosofia/Sigmund Freud.md",
+    "Filosofia/Ottocento",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
     "Filosofia/Post-positivismo.md",
     "Filosofia/Neopositivismo.md",
     "Filosofia/Karl Popper.md",
@@ -226,21 +257,15 @@
     "Untitled.md",
     "Italiano/Novecento/Giuseppe Ungaretti.md",
     "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Italiano/Ottocento/Romanticismo.md",
-    "Italiano/Novecento/Salvatore Quasimodo.md",
-    "Italiano/Novecento/Futurismo letterario.md",
-    "Storia/Seconda guerra mondiale.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",
     "Italiano/Novecento",
-    "Filosofia/Untitled",
     "Arte/Avanguardie",
     "Latino/Il 4° secolo",
     "Latino/Il 3° secolo",
     "NucleiTematici/Roba da sistemare/Seneca.docx",
-    "NucleiTematici/Roba da sistemare/italiano.docx",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

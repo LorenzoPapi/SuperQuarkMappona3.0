@@ -115,7 +115,7 @@ $$
 ---
 # Collegamenti
 **Arte**: [[Art Nouveau|Klimt]]
-**Filosofia**: [[Hegel]]
+**Filosofia**: [[Romanticismo e idealismo|Romanticismo e idealismo]]
 **Fisica**: [[Teoria della relatività]], Meccanica quantistica e infinite possibilità
 **Inglese**: 
 **Italiano**: [[Giacomo Leopardi]]

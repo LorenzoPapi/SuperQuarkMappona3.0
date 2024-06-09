@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Romanticismo",
-      "path": "Filosofia/Romanticismo.md"
-    },
-    {
       "basename": "Georg Wilhelm Friedrich Hegel",
-      "path": "Filosofia/Georg Wilhelm Friedrich Hegel.md"
+      "path": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
     },
     {
       "basename": "Friedrich Wilhelm Nietzsche",
       "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Romanticismo e idealismo",
+      "path": "Filosofia/Romanticismo/Romanticismo e idealismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
+      "basename": "Limite",
+      "path": "Matematica/Limite.md"
     },
     {
       "basename": "Sigmund Freud",
@@ -121,20 +133,12 @@
       "path": "Italiano/Novecento/Eugenio Montale.md"
     },
     {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
       "basename": "Bronte sisters",
       "path": "Inglese/Bronte sisters.md"
     },
     {
       "basename": "Postimpressionismo",
       "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Prima Guerra Mondiale.md"
     },
     {
       "basename": "Guerra fredda",
@@ -195,10 +199,6 @@
     {
       "basename": "Seconda rivoluzione industriale",
       "path": "NucleiTematici/Roba da sistemare/Storia/Seconda rivoluzione industriale.md"
-    },
-    {
-      "basename": "Marco Fabio Quintiliano",
-      "path": "Latino/Il 1° secolo/Marco Fabio Quintiliano.md"
     }
   ],
   "omittedPaths": [],

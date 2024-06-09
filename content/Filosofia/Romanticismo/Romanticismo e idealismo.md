@@ -48,4 +48,40 @@ Il fascino esercitato dalla natura e la **riscoperta di Spinoza** portano ad una
 - ***Dialettica***: organizzata secondo **coppie di forze opposte** il cui conflitto rappresenta la **fonte del dinamismo**.
 
 Opponendosi alla de-spiritualizzazione del cosmo effettuata dalla scienza, i romantici ritengono che **natura e uomo** posseggono la **medesima struttura spirituale**. Tuttavia la scienza stessa, grazie alla **scoperta della pila** di Volta e i progressi del **magnetismo**, parvero **confermare l'intuizione *dualistica* del romanticismo**, portando alla **grande diffusione delle idee romantiche**, le quali però apparirono **antitetiche** alla via maestra della scienza moderna.
+****
 # Johann Gottlieb Fichte
+## La critica al noumeno kantiano
+La sua riflessione si innesta su quella dei ***critici immediati di Kant*** che avevano **giudicato il *noumeno filosoficamente inammissibile***, seguendo questo ragionamento:
+1) ogni realtà di cui siamo **consapevoli** esiste come **rappresentazione della coscienza**,
+2) la quale diventa quindi **condizione necessaria per conoscere**,
+3) ma se l'***oggetto* si conosce solo *in relazione al soggetto***, è **impossibile ammettere l'*esistenza* di una *cosa in sé***, dato che è irrappresentabile e impensabile.
+
+Probabilmente, questo non era il punto di vista di Kant, che considerava il *noumeno* solo come ***concetto-limite***, facendo intendere che il ***fenomeno è reale***, non una **rappresentazione** della coscienza. Tuttavia, mentre i post-kantiani si muovono ancora in un **orizzonte gnoseologico**, Fichte è il primo a passare ad un livello **metafisico**.
+## La nascita dell'*idealismo tedesco*
+Comunemente si definisce ***idealista*** colui che ispira il proprio **pensiero e agire** a determinati **ideali** e per difenderli può giungere a **sacrificare sé stesso**. In ambito filosofico invece si è parlato di ***idealismo*** in tre accezioni diverse:
+- inizialmente per riferirsi alle **visioni del mondo che privilegiano la *dimensione ideale*** (platonismo, cristianesimo), ma tale significato ebbe poca diffusione,
+- successivamente si parla di ***idealismo gnoseologico*** riferendosi a tutte quelle prospettive che riducono l'**oggetto della conoscenza alle *idee***, per i quali vale la tesi [[Schopenhauer|schopenahueriana]] che ***il mondo è una mia rappresentazione***,
+- infine l'***idealismo romantico*** indica la **corrente post-kantiana** sviluppata in Germania nel periodo romantico fondata da Fichte e Schelling e definita da loro stessi:
+	- ***Trascendentale***: si collega all'***io penso*** kantiano, fondamento della conoscenza-
+	- ***Soggettivo***: si contrappone al **panteismo spinozista**.
+	- ***Assoluto***: lo **spirito è *principio unico di tutto*** e ***al di fuori non c'è nulla***.
+## L'infinitizzazione dell'io
+La funzione **solamente *unificatrice e gnoseologica* dell'io kantiano**, **limitato** dall'inconoscibilità del noumeno, viene superata da Fichte e sostituita da una **funzione *creatrice e metafisica*** e di conseguenza rende l'io **illimitato e *infinito***. Con il termine ***io*** intende la ***realtà umana***, ovvero un'***autocoscienza razionale libera creatrice*** che potrebbe esistere altrove nell'universo.
+
+Tuttavia, secondo il **principio *dialettico***, l'esistenza dello spirito necessita quella della **sua antitesi: la *natura***. E poiché l'io è creatore di tutto, la natura **scaturisce dall'io stesso**, ribaltando la prospettiva naturalistica secondo la quale **natura causa spirito**. Dunque la natura **esiste *per l'io* e *in funzione dell'io***, non è una realtà a sé stante, e l'**uomo diventa *causa e scopo* dell'universo**.
+
+Di conseguenza egli coincide con ***Dio stesso***, eliminando la visione di un *Dio trascendente* e approdando ad un **panteismo spiritualistico** (Dio è spirito operante nel mondo) e ad un ***monismo dialettico*** (il principio è unico, lo spirito, inteso dialetticamente), contrapponendosi ad ogni **dualismo precedente**.
+****
+# Collegamenti
+**Arte**: [[Impressionismo]] (ripudio della tradizione, natura come fonte di ispirazione)
+**Fisica**:
+- [[Elettro-magnetismo]] (dualismo dialettico campo elettrico-magnetico)
+- [[Teoria della relatività]] (dualismo osservatore-fenomeno)
+**Inglese**: [[Oscar Wilde]] (culto dell'arte come unico modello di vita, *Trascendentalism*)
+**Italiano**: [[Giacomo Leopardi]] (l'infinito, il romanticismo classico)
+**Latino**:
+- [[Lucio Anneo Seneca]] (provvidenzialismo)
+- [[Apuleio]] (rapporto con la natura, fuga nella fantasia, esoterismo)
+**Matematica**: [[Limite]] (infinito, infinitamente piccolo, raggiungere l'irraggiungibile)
+**Scienze**: (isomeria di struttura?) 
+**Storia**: [[Prima Guerra Mondiale#Le cause|Primo novecento]] (nazionalismo)
