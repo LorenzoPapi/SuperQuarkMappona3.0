@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Filosofia/Romanticismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -22,31 +22,12 @@
             "group": "408e50bb8873fa5c"
           },
           {
-            "id": "2afaf127e866d610",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7bb38cbada14231e",
-        "type": "tabs",
-        "children": [
-          {
             "id": "a8d0fc1cd8878c52",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Filosofia/Romanticismo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +51,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": false
+                  "close": true
                 }
               }
             },
@@ -144,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Filosofia/Romanticismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+                "file": "Filosofia/Romanticismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
+                "file": "Filosofia/Romanticismo.md"
               }
             }
           },
@@ -206,11 +187,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -223,8 +204,19 @@
   },
   "active": "dfbc7c61584a0d74",
   "lastOpenFiles": [
-    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
+    "Filosofia/Georg Wilhelm Friedrich Hegel.md",
+    "Filosofia/Romanticismo.md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Hegel.md",
+    "Filosofia/Sigmund Freud.md",
+    "Filosofia/Post-positivismo.md",
+    "Filosofia/Neopositivismo.md",
+    "Filosofia/Karl Popper.md",
+    "Filosofia/Henri Bergson.md",
+    "Filosofia/Crisi dei fondamenti fisico-matematici.md",
+    "Filosofia/Citazioni.md",
     "Latino/Il 1° secolo/L'epica del 1° secolo.md",
+    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
     "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
     "Arte/Avanguardie/Futurismo.md",
     "Latino/Il 2° secolo/Plinio il Giovane.md",
@@ -238,17 +230,6 @@
     "Italiano/Novecento/Salvatore Quasimodo.md",
     "Italiano/Novecento/Futurismo letterario.md",
     "Storia/Seconda guerra mondiale.md",
-    "Storia/Nazismo.md",
-    "Storia/Stalinismo.md",
-    "Storia/Grande depressione.md",
-    "Storia/Fascismo.md",
-    "Storia/Rivoluzione Russa.md",
-    "Italiano/Novecento/Eugenio Montale.md",
-    "Matematica/Limite.md",
-    "Filosofia/Henri Bergson.md",
-    "Inglese/Bronte sisters.md",
-    "Arte/Postimpressionismo.md",
-    "Storia/Prima Guerra Mondiale.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
