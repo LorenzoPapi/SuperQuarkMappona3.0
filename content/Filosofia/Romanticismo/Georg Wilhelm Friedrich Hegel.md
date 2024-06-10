@@ -1,5 +1,5 @@
 # Sintesi del pensiero
-!
+L'hegelismo rappresenta un'approccio ai temi romantici tuttavia fondato sulla ragione:
 # Opere
 L'antologia è divisa in:
 - scritti **giovanili religioso-politici** (**1793 - 1800**), in particolare:
@@ -27,140 +27,89 @@ Attraverso una riflessione filosofica sulla Bibbia, ripercorre la **storia del p
 Successivamente ripercorre la vita di Gesù e associa la sua **legge dell'amore** che invita il superamento di ogni ostilità in nome dell'**unità che lega i viventi** al **mondo greco**. I Greci infatti vivevano in **totale armonia con la natura** coltivando uno ***spirito di bellezza*** che produceva **armonia tra uomo, natura e società**: non a caso infatti la **religione greca** era un fatto **pubblico** ed Hegel è convinto che l'armonia greca sia il **nucleo dell'eticità**. Ciononostante la storia insegna che **entrambi questi messaggi sono stati sconfitti**, dato che l'armonia e l'amicizia greche sono state **superate dal liberalismo moderno**, mentre il messaggio di Cristo, **ucciso dal suo popolo**, è stato **travisato dalle Chiese**.
 
 Risulta chiara quindi la **critica alla morale kantiana**: analogamente alla religione ebraica che porta l'uomo ad **adorare e temere un *Dio* estraneo a cui aspirare invano**, l'uomo kantiano è **lacerato** gnoseologicamente da una **ragione che tende all'infinito ma che non potrà mai raggiungerlo**, moralmente da una **ragione che impone il dovere e l'inclinazione che induce il piacere**. Hegel quindi si spinge *oltre* Kant, riaffermando la morale cristiana e la grecità: la **nuova religione** dovrà essere una **conciliazione degli opposti** fondata sull'**amore**, forza **unificante di finito e infinito**. Nella fase successiva del suo pensiero tuttavia, darà al ruolo di guida dell'uomo alla **filosofia** e non più alla religione: la **rivoluzione dello spirito dell'uomo** deve scaturire dall'**evoluzione storica della ricerca filosofica**, la quale sola puà **pensare il corso degli eventi**.
-# I fondamenti del sistema hegeliano
+# Il sistema hegeliano
+## I fondamenti del sistema
 Per comprendere a fondo il sistema filosofico della maturità di Hegel bisogna **chiarire il fondamento del suo *idealismo***, diverso da quello di [[Romanticismo e idealismo#Johann Gottlieb Fichte|Fichte]] e Schelling:
 - ***Risoluzione del finito nell'infinito***: la **realtà è un organismo unitario**, di cui ogni cosa che esiste è parte o manifestazione, e non avendo nulla all'infuori di sé coincide con l'**Assoluto = infinito**, mentre gli enti del mondo sono **finiti**. Pertanto il ***finito è espressione parziale dell'infinito*** e l'hegelismo si configura come ***monismo panteistico*** che vede nel *finito* la *realizzazione dell'infinito*, che tuttavia si **differenzia dallo spinozismo** perché l'**infinito è in continuo divenire** per cui la realtà **non è *sostanza* ma *soggetto*** ovvero un **processo di autoproduzione** che si rivela gradualmente.
-- ***Identità tra ragione e realtà***: l'Assoluto viene nominato da Hegel come ***Idea*** o ***ragione***, esprimendo poi nei *Lineamenti di filosofia del diritto* che `ciò che è razionale è reale; e ciò che è reale è razionale.` Quindi la **razionalità è *forma* di ciò che esiste** (la ragione *governa e costituisce* il mondo); al contempo, la **realtà non è caotica ma il *dispiegarsi di una struttura razionale*** (è *necessariamente* per come è). Dunque realtà e razionalità coincidono, pervenendo ad un ***panlogismo*** ed implicando anche all'**identità tra *essere* e *dover essere***: il mondo è fatto di **connessioni necessarie** che costituiscono l'articolazione di un'**unica Idea** e che la realtà sia una **totalità processuale necessaria** di momenti che sono risultato dei precedenti e presupposto dei successivi.
-- ***Giustificazionismo filosofico***: coerentemente con i principi precedenti, per Hegel la **filosofia deve *prendere atto della realtà* e *comprenderne le strutture razionali***, dato che essa non può far altro se non **constatare qualcosa di già compiuto** perché dicendo come esso *deve essere* si assimila alla ***nottola di Minerva*** (inizia il volo sul far del tramonto), dunque deve **rinunciare alla funzione di guida della realtà** ed ha la funzione di ***giustificarla razionalmente***.
+- ***Identità tra ragione e realtà***: l'Assoluto viene nominato da Hegel come ***Idea*** o ***ragione***, esprimendo poi nei *Lineamenti di filosofia del diritto* che `ciò che è razionale è reale; e ciò che è reale è razionale.` Quindi la **razionalità è *forma* di ciò che esiste** (la ragione *governa e costituisce* il mondo); al contempo, la **realtà non è caotica ma il *dispiegarsi di una struttura razionale*** (è *necessariamente* per come è). Dunque realtà e razionalità coincidono, pervenendo ad un ***panlogismo*** ed implicando anche all'**identità tra *essere* e *dover essere***: il mondo è fatto di **connessioni necessarie** che costituiscono l'articolazione di un'**unica Idea** e la realtà è una **totalità processuale necessaria** di momenti che sono risultato dei precedenti e presupposto dei successivi.
+- ***Giustificazionismo filosofico***: coerentemente con i principi precedenti, per Hegel la **filosofia deve *prendere atto della realtà* e *comprenderne le strutture razionali***, dato che essa non può far altro se non **constatare qualcosa di già compiuto** perché dicendo come esso *deve essere* si assimila alla ***nottola di Minerva*** (inizia il volo sul far del tramonto), dunque deve **rinunciare alla funzione di guida della realtà** ed ha la funzione di ***giustificarla razionalmente***. Hegel stesso tuttavia puntualizza nell'*Enciclopedia* che bisogna **escludere dalla realtà l'*accidentale***, qualcosa che *può* essere come *non*, ma l'esistenza di ciò in una **realtà razionale e necessaria** risulta incoerente: una lettura assimila l'aforisma al concetto secondo il quale il **reale è *destinato* a coincidere con il razionale**, mentre l'**irrazionale perirà**.
+## Il moto dell'Assoluto attraverso la dialettica
+Il dinamismo dell'Assoluto si articola in **tre momenti**:
+- ***Idea in sé e per sé*** (*tesi*): equivale all'**Idea in *sé stessa*** come **ossatura della realtà** che si **esplica gradualmente**, prescindendo dalla sua concretizzazione nel mondo e studiata dalla **logica**.
+- ***Idea fuori di sé*** (*antitesi*): equivale alla ***natura***, ovvero all'**alienazione dell'Idea** all'interno delle realtà **spazio-temporali** del mondo, studiata dalla **filosofia della natura**.
+- ***Idea che ritorna in sé*** (*sintesi*): equivale allo ***spirito***, ovvero l'Idea che **torna nell'essere umano**, studiato dalla **filosofia dello spirito**.
 
+La legge che regola il divenire è la ***dialettica*** che funge sia da **legge *ontologica*** (regola lo *sviluppo della realtà*) sia da **legge *logica*** (scandisce la sua *comprensione*). Analogamente ai tre momenti dell'Assoluto (*ontologia*), presenta tre momenti del **pensiero** (*logica*):
+- Momento **astratto/intellettuale**: inizialmente l'***intelletto*** concepisce l'esistente come una **molteplicità di determinazioni statiche e separate**, considerandole nelle loro **differenze** e secondo i principi logici di **identità** e **non-contraddizione**.
+- Momento **dialettico/negativo-razionale**: poiché come affermava Spinoza `omnis determinatio est negatio`, è necessario che **ogni determinazione si *rapporti* alla sua negazione**, venendo messa *in movimento* dalla ***ragione dialettica***.
+- Momento **speculativo/positivo-razionale**: infine la ***ragione speculativa*** **coglie l'*unità* delle determinazioni opposte**, rendendosi conto che tali sono **aspetti di una realtà più alta che li *sintetizza*** (la realtà non è né *unità* né *molteplicità*, ma un'*unità che vive attraverso la molteplicità*). La realtà che viviamo consta di sole **sintesi**, ma ognuna di queste presenta come **eterni presupposti** l'Idea e la natura.
+
+Globalmente la dialettica è un processo di ***affermazione $\rightarrow$ negazione $\rightarrow$ unificazione***: la *sintesi* si configura come una **ri-affermazione potenziata della tesi**, detta ***Aufhebung*** (*superamento*), tale che **elimina la *contraddizione* ma ne *conserva la verità***. Tale processo dimostra il concetto di *risoluzione del finito nell'infinito* mostrando che **ogni ente *non è autosufficiente* ma esiste in virtù di un *complesso sistema di rapporti***, e che il ***negativo è momento necessario del positivo***, quindi si approda ad un **ottimismo panlogico**. Inoltre la dialettica è un processo a **sintesi chiusa**, altrimenti si avrebbe il trionfo della ***cattiva infinità*** (processo che *allontana sempre la meta dell'Idea*), quindi lo spirito dovrà a un certo punto **ripercorrerà lo stesso *iter***. Ogni filosofo che si rifarà ad Hegel **criticherà** questo epilogo, recuperando un processo aperto e concentrandosi sul **ruolo dell'opposizione come *molla della realtà*, grazie alla quale essa si sviluppa**.
+## Critica alle filosofie precedenti
+Avendo analizzato *in positivo* i fondamenti dell'hegelismo, essi contraddicono le filosofie precedenti:
+- ***Illuminismo***: completo **rifiuto dell'anti-storicismo**, poiché la **storia è necessariamente come è**, quindi non va *giudicata* ma solo *constatata*, e critica della ***ragione parziale*** illuminista che esprime soltanto **esigenze e aspirazioni individuali**.
+- ***Kant***: completo **rifiuto della *filosofia del finito***, nel quale l'**essere non coincideva mai col dover essere**, rimproverando anche la volontà di **indagare il *limite* del conoscere *prima* di farlo**.
+- ***Romanticismo***: contesta il **primato di sentimento, arte e fede** in favore della *ragione* e gli **atteggiamenti individualistici** affermando la necessità di **integrarsi nel corso del mondo**, tuttavia non si può negare l'attiva partecipazione di Hegel nei **temi fondamentali del movimento**, rendendolo quindi *romantico* ma con un diverso esito.
+- ***Fichte***: contesta la **concezione della natura come *oggetto ostacolo all'Io***, potenziale causa di un nuovo dualismo kantiano e lo accusa di **aver ridotto l'Io ad un *cattivo infinito***.
+# La *Fenomenologia dello spirito*
+I due principi di *risoluzione del finito nell'infinito* e di *identità di reale e razionale* sono illustrati da Hegel in due modi diversi:
+- **Sincronico**: prende in esame la **coesistenza dei tre momenti** ed è offerta nell'***Enciclopedia delle scienze filosofiche in compendio***, dove delinea il ***sistema* dell'Assoluto** grazie alle tre discipline che se ne occupano.
+- **Diacronico**: studia la **vicenda storica della coscienza umana**, ovvero il ***viaggio percorso dallo spirito attraverso la coscienza per comprendersi come Assoluto*** ed è trattato nella ***Fenomenologia***.
+
+In generale, il termine *fenomenologia* indica la **scienza di ciò che *appare***: ma poiché la realtà intera è **spirito**, tale scienza descrive l'**apparire dello *spirito* a *sé stesso***, ovvero il suo giungere alla **consapevolezza di *essere tutta la realtà***. Questo processo graduale viene descritto attraverso delle ***figure***, ovvero **tappe ideali storiche** che rappresentano una **progressiva conquista della *verità* da parte dell'uomo**: l'opera è una sorta di **storia romanzata della *coscienza*** che attraverso **infelicità e dolore** raggiunge l'universalità e comprende di essere la **totalità del reale**. Infine, la fenomenologia poiché *divenire della filosofia* **prepara e introduce il singolo alla stessa**, poiché non ci si può elevare ad essa senza saperne l'evoluzione.
+
+Inizialmente la Fenomenologia era divisa in due parti, la prima relativa al **percorso della coscienza**, la seconda a quello dello **spirito**: tuttavia, quest'ultima parte fu rimossa poiché **anticipava aspetti presenti nell'*Enciclopedia***.
+## L'iter della coscienza
+### La coscienza
+La prima tappa della fenomenologia è la **coscienza**, ovvero ***ciò che si rapporta ad un oggetto, qualcosa di esterno ad essa***. Seguendo la dialettica, si articola in tre momenti:
+- ***Certezza sensibile***: inizialmente, ciò che deriva **direttamente dai sensi** rappresenta la conoscenza più **ricca e sicura** Tuttavia è la **più povera** perché rende certi di una **singola cosa in un singolo momento spazio-temporale** e infatti non può **né *pensare* né *dire* il suo oggetto** perché in tale modo dovrebbe introdurre una ***mediazione*** (*è* questo, *non è* quello): semplicemente lo **sente nella sua unicità** e dato che sta *prima* del pensiero, trapassa in un ***nulla* di determinato**.
+- **Percezione**: quando l'*io* riconosce che l'**oggetto è *molteplicità di qualità*** e che quindi **non è unico di per sé**, ma viene **unificato dall'*io stesso***, in quel momento l'**oggetto si *risolve interamente nel soggetto***.
+- **Intelletto**: gli oggetti tuttavia **non sono tali, ma *fenomeni***, ovvero **risultati di una *forza*** che agisce sul soggetto, dato che l'**essenza vera dell'oggetto è inconoscibile**, allora l'**oggetto è sia *unificato* che *generato* dalla coscienza**, la quale diventa così ***autocoscienza***.
+### L'autocoscienza
+Nella seconda figura l'attenzione si sposta sul **soggetto** e sulle sue attività in relazione alle **cose** e agli **altri**. L'attività dell'io si esprime come ***desiderio* di appropriarsi degli oggetti esterni**, ma questa assimilazione non è sufficiente perché per avere la certezza di **essere sé stessa** necessità di essere **riconosciuta da altre autocoscienze** per cui ha **necessariamente bisogno di altri uomini**. Questo reciproco riconoscimento tuttavia **non avviene tramite l'*amore*** (come sostenuto dall'Hegel giovane), ma deve avvenire con una **lotta e sfida**:
+- ***Servo-signore***: rapportandosi agli altri, l'io segue il **proprio desiderio di affermazione**, trovandosi dunque in **conflitto** contro ogni altra autocoscienza, pronta a **sacrificare sé stessa**. Tale conflitto però non si conclude con la **morte**, altrimenti verrebbe meno il riconoscimento, ma con la **subordinazione dell'una all'altra** nel rapporto ***servo-signore***: il *signore* è colui che ha **messo a repentaglio la sua vita** pur di vincere, il *servo* colui che ha preferito **rinunciare alla sua indipendenza** pur di salvarsi. Tuttavia, Hegel analizza come dialetticamente i **ruoli si invertano**:
+	- ***Paura della morte***: inizialmente lo schiavo è tale perché **timoroso della morte**, ovvero della ***perdita assoluta***, la quale tuttavia gli ha fatto comprendere di essere **diverso dal mondo di realtà naturali che lo circonda**.
+	- ***Servizio***: il servo si autodisciplina e impara a vincere i suoi **istinti naturali**.
+	- ***Lavoro***: il servo **imprime una forma alle cose** producendo un'**opera che permane** e diventa **indipendente dal soggetto che la produce**, rappresentando il **riflesso dell'autonomia del servo rispetto agli oggetti** che ***ribalta il rapporto servo-signore*** dato che adesso il signore è **dipendente dal lavoro del servo**, mentre il servo ha raggiunto la sua autonomia **imprimendo sé stesso nelle cose**.
+- ***Stoicismo e scetticismo***: il servo, ormai indipendente dagli altri uomini, deve valutare il suo **rapporto con le cose**:
+	- ***Stoicismo***: inizialmente, si ritiene **indipendente da ogni cosa** e diventa **stoico**, manifestando la sua **libertà rispetto a ciò che lo circonda**. Ma in questo pretende di **svincolarsi dalla realtà esterna senza negarla**, raggiungendo quindi una semplice **astratta libertà interiore**.
+	- ***Scetticismo***: allora diventa **scettico**, scegliendo di **sospendere l'assenso su tutto ciò che è ritenuto *vero* o *reale***.
+	- ***Solipsismo***: nel suo **atteggiamento negativo verso l'alterità** lo scettico perviene ad una **contraddizione** che si manifesta in una coscienza che **dichiara il nulla, ma dichiarando esiste** e quindi è **certa di sé stessa**. Tale paradosso, che la porta in **urto con le altre coscienze singole** e **con sé stessa**, la fa trasparire nella ***coscienza infelice***.
+- ***Coscienza infelice***: una delle figure più note dell'hegelismo, nel quale la contraddizione dello scetticismo assume il carattere di una **separazione radicale tra uomo e Dio**. Lo scetticismo a cui si riferisce Hegel è quello di ***Pascal*** per il quale ***tutto è vanità***, sulla quale si **staglia l'infinità di *Dio*** e tale **opposizione** corrisponde alla collocazione della verità in una dimensione **irraggiungibile** e produce una **lacerazione infelice**:
+	- ***Ebraismo***: inizialmente la contrapposizione si manifesta tra **trasmutabile e intrasmutabile**, nel quale l'Assoluto diventa un ***Dio* padrone della vita e della morte**, di fronte il quale l'essere umano si trova **totalmente dipendente**.
+	- ***Cristianesimo medievale***: successivamente, *Dio* diventa **uomo, finito**, tuttavia la pretesa di cogliere così Dio è un **fallimento** dato che è ancora **trascendente**, quindi *oltre*, e poiché **incarnato concretamente**, esso si trova **lontano nello spazio e nel tempo**. Manifestazioni di questo atteggiamento:
+		- ***Devozione***: il **pensiero sentimentale e religioso** che rimane astratto.
+		- ***Operare***: rinunciando ad un contatto mistico con *Dio*, si esprime **verso il mondo**, traendo dal **lavoro** il proprio godimento, ma proprio esso è sempre un **dono di *Dio***, riconoscendo dunque che in ultima analisi **ad agire è sempre *Dio***
+		- ***Mortificazione di sé***: si arriva alla **più completa negazione dell'io**, riferendosi all'***ascetismo*** e alle pratiche di **umiliazione della carne**.
+	- ***Rinascimento***: proprio nel punto più basso della sua esistenza, la coscienza infelice **riemerge dialetticamente** comprendendo di essere **lei stessa *Dio***, ovvero l'**Assoluto**.
+### La ragione
+L'autocoscienza diventa **ragione**, assumendo in sé **ogni realtà** e avendo la **certezza di essere ogni cosa che poteva essere**:
+- ***Ragione osservativa***: la *certezza* di essere ogni realtà deve ora diventare *verità*, indagando il **mondo naturale** e cercando di **riconoscersi nell'oggettività** (empirismo), ma in questa esasperata **ricerca di *sé all'esterno di sé*** si riconosce di nuovo come **distinta dal mondo**.
+- ***Ragione attiva***: la ragione capisce che **non basta contemplare, ma deve *produrre* l'unità con il mondo**, producendo sé stessa:
+	- ***Piacere e necessità***: inizialmente l'**individuo**, deluso dalla scienza, si ***getta* nella vita** alla ricerca del **godimento** e del piacere. Ma in questa lotta incontra la **necessità del destino** che incurante delle sue aspirazioni la **travolge completamente**.
+	- ***Legge del cuore e delirio della presunzione***: cercando di **opporsi** al corso ostile del mondo si appella ai **sentimenti** e inizia a lottare per i suoi **ideali irrinunciabili**, cercando di abbattere i mali del mondo, ma **entrando in conflitto con *gli altri***, anche loro convinti propugnatori dell'unica realtà giusta.
+	- ***Virtù e corso del mondo***: a questi fanatismi si contrappone la **virtù**, un agire che **va *oltre* il sentimento immediato**, che però si conclude con la **sconfitta della virtù** da parte della **realtà concreta** che continua nel suo corso immutata.
+- ***Individualità in sé e per sé***: eliminata ogni proposta di universalità della virtù, l'individuo ritorna in sé stesso, capendo però che la sua realizzazione, in quanto tale **sarà incompleta**:
+	- ***Regno animale dello spirito***: abbandonata la virtù, l'individuo **si dedica con dedizione ai suoi compiti particolari**, ma alla sua base si cela l'**inganno** secondo il quale questa **attività *propria* sia in realtà *dovere morale assoluto***, mentre esprime solamente il proprio interesse.
+	- ***Ragione legislatrice***: capendo l'inganno di cui è vittima, **cerca in sé stessa leggi che valgano per tutti**, che tuttavia si rivelano **contraddittorie** perché sia *contingenti* che *universali*.
+	- ***Ragione esaminatrice delle leggi***: tentando di formulare leggi universali, si deve **porre *al di sopra* delle stesse**, riducendone quindi la validità, dunque l'**individuo *non raggiungerà MAI l'universalità***, e deve quindi passare a ***spirito***, ovvero la ragione che si **realizza concretamente** nello **Stato di un popolo** e che l'***individuo è tale solo se inserito all'interno dello Stato, altrimenti è semplice astrazione***.
+## L'iter dello spirito
+### Lo spirito
+Ricordando che *spirito* significa *l'individuo nei rapporti con la comunità di cui fa parte*, si osserva il **processo storico di questo rapporto**, dalla civiltà greca alla modernità:
+- ***Eticità***: la prima fase corrisponde all'**eticità classica della *polis* greca**, caratterizzata dalla **fusione tra individuo e comunità**, nella misura in cui l'*individuo è **libero poiché partecipante dello Stato***, in un regno di *innocenza e felicità*. Questa armonia va in crisi con la **tensione tra *coscienza* e *Stato*** rappresentata nell'***Antigone*** di Sofocle, nella quale **legge *pubblica* e *interiore* si scontrano**, ma nella lettura hegeliana **entrambi hanno torto** in quanto **obbediscono solo alla *propria* legge, misconoscendo l'altro** e portando al trapasso nella seconda figura.
+- ***Cultura***: corrisponde alla **frattura esplicita** tra individuo e politica, partendo dalla **crisi della *polis*** e il costituirsi di **grandi imperi**, che portano l'individuo a coltivare **filosofie che lo fanno *rifuggire nell'interiorità***, prendendo coscienza della sua individualità e culminando nel ***liberalismo di Locke***, nel quale *libertà* equivale a **libertà *dallo* Stato**. Il mondo moderno è caratterizzato dall'**operosità** e dalla **ricerca dell'utile particolare** rispetto al quale l'universale appare **limitante** tanto che gli **illuministi** giunsero a considerare la **realtà *negazione* della ragione**, distruggendo tutto in nome di ideali astratti, come si nota nel **fallimento della Rivoluzione francese** che diede vita alla società del Terrore.
+- ***Moralità***: lo spirito ritorna in sé stesso e professa una **riconquistata eticità**, manifestata nel concetto di ***Stato nazionale ottocentesco*** che si concretizza nell'**idea prussiana dello Stato** come senso ultimo del reale.
+### La religione e la filosofia
+Tornando all'individuo, con la **religione** si rappresenta l'**Assoluto come *fuori di sé***, un Dio trascendente distinto da lui, mentre con la **filosofia** acquista la piena **coscienza di *sé stesso* come spirito**, superando la separazione tra individualità e realtà storica.
+****
 # Collegamenti
+**Arte**:
+**Fisica**: 
+**Inglese**: 
+**Italiano**: 
+**Latino**: 
+**Matematica**:
+**Scienze**:
+**Storia**: [[Fascismo]] (concezione dello stato di Gentile)
 
 
-
-
-
-
-
-
-
-
-
-
-
-%%Possibile collegamento: il lavoro nella dialettica del servo-padrone rispetto alla costituzione italiana
-
-Autocoscienza, perdersi per ritrovarsi
-per hegel l'amore è 2 diventa 1, mantenendo però dualità
-servo-signore
-risoluzione finito e infinito
-stato locke vs stato hegel ed eticità
-rapporto individuo-massa, società di massa
-fenomenologia figure importanti: servo signore,
-
----
-A cavallo di affermazioni storiche, economiche, metafisiche
-Ha una fissazione: spiegare come dio si manifesta nel mondo
-
-## Modernità come frattura
-
-Per l'europa dell'epoca industriale gira un'idea di uomo frammentato derivante dall'individualismo liberale e la mentalità capitalistica ormai diffusa.
-Infatti, secondo il poeta Friedrich Hoelderlin: "l'uomo vive a pezzi".
-Hegel aveva intuito diverse contraddizioni del capitalismo (Nota: Marx si forma sui testi di Hegel). Per l'analisi che ha portato avanti possiamo dire che egli era una sorta di protosociologo.
-Mentre Marx pensa all'abolizione della proprietà privata, Hegel propone un modello corporativo.
-Schiller su modernità citazione, Adam Ferguson su ignoranza e industria
-
-Hegel fa parte di una corrente che vuole sanare questa società. Si può creare uno stato che che eviti la spaccatura nell'uomo, ma che contemporaneamente assorba la modernità? La sua filosofia vuole capire le cause della società putrida e trovarne un "antidoto".
-
-Trova un obiettivo nel mondo greco idealizzato (come si vedrà di nuovo con Wiknelmann): l'uomo greco è in armonia con natura, se stesso e società.
-Perché proprio i greci? Probabilmente perché come i tedeschi erano frazionati, ma uniti da lingua e cultura.
-
-Ergo hegel vuole sintetizzare grecità e modernità
-
-Per hegel lo stato prussiano è il più avanzato su questo aspetto, primo ad aver creato stato di diritto in contesto moderno (filosofia della Storia)
-
-La grande domanda allora è: si può ripartire da un momento storico di distruzione dell'io moderno, per ritornare a una situazione di armonia e libertà?
-
-Nei primi anni Hegel pensa che un rinnovamento religioso potrebbe riformare la comunità, dopodiché capisce che questa è un'utopia e sposta tutte le sue speranze nella filosofia.
-La posizione dei seguaci di Hegel sulla religione è il principale discriminante tra destra e sinistra hegeliana.
-
-Perché i tedeschi?
-- Si trovano all'inizio di un percorso di sviluppo industriale, non ancora al suo apice
-- Si sentono eredi di un misticismo religioso (?)
-- Capiscono che la modernità è figlia dell'illuminismo
-- Cercano una evoluzione della società che non resista all'industrializzazione, ma che venga comunque filtrata dalla cultura (Kultur vs Civilzation)
-- Sì modernizzano velocemente, ma con Bismarck primi ad aver creato un welfar state
-- Mettono assieme visione gerarchicha e organica della società
-
-## Gnoseologia e metafisica
-Vuole superare [[Kant]]: si limita al finito e deriva una moralità antifelicità
-	Per Hegel è: "puntIo di riferimento e luogo di tormento"
-Kant: Dopo di me non potete fare metafisica
-	Hegel, Fichte e Shelling lo negano
-	Fichte nega il noumeno
-	Shelling: realtà è soggetto = oggetto, dimensione spirituale = materiale
-	Hegel: idem shelling, ma differenzia.
-		Immagina la realtà in senso dinamico, non statico. Si muove, si agita, ha sua soggettività. Questo significa o panteismo o qualcos'altro (panenteismo)
-Fichte: infinito è qualcosa a cui non abbiamo accesso, finito != infinito
-	hegel dice che questo è un casino, finito deve appartenere a infinito, quindi proiezione di esso.
-	metafora infinito, albero, foglie, finito (il vero è l'intero)
-L'assoluto è un soggetto che si fa, si pensa, riflette su se stesso. La sua vita è la sua manifestazione ma anche la storia della sua consapevolezza delle manifestazioni. Facendo questo produce altre manifestazioni.
-Il soggetto che conosce l'oggetto, conosce un'altra manifestazione di se. Inoltre la concettualizzazione prende una manifestazione e gli da "consistenza".
-	Hegel quindi è un deciso razionalista, ispirato da Spinoza, platone, ...
-	
-L'assoluto è il quadro che guarda se stesso attraverso noi (ricorda tantissimo Turner e i soggetti di spalle). Siamo manifestazioni finite dell'assoluto, qunidi dal di dentro si può conoscere la realtà.
-Fenomenologia dello spirito è dimostrazione di questo fatto: ripercorre il viaggio dell'assoluto che si rende conto di essere tutta la realtà. L'assoluto si fa uomo per poter prendere consapevolezza di se stesso (radice cristiana).
-
-Kant: finito $\notin$ infinito
-Hegel: finito $\in$ infinito
-Ebrei coscienza infelice, si sentono fuori da dio
-
-La realtà si evolve con un fine, questo fine è la razionalità e la libertà, lo dimostra con i fatti storici sulla conquista dei diritti dell'individuo. Quindi diventa un processo organico teleologicamente orientato.
-Se la realtà è in divenire, come la pensiamo? Utilizza la differenza ragione-intelletto (vernunf-verstant). Normalmente si è convinti che esistano determinazioni statiche, ma visto che la realtà fluttua una cosa si trasforma in un'altra.
-L'ntelletto non capisce questo e prova a compartimentare. Ad esempio, l'intelletto ci dice che esiste il fiore e il seme, ma la ragione ci ricorda che non c'è un confine netto. Il seme è la negazione del fiore, il fiore è un non-bocciolo. Ogni finito si deve negare (deve morire) per generare qualcosa di più grande di se.
-
-Come si può rappresentare una realtà che va avanti per antitesi? (andare avanti conservando). Costrusce un mondo eracliteo, in cui esiste un logos, che identifica nella dialettica, applicata in modo ossessivo. Applica al diritto (come servo signore), storia (come romani e barbari), ecc...
-Il ruolo del filosofo è trovare le strutture interne del logos, studiato nella **scienza della logica**.
-
-La realtà è un finito che non è già pronto, ha bisogno di realizzarsi a poco a poco e "spaziotemporalizzarsi". Analogo a spinoza, ma aggiunge la concezione del reale come soggetto e non come sostanza.
-
-La dialettica non è solo il modo in cui spieghiamo il reale, il reale è dialettico. Da questo tutto ciò che è reale è razionale...
-
-Spirito: ogli realta "preterindividuale" (tutto ciò che va oltre l'individualità), cioè prodotto dalla totalità degli individui (tipo linguaggio, leggi, idee), secondo lui il cristianesimo è la religione che l'ha capito meglio.
- negativo e spirito
-
-## Fenomenologia dello spirito
-Storia di hegel bambino e l'abaco; tre fasi: scoperta dell'abaco, numeri fuori di me; esperienza su numeri e mente, numeri dentro di me; applicazione dei numeri costruiti dalla mente alla realtà, numeri sono realtà e me.
-
-Spirito ha tre manifestazioni (soggettiva, oggettiva, assoluto : mente, popolo, consapevolezza che mette assieme i due)
-
-Filosofia parte dalla "caverna di platone", disordinatezza dei sensi.
-L'assoluto prima conosce se stesso senza sapere che è se stesso.
-
-La fenomenologia è divisa in due parti. La prima, che studia le manifestazioni individuali dello spirito, comprende:
--  **Coscienza**: la realtà è fuori di me e ordinata, io devo solo scoprirla
-	- **Certezza sensibile**: vedo x qui e ora, l'oggetto non è pensabile, resta **ineffabile**, perciò si nega da sola (?)
-	- **Percezione**: le sensazioni sono "qui e ora", qui e ora non sono sensazioni, ma percezioni. Il soggetto percepisce qui e ora, i concetti appartengono a lui. L'io poi unifica le percezioni per arrivare ad una conoscienza. Allora il soggetto conclude che **la conoscienza appartiene a chi la esprime**
-	- **intelletto**: si rende conto che percezioni sono unite fra di loro, non si capisce se l'unione avviene dentro o fuori di me. L'io deve trovare il mondo fuori di me ordinato, organizzato, che unifichi percezioni e attributi -> la realtà è fatta di "oggetti e forze(leggi)". L'oggetto è allora solo il fenomeno risolto nella coscienza, da qui si passa all'autocoscienza
-- **Autocoscienza**: coscienza della propria coscienza. Il momento in cui il soggetto non cerca la verità nella natura ma dentro di sé. Hegel postula l'**Appetito**: L'attivita dell'io si esprime come desiderio di appropriarsi degli oggetti esterni, ma per avere conferma di essere autocoscienza, deve cibarsi di altre autocoscienze e farsi riconoscere come tale. Il giovane Hegel vede questa cosa compiota con l'amore, ma più tardi pensa che sia ottenuta troppo "a buon mercato".
-	- **Servo-signore**: L'autocoscienza deve allora farsi riconoscere tramite la lotta. Chi vince diventa signore, chi perde servo. Hegel osserva però che i ruoli sono destinati ad essere invertiti (sirnori necessitano dei servi). Il servo fa esperienze liberatorie con paura, servizio e lavoro
-		- Paura: esperienza diretta di essere in un mondo fluido, perciò si autoriconosce come autocoscienza.
-		- Servizio: autodisciplina
-		- Lavoro: appaga appetito non divorando oggetti, ma plasmandoli. Il lavoro è negativo sull'oggetto, che assume quindi una forma. Il servo diventa indipendente dagli oggetti
-	- **Stoicismo e scetticismo**: L'indipendenza dell'io nei confronti delle cose trova la manifestazione filosofica nello stoicismo. Prova a liberarsi dalle catene della realtà, ma riesce a farlo solo nell'astratto, lo stoico è comunque condizionato. Allora subentra lo scettico, che nega tutto, così facendo nega anche sé stesso.
-	- **Coscienza infelice**: Tutto questo porta a una separazione tra uomo e dio. Si pone la verità in un luogo irraggiungibile, questo porta ad una lacerazione che genera infelicità (robe ebraismo e cristianesimo). Anche se il cristianesimo azzecca l'incarnazione, l'Assoluto non può stare per sempre nel finito, quindi necessariamente sfugge ai posteri. Il cristianesimo è ancora una coscienza infelice. Perciò Ascetismo e cose varie. In questa crisi la coscienza si rende conto di essere lei stessa Dio, passando così alla ragione. 
-- **Ragione**: momento in cui l'uomo pone il fondamento di ogni conoscienza sulla ragione. Sintesi fra coscienza e autocoscienza, lo spirito avverte unità fra soggetto e oggetto.
-	- **Ragione osservativa**: Percorso di conoscienza filosofica rappresentato da rinascimento, in cui l'uomo cerca di riconoscersi nella realtà oggettiva (empirismo). In questa incessante ricerca la ragione conosce un'altra crisi, e si ritiene nuovamente separata dal reale. Con la ragione attiva capira che l'unità di io e mondo non è un fatto, ma un fine.
-	- **Ragione attiva**: Comprende che non può trovare sé stessa esclusivamente in natura esterna, ma deve realizzare unità fra sé stessa e mondo esterno (vuole produrre sé stessa tramite la sua attività). Uno sforzo del genere al livello individuale fallirà, hegel dimostra che gli individui si muoveranno in uno di tre modi:
-		- **Piacere e necessità**: si getta nella vita alla ricerca del proprio godimento. Viene travolto dalla necessità del destino
-		- **Legge del cuore e delirio della presunzione**: fanatismo vario, i singoli si contraddicono a vicenda
-		- **Virtù e corso del mondo**: Fallimento della ragione
-	- **Individualità in se e per se** Io cerca leggi per sé e le eleva a leggi universali  
-La seconda, che studia le manifestazioni collettive, è divisa in:
-- **Spirito**
-	- Spirito libero?
-	- Spirito oggettivo: Insieme delle istituzioni sociali concrete
-		- Diritto astratto: Manifestazione esteriore della libertà personale. Il soggetto si esprime attraverso sé stesso o la proprietà. La proprietà esiste solo se è riconosciuta dai più come tale. La negazione del diritto è il delitto, la sintesi dei due è la pena. La pena è una necessità oggettiva del vivere insieme, ma deve essere riconosciuta interiormente dal criminale, altrimenti è vendetta. Perciò si sviluppa moralità.
-		- Moralità: Volontà soggettiva che si manifesta nell'azione, intesa come derivante da un proponimento di un pensante. Il fine della volontà è il bene in sé, ma ancora in senso astratto. Si sviluppa una moralità kantiana, con la classica tensione tra essere e dover essere. La soggettività è separata dal bene, creando diversi casini.
-		- Eticità: Il bene si attua concretamente e diviene esistente nelle forme della famiglia, società civile e stato. L'individuo agisce in un certo contesto sociale, una definizione di bene viene dato da esso. è sintesi di diritto astratto e moralità
-- **Religione**
-- **Sapere assoluto**
