@@ -1,6 +1,6 @@
 d# Il movimento
 ## 1924, Parigi
-L'influsso delle teorie [[Sigmund Freud#*L'interpretazione dei sogni* (1900)]|oniriche]] di Freud sull'arte porta alla pubblicazione del ***Primo manifesto del Surrealismo*** (Breton). Inoltre, [[Karl Marx|Marx]] era loro **ispiratore sociale** e possono essere considerati dei ***post-dadaisti***, avendo una proposta costruttiva (al contrario di quella solamente distruttiva dei citati) e la consideravano come **utile alla politica**.
+L'influsso delle teorie [[Sigmund Freud#*L'interpretazione dei sogni* (1900)]|oniriche]] di Freud sull'arte porta alla pubblicazione del ***Primo manifesto del Surrealismo*** (Breton). Inoltre, [[NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx|Marx]] era loro **ispiratore sociale** e possono essere considerati dei ***post-dadaisti***, avendo una proposta costruttiva (al contrario di quella solamente distruttiva dei citati) e la consideravano come **utile alla politica**.
 ## Ideologia
 Poiché l'uomo sta per gran parte della sua vita **dormendo e sognando**, deve esistere un modo affinché questa attività **del tutto umana** entri a far parte della **veglia**, unendo così le due realtà in una ***surrealtà***, ovvero una ***realtà assoluta***. Così il surrealismo viene definito ***automatismo psichico puro con il quale ci si propone di esprimere il funzionamento reale del pensiero, in assenza di qualunque controllo della ragione***. La ***bellezza*** sta nel trovare insieme **due oggetti reali** che **non hanno nulla in comune, in uno stesso luogo, estraneo ad entrambi**.
 ## Tecnica

@@ -46,7 +46,7 @@ Due amanti che si baciano inginocchiati su uno sperone fiorito, circondati da un
 #### Lo *stile fiorito* (1909 - 1911)
 Coincide con i viaggi di Klimt in Europa che lo portarono a conoscere i [[Fauves]], portandolo a sostituire il geometrismo con il **colore forte** e la **bellezza cromatica**, come vediamo nei futuri ritratti, nei quali si sbizzarrisce per la **fantasia degli abiti**, con un influsso giapponese.
 # Collegamenti
-**Filosofia**: [[Karl Marx]]
+**Filosofia**: [[NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx]]
 **Fisica**: [[Teoria della relatività]]
 **Inglese**: [[Charles Dickens]]
 **Italiano**: 

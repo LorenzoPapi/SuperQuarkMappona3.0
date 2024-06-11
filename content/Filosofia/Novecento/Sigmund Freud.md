@@ -1,4 +1,3 @@
-# Biografia
 # Sintesi del pensiero
 La riflessione di Freud nasce dall'**analisi dell'isteria** e sfocia nella realizzazione che l'**uomo non è al corrente dei suoi processi psichici** (quindi all'esistenza dell'***inconscio***).
 I caratteri principali sono:

@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "Circuiti elettrici",
+      "path": "Fisica/Circuiti elettrici.md"
+    },
+    {
+      "basename": "Crisi dei fondamenti fisico-matematici",
+      "path": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Henri Bergson",
+      "path": "Filosofia/Novecento/Henri Bergson.md"
+    },
+    {
+      "basename": "Sigmund Freud",
+      "path": "Filosofia/Novecento/Sigmund Freud.md"
+    },
+    {
+      "basename": "Neopositivismo",
+      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
+    },
+    {
+      "basename": "Positivismo",
+      "path": "Filosofia/Romanticismo/Positivismo.md"
+    },
+    {
+      "basename": "Karl Marx",
+      "path": "Filosofia/Romanticismo/Karl Marx.md"
+    },
+    {
+      "basename": "Ludwig Feuerbach",
+      "path": "Filosofia/Romanticismo/Ludwig Feuerbach.md"
+    },
+    {
+      "basename": "Soren Aabye Kierkegaard",
+      "path": "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md"
+    },
+    {
       "basename": "Arthur Schopenhauer",
       "path": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
+    },
+    {
+      "basename": "Fascismo e Nazismo",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
     },
     {
       "basename": "Romanticismo e idealismo",
@@ -17,32 +73,12 @@
       "path": "Italiano/Novecento/Italo Svevo.md"
     },
     {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
       "basename": "Eugenio Montale",
       "path": "Italiano/Novecento/Eugenio Montale.md"
     },
     {
       "basename": "Georg Wilhelm Friedrich Hegel",
       "path": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
-    },
-    {
-      "basename": "Kierkegaard",
-      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md"
-    },
-    {
-      "basename": "Positivismo",
-      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Positivismo.md"
-    },
-    {
-      "basename": "Karl Marx",
-      "path": "NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx.md"
     },
     {
       "basename": "Prima Guerra Mondiale",
@@ -57,28 +93,12 @@
       "path": "Matematica/Limite.md"
     },
     {
-      "basename": "Sigmund Freud",
-      "path": "Filosofia/Sigmund Freud.md"
-    },
-    {
       "basename": "Post-positivismo",
-      "path": "Filosofia/Post-positivismo.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Neopositivismo.md"
+      "path": "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md"
     },
     {
       "basename": "Karl Popper",
-      "path": "Filosofia/Karl Popper.md"
-    },
-    {
-      "basename": "Henri Bergson",
-      "path": "Filosofia/Henri Bergson.md"
-    },
-    {
-      "basename": "Crisi dei fondamenti fisico-matematici",
-      "path": "Filosofia/Crisi dei fondamenti fisico-matematici.md"
+      "path": "Filosofia/Novecento/Filosofia analitica/Karl Popper.md"
     },
     {
       "basename": "Citazioni",
@@ -169,10 +189,6 @@
       "path": "Storia/Guerra fredda.md"
     },
     {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
       "basename": "Naturalismo e Verismo",
       "path": "Italiano/Ottocento/Naturalismo e Verismo.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Giovanni Pascoli",
       "path": "Italiano/Ottocento/Giovanni Pascoli.md"
-    },
-    {
-      "basename": "Gabriele D'Annunzio",
-      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
-    },
-    {
-      "basename": "Alessandro Manzoni",
-      "path": "Italiano/Ottocento/Alessandro Manzoni.md"
-    },
-    {
-      "basename": "Luigi Pirandello",
-      "path": "Italiano/Novecento/Luigi Pirandello.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
     }
   ],
   "omittedPaths": [],

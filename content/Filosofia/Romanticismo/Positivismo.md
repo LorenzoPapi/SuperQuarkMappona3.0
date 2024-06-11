@@ -4,5 +4,3 @@ Si evolve aggiungendo tratti materialistici e derministici. Propone una lettura 
 Spencer contribuisce il darwinismo sociale (forse da attribuire a Malthus), si tratta di vincitori e vinti, proprio come nel ciclo dei vinti di [[Giovanni Verga]].
 
 Dalla filosofia positiva scaturiscono due poetiche, [[Naturalismo e Verismo]].
-
-
