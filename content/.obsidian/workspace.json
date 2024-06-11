@@ -4,58 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "110ac74a8e91d9de",
+        "id": "5d528785656f3b78",
         "type": "tabs",
         "children": [
           {
-            "id": "dfbc7c61584a0d74",
+            "id": "ea7ee0cb64f714bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+                "file": "Filosofia/Romanticismo/Arthur Schopenhauer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             },
-            "group": "408e50bb8873fa5c"
-          },
+            "group": "8145cbf2c25c37de"
+          }
+        ]
+      },
+      {
+        "id": "1a202e17f4a3d07f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d54abc2d61612efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9181c243a4a75767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8d0fc1cd8878c52",
+            "id": "8da2892327700414",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+                "file": "Filosofia/Romanticismo/Arthur Schopenhauer.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -66,8 +46,8 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -81,10 +61,9 @@
                 }
               }
             },
-            "group": "408e50bb8873fa5c"
+            "group": "8145cbf2c25c37de"
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -152,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Romanticismo/Arthur Schopenhauer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,17 +148,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md",
+                "file": "Filosofia/Romanticismo/Arthur Schopenhauer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 206.50260543823242
   },
   "right": {
     "id": "71e1241f6bb04faa",
@@ -195,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Friedrich Wilhelm Nietzsche.md"
+                "file": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
               }
             }
           },
@@ -229,11 +209,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9181c243a4a75767",
+  "active": "8da2892327700414",
   "lastOpenFiles": [
-    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-    "Filosofia/Friedrich Wilhelm Nietzsche.md",
     "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Italiano/Novecento/Italo Svevo.md",
+    "Arte/Impressionismo.md",
+    "Filosofia/Friedrich Wilhelm Nietzsche.md",
+    "Italiano/Novecento/Eugenio Montale.md",
+    "Filosofia/Romanticismo/Arthur Schopenhauer.md",
+    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Positivismo.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Schopenhauer.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx.md",
+    "NucleiTematici/Roba da sistemare/Filosofia2/Kant.md",
     "Filosofia/Romanticismo",
     "Storia/Prima Guerra Mondiale.md",
     "Fisica/Elettro-magnetismo.md",
@@ -249,15 +239,6 @@
     "Filosofia/Citazioni.md",
     "Latino/Il 1° secolo/L'epica del 1° secolo.md",
     "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
-    "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Latino/Il 2° secolo/Plinio il Giovane.md",
-    "Inglese/Oscar Wilde.md",
-    "Inglese/Virginia Woolf.md",
-    "Italiano/Novecento/Italo Svevo.md",
-    "Untitled.md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
-    "Italiano/Ottocento/Giacomo Leopardi.md",
     "Arte/Immagini/Cezanne_01.jpg",
     "Storia",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",

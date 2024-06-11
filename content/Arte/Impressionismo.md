@@ -27,7 +27,7 @@ Per catturare l’essenza delle cose, vengono usati vari espedienti:
 - la **fotografia** ha aiutato molto gli impressionisti, dato che la **riproduzione meccanica della realtà** permise loro di cogliere **dettagli impercettibili all’occhio umano**;
 - prendono ispirazione dalle **stampe giapponesi**, le quali riproducevano una realtà **al di là di spazio e tempo**, un **attimo immobile**.
 ## Collegamenti
-**Filosofia**: l'ideale della realtà come "propria rappresentazione" è sintomo di una notevole influenza [[Schopenhauer|schopenhaueriana]].
+**Filosofia**: l'ideale della realtà come "propria rappresentazione" è sintomo di una notevole influenza [[Arthur Schopenhauer|Schopenhauer]].
 **Fisica**: l'impressionismo fa proprie quelle teorie sulla luce dettate dalle [[Elettro-magnetismo|equazioni di Maxwell]].
 **Inglese**: l'ideale di distacco dalla tradizione e di pittura del quotidiano, permettono all'arte di riguadagnare la sua autonomia come realtà al di fuori dello spazio, del tempo e della morale, concetto poi ripreso dall'[[Oscar Wilde|estetismo]].
 **Italiano**: anche se provenienti da un clima borghese, gli impressionisti ritraevano e narravano degli umili, allo stesso modo in cui [[Giovanni Verga]] descrive la sua realtà.

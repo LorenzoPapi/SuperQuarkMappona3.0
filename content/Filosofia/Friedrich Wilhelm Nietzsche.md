@@ -29,7 +29,7 @@ L'antologia è divisa in:
 - scritti **"del meriggio"** che comprendono ***Così parlo Zarathustra*** (**1883 - 1885**) e i relativi frammenti postumi
 - scritti "**del tramonto**", in particolare ***Al di là del bene e del male*** (**1886**)
 # Il periodo giovanile
-Principalmente legato alla **cultura greca** e ai maestri [[Schopenhauer]] e Wagner, gli scritti di questo periodo sono principalmente **saggi** e **trattati**.
+Principalmente legato alla **cultura greca** e ai maestri [[Arthur Schopenhauer|Schopenhauer]] e Wagner, gli scritti di questo periodo sono principalmente **saggi** e **trattati**.
 ## *La nascita della tragedia* (la duplice spiritualità)
 L'opera risulta **composita** negli argomenti (filologia, filosofia, estetica e teoria della cultura), ma prevale la componente **filosofica**, mostrando che la **filologia** è strettamente legata ad essa. Il motivo centrale è la distinzione dei due **impulsi base della cultura greca**:
 - lo **spirito apollineo** nasce dalla **fuga dal divenire** ed è espresso nelle forme **armoniose** di **scultura** ed **epica**
@@ -39,7 +39,7 @@ In contrapposizione con la filologia dominante, sottolinea il **carattere origin
 
 Successivamente, nella **tragedia di Euripide** che inscena la **quotidianità dell'uomo**, prevale quello **apollineo** parallelamente all'**insegnamento razionalistico e ottimistico di Socrate** che compie l'**uccisione dell'istintualità**. La decadenza della tragedia funge da causa di quella della **civiltà occidentale** e trova simbolo nell'opposizione tra uomo **tragico** (accetta la vita) e uomo **teoretico** (`violenta la vita con i sillogismi`).
 
-La celebrazione del dionisiaco coincide con la **celebrazione della vita** che si pone **al di là di pessimismo e ottimismo**. Mentre da [[Schopenhauer]] Nietzsche deriva la tesi del **carattere doloroso dell'essere**, egli **respinge l'ascesi** contrapponendo alla ***noluntas*** un atteggiamento di **accettazione dell'essere** nella sua globalità. Poiché la vita è **dolore**, non ha né **ordine** né **scopo** e i due atteggiamenti verso di essa sono:
+La celebrazione del dionisiaco coincide con la **celebrazione della vita** che si pone **al di là di pessimismo e ottimismo**. Mentre da [[Arthur Schopenhauer|Schopenhauer]] coglie la tesi del **carattere doloroso dell'essere**, egli **respinge l'ascesi** contrapponendo alla ***noluntas*** un atteggiamento di **accettazione dell'essere** nella sua globalità. Poiché la vita è **dolore**, non ha né **ordine** né **scopo** e i due atteggiamenti verso di essa sono:
 - **rinuncia e fuga** che mette capo all'**ascetismo**, proprio del **cristianesimo**
 - **accettazione della vita per come è** che mette capo all'***oltreuomo***
 

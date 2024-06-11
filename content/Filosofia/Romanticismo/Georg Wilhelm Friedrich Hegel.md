@@ -1,5 +1,9 @@
 # Sintesi del pensiero
 L'hegelismo rappresenta un'approccio ai temi romantici tuttavia fondato sulla ragione:
+- l'***Assoluto coincide con il razionale*** e si manifesta nel **finito** attraverso la ***dialettica triadica*** che governa realtà e conoscenza
+- viene studiato dalla **filosofia** che ha funzione **giustificazionista**
+- l'iter dell'Assoluto è caratterizzato dal ***travaglio del negativo***, ovvero la necessità del **male come *temporaneità* per il bene finale**
+- l'individuo è **tale *solo se* all'interno dello *Stato***
 # Opere
 L'antologia è divisa in:
 - scritti **giovanili religioso-politici** (**1793 - 1800**), in particolare:
@@ -111,5 +115,3 @@ Tornando all'individuo, con la **religione** si rappresenta l'**Assoluto come *f
 **Matematica**:
 **Scienze**:
 **Storia**: [[Fascismo]] (concezione dello stato di Gentile)
-
-

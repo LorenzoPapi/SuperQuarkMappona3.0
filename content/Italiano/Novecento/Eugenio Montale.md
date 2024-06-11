@@ -18,7 +18,7 @@ Prima sua raccolta poetica, divisa in quattro sezioni:
 4) ***Meriggi e ombre***: testi ardui e complessi, chiusa da *Riviere*.
 
 Si colgono i legami con il **contesto culturale del tempo**:
-- ***Pessimismo di [[Schopenhauer]]***: la realtà sensibile è ingannevole, contesta il determinismo positivistico.
+- ***Pessimismo di [[Arthur Schopenhauer|Schopenhauer]]***: la realtà sensibile è ingannevole, contesta il determinismo positivistico.
 - ***Terminologia [[Gabriele D'Annunzio|dannunziana]]***: riprende termini e stili ma rifiuta ogni vitalismo e sensualità.
 - ***Umiltà [[Giovanni Pascoli|pascoliana]]***: sceglie di trattare delle *piccole cose*.
 - ***Esperienza crepuscolare***: adotta soluzioni prosastiche, rifiuta l'aulicità poetica.
@@ -97,7 +97,7 @@ Proseguendo con un'intonazione **elevata** tuttavia si orienta verso un **maggio
 # Collegamenti
 DANTE CON CACCIAGUIDA (medioevo certezza, novecento no)
 **Arte**: [[Metafisica]] (pittura immobile nel nulla)
-**Filosofia**: [[Friedrich Wilhelm Nietzsche#Il nichilismo|Nietzsche]] (nichilismo, eterno ritorno), [[Schopenhauer]] (eterno ritorno)
+**Filosofia**: [[Friedrich Wilhelm Nietzsche#Il nichilismo|Nietzsche]] (nichilismo, eterno ritorno), [[Arthur Schopenhauer|Schopenhauer]] (pessimismo)
 **Fisica**:
 **Inglese**:
 **Italiano**:

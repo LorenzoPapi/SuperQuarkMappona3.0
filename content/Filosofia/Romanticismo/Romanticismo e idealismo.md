@@ -60,7 +60,7 @@ Probabilmente, questo non era il punto di vista di Kant, che considerava il *nou
 ## La nascita dell'*idealismo tedesco*
 Comunemente si definisce ***idealista*** colui che ispira il proprio **pensiero e agire** a determinati **ideali** e per difenderli può giungere a **sacrificare sé stesso**. In ambito filosofico invece si è parlato di ***idealismo*** in tre accezioni diverse:
 - inizialmente per riferirsi alle **visioni del mondo che privilegiano la *dimensione ideale*** (platonismo, cristianesimo), ma tale significato ebbe poca diffusione,
-- successivamente si parla di ***idealismo gnoseologico*** riferendosi a tutte quelle prospettive che riducono l'**oggetto della conoscenza alle *idee***, per i quali vale la tesi [[Schopenhauer|schopenahueriana]] che ***il mondo è una mia rappresentazione***,
+- successivamente si parla di ***idealismo gnoseologico*** riferendosi a tutte quelle prospettive che riducono l'**oggetto della conoscenza alle *idee***, per i quali vale la tesi [[Arthur Schopenhauer|schopenhaueriana]] che ***il mondo è una mia rappresentazione***,
 - infine l'***idealismo romantico*** indica la **corrente post-kantiana** sviluppata in Germania nel periodo romantico fondata da Fichte e Schelling e definita da loro stessi:
 	- ***Trascendentale***: si collega all'***io penso*** kantiano, fondamento della conoscenza-
 	- ***Soggettivo***: si contrappone al **panteismo spinozista**.

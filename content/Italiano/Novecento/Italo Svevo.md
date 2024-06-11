@@ -15,7 +15,7 @@
 ****
 # Ideologia
 Alla base dell'opera di Svevo vi è una **robusta cultura filosofica** arricchita da **aperture verso le scienze**:
-- [[Schopenhauer]] gli trasmise un **pensiero a sfondo irrazionalistico** opposto al sistema hegeliano e un **pessimismo radicale**. Inoltre, attribuisce alla **volontà carattere *effimero* e *inconsistente* dei desideri**, mirando sempre a **smascherare gli autoinganni dei suoi personaggi**.
+- [[[[Arthur Schopenhauer|Schopenhauer]] gli trasmise un **pensiero a sfondo irrazionalistico** opposto al sistema hegeliano e un **pessimismo radicale**. Inoltre, attribuisce alla **volontà carattere *effimero* e *inconsistente* dei desideri**, mirando sempre a **smascherare gli autoinganni dei suoi personaggi**.
 - [[Friedrich Wilhelm Nietzsche]], letto direttamente dai testi originali, **polemizzando il superuomo dannunziano** e da lui trasse l'idea del **soggetto** come **pluralità di stati in divenire**.
 - **Darwin** gli trasmise i concetti di **selezione naturale** e **lotta per la vita**. Fu indotto a presentare il **comportamento dei suoi eroi come prodotto di leggi naturali immodificabili**, involontarie, ma avendo le loro radici nei **rapporti sociali**, non naturali ma **storiche**. Mette in luce la **responsabilità individuale dell'agire** approdando ad un **atteggiamento acutamente critico**.
 - [[Karl Marx]], di cui conosceva a fondo la dottrina, gli trasmise la **percezione dei conflitti di classe** e la consapevolezza che **tutti i fenomeni sono condizionata dalla classe sociale**, associando quindi il ***singolo* protagonista all'*uomo borghese* in un periodo della storia**, tuttavia **non condivise il risultato utopico** del socialismo.
@@ -39,7 +39,7 @@ Alla base dell'opera di Svevo vi è una **robusta cultura filosofica** arricchit
 ****
 # Collegamenti
 **Arte**: 
-**Filosofia**: [[Schopenhauer]], [[Friedrich Wilhelm Nietzsche]], [[Sigmund Freud]] (lo dice il libro #TODO )
+**Filosofia**: [[Arthur Schopenhauer|Schopenhauer]], [[Friedrich Wilhelm Nietzsche]], [[Sigmund Freud]] (lo dice il libro #TODO )
 **Fisica**:
 **Inglese**: [[James Joyce]] (best friend forever)
 **Latino**:
