@@ -1,5 +1,5 @@
 # Premesse
-%%## Affermazione dell'autoritarismo europeo
+## Affermazione dell'autoritarismo europeo
 Su esempio di [[Fascismo|Italia]] e [[Nazismo|Germania]], in numerosi paesi europei si affermarono regimi **dittatoriali**. Nessuno di questi tuttavia realizzò un **completo totalitarismo**, ma prendendo ad esempio questi regimi, il loro **prestigio** e la loro **influenza internazionale** crebbe:
 - **Polonia** (**1926**): sotto la guida del nazionalista ***Jozef Pilsudski*** che aveva assunto il governo della Repubblica polacca (**1918**) e sconfitto la Russia (**1921**), impose un **regime autoritario** per stroncare l'avanzata dei **democratici a lui avversi**.
 - **Portogallo** (**1933**): proclamata un'**instabile repubblica** (**1910**) caratterizzata da numerosi governi provvisori e colpi di Stato, ***Antonio Salazar*** instaurò la **dittatura *Estado novo***.
@@ -7,7 +7,6 @@ Su esempio di [[Fascismo|Italia]] e [[Nazismo|Germania]], in numerosi paesi euro
 - **Austria**: il cancelliere cristiano-sociale ***Engelbert Dollfuss*** (**1932**) sciolse i partiti a lui avversi ma fu **ucciso dai nazisti** che volevano annettere la regione.
 - **Iugoslavia**: il re **Alessandro I** trasformò il paese in maniera autoritario e dopo il suo **assassinio** (**1934**), i suoi successori si avvicinarono ai regimi italo-tedeschi.
 - **Grecia** (**1936**), **Romania** (**1938**).
-%%
 ## Le relazioni internazionali
 ### 1933: la rottura degli accordi
 Gli **accordi di Locarno** (**1925**) confermavano il **riconoscimento dei confini del [[Prima Guerra Mondiale#Il trattato di Versailles|trattato di Versailles]]**. Tuttavia, il clima di pace si dimostrò assai precario con la diffusione di fascismo e nazismo: il **ritiro della delegazione tedesca dalla Conferenza di Ginevra** (per la riduzione degli armamenti) e l'**uscita della Germania dalla Società delle Nazioni**, resero evidente come l'ascesa di Hitler rafforzasse le **istanze *revisioniste*** (revisione degli accordi).

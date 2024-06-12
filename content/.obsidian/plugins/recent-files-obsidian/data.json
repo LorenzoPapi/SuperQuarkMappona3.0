@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "Fascismo",
+      "path": "Storia/Novecento/Fascismo.md"
+    },
+    {
+      "basename": "Grande depressione",
+      "path": "Storia/Novecento/Grande depressione.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Novecento/Guerra fredda.md"
+    },
+    {
+      "basename": "Nazismo",
+      "path": "Storia/Novecento/Nazismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Novecento/Rivoluzione Russa.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Stalinismo",
+      "path": "Storia/Novecento/Stalinismo.md"
+    },
+    {
+      "basename": "Positivismo",
+      "path": "Filosofia/Romanticismo/Positivismo.md"
+    },
+    {
+      "basename": "Gaio Petronio Arbitro",
+      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
+    },
+    {
+      "basename": "Arthur Schopenhauer",
+      "path": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
+    },
+    {
+      "basename": "Georg Wilhelm Friedrich Hegel",
+      "path": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
+    },
+    {
+      "basename": "Karl Marx",
+      "path": "Filosofia/Romanticismo/Karl Marx.md"
+    },
+    {
+      "basename": "Ludwig Feuerbach",
+      "path": "Filosofia/Romanticismo/Ludwig Feuerbach.md"
+    },
+    {
+      "basename": "Romanticismo e idealismo",
+      "path": "Filosofia/Romanticismo/Romanticismo e idealismo.md"
+    },
+    {
+      "basename": "Soren Aabye Kierkegaard",
+      "path": "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md"
+    },
+    {
       "basename": "Circuiti elettrici",
       "path": "Fisica/Circuiti elettrici.md"
     },
@@ -29,26 +93,6 @@
       "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
     },
     {
-      "basename": "Positivismo",
-      "path": "Filosofia/Romanticismo/Positivismo.md"
-    },
-    {
-      "basename": "Karl Marx",
-      "path": "Filosofia/Romanticismo/Karl Marx.md"
-    },
-    {
-      "basename": "Ludwig Feuerbach",
-      "path": "Filosofia/Romanticismo/Ludwig Feuerbach.md"
-    },
-    {
-      "basename": "Soren Aabye Kierkegaard",
-      "path": "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md"
-    },
-    {
-      "basename": "Arthur Schopenhauer",
-      "path": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
-    },
-    {
       "basename": "Fascismo e Nazismo",
       "path": "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md"
     },
@@ -61,10 +105,6 @@
       "path": "Arte/Impressionismo.md"
     },
     {
-      "basename": "Romanticismo e idealismo",
-      "path": "Filosofia/Romanticismo/Romanticismo e idealismo.md"
-    },
-    {
       "basename": "Metafisica",
       "path": "Arte/Avanguardie/Metafisica.md"
     },
@@ -75,14 +115,6 @@
     {
       "basename": "Eugenio Montale",
       "path": "Italiano/Novecento/Eugenio Montale.md"
-    },
-    {
-      "basename": "Georg Wilhelm Friedrich Hegel",
-      "path": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Prima Guerra Mondiale.md"
     },
     {
       "basename": "Elettro-magnetismo",
@@ -107,10 +139,6 @@
     {
       "basename": "L'epica del 1° secolo",
       "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
-    },
-    {
-      "basename": "Gaio Petronio Arbitro",
-      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
     },
     {
       "basename": "Il primo secolo d.C. (14 - 96)",
@@ -153,40 +181,12 @@
       "path": "Italiano/Novecento/Futurismo letterario.md"
     },
     {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Nazismo",
-      "path": "Storia/Nazismo.md"
-    },
-    {
-      "basename": "Stalinismo",
-      "path": "Storia/Stalinismo.md"
-    },
-    {
-      "basename": "Grande depressione",
-      "path": "Storia/Grande depressione.md"
-    },
-    {
-      "basename": "Fascismo",
-      "path": "Storia/Fascismo.md"
-    },
-    {
-      "basename": "Rivoluzione Russa",
-      "path": "Storia/Rivoluzione Russa.md"
-    },
-    {
       "basename": "Bronte sisters",
       "path": "Inglese/Bronte sisters.md"
     },
     {
       "basename": "Postimpressionismo",
       "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Guerra fredda",
-      "path": "Storia/Guerra fredda.md"
     },
     {
       "basename": "Naturalismo e Verismo",

@@ -8,36 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19a6a1a3b396569b",
+            "id": "affcc186423309cd",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "Storia/Novecento/Fascismo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -86,6 +65,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "5167e88f2b3fbbbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -106,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Storia/Novecento/Fascismo.md"
+              }
             }
           },
           {
@@ -127,13 +116,41 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "11f57bdde30fe42b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storia/Novecento/Fascismo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920b13534ee5e319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storia/Novecento/Fascismo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +164,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "affcc186423309cd",
   "lastOpenFiles": [
+    "Storia/Novecento/Grande depressione.md",
+    "Storia/Novecento/Guerra fredda.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Novecento/Stalinismo.md",
+    "Storia/Novecento/Fascismo.md",
+    "Filosofia/Romanticismo/Positivismo.md",
+    "Storia/Novecento",
+    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
+    "Filosofia/Romanticismo/Arthur Schopenhauer.md",
+    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "Filosofia/Romanticismo/Karl Marx.md",
+    "Filosofia/Romanticismo/Ludwig Feuerbach.md",
+    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md",
     "Fisica/Circuiti elettrici.md",
     "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
     "Filosofia/Novecento/Filosofia analitica",
@@ -159,24 +193,8 @@
     "Filosofia/Untitled.md",
     "Italiano/Ottocento/Simbolismo e Decadentismo.md",
     "Filosofia/Novecento",
-    "Filosofia/Romanticismo/Positivismo.md",
-    "Filosofia/Romanticismo/Karl Marx.md",
-    "Filosofia/Romanticismo/Ludwig Feuerbach.md",
-    "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md",
-    "Filosofia/Romanticismo/Arthur Schopenhauer.md",
     "v.md",
     "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Kierkegaard.md",
-    "Arte/Impressionismo.md",
-    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Italiano/Novecento/Italo Svevo.md",
-    "Italiano/Novecento/Eugenio Montale.md",
-    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Schopenhauer.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx.md",
-    "NucleiTematici/Roba da sistemare/Filosofia2/Kant.md",
     "Filosofia/Romanticismo",
     "Filosofia/Ottocento",
     "Arte/Immagini/Cezanne_01.jpg",
@@ -185,7 +203,6 @@
     "Italiano/Ottocento",
     "Italiano/Novecento",
     "Arte/Avanguardie",
-    "Latino/Il 4° secolo",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
