@@ -20,7 +20,7 @@ Si riconoscono ancora **chiaramente le figure**: nella *VI (Domenica)*, con una 
 ### Composizioni
 Irriconoscibile qualunque schema: le **masse di colore** governano il dipinto, liberato dalla schiavitù delle forme scoprendo l'**emotività del colore** tramite fasci di **linee curve parallele**, **punti distinti** e **tratti divergenti**.
 # Collegamenti
-**Filosofia**: [[Hegel]] (l'Idea come astrazione totale della realtà?) oppure [[Crisi dei fondamenti fisico-matematici#Il logicismo|astrazione del linguaggio comune]]
+**Filosofia**: [[Georg Wilhelm Friedrich Hegel|Hegel]] (l'Idea come astrazione totale della realtà?) oppure [[Crisi dei fondamenti fisico-matematici#Il logicismo|astrazione del linguaggio comune]]
 **Fisica**: [[Teoria della relatività]] (astrazione matematica della realtà)
 **Inglese**: [[Virginia Woolf]] (l'interiorità)
 **Italiano**: [[Simbolismo e Decadentismo]] oppure [[Eugenio Montale]]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42ce0736370e5046",
+        "id": "094259d7f4eb438e",
         "type": "tabs",
         "children": [
           {
-            "id": "affcc186423309cd",
+            "id": "3afdc6bf21981a88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#done",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md"
+                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +150,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -164,37 +165,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "affcc186423309cd",
+  "active": "3afdc6bf21981a88",
   "lastOpenFiles": [
-    "Storia/Novecento/Grande depressione.md",
-    "Storia/Novecento/Guerra fredda.md",
-    "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Storia/Novecento/Stalinismo.md",
-    "Storia/Novecento/Fascismo.md",
-    "Filosofia/Romanticismo/Positivismo.md",
-    "Storia/Novecento",
-    "Latino/Il 1° secolo/Gaio Petronio Arbitro.md",
-    "Filosofia/Romanticismo/Arthur Schopenhauer.md",
-    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "Matematica/Integrazione.md",
+    "Matematica/Studio di funzione.md",
+    "Matematica/Derivata.md",
+    "Matematica/Limite.md",
     "Filosofia/Romanticismo/Karl Marx.md",
-    "Filosofia/Romanticismo/Ludwig Feuerbach.md",
-    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Untitled.md",
+    "Filosofia/Romanticismo/Destra e Sinistra hegeliane.md",
+    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "Filosofia/Romanticismo/Positivismo.md",
     "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md",
-    "Fisica/Circuiti elettrici.md",
-    "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
-    "Filosofia/Novecento/Filosofia analitica",
-    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Citazioni.md",
     "Filosofia/Novecento/Henri Bergson.md",
     "Filosofia/Novecento/Sigmund Freud.md",
-    "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md",
-    "Filosofia/Untitled.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
+    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Novecento/Filosofia analitica/Karl Popper.md",
+    "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
+    "Arte/Postimpressionismo.md",
+    "Arte/Pop Art.md",
+    "Arte/Impressionismo.md",
+    "Arte/Art Nouveau.md",
+    "Arte/Avanguardie/Surrealismo.md",
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Avanguardie/Futurismo.md",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "Storia/Novecento",
+    "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",
-    "v.md",
-    "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
     "Filosofia/Romanticismo",
     "Filosofia/Ottocento",
     "Arte/Immagini/Cezanne_01.jpg",

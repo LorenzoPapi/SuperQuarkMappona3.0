@@ -1,0 +1,111 @@
+# Opere
+* ***Critica della filosofia del diritto di Hegel*** (**1843**): primo scritto nel quale si stacca dal *maestro di un tempo*, contrapponendo alla sua *ideologia astratta* il suo *materialismo scientifico*.
+* ***Manoscritti economico-filosofici*** (**1844**): critica della società borghese poiché *alienante* e delineazione di una prima *società comunista*.
+* ***Ideologia tedesca*** (**1845**): espone il concetto di *lavoro* come *fondamento dell'uomo*, la distinzione tra *struttura* e *sovrastruttura* e la *dialettica della storia*.
+* ***Il manifesto del partito comunista*** (**1848**): sintesi del marxismo fondato sulla *lotta di classe come soggetto della storia* e critica ai falsi socialismi.
+* ***Il Capitale*** (**1867**): analizza il capitalismo da un punto di vista *economico* e perviene alla tesi per la quale il *capitalismo racchiude in sé la contraddizione che porterà al socialismo*.
+* ***Critica al programma di Gotha*** (**1875**): seconda concezione della *società comunista*.
+# I caratteri generali
+La caratteristica peculiare del marxismo è la sua **irriducibilità ad un unico ambito sapere** e il conseguente **carattere *globale***: si assimila all'**analisi dialettica della *totalità della realtà***, indagando la **società nell'*unità delle sue manifestazioni*** (economia, filosofia, storia, politica).
+
+Inoltre, il marxismo è legato alla ***prassi*** e ad una **tendenza di *trasformazione rivoluzionaria pratica***, abbandonando una direzione prettamente speculativa, perseguendo un'ideale di **unione *teoria - prassi*** che **traduca concretamente l'ideale di *razionale = realte*** che Hegel aveva solo *pensato* con l'edificazione di una **nuova società**.
+
+Le sue basi culturali sono la **filosofia tedesca** ([[Georg Wilhelm Friedrich Hegel|Hegel]], [[Destra e Sinistra hegeliane|Feuerbach]]), l'**economia politica borghese** (Smith, Ricardo) ed il **pensiero socialista** (Owen). Tuttavia, queste esperienze sono **ripensate completamente** e criticate in certi aspetti, rendendo il marxismo una loro **sintesi creativa**.
+# Il criticismo
+## *Critica della filosofia del diritto di Hegel*
+Il rapporto Marx-Hegel è **complesso**: è innegabile l'**influsso dell'hegelismo** sulla sua dottrina, ed è infatti considerata **necessaria** per comprendere a fondo il marxismo, tuttavia nello scritto si **stacca da lui** in maniera prima ***filosofico-metodologica*** e successivamente **storico-politica**. Nonostante le critiche, riconosce a Hegel di avere introdotto la **prospettiva dialettica della *realtà come totalità storico-processuale*** costituita da **elementi concatenati e *mossi dalle opposizioni***.
+### Critica al giustificazionismo
+Lo *stratagemma* di Hegel è ***trasformare la realtà empirica in manifestazione necessaria dello Spirito***: invece che *constatare* che in alcuni momenti storici è esistita la monarchia, Hegel afferma che lo **Stato presuppone una sovranità**, che si **incarna necessariamente nel monarca** e poiché questo è razionale, **giustifica la *logicità* della monarchia** come **razionalità in atto**. Tale procedimento è definito da Marx come ***misticismo logico*** perché con esso le **istituzioni = personificazioni di uno spirito che si *nasconde* dietro esse**.
+
+Giungendo alla medesima conclusione di Feuerbach, l'idealismo rende il **concreto = manifestazione dell'astratto**, uguaglianza a cui si oppone con il suo ***metodo trasformativo*** che consiste nel **ribaltare i rapporti soggetto-oggetto**. Oltre a essere fallace filosoficamente, è anche **conservatore** a causa del suo **giustificazionismo politico**, canonizzando lo Stato vigente.
+### Critica allo Stato moderno e al liberalismo
+Alla base della teoria marxista vi è la **critica alla civiltà moderna**: partendo dalla convinzione che la ***categoria del moderno = scissione società-Stato*** che porta l'individuo a vivere **due vite** (*in terra* come *borghese, individualista* e *in cielo* come *cittadino, collettivista*), Marx considera il *cielo dello Stato* come **puramente illusorio** poiché il suo compito di **perseguire il bene comune viene *stravolto***, dato che la **società *abbassa lo Stato* a strumento per gli *interessi particolari dei più forti***.
+
+La **civiltà moderna = società della particolarità *reale* e dell'universalità *illusoria*** (gli individui borghesi, essendo *disuguali nella società* si consolano pensando di essere *tutti uguali nello Stato*). I tratti essenziali di questa società sono l'**individualismo** e l'**atomismo** legalizzati dallo **Stato post-rivoluzionario** grazie ai diritti di **libertà individuale** e ***proprietà privata***, questo non è altro che la proiezione politica di una **società strutturalmente *a-sociale***.
+
+Critica quindi **ogni aspetto della civiltà liberale**, in particolare il **principio della rappresentanza** e della **libertà individuale**, in contrasto con la ***democrazia sostanziale*** da lui teorizzata, nella quale **ciascuno è realmente *un momento del demos***, attuabile soltanto **eliminando il fondamento delle disuguaglianze**, la **proprietà privata**. Concretamente, propose il ***suffragio universale*** (emancipazione politica) successivamente la ***rivoluzione sociale del proletariato*** (emancipazione umana).
+## *Manoscritti economico-filosofici*
+Segnano il primo approccio all'economia politica, applicando gli **schemi dialettici in economia**: se da un lato considera l'**economia borghese** come l'**ideologia della società capitalistica**, dall'altro la accusa di **mistificare il mondo borghese** a causa dell'impossibilità della dialettica per l'**eternizzazione del capitalismo** che la società borghese attua, **non scorgendo la sua *intrinseca contraddizione*** che si incarna nell'***alienazione*** (*opposizione tra borghesia e proletariato*).
+
+Se per Hegel l'alienazione era **negativa e positiva**, mentre per Feuerbach era **puramente negativa nella coscienza**, per Marx essa è **negativa come condizione di *estraniamento***, ma la considera un ***fatto socio-economico*** identificandosi nella **condizione storica del salariato nella società capitalistica**. L'operaio è alienato rispetto a:
+- ***Prodotto* della sua attività**: produce un **oggetto** che ***non gli appartiene*** e lo **domina**.
+- ***Attività stessa***: diventa **lavoro forzato**, essendo lui **estraneo al suo fine**.
+- **Propria *Wesen* (essenza)**: l'essenza dell'uomo è la **creatività** che viene però **distrutta** dalla società capitalistica poiché costretto a un **lavoro ripetitivo e unilaterale**.
+- ***Prossimo***: l'*altro* è lo **sfruttatore capitalista**, qualcuno che lo tratta come **mezzo** e lo espropria della **sua fatica**, portando a un rapporto **conflittuale con l'*umanità***.
+
+La **causa dell'alienazione = proprietà privata dei mezzi produttivi** che comporta lo **sfruttamento degli operai** da parte del **capitalista**. L'antidoto all'alienazione è il **superamento della *proprietà privata***, considerando la **storia = luogo di perdita e riconquista da parte dell'uomo della sua essenza** (simile alla concezione hegeliana di *storia = ritrovamento della coscienza che rientra nello spirito*) e il ***comunismo = soluzione della storia***.
+## *Tesi su Feuerbach*
+Definitivamente separato da Hegel, riconosce a Feuerbach di aver **rivendicato la concretezza del soggetto** e la conseguente *demistificazione* della dialettica: ma sottolineando la **naturalità dell'uomo**, ha tuttavia **dimenticato la sua storicità**, non rendendosi conto che l'**uomo è società, quindi storia**, ovvero l'**insieme dei rapporti sociali**, rompendo con Feuerbach e l'antropologia tradizionale che rendeva l'**uomo = essenza atemporale immutabile**, sostiene che l'***individuo è tale per la società storica in cui vive***: <span title="Marx corregge Hegel con Feuerbach difendendo la naturalità vivente dell'uomo e Feuerbach con Hegel difendendo la sua socialità"><i><u>non esiste l'uomo in astratto</u></i></span>. In tal mondo risolve l'**antropologia = indagine storica e socio-economica**.
+
+Inoltre, riconoscendo a Feuerbach di aver compreso la religione come alienazione, sostiene che **non ha colto le sue *vere radici***: l'idea di *Dio* è causata dalla società e da un'**umanità alienata e sofferente** che spera di **ottenere *aldilà* ciò che le fu negato *aldiquà***, quindi va eliminata non con una filosofia **teoretico-contemplativo**, come sostenne Feuerbach, ma con la **trasformazione della società** distruggendo l'**alienamento religioso che ne sta alla base**.
+# *Ideologia tedesca* (materialismo storico-dialettico)
+## Il lavoro come fondamento dell'uomo
+La critica a Feuerbach segna il passaggio dall'**umanismo al *materialismo storico***, ovvero dal'**antropologia speculativa al *sapere reale della storia***, contrapponendo la **scienza** (*descrizione degli uomini per come sono realmente*) all'**ideologia** (*falsa reappresentazione dela realtà che deforma i rapporti tra gli uomini*). Vuole fondare una **nuova scienza** che usi la **filosofia = strumento di sintesi dei dati più generabili astraibili dall'esame della storia umana**. L'*umanità* da un punto di vista scientifico è una specie di **individui associati che lottano per la sopravvivenza**, dunque la storia è un **processo material fondato sulla *dialettica bisogno-soddisfacimento***: gli uomini si distinguono dagli animali perché ***producono da sé i mezzi di sussistenza***, per cui alla base della storia vi è il **lavoro = creatore di civiltà e cultura = fondamento dell'umanità stessa**.
+## Struttura e sovrastruttura
+Ogni società in ogni periodo storico è costituita da:
+- ***Struttura***: rappresenta lo **scheletro economico della società** ed è formata dal ***modo di produzione*** del periodo storico, unito alla **dialettica tra *forze produttive* e *rapporti di produzione*** che lo compongono. Nel dettaglio:
+	- ***Forze produttive***: tutti gli **elementi necessari al processo produttivo**, ovvero la ***forza-lavoro***, i ***mezzi di produzione*** e le ***conoscenze tecniche***.
+	- ***Rapporti di produzione***: i legami che si **instaurano tra gli uomini** durante la produzione e diventano ***rapporti di proprietà***.
+- ***Sovrastruttura***: consiste nei **rapporti giuridici, politici, etici, artistici, religiosi, filosofici** di un momento storico intesi come **espressioni dirette della struttura** (dall'*idealismo storico* al *materialismo storico*) e dunque che il **motore della storia = economia**.
+
+Il rapporto tra struttura e sovrastruttura è stato oggetto di molte discussioni, tuttavia:
+1) Con *sovrastruttura* sottolinea la **dipendenza di politica e cultura dall'economia**, tuttavia **non negandone l'importanza**, essendo le stesse da spiegare.
+2) Per indicare il rapporto utilizza **determinare** (diretto) e **condizionare** (indiretto), da un lato per **sottolineare la dipendenza** ma **evitando di concepirla in modo *meccanico***.
+3) Non nega l'**influenza delle idee** sui fatti storici, anche se ciò avviene perché il **mutare delle idee = mutare della struttura**, quindi in ultima istanza è sempre l'economia a causare cambiamenti.
+## La dialettica della storia
+La *struttura*, oltre che essere chiave della *statica* della storia, rappresenta anche **interpretazione della sua *dinamicità***. A determinate **forze produttive $\rightarrow$ rapporti di produzione**: tuttavia, poiché le **prime si *sviluppano più rapidamente*** delle seconde, si sviluppa una **fase di *contraddizione*** che genera una **rivoluzione sociale** e il ***ribaltamento delle classi al vertice*** (la *Rivoluzione francese*, portò in auge la *borghesia* ed eliminò la *nobiltà*). Nel mondo moderno questa **contraddizione *forze sociali-rapporti privatisti*** (la fabbrica è di *proprietà singola* ma *produce in collettività*), che rappresenta il **nucleo del capitalismo** implica che il **socialismo è *necessità dialettica* del capitalismo**. Questa *dialettica della storia* permette a Marx di **distinguere la storia in**:
+- ***Comunità primitiva***: inizio della società, **priva di proprietà privata**.
+- ***Società asiatica***: fondata su **comunitarismo di proprietà**.
+- ***Società antica***: fondata sullo **schiavismo**.
+- ***Società feudale***: fondata sui **latifondi** e sul **sistema feudale** di rapporti.
+- ***Società borghese***: fondata sul **capitalismo** e sull'**industria**.
+- ***Futura società socialista***: ritorno al **primitivismo**.
+
+Sebbene queste epoche non **siano necessarie per ogni società**, sono tuttavia **gradini progressivi** della società umana verso il ***comunismo futuro***. Quindi la **dialettica marxista** è molto simile a quella *hegeliana*, ma sostiene di averla ***fatta stare in piedi*** (e non *sulla testa*), poiché il **soggetto = struttura economica** (non l'*Idea*), la **dialetticità è osservabile** (non *logica*) le **opposizioni sono concrete e determinate** (non *astratte*).
+# Il *Manifesto del partito comunista*
+Si propone come una **sintesi della concezione marxista del mondo**:
+-  ***La storia della borghesia***: nella prima parte del testo la descrive affermando che essa **esiste solo grazie ad una *continua rivoluzione della produzione*** e quindi è una classe **dinamica** che elimina ogni staticità tradizionale. Tuttavia, le **moderne forze produttive sociali si *rivoltano contro i vecchi rapporti di proprietà*** per cui il **proletariato** deve necessariamente operare una **dura lotta di classe**, che individua come ***soggetto della storia***.
+- ***Critica ai falsi socialismi***: raggruppa e divide la letteratura socialista in **tre tendenze** di fondo, che critica una ad una:
+	- ***Socialismo reazionario***: attacca la borghesia secondo **parametri conservatori**, volgendosi al **passato**, dividendosi in ***feudale*** (recupero della *società pre-borghese*, che tuttavia *non elimina l'alienazione*), ***piccolo-borghese*** (*sistema corporativo*) e ***tedesco*** (*astratto e interclassista*, sostenendo i *governi reazionari*).
+	- ***Socialismo conservatore***: sono gli economisti *filantropi* che sostengono possibile ***rimediare agli inconvenienti capitalisti senza distruggere il capitalismo***, ovvero il *lato positivo* senza il *negativo*, impossibile.
+	- ***Socialismo utopistico***: correnti di idee pre-marxiste che ***non si appella al proletariato*** facendo appello a **tutta la società** per una **azione di riforme**, muovendosi in una **dimensione moralistica** e utopistica, delineando semplicemente **società *ideali***.
+# Il *Capitale*
+Nel saggio si propone di mostrare i **meccanismi strutturali della società borghese** e al sua **legge economica**. In contrapposizione con l'intera teoria economica classica, sostiene che ***non esistono leggi universali dell'economia*** e che ***ogni società abbia caratteri propri e leggi storiche specifiche***, nonché la convinzione che la **società borghese *abbia in sé la sua stessa contraddizione*** e che l'economia debba **utilizzare la dialettica** e studiare il **capitalismo *nei suoi elementi fondanti*** per metter in evidenza le sue **tendenze di sviluppo** che permettano di **formulare previsioni**.
+## Merce, lavoro, plusvalore
+La specificità del modo di produzione capitalistico è l'essere **produzione generalizzata di *merci***, alla cui analisi è dedicata la prima parte dell'opera. Una **merce** possiede un ***valore d'uso*** (*serve* a qualcosa) ed un ***valore di scambio*** (permette di *scambiarla con altra merce*), che corrisponde alla **quantità di lavoro *sociale* necessaria per produrla** (più lavoro, più valore, ma può variare a seconda del contesto storico).
+
+Tuttavia, il valore di una merce **non è totalmente il suo prezzo**, sul quale influiscono altri fattori come l'*abbondanza* o la *scarsità*: quindi il **prezzo può essere maggiore o minore del valore della merce**, anche se per Marx la ***somma complessiva dei prezzi = somma del lavoro totale***. La convinzione che alla base del valore sia il lavoro, porta a contestare il **feticismo delle merci**, secondo il quale una **merce ha *valore di per sé***, dimenticando che sono **frutto dell'uomo**. Infatti il capitalismo **non è finalizzato al *consumo* ma all'*accumulo del denaro***, quindi il sistema ***M.D.M.*** (*vendo -> guadagno -> compro*) viene sostituito dal sistema ***D.M.D'.*** (*investo -> vendo -> guadagno*).
+
+Questo *guadagno* che viene chiamato ***plusvalore*** non proviene né dal *denaro* né dallo *scambio*: il capitalismo ha la possibilità di *comprare* una ***merce speciale*** che ha come ***valore d'uso = produrre valore*** e corrisponde alla ***merce umana = operaio***, il cui ***valore di scambio = salario***. Di conseguenza il ***plusvalore = valore offerto gratuitamente al capitalista***, poiché il lavoro produce un lavoro *molto superiore* al suo salario.
+## Capitale costante e variabile
+Dal plusvalore deriva il **profitto**, ma non si equivalgono: per comprendere ciò bisogna chiarire la distinzione tra **capitale *variabile*** (*capitale investito nei salari*) e ***costante*** (*investito nelle macchine e nella fabbrica in sé*). Poiché il *plusvalore* nasce in relazione ai salari, il **saggio (tasso) del plusvalore è il *rapporto tra plusvalore e capitale variabile***. Ma il capitalista deve anche investire negli impianti per cui il **saggio del profitto è il *rapporto tra plusvalore e capitale totale***, risultando ***sempre minore al saggio del plusvalore***.
+$$
+S_{Pv} = \frac{P_v}{C_{v}};\quad\quad S_{Pf} = \frac{P_f}{C_{v} + C_{c}};
+$$
+## Contraddizioni del capitalismo
+Reggendosi sul ciclo *D.M.D'.*, il suo fine strutturale è la **maggior quantità di *plusvalore***, caratterizzandosi come una **società retta dalla *logica del profitto privato*** anziché quella dell'**interesse collettivo**. Marx esamina le strade imboccate per questo scopo, mostrando come esse generino inevitabilmente delle **difficoltà fatali**:
+- Inizialmente, il capitalista **aumenta la giornata lavorativa**, ma pur generando maggior plusvalore, presenta dei **limiti**, in particolare il fatto che **dopo un certo numero di ore**, l'operaio è poco produttivo.
+- Punta allora a **ridurre la parte di giornata lavorativa a reintegrare il salario** (*plusvalore relativo*), ovvero ***accelerare la velocità di produzione***, ma questo è fattibile a patto di ***introdurre nuovi strumenti di lavoro*** che aumentino la **produttività**.
+
+Storicamente, questo processo è passata attraverso le fasi della **cooperazione semplice**, della **manifattura** e della **grande industria**, la quale nasce con l'introduzione della ***macchina = mezzo più potente per accorciare il lavoro***, mantenendo gli *stessi operai* ma portando *più merce*. Tuttavia, questo aumento incontrollato provoca le **cicliche *crisi di sovrapproduzione*** causate dall'***anarchia della produzione***: il capitalista si precipita *alla cieca* nei **settori di maggior profitto**, generando **distruzione di merce** e **disoccupazione**.
+
+La necessità del continuo rinnovamento comporta anche la ***caduta tendenziale del saggio del profitto***, ovvero quella legge per cui ***accrescendosi smisuratamente il capitale costante rispetto al variabile***, necessariamente ***diminuisce il saggio del profitto***, equivalendo ad una ***legge dei rendimenti decrescenti***, nonché la **vulnerabilità principale** del sistema capitalistico. Come tale, porterà alla **scissione tra *oppressi* e *oppressori*** prima su scala nazionale e successivamente ***mondiale***, con una ***minoranza industriale ricchissima*** ed una ***maggioranza proletaria sfruttata***, la quale sarà in grado di **rovesciare l'economia**.
+# Rivoluzione, dittatura e società comunista
+Le contraddizioni del capitalismo sono la **base oggettiva della *rivoluzione proletaria*** che impadronendosi del potere politico, attua il **passaggio dal capitalismo al comunismo**: il proletariato è investito di una ***missione storico-universale*** che abolisca ***ogni* forma di proprietà privata** e dia origine ad una nuova **epoca storica** tramite la ***socializzazione dei sistemi di produzione e scambio***.
+
+Per *accedere al potere*, inizialmente ritiene necessaria la **violenza**, ma negli ultimi anni si apre ad una **possibile via *pacifica* del socialismo**: in ogni caso deve mirare all'**abbattimento dello Stato borghese e delle sue istituzioni**, piuttosto che **impadronirsene**. Infatti, poiché lo Stato è **sovrastruttura dell'economia**, mutando il sistema economico è necessario anche **mutare lo Stato**, che diventerà ***dittatura del proletariato***, una dittatura di ***maggioranza di oppressi su oppressori***, **necessaria per la transizione al comunismo** che porta all'***assenza totale dello Stato***, il quale infatti ha storicamente ha al dualismo **oppressi-oppressori**.
+
+Marx **non fornisce un *preciso prototipo di società comunista***:
+- Nei ***Manoscritti*** distingue tra **comunismo *rozzo*** (*proprietà = proprietà di tutti*), nel quale la **comunità diventa un grande capitalista** che anzi *universalizza* la condizione operaia ed è detta *rozza* connessa alla **proposta di *comunione delle donne***, nascendo dall'**invidia dell'avere**, e quello **autentico** che si realizza quando l'**uomo *cessa di intrattenere rapporti di puro consumo e possesso***, un **uomo nuovo** che **esalta le sue potenzialità e *cessa il consumismo***.
+- Nella ***Critica al programma di Gotha*** distingue invece **due fasi** della società futura: una prima che si **configura ancora come la precedente** (la *società = datore di lavoro*, *tutti operai*) che **ricevono tutti in maniera uguale**, ma questo **non tiene conto delle differenze individuali**, limitandosi a livellare astrattamente le persone. Nella seconda fase invece si utilizza un criterio di ***uguaglianza superiore*** che si fonda su ***bisogni e capacità*** degli individui. In sintesi, dopo il travaglio della storia si configura una **società *senza divisione del lavoro, senza proprietà privata, senza classi, sfruttamento, miseria, divisioni tra gli uomini e Stato***.
+****
+# Collegamenti
+**Arte**:
+**Filosofia**:
+**Fisica**:
+**Inglese**:
+**Italiano**:
+**Latino**:
+**Matematica**:
+**Scienze**:
+**Storia**:

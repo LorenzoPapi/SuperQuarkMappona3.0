@@ -14,7 +14,6 @@ Ciò vuol dire che se uscisse, ad es, un dipinto di Manet o Monet, la protomappa
 - Le note devono avere almeno un tag che dia una coordinata cronologica.
 - All'interno della nota si possono inserire tag che colleghino il discorso con un percorso interdisciplinare della commissione o proprio.
 - Le parti da completare devono essere contrassegnate con il tag #TODO
-- Quelle terminate invece con #DONE
 - Le note devono essere organizzate in cartelle con questo path:
 	- `Materia/Argomento/Nota`, o
 	- `Materia/Argomento/Argomento` (dove l'argomento è lo stesso e la nota è la descrizione generale di esso), o

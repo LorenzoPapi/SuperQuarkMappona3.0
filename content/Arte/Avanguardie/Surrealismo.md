@@ -1,4 +1,4 @@
-d# Il movimento
+# Il movimento
 ## 1924, Parigi
 L'influsso delle teorie [[Sigmund Freud#*L'interpretazione dei sogni* (1900)]|oniriche]] di Freud sull'arte porta alla pubblicazione del ***Primo manifesto del Surrealismo*** (Breton). Inoltre, [[NucleiTematici/Roba da sistemare/Filosofia2/Karl Marx|Marx]] era loro **ispiratore sociale** e possono essere considerati dei ***post-dadaisti***, avendo una proposta costruttiva (al contrario di quella solamente distruttiva dei citati) e la consideravano come **utile alla politica**.
 ## Ideologia
