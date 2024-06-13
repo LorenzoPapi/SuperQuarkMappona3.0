@@ -6,7 +6,7 @@ Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi L
 `la carta da parati allo stato embrionale è ancora più curata di questo dipinto`
 e concluse estendendo a tutti gli artisti l’appellativo di ***Impressionisti***. Tale movimento durò fino al **1886** (VIII esposizione): i **contrasti ideologici** portarono i componenti del gruppo a partecipare **individualmente ai *Salons*** che iniziarono ad accettarli.
 
-La capitale francese, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come ***Ville lumiere***. Grazie alla [[Seconda rivoluzione industriale]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico: gli impressionisti sono i primi a portarlo nell'arte.
+La capitale francese, alla caduta di Napoleone III e alla proclamazione della **Terza Repubblica**, divenne una città **borghese** arricchendosi di teatri, musei, ristoranti e caffè, nonché di illuminazione notturna che la resero nota come ***Ville lumiere***. Grazie alla [[L'ascesa della borghesia]] si diffuse un'ideale di **progresso e novità** che però si limitava solo all'ambito scientifico: gli impressionisti sono i primi a portarlo nell'arte.
 ## Ideologia
 L’Impressionismo si sviluppa in maniera **diversa** dai movimenti artistici precedenti:
 - è **privo** **base culturale** omogenea, gli aderenti avevano passati diversi fra loro;

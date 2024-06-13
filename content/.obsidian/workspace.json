@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "094259d7f4eb438e",
+        "id": "dbb71b4d96b25b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "3afdc6bf21981a88",
+            "id": "a41d137d0e683157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
+                "file": "NucleiTematici/Crisi delle certezze.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#done",
+                "query": "\"Rivoluzione industriale\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md"
+                "file": "NucleiTematici/Crisi delle certezze.md"
               }
             }
           },
@@ -123,14 +123,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
+                "file": "NucleiTematici/Crisi delle certezze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -140,13 +140,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
+                "file": "NucleiTematici/Crisi delle certezze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,34 +166,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3afdc6bf21981a88",
+  "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
+    "NucleiTematici/Crisi delle certezze.canvas",
+    "Untitled.md",
+    "NucleiTematici/Crisi delle certezze.md",
+    "NucleiTematici/Canovaccio.md",
+    "Untitled.canvas",
+    "2024-06-13.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Storia/Ottocento/L'ascesa della borghesia.md",
+    "Filosofia/Romanticismo/Positivismo.md",
+    "Storia/Novecento/Stalinismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md",
+    "Arte/Art Nouveau.md",
+    "Storia/Ottocento",
+    "NucleiTematici/Roba da sistemare/Storia/2-16.md",
+    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
+    "NucleiTematici/Roba da sistemare/Biologia.md",
+    "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
+    "NucleiTematici/Roba da sistemare/Proposte doc inglese.md",
+    "NucleiTematici/Roba da sistemare/Proposte doc arte.md",
+    "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
     "Matematica/Integrazione.md",
     "Matematica/Studio di funzione.md",
     "Matematica/Derivata.md",
     "Matematica/Limite.md",
     "Filosofia/Romanticismo/Karl Marx.md",
-    "Untitled.md",
     "Filosofia/Romanticismo/Destra e Sinistra hegeliane.md",
     "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-    "Filosofia/Romanticismo/Positivismo.md",
     "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md",
-    "Filosofia/Citazioni.md",
-    "Filosofia/Novecento/Henri Bergson.md",
-    "Filosofia/Novecento/Sigmund Freud.md",
-    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Novecento/Filosofia analitica/Karl Popper.md",
-    "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
-    "Arte/Postimpressionismo.md",
-    "Arte/Pop Art.md",
-    "Arte/Impressionismo.md",
-    "Arte/Art Nouveau.md",
-    "Arte/Avanguardie/Surrealismo.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Dadaismo.md",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",
@@ -203,11 +206,9 @@
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "Italiano/Ottocento",
     "Italiano/Novecento",
-    "Arte/Avanguardie",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Templates/Untitled.canvas"
   ]
 }

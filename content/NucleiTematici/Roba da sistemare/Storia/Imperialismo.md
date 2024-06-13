@@ -1,5 +1,5 @@
 Conquista militare e politica, dominio di regioni come Asia e Africa
-Fenomeno generato da una pluralità di cause, nello sfondo della [[Seconda rivoluzione industriale]]
+Fenomeno generato da una pluralità di cause, nello sfondo della [[L'ascesa della borghesia]]
 - Economiche
 	- ricerca di mercadi di sbocco per merci e capitali
 	- acquisizione di materie prime a basso costo

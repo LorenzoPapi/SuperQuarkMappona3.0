@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Crisi delle certezze",
+      "path": "NucleiTematici/Crisi delle certezze.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Canovaccio",
+      "path": "NucleiTematici/Canovaccio.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "L'ascesa della borghesia",
+      "path": "Storia/Ottocento/L'ascesa della borghesia.md"
+    },
+    {
+      "basename": "Positivismo",
+      "path": "Filosofia/Romanticismo/Positivismo.md"
+    },
+    {
+      "basename": "Stalinismo",
+      "path": "Storia/Novecento/Stalinismo.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "2-16",
+      "path": "NucleiTematici/Roba da sistemare/Storia/2-16.md"
+    },
+    {
+      "basename": "14 punti e società delle nazioni",
+      "path": "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md"
+    },
+    {
+      "basename": "Biologia",
+      "path": "NucleiTematici/Roba da sistemare/Biologia.md"
+    },
+    {
+      "basename": "Collegamenti ita",
+      "path": "NucleiTematici/Roba da sistemare/Collegamenti ita.md"
+    },
+    {
+      "basename": "Proposte doc inglese",
+      "path": "NucleiTematici/Roba da sistemare/Proposte doc inglese.md"
+    },
+    {
+      "basename": "Proposte doc arte",
+      "path": "NucleiTematici/Roba da sistemare/Proposte doc arte.md"
+    },
+    {
       "basename": "Crisi dei fondamenti fisico-matematici",
       "path": "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md"
     },
@@ -31,10 +91,6 @@
     {
       "basename": "Georg Wilhelm Friedrich Hegel",
       "path": "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md"
-    },
-    {
-      "basename": "Positivismo",
-      "path": "Filosofia/Romanticismo/Positivismo.md"
     },
     {
       "basename": "Soren Aabye Kierkegaard",
@@ -73,10 +129,6 @@
       "path": "Arte/Impressionismo.md"
     },
     {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
       "basename": "Surrealismo",
       "path": "Arte/Avanguardie/Surrealismo.md"
     },
@@ -91,10 +143,6 @@
     {
       "basename": "Fauves",
       "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
     },
     {
       "basename": "Dadaismo",
@@ -147,58 +195,6 @@
     {
       "basename": "Seconda guerra mondiale",
       "path": "Storia/Novecento/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Stalinismo",
-      "path": "Storia/Novecento/Stalinismo.md"
-    },
-    {
-      "basename": "Gaio Petronio Arbitro",
-      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
-    },
-    {
-      "basename": "Romanticismo e idealismo",
-      "path": "Filosofia/Romanticismo/Romanticismo e idealismo.md"
-    },
-    {
-      "basename": "Circuiti elettrici",
-      "path": "Fisica/Circuiti elettrici.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
-    },
-    {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
-      "basename": "Fascismo e Nazismo",
-      "path": "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md"
-    },
-    {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
-    },
-    {
-      "basename": "Eugenio Montale",
-      "path": "Italiano/Novecento/Eugenio Montale.md"
-    },
-    {
-      "basename": "Elettro-magnetismo",
-      "path": "Fisica/Elettro-magnetismo.md"
-    },
-    {
-      "basename": "Post-positivismo",
-      "path": "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md"
-    },
-    {
-      "basename": "L'epica del 1° secolo",
-      "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
     }
   ],
   "omittedPaths": [],

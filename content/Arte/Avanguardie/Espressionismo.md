@@ -15,8 +15,9 @@ Fa parte de ***Il fregio della vita*** composta da quattro temi (*La nascita del
 # Collegamenti
 **Fisica**:
 **Inglese**:
+**Filosofia**: [[Soren Aabye Kierkegaard]] 
 **Italiano**:
 **Latino**:
 **Matematica**:
 **Scienze**:
-**Storia**:
+**Storia**: [[L'ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]

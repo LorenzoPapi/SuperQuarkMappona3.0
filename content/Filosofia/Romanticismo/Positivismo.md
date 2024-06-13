@@ -7,7 +7,7 @@ Caratterizzato dall'***esaltazione della scienza*** e si riferisce a tutto ciò 
 
 Nella prima metà dell'Ottocento si considera come **proposta per superare la crisi rivoluzionaria** con un modello **organicistico e anti-liberale**, poiché influenzato dalla egemone filosofia romantico-idealistica; successivamente si presenta solo come **riflessione di un progresso in atto** e diventa la **filosofia egemone europea** con il **trionfo del liberalismo**.
 
-Il progresso scientifico e la rivoluzione industriale determinano un **clima di *fiducia nelle forze dell'uomo*** e nelle **potenzialità della scienza**, un ottimismo che si traduce in un **culto per il pensiero**, esaltando la figura dello ***scienziato*** (in particolare *Charles Darwin*) e glorificando **industriali, ingegneri, medici, maestri**. Nel complesso rappresenta la **filosofia della moderna società industriale e tecnico-scientifica**, sviluppandosi nelle nazioni già industrializzate e diventando l'**ideologia della borghesia liberale**.
+Il progresso scientifico e la seconda rivoluzione industriale determinano un **clima di *fiducia nelle forze dell'uomo*** e nelle **potenzialità della scienza**, un ottimismo che si traduce in un **culto per il pensiero**, esaltando la figura dello ***scienziato*** (in particolare *Charles Darwin*) e glorificando **industriali, ingegneri, medici, maestri**. Nel complesso rappresenta la **filosofia della moderna società industriale e tecnico-scientifica**, sviluppandosi nelle nazioni già industrializzate e diventando l'**ideologia della borghesia liberale**.
 
 Tradizionalmente si divide in **sociale** ed **evoluzionistico**, ponendo *Darwin* come spartiacque, ma oggi si preferisce la divisone in **contesti nazionali**: tuttavia, queste distinzioni si possono **integrare** e mostrare come inizialmente la scienza era ***strumento di superamento della crisi moderna e mezzo di palingenesi dell'umanità***, ma con l'influsso darwiniano si carica di una **base evoluzionistica** che porterà a filosofie che si relazionano con il concetto di ***evoluzione***.
 ## Positivismo, Illuminismo e Romanticismo
@@ -72,4 +72,4 @@ Sostenendo che le **leggi di produzione = leggi di *natura*** e che quelle della
 **Latino**: [[Apuleio]] (erudizione?), [[Gaio Petronio Arbitro]] (rappresentare la realtà per come è)
 **Matematica**:
 **Scienze**: avanzamenti della chimica
-**Storia**: [[Seconda rivoluzione industriale]]
+**Storia**: [[L'ascesa della borghesia]]
