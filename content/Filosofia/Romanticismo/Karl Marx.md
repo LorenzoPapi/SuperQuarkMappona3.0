@@ -4,7 +4,7 @@
 * ***Ideologia tedesca*** (**1845**): espone il concetto di *lavoro* come *fondamento dell'uomo*, la distinzione tra *struttura* e *sovrastruttura* e la *dialettica della storia*.
 * ***Il manifesto del partito comunista*** (**1848**): sintesi del marxismo fondato sulla *lotta di classe come soggetto della storia* e critica ai falsi socialismi.
 * ***Il Capitale*** (**1867**): analizza il capitalismo da un punto di vista *economico* e perviene alla tesi per la quale il *capitalismo racchiude in sé la contraddizione che porterà al socialismo*.
-* ***Critica al programma di Gotha*** (**1875**): seconda concezione della *società comunista*.
+* ***Critica al programma di Gotha*** (**1875**): critica al programma del *primo partito socialista* (PSD tedesco) contenente anche una seconda concezione della *società comunista*.
 # I caratteri generali
 La caratteristica peculiare del marxismo è la sua **irriducibilità ad un unico ambito sapere** e il conseguente **carattere *globale***: si assimila all'**analisi dialettica della *totalità della realtà***, indagando la **società nell'*unità delle sue manifestazioni*** (economia, filosofia, storia, politica).
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NucleiTematici/Crisi delle certezze.md",
+                "file": "Storia/Ottocento/Imperialismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NucleiTematici/Crisi delle certezze.md"
+                "file": "Storia/Ottocento/Imperialismo.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NucleiTematici/Crisi delle certezze.md",
+                "file": "Storia/Ottocento/Imperialismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NucleiTematici/Crisi delle certezze.md",
+                "file": "Storia/Ottocento/Imperialismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,17 +168,20 @@
   },
   "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
+    "Storia/Ottocento/L'ascesa della borghesia.md",
+    "Filosofia/Romanticismo/Karl Marx.md",
+    "Arte/Impressionismo.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md",
+    "NucleiTematici/Crisi delle certezze.md",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.md",
-    "NucleiTematici/Crisi delle certezze.md",
     "NucleiTematici/Canovaccio.md",
     "Untitled.canvas",
     "2024-06-13.md",
     "Arte/Avanguardie/Espressionismo.md",
-    "Storia/Ottocento/L'ascesa della borghesia.md",
     "Filosofia/Romanticismo/Positivismo.md",
     "Storia/Novecento/Stalinismo.md",
-    "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md",
     "Arte/Art Nouveau.md",
     "Storia/Ottocento",
     "NucleiTematici/Roba da sistemare/Storia/2-16.md",
@@ -192,10 +195,8 @@
     "Matematica/Studio di funzione.md",
     "Matematica/Derivata.md",
     "Matematica/Limite.md",
-    "Filosofia/Romanticismo/Karl Marx.md",
     "Filosofia/Romanticismo/Destra e Sinistra hegeliane.md",
     "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-    "Filosofia/Romanticismo/Soren Aabye Kierkegaard.md",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",
