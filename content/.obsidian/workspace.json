@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Ottocento/Imperialismo.md",
+                "file": "Arte/Avanguardie/Astrattismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Ottocento/Imperialismo.md"
+                "file": "Arte/Avanguardie/Astrattismo.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Ottocento/Imperialismo.md",
+                "file": "Arte/Avanguardie/Astrattismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Ottocento/Imperialismo.md",
+                "file": "Arte/Avanguardie/Astrattismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +166,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "a41d137d0e683157",
   "lastOpenFiles": [
+    "Arte/Avanguardie/Cubismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
+    "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/Elezioni 1913.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/2-16.md",
     "Storia/Ottocento/L'ascesa della borghesia.md",
     "Filosofia/Romanticismo/Karl Marx.md",
     "Arte/Impressionismo.md",
-    "Storia/Ottocento/Imperialismo.md",
     "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md",
     "NucleiTematici/Crisi delle certezze.md",
     "NucleiTematici/Crisi delle certezze.canvas",
@@ -184,19 +191,12 @@
     "Storia/Novecento/Stalinismo.md",
     "Arte/Art Nouveau.md",
     "Storia/Ottocento",
-    "NucleiTematici/Roba da sistemare/Storia/2-16.md",
-    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/Biologia.md",
     "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
     "NucleiTematici/Roba da sistemare/Proposte doc inglese.md",
     "NucleiTematici/Roba da sistemare/Proposte doc arte.md",
     "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
     "Matematica/Integrazione.md",
-    "Matematica/Studio di funzione.md",
-    "Matematica/Derivata.md",
-    "Matematica/Limite.md",
-    "Filosofia/Romanticismo/Destra e Sinistra hegeliane.md",
-    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",

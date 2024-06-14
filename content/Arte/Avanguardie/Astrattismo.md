@@ -20,10 +20,15 @@ Si riconoscono ancora **chiaramente le figure**: nella *VI (Domenica)*, con una 
 ### Composizioni
 Irriconoscibile qualunque schema: le **masse di colore** governano il dipinto, liberato dalla schiavitù delle forme scoprendo l'**emotività del colore** tramite fasci di **linee curve parallele**, **punti distinti** e **tratti divergenti**.
 # Collegamenti
-**Filosofia**: [[Georg Wilhelm Friedrich Hegel|Hegel]] (l'Idea come astrazione totale della realtà?) oppure [[Crisi dei fondamenti fisico-matematici#Il logicismo|astrazione del linguaggio comune]]
+**Filosofia**:
+- [[Georg Wilhelm Friedrich Hegel]] (l'Idea come astrazione totale della realtà?) 
+- [[Crisi dei fondamenti fisico-matematici#Il logicismo|Astrazione del linguaggio comune]]
 **Fisica**: [[Teoria della relatività]] (astrazione matematica della realtà)
 **Inglese**: [[Virginia Woolf]] (l'interiorità)
-**Italiano**: [[Simbolismo e Decadentismo]] oppure [[Eugenio Montale]]
+**Italiano**: [[Salvatore Quasimodo]] (ermetismo, la parola è espressione dell'emozione individuale)
 **Latino**: [[Aurelio Agostino]] (l'interiorità)
-**Matematica**: [[Crisi dei fondamenti fisico-matematici#Il riduzionismo|astrazione e formalizzazione del continuo]]
-**Scienze**: [[DNA]] (astrazione della vita) oppure [[Geofisica]] (modellizzazione della terra per via indiretta)
+**Matematica**: [[Crisi dei fondamenti fisico-matematici#Il riduzionismo|Astrazione e formalizzazione del continuo]]
+**Scienze**:
+- [[DNA]] (astrazione della vita)
+- [[Geofisica]] (modellizzazione della Terra per via indiretta)
+**Storia**: [[Rivoluzione Russa]]
