@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
+                "file": "Arte/Avanguardie/Dadaismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Ottocento/L'Italia dell'Unità.md"
+                "file": "Arte/Avanguardie/Dadaismo.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
+                "file": "Arte/Avanguardie/Dadaismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
+                "file": "Arte/Avanguardie/Dadaismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb8a76144ef1e31f",
+  "active": "a41d137d0e683157",
   "lastOpenFiles": [
-    "Storia/Ottocento/Imperialismo.md",
-    "Storia/Ottocento/L'Italia dell'Unità.md",
-    "Storia/Ottocento/L'ascesa della borghesia.md",
-    "Arte/Avanguardie/Astrattismo.md",
     "Arte/Avanguardie/Cubismo.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Storia/Novecento/La società di massa.md",
+    "Storia/Ottocento/L'ascesa della borghesia.md",
+    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Fascismo.md",
+    "Storia/Novecento/Grande depressione.md",
+    "Storia/Novecento/Guerra fredda.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Ottocento/L'Italia dell'Unità.md",
     "Arte/Avanguardie/Dadaismo.md",
     "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
@@ -188,14 +195,7 @@
     "2024-06-13.md",
     "Arte/Avanguardie/Espressionismo.md",
     "Filosofia/Romanticismo/Positivismo.md",
-    "Storia/Novecento/Stalinismo.md",
-    "Arte/Art Nouveau.md",
     "Storia/Ottocento",
-    "NucleiTematici/Roba da sistemare/Biologia.md",
-    "NucleiTematici/Roba da sistemare/Collegamenti ita.md",
-    "NucleiTematici/Roba da sistemare/Proposte doc inglese.md",
-    "NucleiTematici/Roba da sistemare/Proposte doc arte.md",
-    "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",

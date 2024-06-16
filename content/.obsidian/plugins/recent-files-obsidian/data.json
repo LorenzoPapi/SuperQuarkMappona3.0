@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "L'Italia dell'Unità",
-      "path": "Storia/Ottocento/L'Italia dell'Unità.md"
-    },
-    {
-      "basename": "Imperialismo",
-      "path": "Storia/Ottocento/Imperialismo.md"
-    },
-    {
-      "basename": "L'ascesa della borghesia",
-      "path": "Storia/Ottocento/L'ascesa della borghesia.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
     },
     {
       "basename": "Cubismo",
       "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "La società di massa",
+      "path": "Storia/Novecento/La società di massa.md"
+    },
+    {
+      "basename": "L'ascesa della borghesia",
+      "path": "Storia/Ottocento/L'ascesa della borghesia.md"
+    },
+    {
+      "basename": "Romanticismo e idealismo",
+      "path": "Filosofia/Romanticismo/Romanticismo e idealismo.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "Storia/Ottocento/Imperialismo.md"
+    },
+    {
+      "basename": "Nazismo",
+      "path": "Storia/Novecento/Nazismo.md"
+    },
+    {
+      "basename": "Fascismo",
+      "path": "Storia/Novecento/Fascismo.md"
+    },
+    {
+      "basename": "Grande depressione",
+      "path": "Storia/Novecento/Grande depressione.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Novecento/Guerra fredda.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "L'Italia dell'Unità",
+      "path": "Storia/Ottocento/L'Italia dell'Unità.md"
     },
     {
       "basename": "14 punti e società delle nazioni",
@@ -169,32 +197,8 @@
       "path": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
     },
     {
-      "basename": "Fascismo",
-      "path": "Storia/Novecento/Fascismo.md"
-    },
-    {
-      "basename": "Grande depressione",
-      "path": "Storia/Novecento/Grande depressione.md"
-    },
-    {
-      "basename": "Guerra fredda",
-      "path": "Storia/Novecento/Guerra fredda.md"
-    },
-    {
-      "basename": "Nazismo",
-      "path": "Storia/Novecento/Nazismo.md"
-    },
-    {
       "basename": "Prima Guerra Mondiale",
       "path": "Storia/Novecento/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Rivoluzione Russa",
-      "path": "Storia/Novecento/Rivoluzione Russa.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Novecento/Seconda guerra mondiale.md"
     }
   ],
   "omittedPaths": [],

@@ -37,8 +37,13 @@ La composizione è divisa in **tre fasce verticali**, in un'ambientazione **este
 **Inglese**: [[Virginia Woolf]] (simultaneità e visione sfaccettata della realtà)
 **Italiano**:
 - [[Giovanni Pascoli]] (il fanciullino come il disegno della pittura)
-- [[Luigi Pirandello]] (frammentazione del reale?)
-**Latino**: [[Apuleio]] (metamorfosi?)
-**Matematica**:
-**Scienze**:
-**Storia**: [[Seconda guerra mondiale#La guerra civile spagnola|Bombardamento di guernica]] (...)
+- [[Luigi Pirandello]] (frammentazione del reale)
+- [[Futurismo]] (frammentazione e simultaneità)
+**Latino**:
+- [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (la narrazione frammentata)
+- [[Il primo secolo d.C. (14 - 96)#Plinio il Vecchio|Plinio il vecchio]] (descrizione frammentata della natura)
+**Matematica**: i frattali
+**Scienze**: [[Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
+**Storia**:
+- [[Seconda guerra mondiale#La guerra civile spagnola|Bombardamento di Guernica]]
+- [[Imperialismo]] ??

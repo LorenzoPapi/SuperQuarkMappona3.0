@@ -12,10 +12,13 @@ Un semplice **orinatoio rovesciato** sul quale era scritta la **firma dell'autor
 ### L.H.O.O.Q. (1919)
 Un *ready-made **rettificato***, cioè nel quale l'artista è intervenuto apportando **piccole modifiche**, è una riproduzione della *Monna Lisa* al quale aggiunse **baffi e pizzetto**, dissacrando uno dei **miti più antichi dell'arte** nella maniera tipica di un **ragazzo su un libro scolastico**. Aggiunge inoltre *L.H.O.O.Q* che secondo la pronuncia francese dicono ***Ella ha caldo al culo***, frase volgare e gratuita, avulsa dal contesto. Così vuole **onorare l'arte** di Leonardo, mettendo in ridicolo gli estimatori superficiali, attaccati alle **apparenze**.
 # Collegamenti
-**Filosofia**:
+**Filosofia**: [[Friedrich Wilhelm Nietzsche#Il nichilismo|Nichilismo]] (rifiuto della tradizione e dei valori)
 **Fisica**:
 **Inglese**:
 **Italiano**:
 **Latino**:
+- [[Gaio Petronio Arbitro]] (narrazione parodica e assurda)
+- [[Apuleio]] (narrazione fantastica e assurda)
 **Matematica**:
 **Scienze**:
+**Storia**: [[Prima Guerra Mondiale]] (effetti della guerra sull'arte)
