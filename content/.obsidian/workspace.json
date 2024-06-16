@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md"
+                "file": "Storia/Ottocento/L'Italia dell'Unità.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,14 +140,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Avanguardie/Astrattismo.md",
+                "file": "Storia/Ottocento/L'Italia dell'Unità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,17 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41d137d0e683157",
+  "active": "eb8a76144ef1e31f",
   "lastOpenFiles": [
-    "Arte/Avanguardie/Cubismo.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "Storia/Ottocento/L'Italia dell'Unità.md",
+    "Storia/Ottocento/L'ascesa della borghesia.md",
     "Arte/Avanguardie/Astrattismo.md",
+    "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Dadaismo.md",
     "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
     "NucleiTematici/Roba da sistemare/Storia/Elezioni 1913.md",
-    "Storia/Ottocento/Imperialismo.md",
     "NucleiTematici/Roba da sistemare/Storia/2-16.md",
-    "Storia/Ottocento/L'ascesa della borghesia.md",
     "Filosofia/Romanticismo/Karl Marx.md",
     "Arte/Impressionismo.md",
     "NucleiTematici/Roba da sistemare/Storia/Imperialismo.md",
@@ -196,7 +196,6 @@
     "NucleiTematici/Roba da sistemare/Proposte doc inglese.md",
     "NucleiTematici/Roba da sistemare/Proposte doc arte.md",
     "Filosofia/Novecento/Filosofia analitica/Crisi dei fondamenti fisico-matematici.md",
-    "Matematica/Integrazione.md",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
     "Filosofia/Novecento",
