@@ -24,21 +24,26 @@ Irriconoscibile qualunque schema: le **masse di colore** governano il dipinto, l
 - [[Georg Wilhelm Friedrich Hegel]] (l'Idea come astrazione totale della realtà?) 
 - [[Romanticismo e idealismo]] (realtà come prodotto della mente)
 - [[Crisi dei fondamenti fisico-matematici#Il logicismo|Astrazione del linguaggio comune]]
+
 **Fisica**: [[Teoria della relatività]] (astrazione matematica della realtà)
 **Inglese**:
 - [[Virginia Woolf]] (l'interiorità)
 - [[Oscar Wilde]] (arte per l'arte)
+
 **Italiano**:
 - [[Salvatore Quasimodo]] (ermetismo, la parola è espressione dell'emozione individuale)
 - [[Giacomo Leopardi]] (espressione di concetti astratti come l'infinito)
 - [[Gabriele D'Annunzio]] (arte per l'arte)
+
 **Latino**: [[Aurelio Agostino]] (l'interiorità)
 **Matematica**:
 - [[Crisi dei fondamenti fisico-matematici#Il riduzionismo|Astrazione e formalizzazione del continuo]]
 - [[Crisi dei fondamenti fisico-matematici#Le nuove geometrie|Geometrie non euclidee]] (spazi astratti che vanno oltre la geometria tradizionale)
+
 **Scienze**:
 - [[DNA]] (astrazione della vita)
 - [[Geofisica]] (modellizzazione della Terra per via indiretta)
+
 **Storia**:
 - [[Prima Guerra Mondiale]] (effetto della guerra nell'arte, necessità di staccarsi dal mondo concreto)
 - [[Rivoluzione Russa]]

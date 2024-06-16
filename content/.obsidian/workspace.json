@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbb71b4d96b25b2c",
+        "id": "8bcad3340847514d",
         "type": "tabs",
         "children": [
           {
-            "id": "a41d137d0e683157",
+            "id": "1f45cad3cb47b131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md"
+                "file": "Arte/Avanguardie/Surrealismo.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Arte/Avanguardie/Surrealismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a41d137d0e683157",
+  "active": "1f45cad3cb47b131",
   "lastOpenFiles": [
+    "Arte/Avanguardie/Metafisica.md",
+    "Arte/Avanguardie/Futurismo.md",
+    "Arte/Avanguardie/Fauves.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
     "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Astrattismo.md",
     "Storia/Novecento/La società di massa.md",
@@ -179,7 +184,6 @@
     "Storia/Novecento/Guerra fredda.md",
     "Storia/Novecento/Seconda guerra mondiale.md",
     "Storia/Ottocento/L'Italia dell'Unità.md",
-    "Arte/Avanguardie/Dadaismo.md",
     "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
     "NucleiTematici/Roba da sistemare/Storia/Elezioni 1913.md",
@@ -190,11 +194,7 @@
     "NucleiTematici/Crisi delle certezze.md",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.md",
-    "NucleiTematici/Canovaccio.md",
     "Untitled.canvas",
-    "2024-06-13.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Filosofia/Romanticismo/Positivismo.md",
     "Storia/Ottocento",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",

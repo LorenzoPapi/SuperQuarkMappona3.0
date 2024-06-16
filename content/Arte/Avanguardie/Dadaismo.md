@@ -19,6 +19,7 @@ Un *ready-made **rettificato***, cioè nel quale l'artista è intervenuto apport
 **Latino**:
 - [[Gaio Petronio Arbitro]] (narrazione parodica e assurda)
 - [[Apuleio]] (narrazione fantastica e assurda)
+
 **Matematica**:
 **Scienze**:
 **Storia**: [[Prima Guerra Mondiale]] (effetti della guerra sull'arte)

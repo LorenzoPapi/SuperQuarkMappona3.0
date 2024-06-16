@@ -33,15 +33,18 @@ La composizione è divisa in **tre fasce verticali**, in un'ambientazione **este
 **Filosofia**:
 - [[Henri Bergson]] (tempo come simultaneità e durata)
 - [[Georg Wilhelm Friedrich Hegel]] (non esiste la parte senza il tutto, per questo i cubisti devono rappresentare tutto)
+
 **Fisica**: [[Teoria della relatività]] (come il tempo è relativo all'osservatore, la percezione della realtà dipende dal punto di vista dell'osservatore)
 **Inglese**: [[Virginia Woolf]] (simultaneità e visione sfaccettata della realtà)
 **Italiano**:
 - [[Giovanni Pascoli]] (il fanciullino come il disegno della pittura)
 - [[Luigi Pirandello]] (frammentazione del reale)
 - [[Futurismo]] (frammentazione e simultaneità)
+
 **Latino**:
 - [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (la narrazione frammentata)
 - [[Il primo secolo d.C. (14 - 96)#Plinio il Vecchio|Plinio il vecchio]] (descrizione frammentata della natura)
+
 **Matematica**: i frattali
 **Scienze**: [[Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
 **Storia**:
