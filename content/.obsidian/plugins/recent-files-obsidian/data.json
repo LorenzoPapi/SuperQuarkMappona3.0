@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "Fascismo",
+      "path": "Storia/Novecento/Fascismo.md"
+    },
+    {
+      "basename": "Il primo dopoguerra",
+      "path": "Storia/Novecento/Il primo dopoguerra.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Stalinismo",
+      "path": "Storia/Novecento/Stalinismo.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Novecento/Rivoluzione Russa.md"
+    },
+    {
+      "basename": "Nazismo",
+      "path": "Storia/Novecento/Nazismo.md"
+    },
+    {
+      "basename": "La società di massa",
+      "path": "Storia/Novecento/La società di massa.md"
+    },
+    {
+      "basename": "L'età giolittiana",
+      "path": "Storia/Novecento/L'età giolittiana.md"
+    },
+    {
+      "basename": "Il mondo del primo Novecento",
+      "path": "Storia/Novecento/Il mondo del primo Novecento.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Novecento/Guerra fredda.md"
+    },
+    {
+      "basename": "Grande depressione",
+      "path": "Storia/Novecento/Grande depressione.md"
+    },
+    {
       "basename": "Surrealismo",
       "path": "Arte/Avanguardie/Surrealismo.md"
     },
@@ -33,10 +81,6 @@
       "path": "Arte/Avanguardie/Astrattismo.md"
     },
     {
-      "basename": "La società di massa",
-      "path": "Storia/Novecento/La società di massa.md"
-    },
-    {
       "basename": "L'ascesa della borghesia",
       "path": "Storia/Ottocento/L'ascesa della borghesia.md"
     },
@@ -47,26 +91,6 @@
     {
       "basename": "Imperialismo",
       "path": "Storia/Ottocento/Imperialismo.md"
-    },
-    {
-      "basename": "Nazismo",
-      "path": "Storia/Novecento/Nazismo.md"
-    },
-    {
-      "basename": "Fascismo",
-      "path": "Storia/Novecento/Fascismo.md"
-    },
-    {
-      "basename": "Grande depressione",
-      "path": "Storia/Novecento/Grande depressione.md"
-    },
-    {
-      "basename": "Guerra fredda",
-      "path": "Storia/Novecento/Guerra fredda.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Novecento/Seconda guerra mondiale.md"
     },
     {
       "basename": "L'Italia dell'Unità",
@@ -99,10 +123,6 @@
     {
       "basename": "Positivismo",
       "path": "Filosofia/Romanticismo/Positivismo.md"
-    },
-    {
-      "basename": "Stalinismo",
-      "path": "Storia/Novecento/Stalinismo.md"
     },
     {
       "basename": "Art Nouveau",
@@ -179,26 +199,6 @@
     {
       "basename": "Postimpressionismo",
       "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
-      "basename": "Giovanni Pascoli",
-      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
-    },
-    {
-      "basename": "Arthur Schopenhauer",
-      "path": "Filosofia/Romanticismo/Arthur Schopenhauer.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
     }
   ],
   "omittedPaths": [],
