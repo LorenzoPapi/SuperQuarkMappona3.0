@@ -1,6 +1,12 @@
-Un insieme di movimenti e riforme con denominatori comuni come il **trionfo delle tematiche negative** e le **grandi rapide trasformazioni** delle **rivoluzioni del '700** portarono alla **popolaione cittadina** e alle **ideologie nazionalistico-patriottiche** che generano **tensioni e paure** per le **crisi del mercato**. La **classe operaia si ribella al sistema**, la **Natura è oscura**. ^d588c2
+Muovendo dalle concezioni del [[Romanticismo e idealismo|romanticismo tedesco]], il romanticismo letterario si caratterizza per:
+- il trionfo delle **tematiche negative**,
+- la rivoluzione politica che porta al **crollo degli assolutismi** in favore di **sentimenti patriottici che generano inquietudine**,
+- la rivoluzione economica dell'**industrializzazione** e che determina un **forte dinamismo della società** e la volontà dei **ceti oppressi di lottare per la loro condizione**,
+- la trasformazione della **vita quotidiana** determinata dallo **spostamento verso le città** e dalla creazione di **nuovi mezzi di trasporto a vapore**.
 
-Nasce dalla **delusione illuminista e la speranza post-napoleonica** con degli **intellettuali senza protettori e declassati**, artisti **senza lavoro** perché si **predilige l'utile**. Si tende verso **infinito** e **irrazionalità, spiritualità, religiosità** all'**idealismo** e alla **follia spaventosa**.Tutto si risolve nel ***Senhsucht*** (desiderio del desiderio), portando alla **fuga dal tempo e dallo spazio**.
+I mutamenti rapidi creano **forti contraddizioni** e di conseguenza **tensioni e paura** nella coscienza collettiva. Il sistema industriale esige la **continua espansione** pena il crollo, ma questo provoca **crisi cicliche** e di conseguenza il mercato sembra mosso da **forze irrazionali e misteriose** che portano a **senso di impotenza**. Gli operai sfruttati si rivoltano con **scioperi e sabotaggi** e l'industria è vista come fattore **contaminante della Natura**.
+
+Nasce dalla **delusione illuminista e la speranza post-napoleonica** con degli **intellettuali senza protettori e declassati**, artisti **senza lavoro** perché si **predilige *l'utile***. Si tende verso **infinito** e **irrazionalità, spiritualità, religiosità** all'**idealismo** e alla **follia spaventosa**. Tutto si risolve nel ***Senhsucht*** (desiderio del desiderio), portando alla **fuga dal tempo e dallo spazio**.
 
 L'**infanzia è paradiso di innocenza** ed è legata al **popolo fanciullesco** e le tradizioni, a cui si **contrappone il patriottismo** dato che il **popolo è formato storicamente** e la storia va **conosciuta**, ma si ha anche **fuga dalla realtà**.
 

@@ -1,6 +1,6 @@
 # *Der Blaue Reiter* (1911 - 1914,  Monaco di Baviera)
-- È preceduto dalla ***Nuova associazione degli artisti di Monaco*** (1909 - 1911), nella quale ***Kandisky*** e Jawlensky dipingevano un'**interiorità totalmente spiritualizzata**.
-- Nasce dalla sua divisione per contrasti interni con una mostra omonima allestita da Kandisky ed altri, il cui nome fu preso dall'**almanacco** che stava pubblicando con Marc, scelto perché a entrambi piaceva il blu, a uno i cavalli e all'altro i cavalieri.
+- È preceduto dalla ***Nuova associazione degli artisti di Monaco*** (1909 - 1911), nella quale ***Kandisky*** e *Jawlensky* dipingevano un'**interiorità totalmente spiritualizzata**.
+- Nasce dalla sua divisione per contrasti interni con una mostra omonima allestita da *Kandisky* ed altri, il cui nome fu preso dall'**almanacco** che stava pubblicando con Marc, scelto perché a entrambi piaceva il blu, a uno i cavalli e all'altro i cavalieri.
 - Ebbe breve durata a causa della [[Prima Guerra Mondiale]].
 - Era **contro la società contemporanea**, poco spirituale, tanto che bisogna ***distruggere la natura*** per trovare ciò che nasconde.
 - Era **contrario alla deformazione delle immagini** propria dell'Espressionismo e più incline alla **dolcezza compositiva** che definirono quest'arte come ***Espressionismo lirico***.

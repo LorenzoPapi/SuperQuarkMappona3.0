@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e661c32bc8265093",
+        "id": "d6eaa56c8dc8845f",
         "type": "tabs",
         "children": [
           {
-            "id": "a906ad2e80e8cc1f",
+            "id": "64ca329739242660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Italiano/Ottocento/Alessandro Manzoni.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +145,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -165,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a906ad2e80e8cc1f",
+  "active": "64ca329739242660",
   "lastOpenFiles": [
-    "Italiano/Novecento/Futurismo letterario.md",
-    "Italiano/Novecento/Eugenio Montale.md",
-    "Italiano/Novecento/Giuseppe Ungaretti.md",
-    "Italiano/Novecento/Italo Svevo.md",
-    "Italiano/Novecento/Luigi Pirandello.md",
-    "Italiano/Ottocento/Romanticismo.md",
-    "Italiano/Ottocento/Naturalismo e Verismo.md",
-    "Italiano/Ottocento/Alessandro Manzoni.md",
-    "Italiano/Ottocento/Giovanni Verga.md",
-    "Italiano/Ottocento/Giovanni Pascoli.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
     "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
-    "Storia/Novecento/Il primo dopoguerra.md",
-    "Storia/Novecento/L'età giolittiana.md",
-    "Storia/Novecento/La società di massa.md",
-    "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
+    "Untitled.md",
+    "Italiano/Ottocento/Gabriele D'Annunzio.md",
+    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
+    "Italiano/Ottocento/Alessandro Manzoni.md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Storia/Ottocento/L'ascesa della borghesia.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
+    "NucleiTematici/Crisi delle certezze.md",
+    "NucleiTematici/Canovaccio.md",
+    "Arte/Impressionismo.md",
+    "Arte/Art Nouveau.md",
+    "Arte/Avanguardie/Espressionismo.md",
+    "Arte/Avanguardie/Dadaismo.md",
+    "Arte/Avanguardie/Cubismo.md",
     "Storia/Novecento/Stalinismo.md",
-    "Storia/Novecento/Grande depressione.md",
     "Storia/Novecento/Fascismo.md",
+    "Storia/Novecento/Grande depressione.md",
     "Storia/Novecento/Guerra fredda.md",
     "Storia/Novecento/Il mondo del primo Novecento.md",
-    "Storia/Ottocento/L'ascesa della borghesia.md",
+    "Storia/Novecento/L'età giolittiana.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
     "Inglese/Ottocento",
     "Inglese/Novecento",
     "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
