@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8bcad3340847514d",
+        "id": "e661c32bc8265093",
         "type": "tabs",
         "children": [
           {
-            "id": "1f45cad3cb47b131",
+            "id": "a906ad2e80e8cc1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5110321044922
+    "width": 262.5
   },
   "right": {
     "id": "71e1241f6bb04faa",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md"
+                "file": "Italiano/Ottocento/Alessandro Manzoni.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Novecento/Fascismo.md",
+                "file": "Italiano/Ottocento/Alessandro Manzoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,47 +165,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f45cad3cb47b131",
+  "active": "a906ad2e80e8cc1f",
   "lastOpenFiles": [
-    "Storia/Novecento/Il primo dopoguerra.md",
+    "Italiano/Novecento/Futurismo letterario.md",
+    "Italiano/Novecento/Eugenio Montale.md",
+    "Italiano/Novecento/Giuseppe Ungaretti.md",
+    "Italiano/Novecento/Italo Svevo.md",
+    "Italiano/Novecento/Luigi Pirandello.md",
+    "Italiano/Ottocento/Romanticismo.md",
+    "Italiano/Ottocento/Naturalismo e Verismo.md",
+    "Italiano/Ottocento/Alessandro Manzoni.md",
+    "Italiano/Ottocento/Giovanni Verga.md",
+    "Italiano/Ottocento/Giovanni Pascoli.md",
+    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
+    "Italiano/Ottocento/Giacomo Leopardi.md",
     "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Stalinismo.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/La società di massa.md",
+    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
+    "Storia/Novecento/Il primo dopoguerra.md",
     "Storia/Novecento/L'età giolittiana.md",
-    "Storia/Novecento/Il mondo del primo Novecento.md",
-    "Storia/Novecento/Guerra fredda.md",
-    "Storia/Novecento/Fascismo.md",
+    "Storia/Novecento/La società di massa.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Novecento/Stalinismo.md",
     "Storia/Novecento/Grande depressione.md",
-    "Arte/Avanguardie/Surrealismo.md",
-    "Arte/Avanguardie/Metafisica.md",
-    "Arte/Avanguardie/Futurismo.md",
-    "Arte/Avanguardie/Fauves.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Dadaismo.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Arte/Avanguardie/Astrattismo.md",
+    "Storia/Novecento/Fascismo.md",
+    "Storia/Novecento/Guerra fredda.md",
+    "Storia/Novecento/Il mondo del primo Novecento.md",
     "Storia/Ottocento/L'ascesa della borghesia.md",
-    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
-    "Storia/Ottocento/Imperialismo.md",
-    "Storia/Ottocento/L'Italia dell'Unità.md",
-    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
-    "NucleiTematici/Roba da sistemare/Storia/Fascismo e Nazismo.md",
+    "Inglese/Ottocento",
+    "Inglese/Novecento",
+    "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
+    "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
+    "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
+    "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
+    "NucleiTematici/Roba da sistemare/CARBOIDRTI.pdf",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.canvas",
     "Storia/Ottocento",
     "Storia/Novecento",
     "Filosofia/Novecento/Filosofia analitica",
-    "Filosofia/Novecento",
-    "Filosofia/Romanticismo",
-    "Filosofia/Ottocento",
     "Arte/Immagini/Cezanne_01.jpg",
-    "Storia",
-    "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
-    "Italiano/Ottocento",
-    "Italiano/Novecento",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
