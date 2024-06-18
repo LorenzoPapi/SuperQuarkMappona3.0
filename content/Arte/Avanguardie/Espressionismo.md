@@ -1,6 +1,4 @@
-# Il movimento
-
-## 1905 - 1920, Germania 
+# Germania, 1905 - 1920
 Se l'*[[Impressionismo]]* costituiva il moto *realtà -> animo*, l'Espressionismo costituisce il moto inverso ***animo -> realtà*** (*ex* dal latino, *fuori*): è inteso come **proiezione immediata di sentimenti e stati d'animo soggettivi** e presenta dunque per natura spunti **sociali, dialettici, realisti**.
 
 Dato il tardo arrivo della rivoluzione industriale, l'**industrializzazione troppo rapida** ha come conseguenza una reazione **convulsa**. Inoltre, è necessario il **distacco dal *Realismo* di *Courbet***, che aveva abolito la soggettività. Proprio nelle opere espressioniste riemergono il legame con la **cultura gotica** (religiosità) e **barocca** (raffinatezza), mostrando una dura lotta fra **forme e colori** con l'obiettivo di mettere in crisi ogni ***bellezza* preconcetta**.

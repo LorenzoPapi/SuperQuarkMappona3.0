@@ -10,14 +10,14 @@ Influenzato principalmente dal logicismo di [[Crisi dei fondamenti fisico-matema
 - **secondo** Circolo (1924 - 1938): comprendente ***Carnap e Gödel***, si fonda sul ***Tractatus*** di ***Wittgenstein*** e sull'opera di Carnap stesso, si sciolse dopo l'annessione dell'Austria alla Germania nazista
 
 Viene pubblicato ***La concezione scientifica del mondo***, che indica i tratti caratteristici della nuova corrente filosofica:
-1) lo scopo di **unificare la sciena**
+1) lo scopo di **unificare la scienza**
 2) l'enfasi sul **lavoro collettivo**
 3) l'identificazione del **metodo di chiarificazione concettuale** con l'**analisi logica**
 4) la **distruzione della metafisica**
 5) lo sviluppo di **linguaggi formali**
 6) il **rigetto di ogni apriorismo**
 ## Circolo di Berlino
-Influenzato da ***Planck e  [[Crisi dei fondamenti fisico-matematici#Il formalismo|Hilbert]]***, collaborò con il Circolo viennese ed ebbe eco anche nei paesi **scandinavi** e in **Polonia**. Tuttavia, molti dei suoi rappresentanti dovettero **lasciare la Germania** a causa della loro antipatia per il regime nazista, trasferendosi negli **Stati Uniti** dove trovarono un ambiente **simpatetico** soprattutto nei **pragmatisti** come [[Post-positivismo#Quine|Quine]]. Si riprese l'idea di **scienza unificata** avendo per oggetto **tutta la realtà conoscibile** avvalendosi di un **unico linguaggio logico**, portando alla nascita dell'***Enciclopedia internazionale della scienza unificata***. 
+Influenzato da ***Planck e [[Crisi dei fondamenti fisico-matematici#Il formalismo|Hilbert]]***, collaborò con il Circolo viennese ed ebbe eco anche nei paesi **scandinavi** e in **Polonia**. Tuttavia, molti dei suoi rappresentanti dovettero **lasciare la Germania** a causa della loro antipatia per il regime nazista, trasferendosi negli **Stati Uniti** dove trovarono un ambiente **simpatetico** soprattutto nei **pragmatisti** come [[Post-positivismo#Quine|Quine]]. Si riprese l'idea di **scienza unificata** avendo per oggetto **tutta la realtà conoscibile** avvalendosi di un **unico linguaggio logico**, portando alla nascita dell'***Enciclopedia internazionale della scienza unificata***. 
 # Caratteristiche
 Nella prima fase, è rappresentato da autori accomunati da alcune convinzioni di fondo:
 - le uniche **proposizioni con significato conoscitivo** sono quelle che possono essere **verificate empiricamente** (***criterio di significanza***)

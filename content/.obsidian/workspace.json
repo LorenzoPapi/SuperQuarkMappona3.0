@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "12350d2b3fb116f8",
+        "id": "a784dfd8d9c49103",
         "type": "tabs",
         "children": [
           {
-            "id": "291dee9def8fa7e5",
+            "id": "0137cc30f504b3ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Arte/Avanguardie/Dadaismo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Munnizzella/Collegamenti ita.md"
+                "file": "Arte/Avanguardie/Dadaismo.md"
               }
             }
           },
@@ -118,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Munnizzella/Collegamenti ita.md",
+                "file": "Arte/Avanguardie/Dadaismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Munnizzella/Collegamenti ita.md",
+                "file": "Arte/Avanguardie/Dadaismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,11 +164,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc312b0a6d49c84",
+  "active": "0137cc30f504b3ca",
   "lastOpenFiles": [
-    "Munnizzella/Latino collegamenti.md",
-    "Munnizzella/Proposte doc arte.md",
-    "Munnizzella/Proposte doc inglese.md",
+    "Filosofia/Novecento/Sigmund Freud.md",
+    "Filosofia/Novecento/Henri Bergson.md",
+    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md",
+    "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md",
+    "Filosofia/Novecento/Filosofia analitica/Karl Popper.md",
+    "Italiano/Ottocento/Giacomo Leopardi.md",
+    "Italiano/Ottocento/Giovanni Pascoli.md",
+    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
+    "Italiano/Ottocento/Romanticismo letterario.md",
+    "Italiano/Ottocento/Positivismo letterario.md",
+    "Storia/Novecento/Età giolittiana.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Il primo dopoguerra.md",
+    "Storia/Novecento/Società di massa.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Primo Novecento.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Guerra fredda.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "Storia/Ottocento/Ascesa della borghesia.md",
+    "Storia/Ottocento/Italia dell'Unità.md",
+    "Filosofia/Ottocento/Soren Aabye Kierkegaard.md",
+    "Filosofia/Ottocento/Romanticismo e idealismo.md",
+    "Filosofia/Ottocento/Positivismo.md",
+    "Pasted image 20240618190808.png",
+    "Pasted image 20240618190710.png",
+    "Pasted image 20240618190512.png",
+    "Pasted image 20240618185758.png",
+    "Arte/Immagini/Cezanne_01.jpg",
     "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
     "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/LA GLICOLISI E LE FERMENTAZIONI.pdf",
@@ -171,35 +204,11 @@
     "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
     "NucleiTematici/Roba da sistemare/CARBOIDRTI.pdf",
-    "Munnizzella/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
-    "NucleiTematici/Roba da sistemare/Biologia.md",
-    "Scienze/Il metabolismo energetico.md",
-    "Scienze/Biochimica e biomolecole.md",
-    "Scienze/Idrocarburi.md",
-    "Scienze/Chimica organica.md",
     "Scienze/Untitled",
-    "Storia/Novecento/Seconda guerra mondiale.md",
     "Scienze",
-    "Italiano/Novecento/Salvatore Quasimodo.md",
-    "Matematica/Limite.md",
-    "Italiano/Novecento/Italo Svevo.md",
-    "Italiano/Novecento/Eugenio Montale.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/Stalinismo.md",
-    "Storia/Novecento/Società di massa.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Primo Novecento.md",
-    "Inglese/English and American History (1837-now).md",
-    "Arte/Avanguardie/Astrattismo.md",
-    "Inglese/Novecento/David Herbert Lawrence.md",
-    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
-    "Storia/Ottocento/Italia dell'Unità.md",
-    "Storia/Ottocento/Ascesa della borghesia.md",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.canvas",
-    "Arte/Immagini/Cezanne_01.jpg",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
