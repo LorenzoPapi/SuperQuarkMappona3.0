@@ -93,6 +93,8 @@ L'ultima parte della raccolta, ***Conclusioni provvisorie***, comprende **due po
 - ***Sogno del prigioniero***: traendo ispirazione dagli **orrori dei regimi totalitari** tratta del prigioniero in **attesa della tortura**, che però allude ad una **condizione di prigionia *esistenziale*** da cui si può uscire solo con il **sogno**, concludendo l'**impossibilità della poesia**. Non scriverà versi per 12 anni.
 
 Proseguendo con un'intonazione **elevata** tuttavia si orienta verso un **maggiore plurilinguismo**, inserendo elementi **prosastici, tecnici e dialettali**.
+## *Satura* (1966)
+Pubblicate presso *Mondadori*, accentuano il **pessimismo storico** e **polemizzano contro la società dei costumi, la massificazione, le mode culturali**. Si pone in una prospettiva di **freddo distacco**, risolvendo in una **completa condanna** tramite l'**ironia** che si ripiega nell'***impossibilità di modificare il presente***, poiché una **catastrofe si è abbattuta sulla civiltà umanistica tradizionale** che elimina ogni possibile ritorno al passato. L'ironia diventa quindi **autoparodia** e ha rilievo la figura della moglie, ***Mosca*** che rappresenta la **minima saggezza quotidiana**. Tutto questo implica la ***fine della poesia*** e la conseguente scelta di uno **stile basso, comico** attraverso un gioco di **citazioni stranianti e impietose** con una sorta di **dissonanza antilirica e antimusicale**.
 ****
 # Collegamenti
 DANTE CON CACCIAGUIDA (medioevo certezza, novecento no)
@@ -105,4 +107,3 @@ DANTE CON CACCIAGUIDA (medioevo certezza, novecento no)
 **Matematica**:
 **Scienze**:
 **Storia**:
-#TODO testi e collegamenti

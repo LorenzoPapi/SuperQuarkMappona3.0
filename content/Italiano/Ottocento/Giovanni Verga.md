@@ -4,7 +4,7 @@
 
 ## Pensiero
 
-[[Naturalismo e Verismo]]
+[[Positivismo letterario]]
 ## Opinione
 collega con [[Gaio Petronio Arbitro]] ...
 

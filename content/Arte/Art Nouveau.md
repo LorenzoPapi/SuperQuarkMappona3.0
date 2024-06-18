@@ -53,4 +53,4 @@ Coincide con i viaggi di Klimt in Europa che lo portarono a conoscere i [[Fauves
 **Latino**: 
 **Matematica**:
 **Scienze**:
-**Storia**: [[L'ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]
+**Storia**: [[Ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]

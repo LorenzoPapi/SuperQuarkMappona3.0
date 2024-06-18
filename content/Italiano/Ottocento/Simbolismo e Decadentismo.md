@@ -1,4 +1,4 @@
-Contemporaneamente ai movimenti del [[Positivismo]], [[Naturalismo e Verismo]] (fine '800), si sviluppano, in netta opposizione, antipositivismo, simbolismo e decadentismo. Il fondamento di questi movimenti è l'**irrazionalismo**. Dove gran parte dei filosofi europei aderiscono al positivismo, altri si trovano in disaccordo, fondano diverse scuole di pensiero che si caratterizzano con la critica del positivismo.
+Contemporaneamente ai movimenti del [[Positivismo]], [[Positivismo letterario]] (fine '800), si sviluppano, in netta opposizione, antipositivismo, simbolismo e decadentismo. Il fondamento di questi movimenti è l'**irrazionalismo**. Dove gran parte dei filosofi europei aderiscono al positivismo, altri si trovano in disaccordo, fondano diverse scuole di pensiero che si caratterizzano con la critica del positivismo.
 
 - Sfiducia nella scienza
 - Impossibile conoscere tutto con certezza

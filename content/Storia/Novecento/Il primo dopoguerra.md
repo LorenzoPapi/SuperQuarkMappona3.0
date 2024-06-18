@@ -25,7 +25,7 @@ In **Austria** salirono i **cristiano-sociali** mentre in **Germania** si assist
 
 Si risollevò la **Francia** che fu dominata dai **conservatori**, e la **Gran Bretagna** dovette affrontare la **questione irlandese**, risolta in parte con la formazione dello **Stato libero d’Irlanda** (1921), e quella **coloniale** che portò alla formazione del **Commonwealth of Nations** (1931).
 
-# Medio Oriente e Asia**
+# Medio Oriente e Asia
 La WWI ebbe effetti anche sul **colonialismo anglo-francese**: la debole economia post-bellica **non permetteva spese militari** per governare le colonie, le quali, consapevoli di avere **sacrificato risorse e uomini**, rivendicavano l’**indipendenza** secondo il **principio di autodeterminazione** di Wilson, del quale reclamavano l’applicazione.
 
 ## L’espansione coloniale anglo-francese in Medio Oriente

@@ -39,7 +39,7 @@ Alla base dell'opera di Svevo vi è una **robusta cultura filosofica** arricchit
 ****
 # Collegamenti
 **Arte**: 
-**Filosofia**: [[Arthur Schopenhauer|Schopenhauer]], [[Friedrich Wilhelm Nietzsche]], [[Sigmund Freud]] (lo dice il libro #TODO )
+**Filosofia**: [[Arthur Schopenhauer|Schopenhauer]], [[Friedrich Wilhelm Nietzsche]], [[Sigmund Freud]]
 **Fisica**:
 **Inglese**: [[James Joyce]] (best friend forever)
 **Latino**:

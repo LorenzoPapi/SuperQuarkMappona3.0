@@ -16,14 +16,14 @@ L'***assassinio Dollfuss*** da parte dei nazisti mostrò la volontà di **espans
 Un **plebiscito** sancì la **riannessione della *Saar*** e poco dopo il Fuhrer reintrodusse la ***leva militare obbligatoria***, abolita dai trattati, per ricostruire la ***Wehrmacht*** affiancandole la ***Luftwaffe***. Tali azioni allarmarono i paesi limitrofi che riunitisi nel ***fronte di Stresa*** (Francia, Gran Bretagna, Italia) condannarono il riarmo. Questa compattezza era però **debole**:
 - Francia voleva **allearsi con l'URSS** in caso di attacco
 - Gran Bretagna **acconsentì la ricostruzione della flotta tedesca** pensando che questa avrebbe contenuto l'URSS.
-- Italia con l'**aggressione all'Etiopia** %%( #TODO metti link) %%si **avvicinò alla Germania**.
+- Italia con l'[[Fascismo#La politica estera e le leggi razziali|aggressione all'Etiopia]] si **avvicinò alla Germania**.
 ## La guerra civile spagnola
 La **Spagna** si presentava come una realtà **composita**:
 - **politica**: si affermarono le idee del **nazionalismo *catalano*** e ***basco*** che volevano l'***indipendenza*** accanto ad **ideologie socialiste rivoluzionarie** (1879) e **anarchiche**.
 - **economica**: convivevano **capitalismo industriale** ed **economia rurale**.
 - **sociale**: la differenza di industrializzazione portava a **scontri sociali**.
 ### 1923 - 1931: la *dittatura di Rivera*
-Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla crisi del 1929**%% ( #TODO link)%%, creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
+Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla [[Grande depressione|crisi del 1929]]** creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
 ### 1932 - 1933: il *biennio rosso*
 La vittoria dei **repubblicani** mise al capo del governo ***Manuel Azana*** che inaugurò molti **provvedimenti sociali** (riforma agraria, confisca dei beni della Corona) e fece varie **concessioni agli indipendentisti**. Fu osteggiato dai **conservatori** che si ricompattarono.
 ### 1934 - 1935: il *biennio nigro*
@@ -68,7 +68,7 @@ Ma era tardi. Hitler **attaccò la Francia** la quale, facendo forza sulla *Line
 #### 22 giugno: la resa
 In poche settimane fu terminata l'**invasione della Francia** (il 14 a Parigi, il 20 a Lione), alla cui guida salì il maresciallo ***Philippe Petain*** che firmò l'***Armistizio di Compiègne*** nello stesso luogo dove la Germania si arrese durante la Prima guerra. Il paese fu diviso tra il **Nord**, sotto diretto **controllo tedesco** e il **Sud** con le **colonie** affidate ad un **governo collaborazionista** con capitale *Vichy* guidato da *Petain*. Il generale ***Charles de Gaulle*** tuttavia, rifugiatosi in Inghilterra, lanciò da **Radio Londra** un appello ai francesi, chiamandoli alla **resistenza**.
 ### La controffensiva inglese
-Unico ostacolo all'avanzata nazista, che aveva constato l'**impossibilità nel trattare con Churchill**, in estate diede il via all'**operazione *Leone Marino***: distruzione dell'aviazione e logoramento psicologico con **massicci bombardamenti** (Londra, Birmingham, Coventy). La ***Royal Air Force*** riuscì a contrastare l'offensiva tedesca con l'uso del ***RADAR*** %%( #TODO RADIOLOGIAAA)%%. Nonostante le pesanti distruzioni, la Gran Bretagna non cedette, rimandando il **progetto di sbarco** e rappresentando la **prima battuta d'arresto del Reich**.
+Unico ostacolo all'avanzata nazista, che aveva constato l'**impossibilità nel trattare con Churchill**, in estate diede il via all'**operazione *Leone Marino***: distruzione dell'aviazione e logoramento psicologico con **massicci bombardamenti** (Londra, Birmingham, Coventy). La ***Royal Air Force*** riuscì a contrastare l'offensiva tedesca con l'uso del ***[[Elettro-magnetismo|RADAR]]***. Nonostante le pesanti distruzioni, la Gran Bretagna non cedette, rimandando il **progetto di sbarco** e rappresentando la **prima battuta d'arresto del Reich**.
 ### L'entrata in guerra dell'Italia
 #### 10 giugno
 All'inizio della Guerra, l'Italia dichiarò lo stato di **non belligeranza** con l'assenso di Hitler, consapevole che **il paese non era in grado di combattere**. L'impazienza di <span title='"Ho bisogno di qualche migliaio di morti da far valere al tavolo della conferenza di pace" dirà a Badoglio' data-html="true"><u>Mussolini</u></span> si scontrò con la posizione dei vertici militari, in particolare dell'ex ministro ***Dino Grandi*** e quello in carica ***Galeazzo Ciano***. Tuttavia, i rapidi successi nazisti illusero di una **rapida vittoria**: Mussolini quindi **dichiarò guerra agli Alleati**.

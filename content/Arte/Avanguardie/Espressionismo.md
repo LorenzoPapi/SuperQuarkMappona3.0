@@ -21,4 +21,4 @@ Fa parte de ***Il fregio della vita*** composta da quattro temi (*La nascita del
 **Latino**:
 **Matematica**:
 **Scienze**:
-**Storia**: [[L'ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]
+**Storia**: [[Ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d6eaa56c8dc8845f",
+        "id": "b29e883c1e1a3996",
         "type": "tabs",
         "children": [
           {
-            "id": "64ca329739242660",
+            "id": "6121c8d563319f3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Munnizzella/Collegamenti ita.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Rivoluzione industriale\"",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Munnizzella/Collegamenti ita.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Munnizzella/Collegamenti ita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Munnizzella/Collegamenti ita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,46 +164,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64ca329739242660",
+  "active": "7cc312b0a6d49c84",
   "lastOpenFiles": [
-    "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Filosofia/Romanticismo/Romanticismo e idealismo.md",
-    "Untitled.md",
-    "Italiano/Ottocento/Gabriele D'Annunzio.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
-    "Italiano/Ottocento/Alessandro Manzoni.md",
-    "Arte/Avanguardie/Astrattismo.md",
-    "Storia/Ottocento/L'ascesa della borghesia.md",
-    "Storia/Ottocento/Imperialismo.md",
-    "NucleiTematici/Roba da sistemare/Storia/14 punti e società delle nazioni.md",
-    "NucleiTematici/Crisi delle certezze.md",
-    "NucleiTematici/Canovaccio.md",
-    "Arte/Impressionismo.md",
-    "Arte/Art Nouveau.md",
-    "Arte/Avanguardie/Espressionismo.md",
-    "Arte/Avanguardie/Dadaismo.md",
-    "Arte/Avanguardie/Cubismo.md",
-    "Storia/Novecento/Stalinismo.md",
-    "Storia/Novecento/Fascismo.md",
-    "Storia/Novecento/Grande depressione.md",
-    "Storia/Novecento/Guerra fredda.md",
-    "Storia/Novecento/Il mondo del primo Novecento.md",
-    "Storia/Novecento/L'età giolittiana.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Inglese/Ottocento",
-    "Inglese/Novecento",
+    "Munnizzella/Latino collegamenti.md",
+    "Munnizzella/Proposte doc arte.md",
+    "Munnizzella/Proposte doc inglese.md",
     "NucleiTematici/Roba da sistemare/LIPIDI.pdf",
     "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
+    "NucleiTematici/Roba da sistemare/LA GLICOLISI E LE FERMENTAZIONI.pdf",
+    "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
     "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
     "NucleiTematici/Roba da sistemare/CARBOIDRTI.pdf",
+    "Munnizzella/Storia/14 punti e società delle nazioni.md",
+    "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
+    "NucleiTematici/Roba da sistemare/Biologia.md",
+    "Scienze/Il metabolismo energetico.md",
+    "Scienze/Biochimica e biomolecole.md",
+    "Scienze/Idrocarburi.md",
+    "Scienze/Chimica organica.md",
+    "Scienze/Untitled",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Scienze",
+    "Italiano/Novecento/Salvatore Quasimodo.md",
+    "Matematica/Limite.md",
+    "Italiano/Novecento/Italo Svevo.md",
+    "Italiano/Novecento/Eugenio Montale.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Stalinismo.md",
+    "Storia/Novecento/Società di massa.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Primo Novecento.md",
+    "Inglese/English and American History (1837-now).md",
+    "Arte/Avanguardie/Astrattismo.md",
+    "Inglese/Novecento/David Herbert Lawrence.md",
+    "Filosofia/Romanticismo/Georg Wilhelm Friedrich Hegel.md",
+    "Storia/Ottocento/Italia dell'Unità.md",
+    "Storia/Ottocento/Ascesa della borghesia.md",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.canvas",
-    "Storia/Ottocento",
-    "Storia/Novecento",
-    "Filosofia/Novecento/Filosofia analitica",
     "Arte/Immagini/Cezanne_01.jpg",
     "Pasted image 20240511192322.png",
     "Untitled 2.canvas",

@@ -107,7 +107,7 @@ Ricordando che *spirito* significa *l'individuo nei rapporti con la comunità di
 Tornando all'individuo, con la **religione** si rappresenta l'**Assoluto come *fuori di sé***, un Dio trascendente distinto da lui, mentre con la **filosofia** acquista la piena **coscienza di *sé stesso* come spirito**, superando la separazione tra individualità e realtà storica.
 ****
 # Collegamenti
-**Arte**:
+**Arte**: [[Astrattismo]] (astrazione della realtà nell'arte)
 **Fisica**: 
 **Inglese**: 
 **Italiano**: 

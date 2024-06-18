@@ -68,8 +68,8 @@ Sostenendo che le **leggi di produzione = leggi di *natura*** e che quelle della
 **Arte**: [[Futurismo]]
 **Fisica**: [[Elettro-magnetismo]]
 **Inglese**: [[Charles Dickens]]
-**Italiano**: [[Giovanni Verga]], [[Naturalismo e Verismo]]
+**Italiano**: [[Giovanni Verga]], [[Positivismo letterario]]
 **Latino**: [[Apuleio]] (erudizione?), [[Gaio Petronio Arbitro]] (rappresentare la realtà per come è)
 **Matematica**:
 **Scienze**: avanzamenti della chimica
-**Storia**: [[L'ascesa della borghesia]]
+**Storia**: [[Ascesa della borghesia]]
