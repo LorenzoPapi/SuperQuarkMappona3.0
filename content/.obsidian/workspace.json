@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b29e883c1e1a3996",
+        "id": "12350d2b3fb116f8",
         "type": "tabs",
         "children": [
           {
-            "id": "6121c8d563319f3a",
+            "id": "291dee9def8fa7e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Munnizzella/Collegamenti ita.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -176,7 +171,7 @@
     "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
     "NucleiTematici/Roba da sistemare/CARBOIDRTI.pdf",
-    "Munnizzella/Storia/14 punti e società delle nazioni.md",
+    "Munnizzella/14 punti e società delle nazioni.md",
     "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
     "NucleiTematici/Roba da sistemare/Biologia.md",
     "Scienze/Il metabolismo energetico.md",
