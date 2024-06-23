@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9d59ed3e688db372",
+        "id": "3d9de98d9e47b50b",
         "type": "tabs",
         "children": [
           {
-            "id": "4058c123aa5081e5",
+            "id": "df64ad9d2342300f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Mappe/Progresso positivista borghese.canvas",
+                "file": "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
                 "viewState": {
-                  "x": 110,
-                  "y": -1160,
-                  "zoom": -1.414781860925931
+                  "x": 397,
+                  "y": -880,
+                  "zoom": -1.3933424281795248
                 }
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mappe/Progresso positivista borghese.canvas"
+                "file": "Mappe/Primo novecento/Primo novecento Pascoli.canvas"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mappe/Progresso positivista borghese.canvas",
+                "file": "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mappe/Progresso positivista borghese.canvas",
+                "file": "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,16 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4058c123aa5081e5",
+  "active": "df64ad9d2342300f",
   "lastOpenFiles": [
-    "Mappe/Socialismo marxista.canvas",
-    "Mappe/Romanticismo ottimista.canvas",
+    "Mappe/Primo novecento/Primo novecento d'Annunzio.canvas",
+    "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
+    "Mappe/Primo novecento",
+    "Mappe/Apogeo della borghesia",
+    "Mappe/Romanticismo",
+    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
+    "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md",
+    "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md",
+    "Mappe/Untitled.md",
+    "Mappe/Apogeo della borghesia/Progresso positivista borghese.canvas",
+    "Mappe/Apogeo della borghesia/Socialismo marxista.canvas",
+    "Mappe/Romanticismo/Romanticismo ottimista.canvas",
     "Fisica/Circuiti elettrici.md",
-    "Mappe/Romanticismo pessimista.canvas",
-    "Mappe/Progresso positivista borghese.canvas",
+    "Mappe/Romanticismo/Romanticismo pessimista.canvas",
     "Arte/Avanguardie/Espressionismo.md",
     "Mappe/Untitled.canvas",
-    "Mappe/Untitled.md",
     "Arte/Postimpressionismo.md",
     "Arte/Pop Art.md",
     "Arte/Impressionismo.md",
@@ -189,7 +197,6 @@
     "Arte/Avanguardie/Cubismo.md",
     "Arte/Avanguardie/Astrattismo.md",
     "Munnizzella/14 punti e società delle nazioni.md",
-    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
     "Untitled.md",
     "Mappe",
     "Inglese/English and American History (1837-now).md",
@@ -198,8 +205,6 @@
     "Storia/Novecento/Prima Guerra Mondiale.md",
     "Storia/Novecento/Seconda guerra mondiale.md",
     "Storia/Novecento/Società di massa.md",
-    "Storia/Ottocento/Imperialismo.md",
-    "Storia/Ottocento/Ascesa della borghesia.md",
     "Pasted image 20240618190808.png",
     "Pasted image 20240618190710.png",
     "Pasted image 20240618190512.png",
@@ -211,14 +216,9 @@
     "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
     "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
-    "NucleiTematici/Roba da sistemare/CARBOIDRTI.pdf",
-    "NucleiTematici/Roba da sistemare/AMMINOACIDI E PROTEINE.pdf",
-    "Scienze/Untitled",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.canvas",
     "Pasted image 20240511192322.png",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Templates/Untitled.canvas"
+    "Untitled 2.canvas"
   ]
 }

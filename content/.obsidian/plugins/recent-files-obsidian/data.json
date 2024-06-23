@@ -1,16 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Primo novecento Pascoli",
+      "path": "Mappe/Primo novecento/Primo novecento Pascoli.canvas"
+    },
+    {
+      "basename": "Primo novecento d'Annunzio",
+      "path": "Mappe/Primo novecento/Primo novecento d'Annunzio.canvas"
+    },
+    {
+      "basename": "Biochimica e biomolecole",
+      "path": "Scienze/Biochimica e biomolecole.md"
+    },
+    {
+      "basename": "Teoria della relatività",
+      "path": "Fisica/Teoria della relatività.md"
+    },
+    {
+      "basename": "Aurelio Agostino",
+      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Neopositivismo",
+      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
+    },
+    {
+      "basename": "Post-positivismo",
+      "path": "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Ottocento/Oscar Wilde.md"
+    },
+    {
+      "basename": "Gabriele D'Annunzio",
+      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "Storia/Ottocento/Imperialismo.md"
+    },
+    {
+      "basename": "Età giolittiana",
+      "path": "Storia/Novecento/Età giolittiana.md"
+    },
+    {
+      "basename": "Primo Novecento",
+      "path": "Storia/Novecento/Primo Novecento.md"
+    },
+    {
+      "basename": "Positivismo letterario",
+      "path": "Italiano/Ottocento/Positivismo letterario.md"
+    },
+    {
+      "basename": "Giovanni Verga",
+      "path": "Italiano/Ottocento/Giovanni Verga.md"
+    },
+    {
+      "basename": "Positivismo",
+      "path": "Filosofia/Ottocento/Positivismo.md"
+    },
+    {
+      "basename": "Società di massa",
+      "path": "Storia/Novecento/Società di massa.md"
+    },
+    {
+      "basename": "Idrocarburi",
+      "path": "Scienze/Idrocarburi.md"
+    },
+    {
       "basename": "Progresso positivista borghese",
-      "path": "Mappe/Progresso positivista borghese.canvas"
+      "path": "Mappe/Apogeo della borghesia/Progresso positivista borghese.canvas"
     },
     {
       "basename": "Socialismo marxista",
-      "path": "Mappe/Socialismo marxista.canvas"
+      "path": "Mappe/Apogeo della borghesia/Socialismo marxista.canvas"
     },
     {
       "basename": "Romanticismo ottimista",
-      "path": "Mappe/Romanticismo ottimista.canvas"
+      "path": "Mappe/Romanticismo/Romanticismo ottimista.canvas"
     },
     {
       "basename": "Circuiti elettrici",
@@ -22,15 +102,11 @@
     },
     {
       "basename": "Romanticismo pessimista",
-      "path": "Mappe/Romanticismo pessimista.canvas"
+      "path": "Mappe/Romanticismo/Romanticismo pessimista.canvas"
     },
     {
       "basename": "Metafisica",
       "path": "Arte/Avanguardie/Metafisica.md"
-    },
-    {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
     },
     {
       "basename": "Georg Wilhelm Friedrich Hegel",
@@ -51,10 +127,6 @@
     {
       "basename": "Prima Guerra Mondiale",
       "path": "Storia/Novecento/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Oscar Wilde",
-      "path": "Inglese/Ottocento/Oscar Wilde.md"
     },
     {
       "basename": "Virginia Woolf",
@@ -85,10 +157,6 @@
       "path": "Filosofia/Ottocento/Arthur Schopenhauer.md"
     },
     {
-      "basename": "Aurelio Agostino",
-      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
-    },
-    {
       "basename": "Chimica organica",
       "path": "Scienze/Chimica organica.md"
     },
@@ -101,24 +169,8 @@
       "path": "Arte/Art Nouveau.md"
     },
     {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
-      "basename": "Gabriele D'Annunzio",
-      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
-    },
-    {
-      "basename": "Giovanni Verga",
-      "path": "Italiano/Ottocento/Giovanni Verga.md"
-    },
-    {
       "basename": "Elettro-magnetismo",
       "path": "Fisica/Elettro-magnetismo.md"
-    },
-    {
-      "basename": "Idrocarburi",
-      "path": "Scienze/Idrocarburi.md"
     },
     {
       "basename": "Karl Marx",
@@ -131,10 +183,6 @@
     {
       "basename": "Gaio Petronio Arbitro",
       "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
-    },
-    {
-      "basename": "Positivismo letterario",
-      "path": "Italiano/Ottocento/Positivismo letterario.md"
     },
     {
       "basename": "Bronte sisters",
@@ -151,54 +199,6 @@
     {
       "basename": "Pop Art",
       "path": "Arte/Pop Art.md"
-    },
-    {
-      "basename": "Surrealismo",
-      "path": "Arte/Avanguardie/Surrealismo.md"
-    },
-    {
-      "basename": "Fauves",
-      "path": "Arte/Avanguardie/Fauves.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
-      "basename": "Positivismo",
-      "path": "Filosofia/Ottocento/Positivismo.md"
-    },
-    {
-      "basename": "Henri Bergson",
-      "path": "Filosofia/Novecento/Henri Bergson.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Novecento/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Società di massa",
-      "path": "Storia/Novecento/Società di massa.md"
-    },
-    {
-      "basename": "Imperialismo",
-      "path": "Storia/Ottocento/Imperialismo.md"
-    },
-    {
-      "basename": "Stalinismo",
-      "path": "Storia/Novecento/Stalinismo.md"
-    },
-    {
-      "basename": "Italia dell'Unità",
-      "path": "Storia/Ottocento/Italia dell'Unità.md"
     }
   ],
   "omittedPaths": [],
