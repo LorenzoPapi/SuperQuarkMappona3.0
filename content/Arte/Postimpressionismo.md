@@ -1,5 +1,4 @@
-# Il movimento
-## 1886 - 1905, Francia
+# Francia, 1886 - 1905
 Nasce dalla necessità di **andare *oltre* l'[[Impressionismo]]**, frugando ancora fra le **pieghe della natura** in un processo che diventa **personale** e **interiore**.
 ## Ideologia
 Le tendenze post-impressioniste presentano alcune caratteristiche comuni:

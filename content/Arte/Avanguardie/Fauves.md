@@ -1,5 +1,4 @@
-# Il movimento
-## 18 ottobre 1905 - 1907, Parigi
+# Parigi,  18 ottobre 1905  -  1907
 Aprì il *Salon d'Automne*: sulle pareti della sala erano state esposte opere di **Matisse** e altri artisti, al centro **sculture quattrocentesche**. Rispetto a quest'ultime, il critico **Vauxcelles** disse di vedere `Donatello fra le belve` (*fauves*). Nonostante la breve durata, divenne un punto d'inizio per il ritorno dell'**espressività** nell'arte.
 ## Ideologia
 I *fauves* si riconoscevano tali per alcune idee comuni:

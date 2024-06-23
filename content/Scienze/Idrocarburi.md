@@ -90,3 +90,7 @@ Le reazioni sono:
 - **alogenazione**;
 - **idroalogenazione**;
 - **idratazione**.
+# I combustibili fossili
+Fino all'Ottocento, la maggior parte dell'energia derivava dalle **biomasse**, ma per sopperire alla mancanza di legname si iniziò ad usare il **carbone** come risorsa principale, tanto che nel [[Ascesa della borghesia|1870]] l'impiego del carbone **superò quello del legname** e si attestò al **95%**. Ebbe inizio anche l'era del **petrolio** che poteva essere trasformato in **benzina** e successivamente il **gas naturale**. Questi combustibili sono detti **fossili** e forniscono l'**80%** dell'energia consumata nel mondo.
+
+Tuttavia hanno un **elevato impatto ambientale**, poiché bruciando producono **CO<sub>2</sub>** che aumenta gli effetti del **riscaldamento globale**. Queste fonti energetiche sono anche **non rinnovabili** perché impiegano anni a formarsi. Vi sono delle fonti detti **giacimenti non convenzionali** che permettono di estrarre il greggio anche da **fonti alternative**, aumentando la quantità di combustibile ma al costo di essere **molto impattanti**. In particolare la tecnica del **fracking** permette di estrarre petrolio e gas intrappolati nelle **rocce scistose**, frantumate con acqua ad alta pressione per **liberare gli idrocarburi**. Si auspica la transizione a **fonti più rinnovabili** (*solare*, *eolica*, *geotermica*) principalmente quella **nucleare**.

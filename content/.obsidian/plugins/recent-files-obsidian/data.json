@@ -1,8 +1,184 @@
 {
   "recentFiles": [
     {
+      "basename": "Progresso positivista borghese",
+      "path": "Mappe/Progresso positivista borghese.canvas"
+    },
+    {
+      "basename": "Socialismo marxista",
+      "path": "Mappe/Socialismo marxista.canvas"
+    },
+    {
+      "basename": "Romanticismo ottimista",
+      "path": "Mappe/Romanticismo ottimista.canvas"
+    },
+    {
+      "basename": "Circuiti elettrici",
+      "path": "Fisica/Circuiti elettrici.md"
+    },
+    {
+      "basename": "Destra e Sinistra hegeliane",
+      "path": "Filosofia/Ottocento/Destra e Sinistra hegeliane.md"
+    },
+    {
+      "basename": "Romanticismo pessimista",
+      "path": "Mappe/Romanticismo pessimista.canvas"
+    },
+    {
+      "basename": "Metafisica",
+      "path": "Arte/Avanguardie/Metafisica.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
+      "basename": "Georg Wilhelm Friedrich Hegel",
+      "path": "Filosofia/Ottocento/Georg Wilhelm Friedrich Hegel.md"
+    },
+    {
+      "basename": "Espressionismo",
+      "path": "Arte/Avanguardie/Espressionismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Ascesa della borghesia",
+      "path": "Storia/Ottocento/Ascesa della borghesia.md"
+    },
+    {
       "basename": "Prima Guerra Mondiale",
       "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Ottocento/Oscar Wilde.md"
+    },
+    {
+      "basename": "Virginia Woolf",
+      "path": "Inglese/Novecento/Virginia Woolf.md"
+    },
+    {
+      "basename": "Impressionismo",
+      "path": "Arte/Impressionismo.md"
+    },
+    {
+      "basename": "Giacomo Leopardi",
+      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
+    },
+    {
+      "basename": "Il primo secolo d.C. (14 - 96)",
+      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
+    },
+    {
+      "basename": "English and American History (1837-now)",
+      "path": "Inglese/English and American History (1837-now).md"
+    },
+    {
+      "basename": "Romanticismo e idealismo",
+      "path": "Filosofia/Ottocento/Romanticismo e idealismo.md"
+    },
+    {
+      "basename": "Arthur Schopenhauer",
+      "path": "Filosofia/Ottocento/Arthur Schopenhauer.md"
+    },
+    {
+      "basename": "Aurelio Agostino",
+      "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
+    },
+    {
+      "basename": "Chimica organica",
+      "path": "Scienze/Chimica organica.md"
+    },
+    {
+      "basename": "Magnetismo",
+      "path": "Fisica/Magnetismo.md"
+    },
+    {
+      "basename": "Art Nouveau",
+      "path": "Arte/Art Nouveau.md"
+    },
+    {
+      "basename": "Simbolismo e Decadentismo",
+      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
+    },
+    {
+      "basename": "Gabriele D'Annunzio",
+      "path": "Italiano/Ottocento/Gabriele D'Annunzio.md"
+    },
+    {
+      "basename": "Giovanni Verga",
+      "path": "Italiano/Ottocento/Giovanni Verga.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
+      "basename": "Idrocarburi",
+      "path": "Scienze/Idrocarburi.md"
+    },
+    {
+      "basename": "Karl Marx",
+      "path": "Filosofia/Ottocento/Karl Marx.md"
+    },
+    {
+      "basename": "Romanticismo letterario",
+      "path": "Italiano/Ottocento/Romanticismo letterario.md"
+    },
+    {
+      "basename": "Gaio Petronio Arbitro",
+      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
+    },
+    {
+      "basename": "Positivismo letterario",
+      "path": "Italiano/Ottocento/Positivismo letterario.md"
+    },
+    {
+      "basename": "Bronte sisters",
+      "path": "Inglese/Ottocento/Bronte sisters.md"
+    },
+    {
+      "basename": "Charles Dickens",
+      "path": "Inglese/Ottocento/Charles Dickens.md"
+    },
+    {
+      "basename": "Postimpressionismo",
+      "path": "Arte/Postimpressionismo.md"
+    },
+    {
+      "basename": "Pop Art",
+      "path": "Arte/Pop Art.md"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Fauves",
+      "path": "Arte/Avanguardie/Fauves.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Positivismo",
+      "path": "Filosofia/Ottocento/Positivismo.md"
+    },
+    {
+      "basename": "Henri Bergson",
+      "path": "Filosofia/Novecento/Henri Bergson.md"
     },
     {
       "basename": "Seconda guerra mondiale",
@@ -17,188 +193,12 @@
       "path": "Storia/Ottocento/Imperialismo.md"
     },
     {
-      "basename": "Ascesa della borghesia",
-      "path": "Storia/Ottocento/Ascesa della borghesia.md"
-    },
-    {
       "basename": "Stalinismo",
       "path": "Storia/Novecento/Stalinismo.md"
     },
     {
       "basename": "Italia dell'Unità",
       "path": "Storia/Ottocento/Italia dell'Unità.md"
-    },
-    {
-      "basename": "Primo Novecento",
-      "path": "Storia/Novecento/Primo Novecento.md"
-    },
-    {
-      "basename": "Positivismo letterario",
-      "path": "Italiano/Ottocento/Positivismo letterario.md"
-    },
-    {
-      "basename": "Gli acidi nucleici",
-      "path": "Scienze/Gli acidi nucleici.md"
-    },
-    {
-      "basename": "Il metabolismo energetico",
-      "path": "Scienze/Il metabolismo energetico.md"
-    },
-    {
-      "basename": "Biochimica e biomolecole",
-      "path": "Scienze/Biochimica e biomolecole.md"
-    },
-    {
-      "basename": "Geofisica",
-      "path": "Scienze/Geofisica.md"
-    },
-    {
-      "basename": "David Herbert Lawrence",
-      "path": "Inglese/Novecento/David Herbert Lawrence.md"
-    },
-    {
-      "basename": "Teoria della relatività",
-      "path": "Fisica/Teoria della relatività.md"
-    },
-    {
-      "basename": "Circuiti elettrici",
-      "path": "Fisica/Circuiti elettrici.md"
-    },
-    {
-      "basename": "Elettro-magnetismo",
-      "path": "Fisica/Elettro-magnetismo.md"
-    },
-    {
-      "basename": "Magnetismo",
-      "path": "Fisica/Magnetismo.md"
-    },
-    {
-      "basename": "Idrocarburi",
-      "path": "Scienze/Idrocarburi.md"
-    },
-    {
-      "basename": "Chimica organica",
-      "path": "Scienze/Chimica organica.md"
-    },
-    {
-      "basename": "Età giolittiana",
-      "path": "Storia/Novecento/Età giolittiana.md"
-    },
-    {
-      "basename": "Fascismo",
-      "path": "Storia/Novecento/Fascismo.md"
-    },
-    {
-      "basename": "Guerra fredda",
-      "path": "Storia/Novecento/Guerra fredda.md"
-    },
-    {
-      "basename": "Grande depressione",
-      "path": "Storia/Novecento/Grande depressione.md"
-    },
-    {
-      "basename": "Il primo dopoguerra",
-      "path": "Storia/Novecento/Il primo dopoguerra.md"
-    },
-    {
-      "basename": "Nazismo",
-      "path": "Storia/Novecento/Nazismo.md"
-    },
-    {
-      "basename": "Rivoluzione Russa",
-      "path": "Storia/Novecento/Rivoluzione Russa.md"
-    },
-    {
-      "basename": "Crediti e About",
-      "path": "Crediti e About.md"
-    },
-    {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Sigmund Freud",
-      "path": "Filosofia/Novecento/Sigmund Freud.md"
-    },
-    {
-      "basename": "Henri Bergson",
-      "path": "Filosofia/Novecento/Henri Bergson.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
-      "basename": "Post-positivismo",
-      "path": "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
-    },
-    {
-      "basename": "Karl Popper",
-      "path": "Filosofia/Novecento/Filosofia analitica/Karl Popper.md"
-    },
-    {
-      "basename": "Giacomo Leopardi",
-      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
-    },
-    {
-      "basename": "Giovanni Pascoli",
-      "path": "Italiano/Ottocento/Giovanni Pascoli.md"
-    },
-    {
-      "basename": "Simbolismo e Decadentismo",
-      "path": "Italiano/Ottocento/Simbolismo e Decadentismo.md"
-    },
-    {
-      "basename": "Romanticismo letterario",
-      "path": "Italiano/Ottocento/Romanticismo letterario.md"
-    },
-    {
-      "basename": "Soren Aabye Kierkegaard",
-      "path": "Filosofia/Ottocento/Soren Aabye Kierkegaard.md"
-    },
-    {
-      "basename": "Romanticismo e idealismo",
-      "path": "Filosofia/Ottocento/Romanticismo e idealismo.md"
-    },
-    {
-      "basename": "Positivismo",
-      "path": "Filosofia/Ottocento/Positivismo.md"
-    },
-    {
-      "basename": "Cubismo",
-      "path": "Arte/Avanguardie/Cubismo.md"
-    },
-    {
-      "basename": "Espressionismo",
-      "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Cezanne_01",
-      "path": "Arte/Immagini/Cezanne_01.jpg"
-    },
-    {
-      "basename": "Collegamenti ita",
-      "path": "Munnizzella/Collegamenti ita.md"
-    },
-    {
-      "basename": "Latino collegamenti",
-      "path": "Munnizzella/Latino collegamenti.md"
-    },
-    {
-      "basename": "Proposte doc arte",
-      "path": "Munnizzella/Proposte doc arte.md"
-    },
-    {
-      "basename": "Proposte doc inglese",
-      "path": "Munnizzella/Proposte doc inglese.md"
     }
   ],
   "omittedPaths": [],

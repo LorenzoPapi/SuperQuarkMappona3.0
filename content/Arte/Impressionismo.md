@@ -1,5 +1,4 @@
-# Il movimento
-## 15 aprile 1874 - 1886, Parigi
+# Parigi, 15 aprile 1874 - 1886
 Viene organizzata la **prima** **mostra** (163 opere) da alcuni giovani artisti, le cui opere erano state **rifiutate dai *Salons* ufficiali**, nel vecchio studio del fotografo **Felix Nadar** al 35 di Boulevard des Capucines, presentandosi come ***Società Anonima degli artisti, pittori, incisori, scultori ecc.***
 
 Nonostante il fallimento completo, diede nome al movimento: il critico **Lousi Leroy**, osservando un dipinto di Monet chiamato ***Impressione, sole nascente***, lo stroncò sostenendo che:

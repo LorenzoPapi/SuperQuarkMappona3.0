@@ -1,5 +1,4 @@
-# Il movimento
-## 1960, Inghilterra e Stati Uniti
+# Inghilterra e Stati Uniti, 1960
 Data l'indifferenza della società di massa ai movimenti artistici post-[[Seconda guerra mondiale]], matura questa forma d'arte che rivolge l'attenzione a **oggetti, miti e linguaggi del consumismo**.
 ## Ideologia
 Essendo *popular*, ovvero **prodotta in serie**, deve essere più **anonima possibile**, potendo così essere compresa da più soggetti. Il salto è **traumatico**, dato che l'arte diventa **merce** con la **pubblicità**: prende i suoi soggetti a partire da **persone e oggetti comunissimi** e fonda la sua **comprensibilità** sul fatto che essi **sono noti ormai a tutti**. L'intervento artistico sta nella **modifica dell'immagine stessa**, abolendo dunque **ogni esperienza soggettiva** e diventando un semplice **strumento economico-pubblicitario**. Uno dei temi preferiti è il **cibo**, che viene decantato però per **dimensione, colore e confezione** (apparenza).

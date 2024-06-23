@@ -1,5 +1,4 @@
-# Il movimento
-## 20 febbraio 1909 - 1944, Parigi
+# Parigi, 20 febbraio 1909 - 1944
 Nasce con la **pubblicazione** sul quotidiano **“Le Figaro”** a firma di [[Futurismo letterario#Filippo Tommaso Marinetti (1876, Alessandria d'Egitto - 1944, Como)|Marinetti]] del ***Manifesto del Futurismo*** dopo una profonda riflessione sui recenti sviluppi tecnologici e con l’intento di **rinnovare profondamente il modo di fare arte e di comunicarla**. Nonostante nel Ventennio l’arte fu soggetta a censura e fu usata come mezzo di propaganda, i futuristi riuscirono a mantenere una **loro autonomia**: tuttavia quando Mussolini tenterà di sopprimere le avanguardie bollandole come ***arte degenerata*** sarà Marinetti a intervenire e **opporsi**, riuscendo a mantenere un certo grado di libertà per l’**arte moderna**.
 ## Ideologia
 Il primo manifesto è preceduto da un prologo che racconta i momenti di fondazione del movimento; contiene 11 punti salienti che insistono sulla:

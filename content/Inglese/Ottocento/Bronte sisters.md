@@ -1,8 +1,3 @@
----
-tags:
-  - TODO
----
-
 # Biographies
 ## 1816, 1818, 1820, Haworth
 **Charlotte**, **Emily** and **Anne** were three children of an Irish Anglican clergyman and spent their lives in **isolation** in the countryside.

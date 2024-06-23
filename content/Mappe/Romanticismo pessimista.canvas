@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"da72aa8f71a5b8b9","type":"group","x":-1520,"y":-440,"width":1020,"height":500,"label":"Fisica e chimica dell'800"},
+		{"id":"46037c3421b6e49c","type":"group","x":1760,"y":-440,"width":960,"height":500,"label":"Filosofia romantica pessimista"},
+		{"id":"5180d20b6566dd9b","type":"group","x":300,"y":-440,"width":880,"height":500,"label":"Romanticismo"},
+		{"id":"d6a7a33317db20ab","type":"file","file":"Italiano/Ottocento/Giacomo Leopardi.md","x":320,"y":-400,"width":400,"height":400},
+		{"id":"3ac496eb08d4796b","type":"file","file":"Italiano/Ottocento/Romanticismo letterario.md","x":760,"y":-400,"width":400,"height":400},
+		{"id":"fb38932a85dd3f6b","type":"file","file":"Arte/Impressionismo.md","x":560,"y":-1560,"width":400,"height":400},
+		{"id":"e56c71d2b4e4df34","type":"file","file":"Inglese/Ottocento/Oscar Wilde.md","x":-560,"y":-1560,"width":400,"height":400},
+		{"id":"aac10438568dc3cc","type":"file","file":"Fisica/Magnetismo.md","x":-1480,"y":-400,"width":400,"height":400},
+		{"id":"360ee1385b85e122","type":"file","file":"Scienze/Chimica organica.md","x":-960,"y":-400,"width":400,"height":400},
+		{"id":"605732863ee4403d","type":"file","file":"Storia/Ottocento/Ascesa della borghesia.md","x":-1680,"y":-1560,"width":400,"height":400},
+		{"id":"9b418395afc43c80","type":"file","file":"Filosofia/Ottocento/Arthur Schopenhauer.md","x":1800,"y":-400,"width":400,"height":400},
+		{"id":"d0cd3cdff4a4b092","type":"file","file":"Filosofia/Ottocento/Romanticismo e idealismo.md","x":2280,"y":-400,"width":400,"height":400},
+		{"id":"b0dc59b6b96c7142","type":"file","file":"Latino/Il 4° secolo/Aurelio Agostino.md","x":2000,"y":-1600,"width":480,"height":480}
+	],
+	"edges":[
+		{"id":"3c6a890967692c7a","fromNode":"5180d20b6566dd9b","fromSide":"left","toNode":"da72aa8f71a5b8b9","toSide":"right","fromEnd":"arrow","label":"Scienza nell'irrazionalità"},
+		{"id":"9a9896884c5d741f","fromNode":"5180d20b6566dd9b","fromSide":"right","toNode":"46037c3421b6e49c","toSide":"left","fromEnd":"arrow","label":"Pessimismo filosofico"},
+		{"id":"3e4741d81aca06d7","fromNode":"46037c3421b6e49c","fromSide":"top","toNode":"b0dc59b6b96c7142","toSide":"bottom","fromEnd":"arrow","label":"OPPOSIZIONE volontà - Dio"},
+		{"id":"a793c57c1fb1e75d","fromNode":"fb38932a85dd3f6b","fromSide":"right","toNode":"b0dc59b6b96c7142","toSide":"left","fromEnd":"arrow","label":"Tempo come continuum di impressioni"},
+		{"id":"06c583ff10e586fc","fromNode":"fb38932a85dd3f6b","fromSide":"left","toNode":"e56c71d2b4e4df34","toSide":"right","fromEnd":"arrow","label":"La vita come opera d'arte\nL'arte per l'arte"},
+		{"id":"dc42f10315d55c32","fromNode":"e56c71d2b4e4df34","fromSide":"left","toNode":"605732863ee4403d","toSide":"right","fromEnd":"arrow","label":"Inghilterra paese borghese"}
+	]
+}

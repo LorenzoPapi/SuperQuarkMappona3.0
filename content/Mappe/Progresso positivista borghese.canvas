@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"55ab6e520cb26cbf","type":"group","x":-1600,"y":-1440,"width":1120,"height":1160,"label":"Società vittoriana"},
+		{"id":"a61963efec4db33a","type":"group","x":520,"y":-2400,"width":1300,"height":560,"label":"Positivismo letterario"},
+		{"id":"24b6c8e711b4c2e4","type":"group","x":-1600,"y":-2400,"width":1120,"height":560,"label":"Romanzo sociale latino"},
+		{"id":"d6a7a33317db20ab","type":"file","file":"Storia/Ottocento/Ascesa della borghesia.md","x":160,"y":-1080,"width":400,"height":400},
+		{"id":"a1593a7f086d09dc","type":"file","file":"Filosofia/Ottocento/Positivismo.md","x":940,"y":-1080,"width":480,"height":400},
+		{"id":"7d28202379af952a","type":"file","file":"Scienze/Idrocarburi.md","subpath":"#I combustibili fossili","x":160,"y":-1680,"width":400,"height":400},
+		{"id":"11efc71039eeface","type":"file","file":"Italiano/Ottocento/Positivismo letterario.md","x":1280,"y":-2320,"width":480,"height":400},
+		{"id":"b0dc59b6b96c7142","type":"file","file":"Italiano/Ottocento/Giovanni Verga.md","x":640,"y":-2320,"width":400,"height":400},
+		{"id":"42d1cc9ec1402515","type":"file","file":"Latino/Il 1° secolo/Gaio Petronio Arbitro.md","x":-920,"y":-2320,"width":400,"height":400},
+		{"id":"69eaf45b6adb421f","type":"file","file":"Arte/Impressionismo.md","x":160,"y":-320,"width":400,"height":400},
+		{"id":"360ee1385b85e122","type":"file","file":"Fisica/Elettro-magnetismo.md","x":940,"y":-320,"width":480,"height":400},
+		{"id":"a93f5d68ce2c2dbe","type":"file","file":"Inglese/English and American History (1837-now).md","subpath":"#The beginning of Victoria's reign","x":-960,"y":-1080,"width":360,"height":400},
+		{"id":"e94b0b23aea6aefe","type":"file","file":"Inglese/Ottocento/Charles Dickens.md","x":-1520,"y":-1360,"width":400,"height":400},
+		{"id":"2ca9653c715141fb","type":"file","file":"Inglese/Ottocento/Bronte sisters.md","x":-1520,"y":-800,"width":400,"height":400},
+		{"id":"06c2e00bed5945ec","type":"file","file":"Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md","subpath":"#Nerone (54 - 68)","x":-1560,"y":-2320,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"76fcf350cc13b3c3","fromNode":"d6a7a33317db20ab","fromSide":"bottom","toNode":"69eaf45b6adb421f","toSide":"top","fromEnd":"arrow","label":"Francia = paese borghese"},
+		{"id":"9a9896884c5d741f","fromNode":"d6a7a33317db20ab","fromSide":"right","toNode":"a1593a7f086d09dc","toSide":"left","fromEnd":"arrow","label":"Clima del tempo"},
+		{"id":"ffdafe808de3c4dd","fromNode":"69eaf45b6adb421f","fromSide":"right","toNode":"360ee1385b85e122","toSide":"left","fromEnd":"arrow","label":"Teorie della luce"},
+		{"id":"d6e57d9693e40ee1","fromNode":"a1593a7f086d09dc","fromSide":"bottom","toNode":"360ee1385b85e122","toSide":"top","fromEnd":"arrow","label":"Scoperte scientifiche dell'epoca"},
+		{"id":"db4b0230b11c7674","fromNode":"d6a7a33317db20ab","fromSide":"top","toNode":"7d28202379af952a","toSide":"bottom","fromEnd":"arrow","label":"Carbone e petrolio nuove fonti energetiche"},
+		{"id":"3e4741d81aca06d7","fromNode":"a1593a7f086d09dc","fromSide":"top","toNode":"a61963efec4db33a","toSide":"bottom","fromEnd":"arrow","label":"Influenza in letteratura"},
+		{"id":"7b1a10e07c7f9824","fromNode":"a61963efec4db33a","fromSide":"left","toNode":"24b6c8e711b4c2e4","toSide":"right","fromEnd":"arrow","label":"Realismo e impersonalità"},
+		{"id":"7d8ada628643ffc6","fromNode":"d6a7a33317db20ab","fromSide":"left","toNode":"55ab6e520cb26cbf","toSide":"right","fromEnd":"arrow","label":"Inghilterra=società decorosa"}
+	]
+}
