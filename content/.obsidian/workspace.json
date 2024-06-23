@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aed771874f5db257",
+        "id": "6090d5b4163791dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a37f5c822c6d1fe1",
+            "id": "fd76168e0cd91e6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scienze/Gli acidi nucleici.md",
+                "file": "Storia/Novecento/Prima Guerra Mondiale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scienze/Gli acidi nucleici.md"
+                "file": "Storia/Novecento/Prima Guerra Mondiale.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scienze/Gli acidi nucleici.md",
+                "file": "Storia/Novecento/Prima Guerra Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scienze/Gli acidi nucleici.md",
+                "file": "Storia/Novecento/Prima Guerra Mondiale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,12 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a37f5c822c6d1fe1",
+  "active": "fd76168e0cd91e6b",
   "lastOpenFiles": [
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Novecento/Società di massa.md",
+    "Storia/Ottocento/Imperialismo.md",
+    "Storia/Ottocento/Ascesa della borghesia.md",
+    "Storia/Novecento/Stalinismo.md",
+    "Storia/Ottocento/Italia dell'Unità.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Primo Novecento.md",
+    "Italiano/Ottocento/Positivismo letterario.md",
+    "Scienze/Gli acidi nucleici.md",
     "Scienze/Il metabolismo energetico.md",
     "Scienze/Biochimica e biomolecole.md",
     "Scienze/Geofisica.md",
-    "Scienze/Gli acidi nucleici.md",
     "Inglese/Novecento/David Herbert Lawrence.md",
     "Fisica/Teoria della relatività.md",
     "Fisica/Circuiti elettrici.md",
@@ -184,15 +193,6 @@
     "Storia/Novecento/Grande depressione.md",
     "Storia/Novecento/Il primo dopoguerra.md",
     "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Primo Novecento.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Storia/Novecento/Società di massa.md",
-    "Storia/Ottocento/Italia dell'Unità.md",
-    "Storia/Ottocento/Imperialismo.md",
-    "Storia/Ottocento/Ascesa della borghesia.md",
-    "Crediti e About.md",
     "Pasted image 20240618190808.png",
     "Pasted image 20240618190710.png",
     "Pasted image 20240618190512.png",

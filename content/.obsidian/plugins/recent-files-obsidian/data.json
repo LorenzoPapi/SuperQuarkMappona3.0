@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Società di massa",
+      "path": "Storia/Novecento/Società di massa.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "Storia/Ottocento/Imperialismo.md"
+    },
+    {
+      "basename": "Ascesa della borghesia",
+      "path": "Storia/Ottocento/Ascesa della borghesia.md"
+    },
+    {
+      "basename": "Stalinismo",
+      "path": "Storia/Novecento/Stalinismo.md"
+    },
+    {
+      "basename": "Italia dell'Unità",
+      "path": "Storia/Ottocento/Italia dell'Unità.md"
+    },
+    {
+      "basename": "Primo Novecento",
+      "path": "Storia/Novecento/Primo Novecento.md"
+    },
+    {
+      "basename": "Positivismo letterario",
+      "path": "Italiano/Ottocento/Positivismo letterario.md"
+    },
+    {
       "basename": "Gli acidi nucleici",
       "path": "Scienze/Gli acidi nucleici.md"
     },
@@ -69,36 +105,8 @@
       "path": "Storia/Novecento/Nazismo.md"
     },
     {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Primo Novecento",
-      "path": "Storia/Novecento/Primo Novecento.md"
-    },
-    {
       "basename": "Rivoluzione Russa",
       "path": "Storia/Novecento/Rivoluzione Russa.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Novecento/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Società di massa",
-      "path": "Storia/Novecento/Società di massa.md"
-    },
-    {
-      "basename": "Italia dell'Unità",
-      "path": "Storia/Ottocento/Italia dell'Unità.md"
-    },
-    {
-      "basename": "Imperialismo",
-      "path": "Storia/Ottocento/Imperialismo.md"
-    },
-    {
-      "basename": "Ascesa della borghesia",
-      "path": "Storia/Ottocento/Ascesa della borghesia.md"
     },
     {
       "basename": "Crediti e About",
@@ -153,10 +161,6 @@
       "path": "Italiano/Ottocento/Romanticismo letterario.md"
     },
     {
-      "basename": "Positivismo letterario",
-      "path": "Italiano/Ottocento/Positivismo letterario.md"
-    },
-    {
       "basename": "Soren Aabye Kierkegaard",
       "path": "Filosofia/Ottocento/Soren Aabye Kierkegaard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Proposte doc inglese",
       "path": "Munnizzella/Proposte doc inglese.md"
-    },
-    {
-      "basename": "14 punti e società delle nazioni",
-      "path": "Munnizzella/14 punti e società delle nazioni.md"
     }
   ],
   "omittedPaths": [],
