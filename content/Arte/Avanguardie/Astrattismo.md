@@ -51,7 +51,7 @@ Irriconoscibile qualunque schema: le **masse di colore** governano il dipinto, l
 - [[Crisi dei fondamenti fisico-matematici#Le nuove geometrie|Geometrie non euclidee]] (spazi astratti che vanno oltre la geometria tradizionale)
 
 **Scienze**:
-- [[DNA]] (astrazione della vita)
+- [[Gli acidi nucleici]] (astrazione della vita)
 - [[Geofisica]] (modellizzazione della Terra per via indiretta)
 
 **Storia**:

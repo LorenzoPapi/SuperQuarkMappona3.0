@@ -53,7 +53,7 @@ La composizione è divisa in **tre fasce verticali**, in un'ambientazione **este
 - [[Il primo secolo d.C. (14 - 96)#Plinio il Vecchio|Plinio il vecchio]] (descrizione frammentata della natura)
 
 **Matematica**: i frattali
-**Scienze**: [[DNA|Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
+**Scienze**: [[Gli acidi nucleici|Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
 **Storia**:
 - [[Seconda guerra mondiale#La guerra civile spagnola|Bombardamento di Guernica]]
 - [[Imperialismo]] ??

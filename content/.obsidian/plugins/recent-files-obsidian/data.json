@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "Gli acidi nucleici",
+      "path": "Scienze/Gli acidi nucleici.md"
+    },
+    {
+      "basename": "Il metabolismo energetico",
+      "path": "Scienze/Il metabolismo energetico.md"
+    },
+    {
+      "basename": "Biochimica e biomolecole",
+      "path": "Scienze/Biochimica e biomolecole.md"
+    },
+    {
+      "basename": "Geofisica",
+      "path": "Scienze/Geofisica.md"
+    },
+    {
+      "basename": "David Herbert Lawrence",
+      "path": "Inglese/Novecento/David Herbert Lawrence.md"
+    },
+    {
+      "basename": "Teoria della relatività",
+      "path": "Fisica/Teoria della relatività.md"
+    },
+    {
+      "basename": "Circuiti elettrici",
+      "path": "Fisica/Circuiti elettrici.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
+      "basename": "Magnetismo",
+      "path": "Fisica/Magnetismo.md"
+    },
+    {
+      "basename": "Idrocarburi",
+      "path": "Scienze/Idrocarburi.md"
+    },
+    {
+      "basename": "Chimica organica",
+      "path": "Scienze/Chimica organica.md"
+    },
+    {
+      "basename": "Età giolittiana",
+      "path": "Storia/Novecento/Età giolittiana.md"
+    },
+    {
+      "basename": "Fascismo",
+      "path": "Storia/Novecento/Fascismo.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Novecento/Guerra fredda.md"
+    },
+    {
+      "basename": "Grande depressione",
+      "path": "Storia/Novecento/Grande depressione.md"
+    },
+    {
+      "basename": "Il primo dopoguerra",
+      "path": "Storia/Novecento/Il primo dopoguerra.md"
+    },
+    {
+      "basename": "Nazismo",
+      "path": "Storia/Novecento/Nazismo.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Primo Novecento",
+      "path": "Storia/Novecento/Primo Novecento.md"
+    },
+    {
+      "basename": "Rivoluzione Russa",
+      "path": "Storia/Novecento/Rivoluzione Russa.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Società di massa",
+      "path": "Storia/Novecento/Società di massa.md"
+    },
+    {
+      "basename": "Italia dell'Unità",
+      "path": "Storia/Ottocento/Italia dell'Unità.md"
+    },
+    {
+      "basename": "Imperialismo",
+      "path": "Storia/Ottocento/Imperialismo.md"
+    },
+    {
+      "basename": "Ascesa della borghesia",
+      "path": "Storia/Ottocento/Ascesa della borghesia.md"
+    },
+    {
+      "basename": "Crediti e About",
+      "path": "Crediti e About.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
       "basename": "Dadaismo",
       "path": "Arte/Avanguardie/Dadaismo.md"
     },
@@ -49,54 +157,6 @@
       "path": "Italiano/Ottocento/Positivismo letterario.md"
     },
     {
-      "basename": "Età giolittiana",
-      "path": "Storia/Novecento/Età giolittiana.md"
-    },
-    {
-      "basename": "Nazismo",
-      "path": "Storia/Novecento/Nazismo.md"
-    },
-    {
-      "basename": "Il primo dopoguerra",
-      "path": "Storia/Novecento/Il primo dopoguerra.md"
-    },
-    {
-      "basename": "Società di massa",
-      "path": "Storia/Novecento/Società di massa.md"
-    },
-    {
-      "basename": "Seconda guerra mondiale",
-      "path": "Storia/Novecento/Seconda guerra mondiale.md"
-    },
-    {
-      "basename": "Rivoluzione Russa",
-      "path": "Storia/Novecento/Rivoluzione Russa.md"
-    },
-    {
-      "basename": "Primo Novecento",
-      "path": "Storia/Novecento/Primo Novecento.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Guerra fredda",
-      "path": "Storia/Novecento/Guerra fredda.md"
-    },
-    {
-      "basename": "Imperialismo",
-      "path": "Storia/Ottocento/Imperialismo.md"
-    },
-    {
-      "basename": "Ascesa della borghesia",
-      "path": "Storia/Ottocento/Ascesa della borghesia.md"
-    },
-    {
-      "basename": "Italia dell'Unità",
-      "path": "Storia/Ottocento/Italia dell'Unità.md"
-    },
-    {
       "basename": "Soren Aabye Kierkegaard",
       "path": "Filosofia/Ottocento/Soren Aabye Kierkegaard.md"
     },
@@ -113,24 +173,12 @@
       "path": "Arte/Avanguardie/Cubismo.md"
     },
     {
-      "basename": "Astrattismo",
-      "path": "Arte/Avanguardie/Astrattismo.md"
-    },
-    {
       "basename": "Espressionismo",
       "path": "Arte/Avanguardie/Espressionismo.md"
     },
     {
       "basename": "Cezanne_01",
       "path": "Arte/Immagini/Cezanne_01.jpg"
-    },
-    {
-      "basename": "DNA",
-      "path": "Scienze/DNA.md"
-    },
-    {
-      "basename": "Geofisica",
-      "path": "Scienze/Geofisica.md"
     },
     {
       "basename": "Collegamenti ita",
@@ -151,54 +199,6 @@
     {
       "basename": "14 punti e società delle nazioni",
       "path": "Munnizzella/14 punti e società delle nazioni.md"
-    },
-    {
-      "basename": "Il metabolismo energetico",
-      "path": "Scienze/Il metabolismo energetico.md"
-    },
-    {
-      "basename": "Biochimica e biomolecole",
-      "path": "Scienze/Biochimica e biomolecole.md"
-    },
-    {
-      "basename": "Idrocarburi",
-      "path": "Scienze/Idrocarburi.md"
-    },
-    {
-      "basename": "Chimica organica",
-      "path": "Scienze/Chimica organica.md"
-    },
-    {
-      "basename": "Salvatore Quasimodo",
-      "path": "Italiano/Novecento/Salvatore Quasimodo.md"
-    },
-    {
-      "basename": "Limite",
-      "path": "Matematica/Limite.md"
-    },
-    {
-      "basename": "Italo Svevo",
-      "path": "Italiano/Novecento/Italo Svevo.md"
-    },
-    {
-      "basename": "Eugenio Montale",
-      "path": "Italiano/Novecento/Eugenio Montale.md"
-    },
-    {
-      "basename": "Stalinismo",
-      "path": "Storia/Novecento/Stalinismo.md"
-    },
-    {
-      "basename": "English and American History (1837-now)",
-      "path": "Inglese/English and American History (1837-now).md"
-    },
-    {
-      "basename": "David Herbert Lawrence",
-      "path": "Inglese/Novecento/David Herbert Lawrence.md"
-    },
-    {
-      "basename": "Georg Wilhelm Friedrich Hegel",
-      "path": "Filosofia/Ottocento/Georg Wilhelm Friedrich Hegel.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a784dfd8d9c49103",
+        "id": "aed771874f5db257",
         "type": "tabs",
         "children": [
           {
-            "id": "0137cc30f504b3ca",
+            "id": "a37f5c822c6d1fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Scienze/Gli acidi nucleici.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md"
+                "file": "Scienze/Gli acidi nucleici.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Scienze/Gli acidi nucleici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arte/Avanguardie/Dadaismo.md",
+                "file": "Scienze/Gli acidi nucleici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "janitor:Janitor: scan vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -164,34 +165,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0137cc30f504b3ca",
+  "active": "a37f5c822c6d1fe1",
   "lastOpenFiles": [
-    "Filosofia/Novecento/Sigmund Freud.md",
-    "Filosofia/Novecento/Henri Bergson.md",
-    "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md",
-    "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md",
-    "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md",
-    "Filosofia/Novecento/Filosofia analitica/Karl Popper.md",
-    "Italiano/Ottocento/Giacomo Leopardi.md",
-    "Italiano/Ottocento/Giovanni Pascoli.md",
-    "Italiano/Ottocento/Simbolismo e Decadentismo.md",
-    "Italiano/Ottocento/Romanticismo letterario.md",
-    "Italiano/Ottocento/Positivismo letterario.md",
+    "Scienze/Il metabolismo energetico.md",
+    "Scienze/Biochimica e biomolecole.md",
+    "Scienze/Geofisica.md",
+    "Scienze/Gli acidi nucleici.md",
+    "Inglese/Novecento/David Herbert Lawrence.md",
+    "Fisica/Teoria della relatività.md",
+    "Fisica/Circuiti elettrici.md",
+    "Fisica/Elettro-magnetismo.md",
+    "Fisica/Magnetismo.md",
+    "Scienze/Idrocarburi.md",
+    "Scienze/Chimica organica.md",
     "Storia/Novecento/Età giolittiana.md",
-    "Storia/Novecento/Nazismo.md",
-    "Storia/Novecento/Il primo dopoguerra.md",
-    "Storia/Novecento/Società di massa.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Storia/Novecento/Rivoluzione Russa.md",
-    "Storia/Novecento/Primo Novecento.md",
-    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Fascismo.md",
     "Storia/Novecento/Guerra fredda.md",
+    "Storia/Novecento/Grande depressione.md",
+    "Storia/Novecento/Il primo dopoguerra.md",
+    "Storia/Novecento/Nazismo.md",
+    "Storia/Novecento/Prima Guerra Mondiale.md",
+    "Storia/Novecento/Primo Novecento.md",
+    "Storia/Novecento/Rivoluzione Russa.md",
+    "Storia/Novecento/Seconda guerra mondiale.md",
+    "Storia/Novecento/Società di massa.md",
+    "Storia/Ottocento/Italia dell'Unità.md",
     "Storia/Ottocento/Imperialismo.md",
     "Storia/Ottocento/Ascesa della borghesia.md",
-    "Storia/Ottocento/Italia dell'Unità.md",
-    "Filosofia/Ottocento/Soren Aabye Kierkegaard.md",
-    "Filosofia/Ottocento/Romanticismo e idealismo.md",
-    "Filosofia/Ottocento/Positivismo.md",
+    "Crediti e About.md",
     "Pasted image 20240618190808.png",
     "Pasted image 20240618190710.png",
     "Pasted image 20240618190512.png",

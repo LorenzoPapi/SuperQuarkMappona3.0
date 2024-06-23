@@ -1,6 +1,5 @@
 # I composti del carbonio
 La **chimica del carbonio** e la **chimica organica** erano prima sinonime, poiché si pensava che ogni composto del carbonio fosse di **origine biologica**: tuttavia **Friedrich Wohler** (**1828**) ottenne **CO(NH<sub>2</sub>)**<sub>2</sub>, l’urea, dal **NH<sub>4</sub>CNO** tramite sintesi; eccetto ossidi, cianuri e carbonati, tutti gli altri composti sono **organici** e si dividono in:
-
 - **idrocarburi** (C e H);
 - **derivati degli idrocarburi** (C, H e altro che viene detto **gruppo funzionale**)
 - **biomolecole** (glucidi, lipidi, protidi e acidi nucleici, composti da C, H, O ed N).
@@ -18,7 +17,6 @@ I composti organici si rappresentano con formule;
 3. **condensate** (**atomi e gruppi atomici**);
 4. **topologiche** (**forma della catena**);
 5. **prospettiche** (**struttura 3D**).
-
 # L’isomeria
 Un **gruppo funzionale** è un **legame multiplo**, **atomo molto elettronegativo**, **gruppo atomico** che si lega a un composto organico; un C si dice **stereocentro** se legato a **quattro gruppi diversi fra loro**; gli **isomeri** sono composti che hanno **stessa formula bruta ma diversa di struttura**.
 
@@ -30,8 +28,8 @@ Gli **isomeri di struttura** hanno diversa **struttura piana**:
 Gli **stereoisomeri** hanno diversa **disposizione spaziale**:
 - **conformazionali**: possono **interconvertirsi** con una rotazione attorno a un **legame semplice C-C** (C<sub>2</sub>H<sub>6</sub>); le forme si dicono **sfalsata**, più stabile, ed **eclissata**;
 - **configurazionali**: **non possono interconvertirsi** per rotazione:
-	- **geometrici**: differiscono per disposizione di gruppi legati **C-C** (cicloalcani) o **C=C** (alcheni); quello che ha i gruppi **nella stessa parte** rispetto al piano dell’anello è detto **cis-**, altrimenti **trans-**;
-	  - **enantiomeri** (ottici): esistono se la molecola è **chirale** (presenta **stereocentro**, difetta **piano di simmetria**) e sono **l’uno specchio dell’altro** ma **non sovrapponibili**. I due composti hanno **stesse proprietà achirali** ma **diverse chirali**: con un **polarimetro** (polarizzatore, tubo portacampione, prisma analizzatore) si misurano queste ultime proprietà. Se il piano della luce viene ruotato **in senso orario**, allora si dice **destrogira** (+), altrimenti **levogira** (-); l’enzima deidrogenasi ossida l’acido (+)-lattico in piruvico, non il (-).
+	- **geometrici**: differiscono per disposizione di gruppi legati **C-C** (cicloalcani) o **C=C** (alcheni); quello che ha i gruppi **nella stessa parte** rispetto al piano dell’anello è detto **cis-**, altrimenti **trans-**
+	- **enantiomeri** (ottici): esistono se la molecola è **chirale** (presenta **stereocentro**, difetta **piano di simmetria**) e sono **l’uno specchio dell’altro** ma **non sovrapponibili**. I due composti hanno **stesse proprietà achirali** ma **diverse chirali**: con un **polarimetro** (polarizzatore, tubo portacampione, prisma analizzatore) si misurano queste ultime proprietà. Se il piano della luce viene ruotato **in senso orario**, allora si dice **destrogira** (+), altrimenti **levogira** (-); l’enzima deidrogenasi ossida l’acido (+)-lattico in piruvico, non il (-).
 # Proprietà dei composti organici
 Le **proprietà fisiche** dei composti organici sono:
 - lo **stato fisico** dipende dal **numero** e dalla **forza** dei **legami** intermolecolari;
