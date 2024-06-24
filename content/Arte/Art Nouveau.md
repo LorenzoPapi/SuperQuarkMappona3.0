@@ -51,6 +51,5 @@ Coincide con i viaggi di Klimt in Europa che lo portarono a conoscere i [[Fauves
 **Inglese**: [[Charles Dickens]]
 **Italiano**: 
 **Latino**: 
-**Matematica**:
 **Scienze**:
 **Storia**: [[Ascesa della borghesia#La *seconda rivoluzione industriale***|Revolution]]

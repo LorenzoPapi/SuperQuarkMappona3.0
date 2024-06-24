@@ -4,9 +4,10 @@ Son of a **coal miner** and a **schoolteacher**, his mother was dissatisfied wit
 **1911**: he publishes his first novel, ***The White Peacock***.
 **1913**: after his brother's death, he became the centre of his **mother's emotional life**, telling their story in ***Sons and Lovers***.
 **1914-1918**: being an **opponent of [[Prima Guerra Mondiale|WWI]]** and husband of a **German-born woman**, he was suspected of **spying**.
-**1918-1930**: after the war, he started living in **different countries** and was very **prolific**, writing poems and novels. His last novel, ***Lady Chatterley's Lover*** (1928) was **banned** in England and in the USA for its **explicit sexual content**. He died of **tuberculosis**.
+**1918-1930**: after the war, he started living in **different countries** and was very **prolific**, writing poems and novels. His last novel, ***Lady Chatterley's Lover*** (1928) was **banned** in England and in the USA for its **explicit sexual content**.
+He died of **tuberculosis**.
 # Works
-## Sons and Lovers
+## *Sons and Lovers*
 ### Plot
 The story talks about the **Morel family**: **Gertrude** is **clever** and literate, while her husband is an **uneducated coal miner**. Due to their class difference, disputes are daily. Mrs Morel devotes **all her love** to her children, in particular to the **talented Paul**. However, this unsettling relationship makes him **reject Miriam, his first girlfriend** and then abandon her because she doesn't want any **physical relation** with him. Later, he starts another relationship with **Clara Dawes**, married woman and *Suffragette*, but he soon realises that **she's not the one**. Meanwhile, his mother **dies of cancer** but Paul, after thinking about **suicide**, achieves in shaking off his past and starting a **new life**.
 ### Characters

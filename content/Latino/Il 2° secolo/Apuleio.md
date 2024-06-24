@@ -62,6 +62,5 @@ La sintassi è **paratattica**, creando periodi ampi e articolati che **seguono 
 **Fisica**:
 **Inglese**:
 **Italiano**:
-**Matematica**:
 **Scienze**:
 **Storia**:

@@ -67,6 +67,5 @@ Dato il dolore intrinseco dell'esistenza, si **impara lentamente a non volerla p
 **Inglese**: 
 **Italiano**: [[Giacomo Leopardi]] (pessimismo cosmico)
 **Latino**: [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (mancanza di provvidenzialismo)
-**Matematica**:
 **Scienze**:
 **Storia**: 
