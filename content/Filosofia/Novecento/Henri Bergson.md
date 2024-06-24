@@ -12,7 +12,7 @@ L'origine di questi concetti non è **spaziale** (come diceva Kant), ma **[[Cita
 **Fisica**: [[Teoria della relatività]] (tempo)
 **Inglese**: [[Virginia Woolf]] (Mrs Dalloway e il tempo soggetivo)
 **Italiano**: [[Giuseppe Ungaretti]] (tempo come memoria)
-**Latino**: 
+**Latino**: [[Aurelio Agostino]] (interiorità del tempo)
 **Matematica**: 
-**Scienze**:
+**Scienze**: 
 **Storia**: 

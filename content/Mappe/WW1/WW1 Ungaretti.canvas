@@ -1,26 +1,28 @@
 {
 	"nodes":[
 		{"id":"cda3e4d00c26c420","type":"group","x":-480,"y":680,"width":980,"height":976,"label":"Le avanguardie"},
-		{"id":"9fb8c5a3038a554c","x":720,"y":-440,"width":440,"height":920,"type":"group","label":"Ermetismo"},
-		{"id":"3a4b0bcc8d079f7a","type":"file","file":"Fisica/Elettro-magnetismo.md","x":-1200,"y":-200,"width":400,"height":400},
-		{"id":"c81688f7d1165818","type":"file","file":"Arte/Avanguardie/Surrealismo.md","x":80,"y":1236,"width":400,"height":400},
+		{"id":"c034bd9bdc4a023d","x":-440,"y":-240,"width":900,"height":520,"type":"group","label":"WW1 e conseguenze"},
+		{"id":"9fb8c5a3038a554c","type":"group","x":1040,"y":-440,"width":440,"height":920,"label":"Ermetismo"},
 		{"id":"6a22abb88e0a6e99","type":"file","file":"Arte/Avanguardie/Dadaismo.md","x":80,"y":756,"width":400,"height":400},
-		{"id":"c27a36919ca65539","type":"file","file":"Arte/Avanguardie/Astrattismo.md","x":-440,"y":956,"width":400,"height":400},
-		{"id":"f3a1de601c29f282","type":"file","file":"Storia/Novecento/Prima Guerra Mondiale.md","x":-180,"y":-200,"width":400,"height":400},
-		{"id":"6417b7f7563cd308","x":745,"y":718,"width":400,"height":400,"type":"file","file":"Inglese/Novecento/War Poets.md"},
-		{"id":"b9e08075ce328106","x":745,"y":-400,"width":400,"height":400,"type":"file","file":"Italiano/Novecento/Salvatore Quasimodo.md"},
-		{"id":"c31090e23e866b3b","x":745,"y":40,"width":400,"height":400,"type":"file","file":"Italiano/Novecento/Giuseppe Ungaretti.md"},
-		{"id":"3a91efaab6b4a9f4","x":-180,"y":-1000,"width":400,"height":400,"type":"file","file":"Latino/Il 1° secolo/L'epica del 1° secolo.md"},
-		{"id":"bbf6de7ce0d65c80","x":-880,"y":-1000,"width":400,"height":400,"type":"file","file":"Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"},
-		{"id":"4c5f20e87fa2be87","x":-1200,"y":518,"width":400,"height":400,"type":"file","file":"Scienze/Gli acidi nucleici.md"}
+		{"id":"f3a1de601c29f282","type":"file","file":"Storia/Novecento/Prima Guerra Mondiale.md","x":-400,"y":-200,"width":400,"height":420},
+		{"id":"91bed9e9cdf118db","x":40,"y":-200,"width":400,"height":420,"type":"file","file":"Storia/Novecento/Il primo dopoguerra.md"},
+		{"id":"b9e08075ce328106","type":"file","file":"Italiano/Novecento/Salvatore Quasimodo.md","x":1065,"y":-400,"width":400,"height":400},
+		{"id":"c31090e23e866b3b","type":"file","file":"Italiano/Novecento/Giuseppe Ungaretti.md","x":1065,"y":40,"width":400,"height":400},
+		{"id":"bbf6de7ce0d65c80","type":"file","file":"Filosofia/Novecento/Henri Bergson.md","x":1065,"y":-1080,"width":400,"height":400},
+		{"id":"6417b7f7563cd308","type":"file","file":"Inglese/Novecento/War Poets.md","x":1065,"y":756,"width":400,"height":400},
+		{"id":"3a4b0bcc8d079f7a","type":"file","file":"Fisica/Elettro-magnetismo.md","x":-1600,"y":-180,"width":400,"height":400},
+		{"id":"4c5f20e87fa2be87","type":"file","file":"Scienze/Gli acidi nucleici.md","x":-1600,"y":756,"width":400,"height":400},
+		{"id":"3a91efaab6b4a9f4","type":"file","file":"Latino/Il 1° secolo/L'epica del 1° secolo.md","x":-200,"y":-1120,"width":400,"height":400},
+		{"id":"c27a36919ca65539","type":"file","file":"Arte/Avanguardie/Astrattismo.md","x":-400,"y":756,"width":400,"height":400},
+		{"id":"c81688f7d1165818","type":"file","file":"Arte/Avanguardie/Surrealismo.md","x":-160,"y":1240,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"b91f19e9d06feb8f","fromNode":"f3a1de601c29f282","fromSide":"left","toNode":"3a4b0bcc8d079f7a","toSide":"right","label":"La radio\nI raggi x per le ferite dei soldati"},
-		{"id":"9ae4f9f926fd88d9","fromNode":"f3a1de601c29f282","fromSide":"bottom","toNode":"cda3e4d00c26c420","toSide":"top","label":"Gli effetti dell'arte nella guerra"},
-		{"id":"221480d26957884e","fromNode":"f3a1de601c29f282","fromSide":"right","toNode":"9fb8c5a3038a554c","toSide":"left","label":"La tragedia della guerra"},
-		{"id":"cad1f7870d37f0ff","fromNode":"9fb8c5a3038a554c","fromSide":"bottom","toNode":"6417b7f7563cd308","toSide":"top"},
-		{"id":"0abc5e3f7c9d7791","fromNode":"f3a1de601c29f282","fromSide":"top","toNode":"3a91efaab6b4a9f4","toSide":"bottom","label":"La tragedia della guerra"},
-		{"id":"d19f4e5b42447e42","fromNode":"f3a1de601c29f282","fromSide":"left","toNode":"bbf6de7ce0d65c80","toSide":"bottom","label":"Filosofie post-belliche?"},
-		{"id":"83f5b116c825209b","fromNode":"3a4b0bcc8d079f7a","fromSide":"bottom","toNode":"4c5f20e87fa2be87","toSide":"top","label":"Raggi X = scoperta DNA\nDonne nella scienza"}
+		{"id":"b91f19e9d06feb8f","fromNode":"c034bd9bdc4a023d","fromSide":"left","toNode":"3a4b0bcc8d079f7a","toSide":"right","label":"La radio\nI raggi x per le ferite dei soldati"},
+		{"id":"9ae4f9f926fd88d9","fromNode":"c034bd9bdc4a023d","fromSide":"bottom","toNode":"cda3e4d00c26c420","toSide":"top","label":"Gli effetti dell'arte nella guerra"},
+		{"id":"221480d26957884e","fromNode":"c034bd9bdc4a023d","fromSide":"right","toNode":"9fb8c5a3038a554c","toSide":"left","label":"La tragedia della guerra"},
+		{"id":"cad1f7870d37f0ff","fromNode":"9fb8c5a3038a554c","fromSide":"bottom","toNode":"6417b7f7563cd308","toSide":"top","label":"La crudeltà della guerra"},
+		{"id":"0abc5e3f7c9d7791","fromNode":"c034bd9bdc4a023d","fromSide":"top","toNode":"3a91efaab6b4a9f4","toSide":"bottom","label":"La tragedia della guerra"},
+		{"id":"83f5b116c825209b","fromNode":"3a4b0bcc8d079f7a","fromSide":"bottom","toNode":"4c5f20e87fa2be87","toSide":"top","label":"Raggi X = scoperta DNA\nDonne nella scienza"},
+		{"id":"371a7933888ad8f0","fromNode":"9fb8c5a3038a554c","fromSide":"top","toNode":"bbf6de7ce0d65c80","toSide":"bottom","label":"Chiusura in se stessi"}
 	]
 }

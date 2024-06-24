@@ -1,11 +1,19 @@
 {
 	"nodes":[
-		{"id":"0d5274f3ad62ddea","x":-660,"y":-200,"width":893,"height":480,"type":"group","label":"Secondo novecento"},
-		{"id":"b8fe42e8ab4efab7","x":560,"y":-160,"width":400,"height":400,"type":"file","file":"Italiano/Novecento/Eugenio Montale.md"},
-		{"id":"88e246bcaa251b23","x":-627,"y":-160,"width":400,"height":400,"type":"file","file":"Storia/Novecento/Guerra fredda.md"},
-		{"id":"78076655a42e7f2b","x":-187,"y":-160,"width":400,"height":400,"type":"file","file":"Storia/Novecento/Seconda guerra mondiale.md"}
+		{"id":"0d5274f3ad62ddea","type":"group","x":-660,"y":-200,"width":893,"height":480,"label":"Secondo novecento"},
+		{"id":"88e246bcaa251b23","type":"file","file":"Storia/Novecento/Guerra fredda.md","x":-627,"y":-160,"width":400,"height":400},
+		{"id":"78076655a42e7f2b","type":"file","file":"Storia/Novecento/Seconda guerra mondiale.md","x":-187,"y":-160,"width":400,"height":400},
+		{"id":"2888feabbf7ef1c8","x":-411,"y":682,"width":400,"height":400,"type":"file","file":"Arte/Pop Art.md"},
+		{"id":"27e8406a4c95f608","x":-411,"y":-960,"width":400,"height":400,"type":"file","file":"Fisica/Teoria della relatività.md"},
+		{"id":"6e16fe20f75ac59b","x":-1560,"y":-160,"width":400,"height":400,"type":"file","file":"Scienze/Gli acidi nucleici.md"},
+		{"id":"b8fe42e8ab4efab7","type":"file","file":"Italiano/Novecento/Eugenio Montale.md","x":760,"y":-640,"width":400,"height":400},
+		{"id":"0b51a3ab69bd30f3","x":760,"y":486,"width":400,"height":400,"type":"file","file":"Inglese/Novecento/George Orwell.md"}
 	],
 	"edges":[
-		{"id":"1e4d5d4245619650","fromNode":"0d5274f3ad62ddea","fromSide":"right","toNode":"b8fe42e8ab4efab7","toSide":"left","label":"Il poeta è morto"}
+		{"id":"1e4d5d4245619650","fromNode":"0d5274f3ad62ddea","fromSide":"right","toNode":"b8fe42e8ab4efab7","toSide":"left","label":"Il poeta è morto"},
+		{"id":"97e1298fd42b0334","fromNode":"0d5274f3ad62ddea","fromSide":"top","toNode":"27e8406a4c95f608","toSide":"bottom","label":"Il deterrente atomico"},
+		{"id":"275847aeff8acb0b","fromNode":"0d5274f3ad62ddea","fromSide":"bottom","toNode":"2888feabbf7ef1c8","toSide":"top","label":"La completa mercificazione dell'arte"},
+		{"id":"530d956b9812b56b","fromNode":"0d5274f3ad62ddea","fromSide":"left","toNode":"6e16fe20f75ac59b","toSide":"right","label":"La scoperta del DNA"},
+		{"id":"2dcc7fed380ce671","fromNode":"0d5274f3ad62ddea","fromSide":"right","toNode":"0b51a3ab69bd30f3","toSide":"left","label":"L'URSS distopica"}
 	]
 }
