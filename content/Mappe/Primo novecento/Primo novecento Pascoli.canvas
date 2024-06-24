@@ -2,26 +2,26 @@
 	"nodes":[
 		{"id":"5dc838c77e115d6a","type":"group","x":-240,"y":-1400,"width":1080,"height":1000,"label":"Il primo novecento"},
 		{"id":"11f7722adf29e4f8","type":"group","x":1360,"y":-1400,"width":600,"height":1000,"label":"Simbolismo"},
-		{"id":"d6a7a33317db20ab","type":"file","file":"Storia/Novecento/Primo Novecento.md","x":380,"y":-1340,"width":400,"height":400},
-		{"id":"28d992a1c385f7e4","type":"file","file":"Storia/Novecento/Società di massa.md","x":-180,"y":-1340,"width":400,"height":400},
-		{"id":"4a5984321a11b591","type":"file","file":"Storia/Novecento/Età giolittiana.md","x":-180,"y":-860,"width":400,"height":400},
-		{"id":"4fcb16450244f19c","type":"file","file":"Storia/Ottocento/Imperialismo.md","subpath":"#L’età dell'imperialismo (1870 - 1914)","x":380,"y":-860,"width":400,"height":400},
 		{"id":"565fbf13ea793ae5","type":"file","file":"Fisica/Teoria della relatività.md","x":-1160,"y":-1100,"width":400,"height":400},
-		{"id":"68c73a1df15724a3","type":"file","file":"Arte/Avanguardie/Futurismo.md","x":120,"y":0,"width":400,"height":400},
 		{"id":"d039513b0b846e11","type":"file","file":"Latino/Il 4° secolo/Aurelio Agostino.md","x":-1158,"y":-193,"width":400,"height":400},
 		{"id":"ac0169ca310580fb","type":"file","file":"Scienze/Biochimica e biomolecole.md","subpath":"#Enzimi","x":-1166,"y":-2046,"width":400,"height":400},
 		{"id":"f4ed54185ec189d3","type":"file","file":"Italiano/Ottocento/Simbolismo e Decadentismo.md","x":1480,"y":-1340,"width":400,"height":400},
-		{"id":"6251e068abeb76ca","type":"file","file":"Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md","subpath":"#L'*oltreuomo* (*Übermensch*)","x":1440,"y":-2160,"width":400,"height":400},
 		{"id":"fc7ebc53b374d330","type":"file","file":"Italiano/Ottocento/Giovanni Pascoli.md","x":1480,"y":-860,"width":400,"height":400},
-		{"id":"5c6a20e193404418","type":"file","file":"Inglese/Ottocento/Oscar Wilde.md","x":1480,"y":0,"width":400,"height":400}
+		{"id":"6251e068abeb76ca","type":"file","file":"Filosofia/Novecento/Sigmund Freud.md","x":1440,"y":-2160,"width":440,"height":400},
+		{"id":"5c6a20e193404418","type":"file","file":"Arte/Avanguardie/Cubismo.md","x":1420,"y":-193,"width":480,"height":400},
+		{"id":"79f299b80a8580af","x":680,"y":-2160,"width":400,"height":400,"type":"file","file":"Inglese/Novecento/David Herbert Lawrence.md"},
+		{"id":"4fcb16450244f19c","type":"file","file":"Storia/Ottocento/Imperialismo.md","subpath":"#L’età dell'imperialismo (1870 - 1914)","x":380,"y":-860,"width":400,"height":400},
+		{"id":"d6a7a33317db20ab","type":"file","file":"Storia/Novecento/Primo Novecento.md","x":380,"y":-1340,"width":400,"height":400},
+		{"id":"28d992a1c385f7e4","type":"file","file":"Storia/Novecento/Società di massa.md","x":-180,"y":-1340,"width":400,"height":400},
+		{"id":"4a5984321a11b591","type":"file","file":"Storia/Novecento/Età giolittiana.md","x":-180,"y":-860,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"ac70d13a8918820e","fromNode":"5dc838c77e115d6a","fromSide":"right","toNode":"11f7722adf29e4f8","toSide":"left","label":"Inneggio alla guerra\nMercificazione dell'arte\nPaura della realtà"},
-		{"id":"6aee7950dba8070a","fromNode":"11f7722adf29e4f8","fromSide":"top","toNode":"6251e068abeb76ca","toSide":"bottom","label":"Il secondo d'Annunzio: superuomo"},
-		{"id":"5187c8e5fd762018","fromNode":"11f7722adf29e4f8","fromSide":"bottom","toNode":"5c6a20e193404418","toSide":"top","label":"Il primo d'Annunzio: l'estetismo"},
+		{"id":"ac70d13a8918820e","fromNode":"5dc838c77e115d6a","fromSide":"right","toNode":"11f7722adf29e4f8","toSide":"left","label":"Inneggio alla guerra\nPaura della realtà"},
+		{"id":"5187c8e5fd762018","fromNode":"11f7722adf29e4f8","fromSide":"bottom","toNode":"5c6a20e193404418","toSide":"top","label":"Il fanciullino nell'arte"},
 		{"id":"ce3f738959c775c6","fromNode":"5dc838c77e115d6a","fromSide":"left","toNode":"565fbf13ea793ae5","toSide":"right","label":"Crisi del tempo assoluto"},
-		{"id":"910628c92562d443","fromNode":"5dc838c77e115d6a","fromSide":"bottom","toNode":"68c73a1df15724a3","toSide":"top","label":"L'arte come dinamicità\nDistruzione della tradizione"},
 		{"id":"792257ba67bed4d2","fromNode":"565fbf13ea793ae5","fromSide":"bottom","toNode":"d039513b0b846e11","toSide":"top","label":"La relatività del tempo\nL'inesistenza del tempo oggettivo"},
-		{"id":"039578a35eeeee86","fromNode":"565fbf13ea793ae5","fromSide":"top","toNode":"ac0169ca310580fb","toSide":"bottom","label":"L'accelerazione delle reazioni chimiche"}
+		{"id":"039578a35eeeee86","fromNode":"565fbf13ea793ae5","fromSide":"top","toNode":"ac0169ca310580fb","toSide":"bottom","label":"L'accelerazione delle reazioni chimiche"},
+		{"id":"6aee7950dba8070a","fromNode":"11f7722adf29e4f8","fromSide":"top","toNode":"6251e068abeb76ca","toSide":"bottom","label":"Crisi dell'io"},
+		{"id":"e6330a84da473f5e","fromNode":"6251e068abeb76ca","fromSide":"left","toNode":"79f299b80a8580af","toSide":"right"}
 	]
 }

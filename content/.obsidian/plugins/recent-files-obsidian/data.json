@@ -9,8 +9,116 @@
       "path": "Mappe/Primo novecento/Primo novecento d'Annunzio.canvas"
     },
     {
+      "basename": "WW2 Montale",
+      "path": "Mappe/WW2/WW2 Montale.canvas"
+    },
+    {
+      "basename": "Eugenio Montale",
+      "path": "Italiano/Novecento/Eugenio Montale.md"
+    },
+    {
+      "basename": "Seconda guerra mondiale",
+      "path": "Storia/Novecento/Seconda guerra mondiale.md"
+    },
+    {
+      "basename": "Guerra fredda",
+      "path": "Storia/Novecento/Guerra fredda.md"
+    },
+    {
+      "basename": "WW1 Ungaretti",
+      "path": "Mappe/WW1/WW1 Ungaretti.canvas"
+    },
+    {
+      "basename": "Gli acidi nucleici",
+      "path": "Scienze/Gli acidi nucleici.md"
+    },
+    {
+      "basename": "Prima Guerra Mondiale",
+      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
+    },
+    {
+      "basename": "Neopositivismo",
+      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
+    },
+    {
+      "basename": "L'epica del 1° secolo",
+      "path": "Latino/Il 1° secolo/L'epica del 1° secolo.md"
+    },
+    {
+      "basename": "Lucio Anneo Seneca",
+      "path": "Latino/Il 1° secolo/Lucio Anneo Seneca.md"
+    },
+    {
+      "basename": "Giuseppe Ungaretti",
+      "path": "Italiano/Novecento/Giuseppe Ungaretti.md"
+    },
+    {
+      "basename": "Salvatore Quasimodo",
+      "path": "Italiano/Novecento/Salvatore Quasimodo.md"
+    },
+    {
+      "basename": "War Poets",
+      "path": "Inglese/Novecento/War Poets.md"
+    },
+    {
+      "basename": "Astrattismo",
+      "path": "Arte/Avanguardie/Astrattismo.md"
+    },
+    {
+      "basename": "Dadaismo",
+      "path": "Arte/Avanguardie/Dadaismo.md"
+    },
+    {
+      "basename": "Romanticismo ottimista",
+      "path": "Mappe/Romanticismo/Romanticismo ottimista.canvas"
+    },
+    {
+      "basename": "Surrealismo",
+      "path": "Arte/Avanguardie/Surrealismo.md"
+    },
+    {
+      "basename": "Elettro-magnetismo",
+      "path": "Fisica/Elettro-magnetismo.md"
+    },
+    {
+      "basename": "David Herbert Lawrence",
+      "path": "Inglese/Novecento/David Herbert Lawrence.md"
+    },
+    {
+      "basename": "Sigmund Freud",
+      "path": "Filosofia/Novecento/Sigmund Freud.md"
+    },
+    {
+      "basename": "Romanticismo e idealismo",
+      "path": "Filosofia/Ottocento/Romanticismo e idealismo.md"
+    },
+    {
+      "basename": "Cubismo",
+      "path": "Arte/Avanguardie/Cubismo.md"
+    },
+    {
+      "basename": "Primo Novecento",
+      "path": "Storia/Novecento/Primo Novecento.md"
+    },
+    {
+      "basename": "Friedrich Wilhelm Nietzsche",
+      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
+    },
+    {
+      "basename": "Futurismo",
+      "path": "Arte/Avanguardie/Futurismo.md"
+    },
+    {
       "basename": "Biochimica e biomolecole",
       "path": "Scienze/Biochimica e biomolecole.md"
+    },
+    {
+      "basename": "Romanticismo letterario",
+      "path": "Italiano/Ottocento/Romanticismo letterario.md"
+    },
+    {
+      "basename": "Oscar Wilde",
+      "path": "Inglese/Ottocento/Oscar Wilde.md"
     },
     {
       "basename": "Teoria della relatività",
@@ -21,24 +129,8 @@
       "path": "Latino/Il 4° secolo/Aurelio Agostino.md"
     },
     {
-      "basename": "Futurismo",
-      "path": "Arte/Avanguardie/Futurismo.md"
-    },
-    {
-      "basename": "Friedrich Wilhelm Nietzsche",
-      "path": "Filosofia/Novecento/Friedrich Wilhelm Nietzsche.md"
-    },
-    {
-      "basename": "Neopositivismo",
-      "path": "Filosofia/Novecento/Filosofia analitica/Neopositivismo.md"
-    },
-    {
       "basename": "Post-positivismo",
       "path": "Filosofia/Novecento/Filosofia analitica/Post-positivismo.md"
-    },
-    {
-      "basename": "Oscar Wilde",
-      "path": "Inglese/Ottocento/Oscar Wilde.md"
     },
     {
       "basename": "Gabriele D'Annunzio",
@@ -55,10 +147,6 @@
     {
       "basename": "Età giolittiana",
       "path": "Storia/Novecento/Età giolittiana.md"
-    },
-    {
-      "basename": "Primo Novecento",
-      "path": "Storia/Novecento/Primo Novecento.md"
     },
     {
       "basename": "Positivismo letterario",
@@ -89,10 +177,6 @@
       "path": "Mappe/Apogeo della borghesia/Socialismo marxista.canvas"
     },
     {
-      "basename": "Romanticismo ottimista",
-      "path": "Mappe/Romanticismo/Romanticismo ottimista.canvas"
-    },
-    {
       "basename": "Circuiti elettrici",
       "path": "Fisica/Circuiti elettrici.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Espressionismo",
       "path": "Arte/Avanguardie/Espressionismo.md"
-    },
-    {
-      "basename": "Dadaismo",
-      "path": "Arte/Avanguardie/Dadaismo.md"
-    },
-    {
-      "basename": "Ascesa della borghesia",
-      "path": "Storia/Ottocento/Ascesa della borghesia.md"
-    },
-    {
-      "basename": "Prima Guerra Mondiale",
-      "path": "Storia/Novecento/Prima Guerra Mondiale.md"
-    },
-    {
-      "basename": "Virginia Woolf",
-      "path": "Inglese/Novecento/Virginia Woolf.md"
-    },
-    {
-      "basename": "Impressionismo",
-      "path": "Arte/Impressionismo.md"
-    },
-    {
-      "basename": "Giacomo Leopardi",
-      "path": "Italiano/Ottocento/Giacomo Leopardi.md"
-    },
-    {
-      "basename": "Il primo secolo d.C. (14 - 96)",
-      "path": "Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md"
-    },
-    {
-      "basename": "English and American History (1837-now)",
-      "path": "Inglese/English and American History (1837-now).md"
-    },
-    {
-      "basename": "Romanticismo e idealismo",
-      "path": "Filosofia/Ottocento/Romanticismo e idealismo.md"
-    },
-    {
-      "basename": "Arthur Schopenhauer",
-      "path": "Filosofia/Ottocento/Arthur Schopenhauer.md"
-    },
-    {
-      "basename": "Chimica organica",
-      "path": "Scienze/Chimica organica.md"
-    },
-    {
-      "basename": "Magnetismo",
-      "path": "Fisica/Magnetismo.md"
-    },
-    {
-      "basename": "Art Nouveau",
-      "path": "Arte/Art Nouveau.md"
-    },
-    {
-      "basename": "Elettro-magnetismo",
-      "path": "Fisica/Elettro-magnetismo.md"
-    },
-    {
-      "basename": "Karl Marx",
-      "path": "Filosofia/Ottocento/Karl Marx.md"
-    },
-    {
-      "basename": "Romanticismo letterario",
-      "path": "Italiano/Ottocento/Romanticismo letterario.md"
-    },
-    {
-      "basename": "Gaio Petronio Arbitro",
-      "path": "Latino/Il 1° secolo/Gaio Petronio Arbitro.md"
-    },
-    {
-      "basename": "Bronte sisters",
-      "path": "Inglese/Ottocento/Bronte sisters.md"
-    },
-    {
-      "basename": "Charles Dickens",
-      "path": "Inglese/Ottocento/Charles Dickens.md"
-    },
-    {
-      "basename": "Postimpressionismo",
-      "path": "Arte/Postimpressionismo.md"
-    },
-    {
-      "basename": "Pop Art",
-      "path": "Arte/Pop Art.md"
     }
   ],
   "omittedPaths": [],

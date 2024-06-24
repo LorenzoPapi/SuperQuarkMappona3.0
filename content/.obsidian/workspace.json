@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3d9de98d9e47b50b",
+        "id": "bc5d06756f76b8c8",
         "type": "tabs",
         "children": [
           {
-            "id": "df64ad9d2342300f",
+            "id": "ddaa4b93be6a1040",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
                 "viewState": {
-                  "x": 397,
-                  "y": -880,
-                  "zoom": -1.3933424281795248
+                  "x": 290.9393685531603,
+                  "y": -1054.7828681373605,
+                  "zoom": -1
                 }
               }
             }
@@ -167,10 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df64ad9d2342300f",
+  "active": "ddaa4b93be6a1040",
   "lastOpenFiles": [
     "Mappe/Primo novecento/Primo novecento d'Annunzio.canvas",
+    "Mappe/WW2/WW2 Montale.canvas",
+    "Mappe/WW1/WW1 Ungaretti.canvas",
+    "Mappe/WW2",
+    "Mappe/Romanticismo/Romanticismo ottimista.canvas",
+    "Mappe/Prima guerra mondiale/Untitled.md",
     "Mappe/Primo novecento/Primo novecento Pascoli.canvas",
+    "Mappe/WW1",
+    "Italiano/Ottocento/Romanticismo letterario.md",
     "Mappe/Primo novecento",
     "Mappe/Apogeo della borghesia",
     "Mappe/Romanticismo",
@@ -180,7 +187,6 @@
     "Mappe/Untitled.md",
     "Mappe/Apogeo della borghesia/Progresso positivista borghese.canvas",
     "Mappe/Apogeo della borghesia/Socialismo marxista.canvas",
-    "Mappe/Romanticismo/Romanticismo ottimista.canvas",
     "Fisica/Circuiti elettrici.md",
     "Mappe/Romanticismo/Romanticismo pessimista.canvas",
     "Arte/Avanguardie/Espressionismo.md",
@@ -203,8 +209,6 @@
     "Scienze/Idrocarburi.md",
     "Scienze/Chimica organica.md",
     "Storia/Novecento/Prima Guerra Mondiale.md",
-    "Storia/Novecento/Seconda guerra mondiale.md",
-    "Storia/Novecento/Società di massa.md",
     "Pasted image 20240618190808.png",
     "Pasted image 20240618190710.png",
     "Pasted image 20240618190512.png",
@@ -214,11 +218,8 @@
     "NucleiTematici/Roba da sistemare/LA RESPIRAZIONE CELLULARE.pdf",
     "NucleiTematici/Roba da sistemare/LA GLICOLISI E LE FERMENTAZIONI.pdf",
     "NucleiTematici/Roba da sistemare/LA BIOCHIMICA DEL CORPO UMANO.pdf",
-    "NucleiTematici/Roba da sistemare/IL METABOLISMO CELLULARE.pdf",
-    "NucleiTematici/Roba da sistemare/ENZIMI.pdf",
     "NucleiTematici/Crisi delle certezze.canvas",
     "Untitled.canvas",
-    "Pasted image 20240511192322.png",
-    "Untitled 2.canvas"
+    "Pasted image 20240511192322.png"
   ]
 }

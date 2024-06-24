@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0d5274f3ad62ddea","x":-660,"y":-200,"width":893,"height":480,"type":"group","label":"Secondo novecento"},
+		{"id":"b8fe42e8ab4efab7","x":560,"y":-160,"width":400,"height":400,"type":"file","file":"Italiano/Novecento/Eugenio Montale.md"},
+		{"id":"88e246bcaa251b23","x":-627,"y":-160,"width":400,"height":400,"type":"file","file":"Storia/Novecento/Guerra fredda.md"},
+		{"id":"78076655a42e7f2b","x":-187,"y":-160,"width":400,"height":400,"type":"file","file":"Storia/Novecento/Seconda guerra mondiale.md"}
+	],
+	"edges":[
+		{"id":"1e4d5d4245619650","fromNode":"0d5274f3ad62ddea","fromSide":"right","toNode":"b8fe42e8ab4efab7","toSide":"left","label":"Il poeta è morto"}
+	]
+}

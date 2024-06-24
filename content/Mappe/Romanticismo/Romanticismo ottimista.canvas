@@ -8,15 +8,15 @@
 		{"id":"aac10438568dc3cc","type":"file","file":"Fisica/Magnetismo.md","x":-1520,"y":-130,"width":400,"height":400},
 		{"id":"360ee1385b85e122","type":"file","file":"Scienze/Chimica organica.md","x":-1000,"y":-130,"width":400,"height":400},
 		{"id":"d6a7a33317db20ab","type":"file","file":"Italiano/Ottocento/Giacomo Leopardi.md","x":220,"y":-130,"width":400,"height":400},
+		{"id":"605732863ee4403d","type":"file","file":"Arte/Avanguardie/Dadaismo.md","x":-2200,"y":-1840,"width":400,"height":400},
+		{"id":"5bce46e0b5906ce6","type":"file","file":"Arte/Avanguardie/Futurismo.md","x":-1640,"y":-1840,"width":400,"height":400},
+		{"id":"32193b3f85b8d059","type":"file","file":"Arte/Avanguardie/Metafisica.md","x":-2200,"y":-1320,"width":400,"height":400},
 		{"id":"fb38932a85dd3f6b","type":"file","file":"Inglese/Novecento/Virginia Woolf.md","x":560,"y":-1560,"width":400,"height":400},
 		{"id":"b0dc59b6b96c7142","type":"file","file":"Latino/Il 4° secolo/Aurelio Agostino.md","x":2200,"y":-1600,"width":480,"height":480},
 		{"id":"3ac496eb08d4796b","type":"file","file":"Italiano/Ottocento/Romanticismo letterario.md","x":660,"y":-130,"width":400,"height":400},
 		{"id":"d0cd3cdff4a4b092","type":"file","file":"Filosofia/Ottocento/Romanticismo e idealismo.md","x":2480,"y":-345,"width":400,"height":400},
 		{"id":"31c8c68b9d3a5512","type":"file","file":"Filosofia/Ottocento/Georg Wilhelm Friedrich Hegel.md","x":2020,"y":-345,"width":400,"height":400},
-		{"id":"af99bb1a801345d9","type":"file","file":"Filosofia/Ottocento/Destra e Sinistra hegeliane.md","x":2240,"y":100,"width":400,"height":435},
-		{"id":"605732863ee4403d","type":"file","file":"Arte/Avanguardie/Dadaismo.md","x":-2200,"y":-1840,"width":400,"height":400},
-		{"id":"5bce46e0b5906ce6","type":"file","file":"Arte/Avanguardie/Futurismo.md","x":-1640,"y":-1840,"width":400,"height":400},
-		{"id":"32193b3f85b8d059","type":"file","file":"Arte/Avanguardie/Metafisica.md","x":-2200,"y":-1320,"width":400,"height":400}
+		{"id":"af99bb1a801345d9","type":"file","file":"Filosofia/Ottocento/Destra e Sinistra hegeliane.md","x":2240,"y":100,"width":400,"height":435}
 	],
 	"edges":[
 		{"id":"3c6a890967692c7a","fromNode":"5180d20b6566dd9b","fromSide":"left","toNode":"da72aa8f71a5b8b9","toSide":"right","fromEnd":"arrow","label":"Scienza nell'irrazionalità"},
