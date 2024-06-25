@@ -49,11 +49,11 @@ La composizione è divisa in **tre fasce verticali**, in un'ambientazione **este
 - [[Futurismo]] (frammentazione e simultaneità)
 
 **Latino**:
-- [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (l'orrore della guerra, la narrazione frammentata)
-- [[Il primo secolo d.C. (14 - 96)#Plinio il Vecchio|Plinio il vecchio]] (descrizione frammentata della natura)
+- [[Epica del 1° secolo#Marco Anneo Lucano|Lucano]] (l'orrore della guerra, la narrazione frammentata)
+- [[Primo secolo d.C. (14 - 96)#Plinio il Vecchio|Plinio il vecchio]] (descrizione frammentata della natura)
 
 **Matematica**: i frattali
-**Scienze**: [[Gli acidi nucleici|Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
+**Scienze**: [[Acidi nucleici|Genetica]] (frammentazione e ricostruzione delle sequenze genetiche)
 **Storia**:
 - [[Seconda guerra mondiale#La guerra civile spagnola|Bombardamento di Guernica]]
 - [[Imperialismo]] ??

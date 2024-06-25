@@ -1,5 +1,5 @@
 # Biografia (??? - 66)
-Non si sa molto sull'autore: probabilmente corrisponde ad un **personaggio di spicco della corte neroniana**, costretto poi a **suicidarsi nel 66** per la presunta partecipazione alla **[[Il primo secolo d.C. (14 - 96)#Nerone (54 - 68)|congiura di Pisone]]**. 
+Non si sa molto sull'autore: probabilmente corrisponde ad un **personaggio di spicco della corte neroniana**, costretto poi a **suicidarsi nel 66** per la presunta partecipazione alla **[[Primo secolo d.C. (14 - 96)#Nerone (54 - 68)|congiura di Pisone]]**. 
 
 [[Publio Cornelio Tacito|Tacito]] definisce quest'uomo un ***elegantiae arbiter***: passava le *giornate dormendo* e le *notti dedicate ad affari e piaceri*, acquisendo la sua fama con l'ozio, un'uomo di vita **raffinata**. Anche la sua morte fu *sui generis*: durante una festa, si **recise le vene**, poi se le **rilegò** e di nuovo se le fece **riaprire**, mentre parlava con amici, senza trattare di argomenti gravi: un vero ***[[Oscar Wilde|dandy]]*** della Roma antica.
 # *Satyricon libri* (XXIV libri?)

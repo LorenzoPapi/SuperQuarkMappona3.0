@@ -14,7 +14,7 @@
 		{"id":"a93f5d68ce2c2dbe","type":"file","file":"Inglese/English and American History (1837-now).md","subpath":"#The beginning of Victoria's reign","x":-960,"y":-1080,"width":360,"height":400},
 		{"id":"e94b0b23aea6aefe","type":"file","file":"Inglese/Ottocento/Charles Dickens.md","x":-1520,"y":-1360,"width":400,"height":400},
 		{"id":"2ca9653c715141fb","type":"file","file":"Inglese/Ottocento/Bronte sisters.md","x":-1520,"y":-800,"width":400,"height":400},
-		{"id":"06c2e00bed5945ec","type":"file","file":"Latino/Il 1° secolo/Il primo secolo d.C. (14 - 96).md","subpath":"#Nerone (54 - 68)","x":-1560,"y":-2320,"width":400,"height":400}
+		{"id":"06c2e00bed5945ec","type":"file","file":"Latino/Il 1° secolo/Primo secolo d.C. (14 - 96).md","subpath":"#Nerone (54 - 68)","x":-1560,"y":-2320,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"76fcf350cc13b3c3","fromNode":"d6a7a33317db20ab","fromSide":"bottom","toNode":"69eaf45b6adb421f","toSide":"top","fromEnd":"arrow","label":"Francia = paese borghese"},

@@ -1,21 +1,16 @@
-# Biography
-#### 1854, Dublin
+# Biography (Dublin, 1854 - Paris, 1900)
 Born in Ireland, after attending **Trinity College** he was sent to **Oxford** and gained his **degree in Classics**. After he became a **disciple of Pater’s ideas** he graduated and **moved to London** where he soon became a **fashionable dandy**.
-#### 1881, USA
-After giving **lectures** about **Aestheticism** abroad, he also published the collection ***Poems*** and later **married Constance Lloyd** with whom he had two sons. At this point he was **very popular and known for his wit**. 
-#### 1891
-He published his **only novel**, ***The picture of Dorian Gray***, and further developed interest in **drama**, producing successful comedies. ***The Importance of Being Earnest*** actually **damaged his reputation** because it was considered **immoral**. He also **fell in love with Lord Alfred Douglas**, whose father forced a **trial against Oscar** who was found **guilty of homosexual practices** and sentenced to **two years in prison**.
-#### 1895-1897, Reading Gaol
-While imprisoned, he wrote ***De Profundis*** a letter in which he **wrote reflections about life**.
-#### 1897-1900, Paris
-After being released, he went to France where he spent his life under pseudonym in poverty and published the ***Ballad of Reading Gaol***, dying later of meningitis.
-
+**1881**: after giving **lectures** about **Aestheticism** in the **USA**, he published the collection ***Poems*** and later **married *Constance Lloyd*** with whom he had two sons. At this point he was **very popular and known for his wit**. 
+**1891**: he published his **only novel**, ***The picture of Dorian Gray***, and further developed interest in **drama**, producing successful comedies. ***The Importance of Being Earnest*** actually **damaged his reputation** because it was considered **immoral**. He also **fell in love with *Lord Alfred Douglas***, whose father forced a **trial against Oscar** who was found **guilty of homosexual practices** and sentenced to **two years in prison**.
+**1895-1897**: while imprisoned in the **Reading Gaol**, he wrote ***De Profundis*** a letter in which he **wrote reflections about life**.
+**1897-1900**: after being released, he went to **Paris** where he spent his life under pseudonym in poverty and published the ***Ballad of Reading Gaol***.
+He later died of meningitis.
 # Works
 ## Ideology (*Aestheticism*)
-Traditional Victorian values were **challenged by *Aestheticism*** whose motto was _**“Art for Art’s Sake”**_, implying that art had **nothing to do with morality** and didn’t have to be **didactic**. Aesthetes wanted to **praise the sensuality of art** and the **sensation of pleasure it created**, going against the **ethics** of Victorian values. In literature, **Walter Pater** is regarded as the **main theorist**: he **rejected religion** saying that **only art could stop time** and thought that life had to be lived **in the spirit of art**, filling each moment with **intense experiences**. The artist was the **transcriber of the world’s sense**. His work influenced **Oscar Wilde** who claimed that **life imitates art**, presenting himself as a **dandy figure** whose life was **“a work of art”**.
+Traditional Victorian values were **challenged by *Aestheticism*** whose motto was ***Art for Art’s Sake***, implying that art had **nothing to do with morality** and didn’t have to be **didactic**. Aesthetes wanted to **praise the sensuality of art** and the **sensation of pleasure it created**, going against the **ethics** of Victorian values. In literature, **Walter Pater** is regarded as the **main theorist**: he **rejected religion** saying that **only art could stop time** and thought that life had to be lived **in the spirit of art**, filling each moment with **intense experiences**. The artist was the **transcriber of the world’s sense**. His work influenced ***Oscar Wilde*** who claimed that **life imitates art**, presenting himself as a **dandy figure** whose life was ***a work of art***.
 ## The picture of Dorian Gray
 ### Plot
-Dorian is a **beautiful young man** who fascinates the painter **Basil Hallward**, at the point where he decides to **paint his portrait**. Under the influence of **brilliant Lord Henry Wotton**, Dorian **throws himself** in a life of pleasure, having **everything he wants**, including eternal youth. The **signs of age** do not appear on his body but **on the portrait**. He **uses everyone**, letting **people die** all for his own desires. When the painter sees the **corrupted image** of the painting, **Dorian kills him**, but later he wants to **free himself** from the curse and **stabs the painting**. In doing so he **kills himself** and at the very moment of his death the **picture returns to its purity** while his face becomes **“withered and wrinkled”**.
+Dorian is a **beautiful young man** who fascinates the painter **Basil Hallward**, at the point where he decides to **paint his portrait**. Under the influence of **brilliant Lord Henry Wotton**, Dorian **throws himself** in a life of pleasure, having **everything he wants**, including eternal youth. The **signs of age** do not appear on his body but **on the portrait**. He **uses everyone**, letting **people die** all for his own desires. When the painter sees the **corrupted image** of the painting, **Dorian kills him**, but later he wants to **free himself** from the curse and **stabs the painting**. In doing so he **kills himself** and at the very moment of his death the **picture returns to its purity** while his face becomes ***withered and wrinkled***.
 ### Meaning
 The main characters are symbols of certain values:
 - Dorian is the **ideal of youth**, **beauty** and **innocence** who are **immortalized by art**: morally, he’s neither black nor white, but **Gray**, living a life of **pleasure** but in the end **ruining himself.**

@@ -15,7 +15,7 @@ Some of his novels are **autobiographical** and its protagonists became symbols 
 - ***David Copperfield*** (**1850**): partial **autobiographic novel** which consists of the turning point from **youth** to **maturity**.
 ## Ideology
 The most used setting is **London**, symbol of **spiritual and material corruption** caused by the strong impact of **industrialisation**. The characters, mostly from the **lower classes** are **caricatures who live immortally** and Dickens always sided with the **poor**; **children** often play the most important roles. The didactic aim was to **make ruling classes aware of the social problems** without offending them. Through the use of **graphic** and **powerful description** he achieves to fully immerge the reader in the book’s atmosphere.
-## Oliver Twist
+## *Oliver Twist*
 ### Plot
 Oliver is a poor **orphan** who is brought up in a **workhouse** and later sold to an **undertaker** as an apprentice, but the **cruelty** he experienced caused him to **run away** to London. He there falls into the hands of a **criminal gang** led by **Artful** **Dodger** and **Fagin** who try to make him a thief; one day he witnesses a theft to **Mr Brownlow** who, stricken by **Oliver’s ragged appearance**, decides to **take him** to his home. Oliver is then **kidnapped** and forced to **commit a crime**, where he’s shot and wounded; at last he is **adopted by Brownlow** who gives him **kindness** and affection. Investigations are made about Oliver and it’s discovered he has **noble origins**; the gang leaders, paid by **Oliver’s half-brother** to ruin Oliver and have all his father’s property for himself are **arrested**. 
 ### Settings and themes

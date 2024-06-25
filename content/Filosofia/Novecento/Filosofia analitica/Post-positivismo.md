@@ -7,7 +7,7 @@ L'espressione ***epistemologia post-positivistica*** si intende una filosofia ch
 - la **negazione del presunto metodo fisso**
 - il **rifiuto del mito della ragione** e il **ridimensionamento del valore gnoseologico della scienza**
 - la considerazione di **teorie come *consenso*, non *verità***
-- la **contestazione dell'epistemologia tradizionale**
+- la **contestazione dell'epistemologia tradizionale**.
 # Kuhn
 Autore de ***La struttura delle rivoluzioni scientifiche*** (**1962**) elabora un'epistemologia secondo la quale le **nuove dottrine** non sorgono né dalla *verificazione* né dalla *falsificazione*, ma semplicemente dalla **sostituzione del modello vigente con uno nuovo**.
 
@@ -20,8 +20,8 @@ Di conseguenza, i vari *paradigmi* della storia rimandano a **quadri concettuali
 L'epistemologia di Kuhn è stata accusata di ***irrazionalismo*** e ***misticismo***: i suoi critici (*Lakatos* e *Popper*) sostengono che Kuhn trasforma la **rivoluzione scientifica in *questione di psicologia di massa***. Negli anni successivi, cercò di articolare meglio la dottrina parlando di ***alcuni criteri*** per la scelta di **teorie rivali** come l'***incomunicabilità* della teoria** e la ***comunicabilità* dei risultati tecnici**: inoltre sostituisce sostituito al *paradigma* la ***matrice disciplinare*** (oggetti di vario tipo che richiede *ulteriore specificazione* proposta dagli *esperti* di una disciplina). L'epistemologia sfocia dunque in una **prospettiva strumentalistica** per la quale l'***oggettività della conoscenza scientifica si rivela come intersoggettività*** nel senso che le *procedure* e gli *strumenti* sono adottati di ***comune accordo***: l'oggettività scientifica non è ***ontologica*** ma ***pragmatica***.
 # Quine
 Nell'articolo ***I due dogmi dell'empirismo logico***, identifica i due presupposti fondamentali del neopositivismo, criticandoli:
-- **analiticità**: credenza che **accanto alle verità sintetiche sussistano quelle analitiche**
-- **riduzionismo**: convinzione che **ogni proposizione vera è tale per la sua relazione con l'esperienza** e dunque che a questa possa **essere ridotta**
+- ***Analiticità***: credenza che **accanto alle verità sintetiche sussistano quelle analitiche**.
+- ***Riduzionismo***: convinzione che **ogni proposizione vera è tale per la sua relazione con l'esperienza** e dunque che a questa possa **essere ridotta**.
 ## Critica all'analiticità (relativismo ontologico)
 Rileva le **difficoltà con il *significato*** che sorgono cercando di darne una definizione: la teoria del ***significato*** è molto più *oscura* di quella del ***riferimento***. Infatti, per spiegare il *significato* di un termine, usiamo **sinonimi** (traduzioni): 
 la tautologia *nessun uomo non sposato è sposato* può essere riscritta sostituendo a *uomo non sposato* il termine *scapolo* usando la ***sinonimia*** ottenendo una verità ***analitica non logica*** perché dipende dal linguaggio. Se per spiegare cosa *è* la sinonimia utilizzo il termine *significato*, cado in un **circolo vizioso**: dunque, **analiticità, sinonimia, significato** sono interconnesse e definire una porta al ricorso alle altre. È **impossibile la dualità delle verità** ed è **impossibile stabilire per ogni proposizione da cosa dipenda** (linguaggio o esperienza).

@@ -23,7 +23,7 @@ La **Spagna** si presentava come una realtà **composita**:
 - **economica**: convivevano **capitalismo industriale** ed **economia rurale**.
 - **sociale**: la differenza di industrializzazione portava a **scontri sociali**.
 ### 1923 - 1931: la *dittatura di Rivera*
-Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla [[Grande depressione|crisi del 1929]]** creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
+Nel primo dopoguerra, il capitano ***Miguel primo de Rivera***, con il consenso del sovrano, decise di **esautorare il Parlamento** ed instaurare una ***dittatura militare*** che però, **indebolita dalla [[Crisi del 1929|crisi del 1929]]** creò un **grande malcontento sociale** e rafforzò le opposizioni, portando a nuove **elezioni**.
 ### 1932 - 1933: il *biennio rosso*
 La vittoria dei **repubblicani** mise al capo del governo ***Manuel Azana*** che inaugurò molti **provvedimenti sociali** (riforma agraria, confisca dei beni della Corona) e fece varie **concessioni agli indipendentisti**. Fu osteggiato dai **conservatori** che si ricompattarono.
 ### 1934 - 1935: il *biennio nigro*

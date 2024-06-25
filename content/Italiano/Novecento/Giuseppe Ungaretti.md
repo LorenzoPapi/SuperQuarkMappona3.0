@@ -272,7 +272,7 @@ Comprende le poesie del periodo successivo alla *Terra promessa* ed è evidente 
 **Filosofia**: [[Henri Bergson]] (tempo e durata)
 **Fisica**: [[Teoria della relatività]] (dilatazione del tempo?)
 **Inglese**: [[War Poets]] (esperienza prima guerra mondiale)
-**Latino**: [[L'epica del 1° secolo#Marco Anneo Lucano|Lucano]] (la crudeltà della guerra)
+**Latino**: [[Epica del 1° secolo#Marco Anneo Lucano|Lucano]] (la crudeltà della guerra)
 **Matematica**:
 **Scienze**: Il gas mostarda??
 **Storia**: [[Prima Guerra Mondiale]] (Allegria), [[Fascismo]] (rapporto intellettuale-regime), [[Seconda guerra mondiale]] (Il dolore)
